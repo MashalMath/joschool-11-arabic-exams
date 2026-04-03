@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'At the turn of the 20th century, bottles were found which had been sent by people who were travelling on board the Titanic.' — When were the Titanic bottles found?",
+    "choices": [
+      "In the 19th century",
+      "In the 21st century",
+      "In the late 20th century",
+      "At the turn of the 20th century"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "They __________ friends since they were children — over twenty years now.",
+    "choices": [
+      "are",
+      "have been",
+      "had been",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'Consequently, the government plans to set up regulations to address these dangers.' — The word 'consequently' is used to show:",
+    "choices": [
+      "A time reference",
+      "A definition",
+      "A result or consequence",
+      "A contrast"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which phrase shows that you feel RELIEVED about something?",
+    "choices": [
+      "I can breathe a sigh of relief now.",
+      "I've had it up to here.",
+      "I'm heartbroken.",
+      "You've got to be kidding me!"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "I'll write it down so you can __________ it on to her office later.",
+    "choices": [
+      "maintain",
+      "establish",
+      "lose",
+      "pass"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'AI search engines do not always use reliable sources and so information provided by AI might be incomplete or even wrong.' — The word 'reliable' means:",
+    "choices": [
+      "Free and available",
+      "Interesting and creative",
+      "Trustworthy and accurate",
+      "Fast and modern"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The mother was absolutely __________ when she found out her son had lied to her.",
+    "choices": [
+      "tense",
+      "livid",
+      "terrified",
+      "astonished"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "He's __________ that someone will find out his secret one day.",
+    "choices": [
+      "ecstatic",
+      "astonished",
+      "terrified",
+      "thrilled"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Without a doubt there are some challenges, but there are also examples of when the Internet has changed someone's life for the better.' — What does this sentence show?",
+    "choices": [
+      "The author presents both problems and benefits of the Internet",
+      "The Internet only helps communication",
+      "The Internet is always bad",
+      "The Internet has no challenges"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 10,
+    "question": "By 2000, many people __________ computers in their daily lives.",
+    "choices": [
+      "have used",
+      "were using",
+      "used",
+      "had used"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'the government plans to set up regulations to address these dangers and strictly control how it is used.' — What does the government plan to do about AI?",
+    "choices": [
+      "Ignore the dangers of AI",
+      "Set up regulations to control its use",
+      "Ban AI completely",
+      "Promote AI without restrictions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "She didn't __________ the new city at first, but grew to love it eventually.",
+    "choices": [
+      "pay a compliment",
+      "strike up",
+      "come across as",
+      "take to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "The satellite dish couldn't __________ any signal during the heavy storm.",
+    "choices": [
+      "take in",
+      "wipe out",
+      "pick up",
+      "come across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The teacher __________ three errors in her experiment report very clearly.",
+    "choices": [
+      "pointed out",
+      "picked up",
+      "wiped out",
+      "came across"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "She __________ her essay twice before she was happy with it.",
+    "choices": [
+      "has rewritten",
+      "rewrote",
+      "was rewriting",
+      "had rewritten"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "Read: 'Although it might make many aspects of life easier, it could also make things worse.' — The word 'although' is used to show:",
+    "choices": [
+      "A definition",
+      "A time sequence",
+      "A contrast between two ideas",
+      "A result"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Enas __________ the windows before the sandstorm started to blow.",
+    "choices": [
+      "close",
+      "has closed",
+      "closed",
+      "had closed"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'She saw that different groups of chimpanzees had battles in which they tried to wipe out the rival group.' — The phrasal verb 'wipe out' means:",
+    "choices": [
+      "destroy completely",
+      "help fully",
+      "take in",
+      "communicate with"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "I __________ my homework before I went to bed last night.",
+    "choices": [
+      "was doing",
+      "have done",
+      "had done",
+      "did"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'She went with her mother to the shores of Lake Tanganyika in Tanzania to start her new job.' — Where did Jane start her new job?",
+    "choices": [
+      "At Lake Tanganyika in Tanzania",
+      "At Gombe Stream in Kenya",
+      "In a zoo in Africa",
+      "In a laboratory in London"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "As Omar __________ home last night, someone stole his bicycle.",
+    "choices": [
+      "walked",
+      "had walked",
+      "was walking",
+      "has walked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "I don't want to lose __________ with my old friends after we graduate.",
+    "choices": [
+      "the message",
+      "touch",
+      "a signal",
+      "a contact"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Even after fifty years apart, the two old friends managed to __________ touch.",
+    "choices": [
+      "deliver",
+      "maintain",
+      "lose",
+      "carry"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "She __________ in a flat in Amman temporarily while she looks for a permanent home.",
+    "choices": [
+      "lived",
+      "has lived",
+      "is living",
+      "lives"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "He __________ that I had made some basic spelling mistakes in my essay.",
+    "choices": [
+      "got across",
+      "brought about",
+      "took in",
+      "pointed out"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "I __________ Malek every day, but I can't get through — his phone must be off.",
+    "choices": [
+      "have called",
+      "am calling",
+      "call",
+      "called"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "This is a very difficult question for everyone, __________?",
+    "choices": [
+      "isn't it?",
+      "is it?",
+      "is this?",
+      "isn't this?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Read: 'her studies showed her that the chimpanzees could clearly communicate, allowing them to groom and help each other, share food as well as have arguments.' — Name TWO things chimpanzee communication allows them to do.",
+    "choices": [
+      "Write messages and read symbols",
+      "Speak human language and make tools",
+      "Groom each other and share food",
+      "Build shelters and grow food"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "He __________ the bill when he received a payment reminder.",
+    "choices": [
+      "had already paid",
+      "was paying",
+      "has already paid",
+      "paid"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Internet __________ changed the way people communicate forever.",
+    "choices": [
+      "has",
+      "is",
+      "have",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "Be careful not to __________ as rude when you correct someone's mistake.",
+    "choices": [
+      "hit it off",
+      "take to",
+      "strike up",
+      "come across"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "Which phrase would you use to express that you feel SAD?",
+    "choices": [
+      "You've got to be kidding me!",
+      "I'm walking on air!",
+      "I can breathe a sigh of relief.",
+      "I'm feeling a bit down in the dumps."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "The chairperson spoke non-stop, so the audience couldn't __________ edgeways.",
+    "choices": [
+      "get a word in",
+      "put someone on the spot",
+      "jump down someone's throat",
+      "fire questions"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "A: 'I met a really interesting person at the conference.' B: '__________ ? Tell me more.'",
+    "choices": [
+      "Were you?",
+      "Did you?",
+      "Have you?",
+      "Had you?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'Children themselves might find they are relying on a form of technology that in its present form should not always be trusted.' — What is the writer warning about?",
+    "choices": [
+      "Technology is always reliable",
+      "Children should not use computers at all",
+      "Children may depend on untrustworthy technology",
+      "AI is only for adults"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "I am going to pass the exam this time, __________?",
+    "choices": [
+      "amn't I?",
+      "aren't I?",
+      "don't I?",
+      "am I?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "I borrowed four books the last time I __________ to the library.",
+    "choices": [
+      "have gone",
+      "go",
+      "had gone",
+      "went"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "You will be on time for the presentation, __________?",
+    "choices": [
+      "won't you?",
+      "aren't you?",
+      "will you?",
+      "don't you?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Perhaps this is what inspired her to go to Africa.' — The word 'Perhaps' indicates:",
+    "choices": [
+      "A command",
+      "Uncertainty or possibility",
+      "Complete certainty",
+      "A proven fact"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The two countries agreed to __________ regular contact through their embassies.",
+    "choices": [
+      "carry",
+      "maintain",
+      "deliver",
+      "lose"
+    ],
+    "correct_answer": "b"
+  }
+]

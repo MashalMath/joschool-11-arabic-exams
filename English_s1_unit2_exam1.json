@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "80 percent of the energy we consume is provided by ________ which pollute the atmosphere.",
+    "choices": ["acid rain", "fossil fuels", "soil erosion", "toxic waste"],
+    "correct_answer": "fossil fuels"
+  },
+  {
+    "number": 2,
+    "question": "Deforestation causes ________ because tree roots are no longer in place to bind the earth together.",
+    "choices": ["ozone layer", "soil erosion", "wind turbine", "exhaust fumes"],
+    "correct_answer": "soil erosion"
+  },
+  {
+    "number": 3,
+    "question": "It is claimed that ________ from cars kill twice as many people as accidents caused by vehicles.",
+    "choices": ["acid rain", "water scarcity", "exhaust fumes", "habitat loss"],
+    "correct_answer": "exhaust fumes"
+  },
+  {
+    "number": 4,
+    "question": "Up to 300 homes can be powered by one ________ using renewable energy.",
+    "choices": ["greenhouse gas", "ozone layer", "wind turbine", "fossil fuel"],
+    "correct_answer": "wind turbine"
+  },
+  {
+    "number": 5,
+    "question": "________ is the greatest threat to species which are close to extinction.",
+    "choices": ["Acid rain", "Water scarcity", "Wind turbine", "Habitat loss"],
+    "correct_answer": "Habitat loss"
+  },
+  {
+    "number": 6,
+    "question": "For safety reasons, ________ must be stored in sealed containers underground.",
+    "choices": ["vehicle emissions", "toxic waste", "water scarcity", "ozone layer"],
+    "correct_answer": "toxic waste"
+  },
+  {
+    "number": 7,
+    "question": "________ damages buildings, forests, and kills fish.",
+    "choices": ["Fossil fuels", "Habitat loss", "Acid rain", "Soil erosion"],
+    "correct_answer": "Acid rain"
+  },
+  {
+    "number": 8,
+    "question": "Power produced by wind, sun, etc. is called ________.",
+    "choices": ["global warming", "exhaust fumes", "renewable energy", "water scarcity"],
+    "correct_answer": "renewable energy"
+  },
+  {
+    "number": 9,
+    "question": "Part of the stratosphere which limits the amount of ultraviolet radiation reaching the Earth is the ________.",
+    "choices": ["greenhouse gas", "habitat loss", "acid rain", "ozone layer"],
+    "correct_answer": "ozone layer"
+  },
+  {
+    "number": 10,
+    "question": "Lack of water is described as water ________.",
+    "choices": ["erosion", "scarcity", "turbine", "emission"],
+    "correct_answer": "scarcity"
+  },
+  {
+    "number": 11,
+    "question": "Which weather collocation means 'extremely hot temperatures'?",
+    "choices": ["torrential heat", "gale-force heat", "blistering heat", "freak heat"],
+    "correct_answer": "blistering heat"
+  },
+  {
+    "number": 12,
+    "question": "________ rain means very heavy, fast-falling rain.",
+    "choices": ["Freak", "Acid", "Torrential", "Sub-zero"],
+    "correct_answer": "Torrential"
+  },
+  {
+    "number": 13,
+    "question": "Which phrase means 'very strong winds'?",
+    "choices": ["soaring winds", "gale-force winds", "sub-zero winds", "heavy winds"],
+    "correct_answer": "gale-force winds"
+  },
+  {
+    "number": 14,
+    "question": "The text says 'Technology is also making our lives easier and safer, and this trend is ________ to continue.'",
+    "choices": ["likely", "unlikely", "bound", "sure"],
+    "correct_answer": "bound"
+  },
+  {
+    "number": 15,
+    "question": "According to 'The Future's Bright' text, crime has been ________ steadily in many countries.",
+    "choices": ["rising", "dropping", "stabilising", "increasing"],
+    "correct_answer": "dropping"
+  },
+  {
+    "number": 16,
+    "question": "In the 'Future's Terrifying' text, advances in ________ and artificial intelligence will eliminate semi-skilled jobs.",
+    "choices": ["chemistry", "medicine", "robotics", "genetics"],
+    "correct_answer": "robotics"
+  },
+  {
+    "number": 17,
+    "question": "By 2050, young people ________ trying, and failing, to get a job for most of their working lives.",
+    "choices": ["will be", "will have been", "are going to be", "will have"],
+    "correct_answer": "will have been"
+  },
+  {
+    "number": 18,
+    "question": "Global warming is certain to lead to more water ________.",
+    "choices": ["floods", "shortages", "pollution", "turbines"],
+    "correct_answer": "shortages"
+  },
+  {
+    "number": 19,
+    "question": "Which future form is used for a prediction based on evidence you have now?",
+    "choices": ["will + infinitive", "be going to + infinitive", "Future Perfect", "Future Continuous"],
+    "correct_answer": "be going to + infinitive"
+  },
+  {
+    "number": 20,
+    "question": "The Future Continuous form is: Subject + ________.",
+    "choices": ["will + have + V3", "will + be + Ving", "will + have + been + Ving", "be + going to + Vinf"],
+    "correct_answer": "will + be + Ving"
+  },
+  {
+    "number": 21,
+    "question": "Which sentence uses Future Perfect correctly?",
+    "choices": ["She will be working by 9.", "She will have finished by 9.", "She is going to finish by 9.", "She will finish by 9."],
+    "correct_answer": "She will have finished by 9."
+  },
+  {
+    "number": 22,
+    "question": "Animals without a backbone are called ________.",
+    "choices": ["mammals", "reptiles", "invertebrates", "crustaceans"],
+    "correct_answer": "invertebrates"
+  },
+  {
+    "number": 23,
+    "question": "The blobfish lives deep in the ocean and has tiny fins and no ________ to survive the pressure.",
+    "choices": ["scales", "skeleton", "backbone", "fins"],
+    "correct_answer": "skeleton"
+  },
+  {
+    "number": 24,
+    "question": "The pangolin is unique among mammals because it is covered in ________, like a reptile.",
+    "choices": ["fur", "scales", "feathers", "skin"],
+    "correct_answer": "scales"
+  },
+  {
+    "number": 25,
+    "question": "The aye-aye is the world's largest ________ primate.",
+    "choices": ["marine", "solitary", "nocturnal", "cuddly"],
+    "correct_answer": "nocturnal"
+  },
+  {
+    "number": 26,
+    "question": "Someone who illegally catches animals is called a ________.",
+    "choices": ["hunter", "poacher", "ranger", "predator"],
+    "correct_answer": "poacher"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'I'm torn between this design and that one.' This expression means the speaker is ________.",
+    "choices": ["agreeing with both options", "unable to decide between two choices", "disagreeing with both options", "reaching a final decision"],
+    "correct_answer": "unable to decide between two choices"
+  },
+  {
+    "number": 28,
+    "question": "'You're spot on!' is used to express ________.",
+    "choices": ["disagreement", "indecision", "agreement", "confusion"],
+    "correct_answer": "agreement"
+  },
+  {
+    "number": 29,
+    "question": "'It doesn't grab me.' means ________.",
+    "choices": ["I strongly agree", "it does not attract my attention", "I cannot decide", "I am very interested"],
+    "correct_answer": "it does not attract my attention"
+  },
+  {
+    "number": 30,
+    "question": "In a formal email, if you don't know the person's name, you start with ________.",
+    "choices": ["Dear Mr Haddad", "Dear Friend", "Dear Sir or Madam", "Hello"],
+    "correct_answer": "Dear Sir or Madam"
+  },
+  {
+    "number": 31,
+    "question": "If you start a formal letter with 'Dear Sir or Madam', you end it with ________.",
+    "choices": ["Yours sincerely", "Best regards", "Yours faithfully", "Kind regards"],
+    "correct_answer": "Yours faithfully"
+  },
+  {
+    "number": 32,
+    "question": "In a formal email, instead of 'cut down on', you should use ________.",
+    "choices": ["eliminate", "reduce", "remove", "stop"],
+    "correct_answer": "reduce"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'Invertebrates make up over 90% of all the creatures on Earth, but get only a tiny percentage of the money available to protect our wildlife.' Why do invertebrates receive little funding?",
+    "choices": ["They are too dangerous to study.", "They are not threatened by extinction.", "They are less well-known or exciting to researchers.", "They do not need protection."],
+    "correct_answer": "They are less well-known or exciting to researchers."
+  },
+  {
+    "number": 34,
+    "question": "Which phrase expresses that something is about to happen very soon?",
+    "choices": ["be due to + inf", "be planning to + inf", "be about to + inf", "be hoping to + inf"],
+    "correct_answer": "be about to + inf"
+  },
+  {
+    "number": 35,
+    "question": "'The concert is ________ begin at 8 p.m.' — This is a timetabled event.",
+    "choices": ["about to", "due to", "hoping to", "planning to"],
+    "correct_answer": "due to"
+  },
+  {
+    "number": 36,
+    "question": "Which is correct for formal writing conventions?",
+    "choices": ["Use 'I'm writing' not 'I am writing'", "Use contractions freely", "Use 'I am writing' not 'I'm writing'", "Use phrasal verbs whenever possible"],
+    "correct_answer": "Use 'I am writing' not 'I'm writing'"
+  },
+  {
+    "number": 37,
+    "question": "Driverless cars are ________ to reduce the number of road accidents. (almost certainly)",
+    "choices": ["unlikely", "bound", "sure", "about"],
+    "correct_answer": "sure"
+  },
+  {
+    "number": 38,
+    "question": "Blue whales are ________ animals, preferring to travel alone or in small groups.",
+    "choices": ["nocturnal", "marine", "solitary", "cuddly"],
+    "correct_answer": "solitary"
+  },
+  {
+    "number": 39,
+    "question": "Global warming has ________ rise to freak weather in many parts of the world.",
+    "choices": ["given", "taken", "made", "brought"],
+    "correct_answer": "given"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'As a result of better medicine, people are likely to live until the age of 100.' Which cause-and-effect phrase could replace 'As a result of'?",
+    "choices": ["Due to", "Give rise to", "Result in", "Lead to"],
+    "correct_answer": "Due to"
+  }
+]

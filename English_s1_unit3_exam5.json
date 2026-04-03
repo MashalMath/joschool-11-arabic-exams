@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to react to something as if it is much worse than it actually is'?",
+    "choices": [
+      "make a fuss of somebody",
+      "blow things out of proportion",
+      "tell somebody off",
+      "show off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "He _____ always forget his keys. (typical, characteristic behaviour — present)",
+    "choices": [
+      "used to",
+      "was",
+      "will",
+      "were"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which word means 'to view someone with great disrespect'?",
+    "choices": [
+      "admire",
+      "idolise",
+      "despise",
+      "look up to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'Increasingly, parents are seeking a greater work-life balance.' What does 'work-life balance' refer to?",
+    "choices": [
+      "working as many hours as possible",
+      "balancing time between professional work and personal life",
+      "choosing between a career and having children",
+      "using technology to work from home"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "I _____ live near the beach when I was young. (past state — no longer true)",
+    "choices": [
+      "would",
+      "am",
+      "will",
+      "used to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Which adjective describes someone who 'has a very positive but perhaps unrealistic view of the world'?",
+    "choices": [
+      "conceited",
+      "idealistic",
+      "defensive",
+      "pushy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "The house _____ we just walked past belongs to my grandfather. (defining)",
+    "choices": [
+      "who",
+      "whose",
+      "where",
+      "which"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to harbour a deep sense of hatred towards someone'?",
+    "choices": [
+      "admire",
+      "loathe",
+      "look up to",
+      "set a good example"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'At the end of the story, Monks gives Oliver the money that is owed to him and leaves the country. Oliver is adopted by Mr Brownlow.' What does the ending tell us about Mr Brownlow?",
+    "choices": [
+      "that he is a cruel and selfish man",
+      "that he is a kind and generous man",
+      "that he is a dishonest man",
+      "that he is very poor"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Which relative pronoun is used for places?",
+    "choices": [
+      "who",
+      "whose",
+      "which",
+      "where"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Which word describes 'a person whose job is to look after a house'?",
+    "choices": [
+      "orphan",
+      "housekeeper",
+      "sibling",
+      "workhouse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "She _____ been constantly arriving late and didn't seem interested in her work.",
+    "choices": [
+      "is",
+      "was",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Which linking word in an opinion essay signals a CONTRASTING idea?",
+    "choices": [
+      "In addition",
+      "Therefore",
+      "Nevertheless",
+      "Furthermore"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Rewrite using a participle clause: 'Users who are used to the old system may find the new one confusing.'",
+    "choices": [
+      "Users used to the old system may find the new one confusing.",
+      "Users using to the old system may find the new one confusing.",
+      "Users which used to the old system may find the new one confusing.",
+      "Users who using the old system may find the new one confusing."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to speak to someone angrily about something wrong they have done'?",
+    "choices": [
+      "wind somebody up",
+      "make a fuss of somebody",
+      "show off",
+      "tell somebody off"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "She is _____ about the environment and thinks we should all help stop climate change.",
+    "choices": [
+      "conceited",
+      "modest",
+      "passionate",
+      "hypocritical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'People sometimes think that stressful or upsetting events shape us negatively, and joyful events have a positive effect, but to my mind, the opposite can also be true.' Is this a fact or an opinion?",
+    "choices": [
+      "a fact because it uses 'sometimes'",
+      "a fact because it is based on research",
+      "an opinion because of the phrase 'to my mind'",
+      "an opinion because it mentions joyful events"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "What does 'gathered together' mean in the context of Oliver Twist?",
+    "choices": [
+      "ran away from each other",
+      "came together in one place",
+      "argued with each other",
+      "shared food with each other"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which adjective means 'showing great skill and ability'?",
+    "choices": [
+      "immature",
+      "bigoted",
+      "capable",
+      "defensive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "My best friend, _____ I was usually talking to, used to get fed up with me whispering.",
+    "choices": [
+      "that",
+      "which",
+      "who",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "He _____ always be the first one to arrive at school. (typical repeated past behaviour — action)",
+    "choices": [
+      "used to",
+      "would",
+      "is",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase means 'to behave so as to set a positive example for others'?",
+    "choices": [
+      "put somebody on a pedestal",
+      "set a good example",
+      "follow in somebody's footsteps",
+      "find somebody inspirational"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Around 50% of children in Jordan can access the internet.' Is this a fact or an opinion?",
+    "choices": [
+      "an opinion because it talks about children",
+      "a fact because it is a verifiable statistic",
+      "an opinion because it uses 'around'",
+      "a fact because it mentions Jordan"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The company _____ I work has very strict rules.",
+    "choices": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to have a deep disagreement with a sibling'?",
+    "choices": [
+      "a row with your best friend",
+      "a clash between you and a sibling",
+      "flunking an important exam",
+      "a newborn baby in the family"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "He's quite charming. This means he:",
+    "choices": [
+      "is very aggressive and unfriendly",
+      "has a very attractive and pleasant personality",
+      "is very selfish and conceited",
+      "never listens to others"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "In 'This is a bit of a sweeping statement, but younger people often take offence easily', this phrase is used to:",
+    "choices": [
+      "express strong certainty",
+      "acknowledge that the speaker may be generalising",
+      "give a specific fact",
+      "introduce the conclusion of an essay"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "What does 'beg' mean in the context of Oliver Twist?",
+    "choices": [
+      "to cook food for others",
+      "to ask strangers for money or food",
+      "to steal from shops",
+      "to work very hard"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Rewrite: 'Sami lives round the corner. I play football with him.' (Use relative clause)",
+    "choices": [
+      "Sami, which I play football with, lives round the corner.",
+      "Sami, who I play football with, lives round the corner.",
+      "Sami, whose I play football with, lives round the corner.",
+      "Sami, where I play football with, lives round the corner."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Oliver was sad to leave the other orphans.' An orphan is:",
+    "choices": [
+      "a person whose job is to look after children",
+      "a child whose parents have died",
+      "a child who runs away from home",
+      "a person who works in a workhouse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "She _____ always the one who made people laugh. (past habit — now changed)",
+    "choices": [
+      "is",
+      "were",
+      "used to be",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Which adjective describes someone who is 'very good at a task and highly skilled'?",
+    "choices": [
+      "bigoted",
+      "pushy",
+      "capable",
+      "immature"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Nasser says he's worried about climate change, but he drives everywhere and goes on holiday by plane twice a year. He's _____.",
+    "choices": [
+      "conceited",
+      "compassionate",
+      "charming",
+      "hypocritical"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Read the opinion essay. The phrase 'I would argue that families generally remain as close as they ever were' is an example of:",
+    "choices": [
+      "an impersonal view",
+      "a statistic",
+      "a personal opinion",
+      "a definition"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In which sentence can you omit the relative pronoun without affecting the meaning?",
+    "choices": [
+      "The house which was built in 1800 is historic.",
+      "My grandfather, who I admire greatly, is 90.",
+      "This is the app that you can keep in your pocket.",
+      "Amman, which is the capital, is beautiful."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "What does 'make ends meet' mean?",
+    "choices": [
+      "to earn a great deal of money",
+      "to have just enough money to buy what you need",
+      "to waste money unnecessarily",
+      "to lend money to others"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "She _____ forever losing her phone when she was a teenager.",
+    "choices": [
+      "is",
+      "was",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which phrase means 'a person who is a model of excellent behaviour'?",
+    "choices": [
+      "a bad influence on somebody",
+      "a good/shining example of",
+      "look down on",
+      "put somebody on a pedestal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "The man, _____ won the prize, is my neighbour.",
+    "choices": [
+      "that",
+      "which",
+      "whose",
+      "who"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Which phrase means 'to admire someone so much that you treat them as if they are perfect and can do no wrong'?",
+    "choices": [
+      "follow in somebody's footsteps",
+      "put somebody on a pedestal",
+      "set a good example",
+      "find somebody inspirational"
+    ],
+    "correct_answer": "b"
+  }
+]

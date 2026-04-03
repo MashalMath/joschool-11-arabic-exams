@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Open the window for me please, __________ you?",
+    "choices": [
+      "will",
+      "don't",
+      "aren't",
+      "won't"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "In an analytical essay, each paragraph should begin with a __________.",
+    "choices": [
+      "quotation",
+      "topic sentence",
+      "conclusion",
+      "statistic"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "The young child was __________ by the loud thunder and hid under the bed.",
+    "choices": [
+      "livid",
+      "exasperated",
+      "astonished",
+      "terrified"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "The criminal __________ on the train when the police were informed by telegram.",
+    "choices": [
+      "was escaping",
+      "had escaped",
+      "escaped",
+      "escapes"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "My brother __________ a bear an hour ago while hiking in the forest.",
+    "choices": [
+      "saw",
+      "has seen",
+      "seen",
+      "sees"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "A: 'Reem was wearing some beautiful shoes.' B: '__________ ? She always looks stylish.'",
+    "choices": [
+      "Did she?",
+      "Was she?",
+      "Is she?",
+      "Were she?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "After moving abroad, they found it hard to __________ in touch with family.",
+    "choices": [
+      "lose",
+      "deliver",
+      "pass",
+      "stay"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Can you help me __________ why my phone keeps turning off randomly?",
+    "choices": [
+      "point out",
+      "figure out",
+      "take in",
+      "come across"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Jordan is hoping __________ use AI sensibly in the coming years.",
+    "choices": [
+      "on",
+      "with",
+      "about",
+      "to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Read: 'How could a young English woman with no scientific training possibly make contact with a group of wild chimpanzees?' — This sentence is:",
+    "choices": [
+      "A command to the reader",
+      "A rhetorical question expressing wonder",
+      "A statement of fact",
+      "A definition of chimpanzees"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "She __________ three languages — Arabic, English and French.",
+    "choices": [
+      "is speaking",
+      "speaks",
+      "has spoken",
+      "spoke"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "She was completely __________ when she saw her name at the top of the results list.",
+    "choices": [
+      "devastated",
+      "tense",
+      "astonished",
+      "livid"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "We __________ never eaten Japanese food before — this is our first time.",
+    "choices": [
+      "had",
+      "have",
+      "are",
+      "has"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "A: 'It's my birthday tomorrow!' B: '__________ ? How are you going to celebrate?'",
+    "choices": [
+      "Isn't it?",
+      "It is?",
+      "Is it?",
+      "Was it?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'some people are worried that students using AI might end up with incorrect work. AI search engines do not always use reliable sources.' — What is the concern about AI search engines?",
+    "choices": [
+      "They only work in English",
+      "They do not always use reliable sources, so information may be incorrect",
+      "They are too expensive for schools",
+      "They are too slow for students"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "She __________ a letter to her pen friend when the electricity went out suddenly.",
+    "choices": [
+      "was writing",
+      "had written",
+      "has written",
+      "wrote"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "She __________ some Spanish words just by listening to her neighbours speak.",
+    "choices": [
+      "spelled out",
+      "pointed out",
+      "picked up",
+      "brought about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "She __________ as being very confident when she gave her presentation.",
+    "choices": [
+      "took to",
+      "struck up",
+      "came across",
+      "hit it off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "She __________ to work by car, but this week she is using public transport.",
+    "choices": [
+      "is usually driving",
+      "has usually driven",
+      "usually drove",
+      "usually drives"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "By the time the meeting was over, the rain __________.",
+    "choices": [
+      "has stopped",
+      "stopped",
+      "had stop",
+      "had stopped"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'But are we now forgetting how to communicate face-to-face?' — The author uses this question to:",
+    "choices": [
+      "Express concern about over-reliance on technology",
+      "Prove that face-to-face communication is impossible",
+      "Celebrate modern communication",
+      "Describe ancient methods"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "She tried to __________ her point, but the audience didn't seem to understand.",
+    "choices": [
+      "wipe out",
+      "point out",
+      "get across",
+      "come across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "The interviewer asked me who was responsible — he really __________.",
+    "choices": [
+      "refused to let it drop",
+      "got a word in",
+      "fired questions at me",
+      "put me on the spot"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "The ambassador was sent to __________ contact between the two governments.",
+    "choices": [
+      "establish",
+      "carry",
+      "pass on",
+      "lose"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "She couldn't __________ what the sign said because the letters were too small.",
+    "choices": [
+      "wipe out",
+      "make out",
+      "pick up",
+      "bring about"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Let's have a party to celebrate this good news, __________?",
+    "choices": [
+      "shall we?",
+      "won't we?",
+      "don't we?",
+      "will we?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "A: 'Jawad didn't want to play tennis.' B: '__________ ? Maybe he was tired.'",
+    "choices": [
+      "Hadn't he?",
+      "Did he?",
+      "Wasn't he?",
+      "Didn't he?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "They __________ to each other regularly back then, but have lost touch now.",
+    "choices": [
+      "have been writing",
+      "wrote",
+      "were writing",
+      "are writing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "A: 'I've got to give a speech in class.' B: '__________ is the worst that could happen?'",
+    "choices": [
+      "Why",
+      "How",
+      "What",
+      "Who"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "It's a beautiful day for a walk, __________?",
+    "choices": [
+      "is it?",
+      "isn't it?",
+      "wasn't it?",
+      "doesn't it?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "She __________ a text message right now, so she cannot talk to you.",
+    "choices": [
+      "writes",
+      "wrote",
+      "is writing",
+      "has written"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "I __________ him immediately — we had so much in common from the start.",
+    "choices": [
+      "took to",
+      "hit it off with",
+      "struck up",
+      "came across"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "A: 'I used to live in France.' B: '__________ ? I bet it's very beautiful.'",
+    "choices": [
+      "Do you?",
+      "Were you?",
+      "Did you?",
+      "Have you?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "A: 'Majeda and Malak have arrived downstairs.' B: '__________ ? I'll come right away.'",
+    "choices": [
+      "Did they?",
+      "Are they?",
+      "Were they?",
+      "Have they?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'Since the dawn of time, people have been using different ways of communicating at a distance. In ancient times, they used smoke signals.' — What did people use in ancient times to communicate?",
+    "choices": [
+      "Smoke signals",
+      "Telegrams",
+      "The Internet",
+      "Mobile phones"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 36,
+    "question": "I said the topic was closed, but he __________ — he would not stop talking about it.",
+    "choices": [
+      "refused to let it drop",
+      "got a word in edgeways",
+      "paid me a compliment",
+      "jumped down my throat"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "A: 'They've built a new hospital in our area.' B: '__________ ? That's great news.'",
+    "choices": [
+      "Were they?",
+      "Did they?",
+      "Are they?",
+      "Have they?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "He didn't mean to be unfriendly, but he __________ as cold in the interview.",
+    "choices": [
+      "hit it off",
+      "paid a compliment",
+      "came across",
+      "struck up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Here she came across a scientist who asked Jane if she might want a job observing chimpanzees in the wild. She immediately said yes.' — Why did Jane go to Tanzania?",
+    "choices": [
+      "She wanted to meet the Goodall family",
+      "She went to study medicine",
+      "She went to write a book about Africa",
+      "A scientist offered her a job observing chimpanzees in the wild"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "'I __________ what you mean — please explain again.' — Choose the correct form.",
+    "choices": [
+      "haven't understood",
+      "don't understand",
+      "am not understanding",
+      "wasn't understanding"
+    ],
+    "correct_answer": "b"
+  }
+]

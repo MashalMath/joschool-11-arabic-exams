@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to criticise someone aggressively'?",
+    "choices": [
+      "empathise with somebody",
+      "make up with somebody",
+      "have a go at somebody",
+      "put up with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "I _____ eat a lot of chips and burgers, but now I eat healthy food. (past habit — ended)",
+    "choices": [
+      "would",
+      "am",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective describes a person who 'behaves properly and treats others with respect'?",
+    "choices": [
+      "immature",
+      "bigoted",
+      "decent",
+      "hypocritical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'In England during the 1800s, many people came to the cities to work.' What does this tell us about life in 19th-century England?",
+    "choices": [
+      "people preferred to live in the countryside",
+      "there was a major movement of people from rural areas to cities for work",
+      "cities were quiet and had few people",
+      "most people worked in farming"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "She _____ be the best player in the team, but now she prefers swimming. (past state — ended)",
+    "choices": [
+      "would",
+      "is",
+      "used to",
+      "was forever"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Which phrase means 'to treat someone with respect and admiration, regarding them as a great role model'?",
+    "choices": [
+      "despise",
+      "look down on",
+      "follow in somebody's footsteps",
+      "look up to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "It took ages to get a connection, _____ was really irritating. (comment on the whole clause)",
+    "choices": [
+      "that",
+      "which",
+      "who",
+      "whose"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to discuss someone negatively behind their back'?",
+    "choices": [
+      "talk behind somebody's back",
+      "give somebody a compliment",
+      "empathise with somebody",
+      "make up with somebody"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'I would argue that families generally remain as close as they ever were.' This phrase introduces:",
+    "choices": [
+      "a fact supported by statistics",
+      "the writer's personal opinion or thesis",
+      "an impersonal view accepted by everyone",
+      "a conclusion about technology"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "A Chemist is a person _____ works in a laboratory.",
+    "choices": [
+      "which",
+      "whose",
+      "who",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which word means 'a brother or sister'?",
+    "choices": [
+      "orphan",
+      "housekeeper",
+      "sibling",
+      "workhouse"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "She _____ always arguing with her brother when they were teenagers.",
+    "choices": [
+      "is forever",
+      "was forever",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Which phrase signals an IMPERSONAL view in an opinion essay?",
+    "choices": [
+      "Personally, I believe",
+      "I would argue that",
+      "It is often argued that",
+      "In my opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Rewrite: 'These headphones stopped working after two days. I paid a fortune for them.' (Combine using relative clause)",
+    "choices": [
+      "These headphones, which I paid a fortune for, stopped working after two days.",
+      "These headphones, who I paid a fortune for, stopped working after two days.",
+      "These headphones, whose I paid a fortune for, stopped working after two days.",
+      "These headphones, that I paid a fortune for, stopped working after two days."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to display great skill or wealth in order to impress people'?",
+    "choices": [
+      "be the peacemaker",
+      "show off",
+      "burst into tears",
+      "lose your temper"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Aunt Abeer proved that she is _____ of making a real change to young people's lives.",
+    "choices": [
+      "passionate",
+      "inspirational",
+      "capable",
+      "modest"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'But his brother, a man called Monks, knew that Oliver would only get the money if Oliver was an honest person.' Why did Monks arrange for Oliver to meet Fagin?",
+    "choices": [
+      "to help Oliver find a good job",
+      "to ensure Oliver would never be honest and could never claim the money",
+      "because Monks wanted Oliver to leave the country",
+      "because Monks and Fagin were business partners"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "He _____ turn up late and expect everyone to wait for him. (typical annoying present habit)",
+    "choices": [
+      "used to",
+      "will",
+      "was",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which adjective describes someone who is 'very strongly committed to a cause they care about'?",
+    "choices": [
+      "bigoted",
+      "sincere",
+      "passionate",
+      "dedicated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The beach _____ they go to in summer is their favourite place.",
+    "choices": [
+      "who",
+      "whose",
+      "when",
+      "where"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "My parents _____ always be taking photos of us as children.",
+    "choices": [
+      "used to",
+      "would",
+      "are",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase means 'to behave as a role model others can look up to'?",
+    "choices": [
+      "despise",
+      "look down on",
+      "set a good example",
+      "loathe"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'There's a tendency for elderly people to be suspicious of the Internet.' What does 'there's a tendency for' mean?",
+    "choices": [
+      "it is absolutely always the case",
+      "it is generally or often the case",
+      "it is never the case",
+      "it is specifically about one person"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The quality issues _____ affected the company's earlier models have been solved in the new model.",
+    "choices": [
+      "whose",
+      "which",
+      "where",
+      "who"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to make someone feel very uncomfortable on purpose'?",
+    "choices": [
+      "empathise with somebody",
+      "give somebody a compliment",
+      "wind somebody up",
+      "make up with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Sawsan won't take 'no' for an answer. She'll keep asking until she gets what she wants. She's _____.",
+    "choices": [
+      "modest",
+      "inspirational",
+      "pushy",
+      "decent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In 'In general, I'm a very calm person', the phrase 'in general' is used to:",
+    "choices": [
+      "give a specific example",
+      "express what is usually true",
+      "acknowledge overgeneralisation",
+      "introduce a conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "What was the role of Oliver's brother Monks in the story?",
+    "choices": [
+      "Monks helped Oliver find Mr Brownlow",
+      "Monks ensured Oliver would become a criminal so he couldn't claim his inheritance",
+      "Monks was a police officer who tried to arrest Oliver",
+      "Monks was the manager of the workhouse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Rewrite using a participle clause: 'People who want to make an appointment should do so online.'",
+    "choices": [
+      "People wanting to make an appointment should do so online.",
+      "People wants to make an appointment should do so online.",
+      "People to want to make an appointment should do so online.",
+      "People which wanting to make an appointment should do so online."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Oliver decided to escape to London but had no food.' Why did Oliver decide to escape to London?",
+    "choices": [
+      "because he wanted to become a thief",
+      "because he was unhappy with life in the workhouse and wanted to escape",
+      "because Fagin invited him to London",
+      "because Mr Brownlow was in London"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Which phrase means 'a serious argument with a close friend that damages the relationship'?",
+    "choices": [
+      "a newborn baby in the family",
+      "flunking an important exam",
+      "a row with your best friend",
+      "relocating to a different country"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "My sister _____ constantly be borrowing my things. She never asks!",
+    "choices": [
+      "is",
+      "used to",
+      "would",
+      "were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to give someone too much praise and elevate them to an unrealistically high status'?",
+    "choices": [
+      "look down on",
+      "despise",
+      "put somebody on a pedestal",
+      "follow in somebody's footsteps"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'I was an only child and I used to feel bored at home on my own.' Can we replace 'used to feel' with 'would feel' here?",
+    "choices": [
+      "yes, because both describe past habits",
+      "no, because 'would' cannot describe a past state",
+      "yes, because 'would' can replace 'used to' in all cases",
+      "no, because 'used to' is only for actions, not states"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Which type of relative clause uses commas and gives extra, non-essential information?",
+    "choices": [
+      "defining relative clause",
+      "participle clause",
+      "non-defining relative clause",
+      "adverbial clause"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Which word means 'to fail an exam'?",
+    "choices": [
+      "clash",
+      "relocate",
+      "flunk",
+      "sibling"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "She _____ always be the last to know about any news. (typical past annoying characteristic)",
+    "choices": [
+      "is",
+      "would",
+      "used to be",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective describes someone who 'works very hard and puts great effort into their activities'?",
+    "choices": [
+      "pushy",
+      "immature",
+      "dedicated",
+      "bigoted"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "London is a big city. It is the capital of Britain. (Combine using relative clause)",
+    "choices": [
+      "London, who is the capital of Britain, is a big city.",
+      "London, where is the capital of Britain, is a big city.",
+      "London, which is the capital of Britain, is a big city.",
+      "London, whose is the capital of Britain, is a big city."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which word means 'to have great respect and affection for someone based on their qualities'?",
+    "choices": [
+      "loathe",
+      "despise",
+      "look down on",
+      "admire"
+    ],
+    "correct_answer": "d"
+  }
+]

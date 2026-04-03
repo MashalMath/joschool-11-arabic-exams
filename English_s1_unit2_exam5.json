@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'the gradual disappearance of the area where animals live'?",
+    "choices": ["water scarcity", "acid rain", "habitat loss", "soil erosion"],
+    "correct_answer": "habitat loss"
+  },
+  {
+    "number": 2,
+    "question": "Poisonous gases produced by car engines and factories are called ________.",
+    "choices": ["renewable energy", "exhaust fumes", "fossil fuels", "ozone layer"],
+    "correct_answer": "exhaust fumes"
+  },
+  {
+    "number": 3,
+    "question": "Heavy snow with very cold temperatures below zero are called ________ temperatures.",
+    "choices": ["soaring", "freak", "sub-zero", "blistering"],
+    "correct_answer": "sub-zero"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct option. 'She ________ a new coat today.' (already decided earlier)",
+    "choices": ["will buy", "is about to buy", "is going to buy", "buys"],
+    "correct_answer": "is going to buy"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct answer. 'Sorry about breaking the mug. I ________ you a new one.' (decision now)",
+    "choices": ["am going to buy", "am planning to buy", "will buy", "am about to buy"],
+    "correct_answer": "will buy"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'In 2018, the proportion of the world's population living in extreme poverty fell to around 10%.' What does this suggest?",
+    "choices": ["Poverty has been increasing rapidly.", "There has been some improvement in poverty rates.", "The world population is decreasing.", "Poverty affects only 10 countries."],
+    "correct_answer": "There has been some improvement in poverty rates."
+  },
+  {
+    "number": 7,
+    "question": "Which of these is NOT a feature of the blobfish described in the text?",
+    "choices": ["tiny eyes", "big mouth", "slimy pink body", "hard skeleton"],
+    "correct_answer": "hard skeleton"
+  },
+  {
+    "number": 8,
+    "question": "The threat to the pangolin is described as 'far from accidental' because ________.",
+    "choices": ["they live in dangerous areas", "they are deliberately targeted by poachers", "they have no natural defenses", "they are easy to find in forests"],
+    "correct_answer": "they are deliberately targeted by poachers"
+  },
+  {
+    "number": 9,
+    "question": "Which word describes an animal 'related to the sea'?",
+    "choices": ["nocturnal", "solitary", "marine", "furry"],
+    "correct_answer": "marine"
+  },
+  {
+    "number": 10,
+    "question": "In paragraph C of 'They Need Saving Too', what protects pangolins from natural predators?",
+    "choices": ["Their speed", "Their camouflage", "Their scales", "Their size"],
+    "correct_answer": "Their scales"
+  },
+  {
+    "number": 11,
+    "question": "Complete: 'Powerful computers are almost definitely going to become smaller, faster and cheaper. Powerful computers ________ smaller, faster and cheaper.'",
+    "choices": ["are unlikely to become", "are certain to become", "are about to become", "are planning to become"],
+    "correct_answer": "are certain to become"
+  },
+  {
+    "number": 12,
+    "question": "Which option correctly completes: 'I can't ________ my mind.'",
+    "choices": ["put my finger on", "make up", "torn between", "spot on"],
+    "correct_answer": "make up"
+  },
+  {
+    "number": 13,
+    "question": "'That's a good point, but another option might be...' is used to ________.",
+    "choices": ["agree fully", "express indecision", "disagree politely", "reach a decision"],
+    "correct_answer": "disagree politely"
+  },
+  {
+    "number": 14,
+    "question": "If you start a formal letter with the person's name (e.g. Dear Mr Haddad), you end it with ________.",
+    "choices": ["Yours faithfully", "Yours sincerely", "Best wishes", "Kind regards"],
+    "correct_answer": "Yours sincerely"
+  },
+  {
+    "number": 15,
+    "question": "In formal writing, instead of 'Please investigate other options', you should write ________.",
+    "choices": ["Investigate other options now.", "I urge investigate other options.", "I would ask you to investigate other options.", "You should look into other options."],
+    "correct_answer": "I would ask you to investigate other options."
+  },
+  {
+    "number": 16,
+    "question": "Read: 'It is vital that this is reduced as much as possible.' What does 'this' refer to in Farid's email?",
+    "choices": ["Renewable energy", "Plastic packaging", "Water scarcity", "Exhaust fumes"],
+    "correct_answer": "Plastic packaging"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct future form: 'The annual charity day ________ at 9 a.m.'",
+    "choices": ["is going to begin", "will begin", "begins", "is about to begin"],
+    "correct_answer": "begins"
+  },
+  {
+    "number": 18,
+    "question": "Choose correctly: 'They ________ announce the winners.' (very soon)",
+    "choices": ["are due to", "are planning to", "are about to", "are hoping to"],
+    "correct_answer": "are about to"
+  },
+  {
+    "number": 19,
+    "question": "Which correctly expresses a Future Perfect Continuous action? Choose the correct sentence.",
+    "choices": ["By July I will live in London for 3 years.", "By July I will have been living in London for 3 years.", "By July I am going to live in London for 3 years.", "By July I will be living in London for 3 years."],
+    "correct_answer": "By July I will have been living in London for 3 years."
+  },
+  {
+    "number": 20,
+    "question": "'As in previous years, the head teacher ________ how much money we raised.' (routine future event)",
+    "choices": ["will have announced", "is going to announce", "will be announcing", "is about to announce"],
+    "correct_answer": "will be announcing"
+  },
+  {
+    "number": 21,
+    "question": "Which phrase means almost certainly will happen (very strong certainty)?",
+    "choices": ["is likely to", "is unlikely to", "is bound to", "might"],
+    "correct_answer": "is bound to"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'Global warming is certain to lead to more water shortages.' Which structure is used?",
+    "choices": ["be + likely + to-inf", "be + sure + to-inf", "be + certain + to-inf", "be + about + to-inf"],
+    "correct_answer": "be + certain + to-inf"
+  },
+  {
+    "number": 23,
+    "question": "Which word means 'the hard structure inside the body of an animal or person'?",
+    "choices": ["fin", "scale", "backbone", "skeleton"],
+    "correct_answer": "skeleton"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'Less well-known creatures are far more likely to become extinct because they don't get enough attention from researchers.' What does this imply?",
+    "choices": ["All animals receive equal research funding.", "Popular animals receive more research funding than others.", "Invertebrates receive the most funding.", "Researchers prefer all types of animals equally."],
+    "correct_answer": "Popular animals receive more research funding than others."
+  },
+  {
+    "number": 25,
+    "question": "A compound noun is made up of ________ words.",
+    "choices": ["one", "two", "three", "four"],
+    "correct_answer": "two"
+  },
+  {
+    "number": 26,
+    "question": "In the compound noun 'swimming pool', the first word is a ________.",
+    "choices": ["noun", "adjective", "verb", "adverb"],
+    "correct_answer": "verb"
+  },
+  {
+    "number": 27,
+    "question": "Which sentence is correctly written in formal email style?",
+    "choices": ["I'm writing to tell you I'm bothered.", "I am writing to express my concern.", "Hey, plastic is a problem!", "Cut down on plastic now!"],
+    "correct_answer": "I am writing to express my concern."
+  },
+  {
+    "number": 28,
+    "question": "Read: 'As a result of better medicine, people are likely to live until the age of 100.' Which word could replace 'As a result of'?",
+    "choices": ["Result in", "Due to", "Lead to", "Give rise to"],
+    "correct_answer": "Due to"
+  },
+  {
+    "number": 29,
+    "question": "Which cause-and-effect phrase comes before the RESULT in the sentence?",
+    "choices": ["due to", "lead to", "cause", "result in"],
+    "correct_answer": "due to"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct answer: 'The cafe ________ on Friday.' (official/formal closure)",
+    "choices": ["is about to shut down", "is planning to shut down", "is due to shut down", "is to shut down"],
+    "correct_answer": "is to shut down"
+  },
+  {
+    "number": 31,
+    "question": "Which of these best describes a signpost in a lecture?",
+    "choices": ["A long explanation of a topic", "A phrase that helps listeners follow what the speaker is saying", "A visual aid used during the talk", "A summary of statistics"],
+    "correct_answer": "A phrase that helps listeners follow what the speaker is saying"
+  },
+  {
+    "number": 32,
+    "question": "When planning a persuasive presentation, you should plan a strong ________ and conclusion.",
+    "choices": ["question", "beginning", "summary", "introduction"],
+    "correct_answer": "beginning"
+  },
+  {
+    "number": 33,
+    "question": "To engage your audience in a presentation, you can use ________.",
+    "choices": ["only statistics", "only quotations", "good eye contact and a varied voice", "reading from notes only"],
+    "correct_answer": "good eye contact and a varied voice"
+  },
+  {
+    "number": 34,
+    "question": "'I'm deeply concerned by the amount of plastic.' The phrase 'I am deeply concerned by' is used for ________.",
+    "choices": ["explaining solutions", "calling to action", "explaining why the issue is important", "giving reasons for writing"],
+    "correct_answer": "explaining why the issue is important"
+  },
+  {
+    "number": 35,
+    "question": "Which option correctly describes 'future arrangement with another person'?",
+    "choices": ["The lecture starts at 7 p.m.", "I'll take a look when I get there.", "I'm meeting her next week.", "She'll be visiting every weekend."],
+    "correct_answer": "I'm meeting her next week."
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct collocation: 'We had ________ winds last night which damaged many houses.'",
+    "choices": ["scorching", "torrential", "gale-force", "sub-zero"],
+    "correct_answer": "gale-force"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'Their scales protect them from their natural predators, but it's simple for a poacher to just pick them up.' Why are pangolins easy for poachers?",
+    "choices": ["They have no scales.", "Their protective scales do not work against humans.", "They live in easy-to-find locations.", "They are very slow animals."],
+    "correct_answer": "Their protective scales do not work against humans."
+  },
+  {
+    "number": 38,
+    "question": "Which of these is an example of a cause-and-effect phrase where the CAUSE comes after?",
+    "choices": ["lead to", "result in", "due to", "give rise to"],
+    "correct_answer": "due to"
+  },
+  {
+    "number": 39,
+    "question": "The word 'primate' refers to ________.",
+    "choices": ["a type of marine animal", "a group of mammals that includes monkeys and apes", "an animal covered in scales", "a deep-sea creature"],
+    "correct_answer": "a group of mammals that includes monkeys and apes"
+  },
+  {
+    "number": 40,
+    "question": "Which of these is NOT a rhetorical device mentioned in the Life Skills section?",
+    "choices": ["Repetition", "Tripling", "Alliteration", "Emotion"],
+    "correct_answer": "Alliteration"
+  }
+]

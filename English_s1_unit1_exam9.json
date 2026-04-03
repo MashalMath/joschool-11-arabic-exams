@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "It's easy to __________ a conversation if you start by commenting on your surroundings.",
+    "choices": [
+      "come across as",
+      "take to",
+      "hit it off",
+      "strike up"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'It turned out that the girl had a rare disease, but her sight was saved!' — The phrase 'it turned out' means:",
+    "choices": [
+      "it was hidden",
+      "it was destroyed",
+      "it was invented",
+      "it was discovered"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "She __________ already __________ her project — she can relax now.",
+    "choices": [
+      "had / finished",
+      "is / finishing",
+      "has / finished",
+      "was / finishing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Good teachers know how to __________ complex ideas in a simple way.",
+    "choices": [
+      "spelled out",
+      "wipe out",
+      "came across",
+      "get across"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "She has been working hard all day, __________?",
+    "choices": [
+      "didn't she?",
+      "has she?",
+      "hasn't she?",
+      "wasn't she?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "I am not hungry at all. I have __________ eaten — just twenty minutes ago.",
+    "choices": [
+      "ever",
+      "yet",
+      "never",
+      "already"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "It was cloudy, but she could still __________ the outline of the mountains.",
+    "choices": [
+      "figure out",
+      "wipe out",
+      "make out",
+      "pick up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "The student __________ her essay last night before the midnight deadline.",
+    "choices": [
+      "has finished",
+      "finished",
+      "finishes",
+      "was finishing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "What is the purpose of the CONCLUSION in an analytical essay?",
+    "choices": [
+      "To summarise what has been argued",
+      "To ask the reader a question",
+      "To introduce a new idea",
+      "To list all the sources used"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 10,
+    "question": "I __________ never __________ anyone as enthusiastic as she is about learning.",
+    "choices": [
+      "have / met",
+      "has / met",
+      "had / met",
+      "am / met"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'Jordan is in a good position for using AI as it is at the forefront of technology. The people looking into using AI in Jordan are hoping it will help in science, investment and government services.' — Name TWO areas where AI is hoped to help Jordan.",
+    "choices": [
+      "Music and sport",
+      "Education and tourism only",
+      "Science and investment (also government services)",
+      "Tourism and farming only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'Jane pointed out that the animals couldn't communicate using language like people, but they could communicate by touch and sound. Amazingly, she also realised they could use sign language.' — How do chimpanzees communicate?",
+    "choices": [
+      "By touch, sound and sign language",
+      "By using full sentences",
+      "By writing symbols",
+      "By using tools only"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "She kindly __________ that my presentation had a small factual mistake.",
+    "choices": [
+      "figured out",
+      "pointed out",
+      "spelled out",
+      "brought about"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "She __________ to her grandmother every Sunday without fail — it's a family tradition.",
+    "choices": [
+      "is writing",
+      "writes",
+      "has written",
+      "wrote"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "She __________ never __________ to the cinema on weekdays.",
+    "choices": [
+      "was / going",
+      "is / going",
+      "has / gone",
+      "does / go"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "Which phrase best expresses SURPRISE or DISBELIEF?",
+    "choices": [
+      "I can breathe a sigh of relief now.",
+      "I'm feeling a bit down in the dumps.",
+      "You've got to be kidding me!",
+      "I'm heartbroken."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "She __________ all morning on her project and her eyes are very tired.",
+    "choices": [
+      "has been working",
+      "have been working",
+      "has worked",
+      "worked"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "The situation __________ better slowly — things are improving week by week.",
+    "choices": [
+      "is getting",
+      "has got",
+      "got",
+      "gets"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "He __________ always __________ his keys — it really gets on everyone's nerves!",
+    "choices": [
+      "does / lose",
+      "is / losing",
+      "was / losing",
+      "has / lost"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "She felt very __________ as she sat outside the exam room waiting to go in.",
+    "choices": [
+      "tense",
+      "astonished",
+      "bewildered",
+      "ecstatic"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "He is still talking about that argument from last year — he simply __________.",
+    "choices": [
+      "insists on firing questions",
+      "can't get a word in edgeways",
+      "puts people on the spot",
+      "refuses to let it drop"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 22,
+    "question": "I __________ to Jordan three times and I love it more each time.",
+    "choices": [
+      "was",
+      "have been",
+      "had been",
+      "went"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Students need time to __________ new grammar rules before practising them.",
+    "choices": [
+      "wipe out",
+      "bring about",
+      "take in",
+      "figure out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "He __________ at least ten texts every day for the past month.",
+    "choices": [
+      "has sent",
+      "sends",
+      "has been sending",
+      "sent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'French, Spanish and German are three of the languages identified as the most important.' — Which THREE languages are identified as the most important in the UK?",
+    "choices": [
+      "English, Arabic and Spanish",
+      "Japanese, Italian and German",
+      "Arabic, Chinese and French",
+      "French, Spanish and German"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "I __________ working here in recent years and I really enjoy my job.",
+    "choices": [
+      "was",
+      "am",
+      "had been",
+      "have been"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "He __________ thank-you letters all morning — his hand is very tired now.",
+    "choices": [
+      "writes",
+      "has been writing",
+      "wrote",
+      "is writing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "A: 'My parents are taking me to Italy!' B: 'I don't __________ you! You lucky thing!'",
+    "choices": [
+      "think",
+      "believe",
+      "doubt",
+      "blame"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "My teacher is very good at __________ difficult ideas in a simple way.",
+    "choices": [
+      "picking up",
+      "wiping out",
+      "spelling out",
+      "making out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "'That's a weight off my __________.' — Complete the expression of relief.",
+    "choices": [
+      "mind",
+      "heart",
+      "chest",
+      "shoulders"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "He promised to __________ the message to his team first thing in the morning.",
+    "choices": [
+      "deliver",
+      "maintain",
+      "establish",
+      "lose"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "Read: 'I feel that we may well learn even more about animal communication in the future.' — This sentence expresses the author's:",
+    "choices": [
+      "Criticism of past researchers",
+      "Certain fact about the present",
+      "Definition of communication",
+      "Hope or prediction about the future"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Suha was bewildered by the maths questions in the exam, __________?",
+    "choices": [
+      "isn't she?",
+      "wasn't she?",
+      "was she?",
+      "didn't she?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "I haven't spoken to her __________ she moved to Aqaba last year.",
+    "choices": [
+      "since",
+      "during",
+      "for",
+      "ago"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "I'm still your best friend after all this, __________?",
+    "choices": [
+      "am I?",
+      "don't I?",
+      "isn't I?",
+      "aren't I?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "The coach was __________ when he saw the referee's unfair decision.",
+    "choices": [
+      "astonished",
+      "livid",
+      "tense",
+      "bewildered"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'People are also using AI more and more in everyday life and although it might make many aspects of life easier, it could also make things worse, especially for our children.' — This sentence presents:",
+    "choices": [
+      "Only the positive side of AI",
+      "Only the negative side of AI",
+      "Both a positive and a negative side of AI",
+      "A scientific definition of AI"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "When I __________ to school, it was raining hard outside.",
+    "choices": [
+      "went",
+      "was going",
+      "go",
+      "have gone"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "They __________ immediately and have been inseparable ever since.",
+    "choices": [
+      "struck up",
+      "hit it off",
+      "took to",
+      "came across as"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Look! The kitchen tap __________ — we need to call a plumber right away.",
+    "choices": [
+      "has leaked",
+      "leaks",
+      "is leaking",
+      "leaked"
+    ],
+    "correct_answer": "c"
+  }
+]

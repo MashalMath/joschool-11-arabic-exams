@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Which compound noun means 'rain that is extremely heavy and fast-falling'?",
+    "choices": ["freak rain", "acid rain", "torrential rain", "gale-force rain"],
+    "correct_answer": "torrential rain"
+  },
+  {
+    "number": 2,
+    "question": "Which word correctly completes this sentence? 'I don't like holding fish because they are cold and ________.'",
+    "choices": ["furry", "cuddly", "slimy", "marine"],
+    "correct_answer": "slimy"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct future form: 'By the time I'm 40, I ________ so much money that I won't need to work.'",
+    "choices": ["will earn", "will be earning", "will have earned", "am going to earn"],
+    "correct_answer": "will have earned"
+  },
+  {
+    "number": 4,
+    "question": "Choose: 'As usual on the show, we ________ you how to reuse everyday items.'",
+    "choices": ["are going to show", "will have shown", "will be showing", "are about to show"],
+    "correct_answer": "will be showing"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct option: 'We ________ meeting early to go to the car boot sale.' (arrangement with another person)",
+    "choices": ["will be", "are", "shall be", "are going to be"],
+    "correct_answer": "are"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'I'm going to give these old blankets to the charity shop.' This future form expresses ________.",
+    "choices": ["a decision made now", "a timetabled event", "something already decided", "a routine action"],
+    "correct_answer": "something already decided"
+  },
+  {
+    "number": 7,
+    "question": "Which sentence correctly uses 'be + likely + to-infinitive'?",
+    "choices": ["People likely live to 100.", "People are likely live to 100.", "People are likely to live to 100.", "People likely to live to 100."],
+    "correct_answer": "People are likely to live to 100."
+  },
+  {
+    "number": 8,
+    "question": "Read: 'It is vital that this is reduced as much as possible.' The phrase 'it is vital that' is used to ________.",
+    "choices": ["give reasons for writing", "make a point forcefully", "call to action", "explain the solutions"],
+    "correct_answer": "make a point forcefully"
+  },
+  {
+    "number": 9,
+    "question": "Which is the correct formal version of 'All the best, Ibrahim'?",
+    "choices": ["Yours faithfully, Ibrahim", "Take care, Ibrahim", "Kind regards, Ibrahim", "Yours sincerely, Ibrahim"],
+    "correct_answer": "Yours sincerely, Ibrahim"
+  },
+  {
+    "number": 10,
+    "question": "In formal email writing, to make your tone less direct, you use ________.",
+    "choices": ["simple commands", "contractions", "hypothetical constructions like 'I would ask you to'", "informal language"],
+    "correct_answer": "hypothetical constructions like 'I would ask you to'"
+  },
+  {
+    "number": 11,
+    "question": "Which word completes: 'The orangutan is critically ________ which means it faces a very high risk of extinction.'",
+    "choices": ["endangered", "extinct", "solitary", "nocturnal"],
+    "correct_answer": "endangered"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'Animals classified as endangered are at risk of becoming ________.'",
+    "choices": ["solitary", "marine", "nocturnal", "extinct"],
+    "correct_answer": "extinct"
+  },
+  {
+    "number": 13,
+    "question": "Which paragraph of 'They Need Saving Too' tells us about a creature whose body is perceived as useful by some humans?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph C"
+  },
+  {
+    "number": 14,
+    "question": "Which paragraph of 'They Need Saving Too' tells us what kind of creatures get the least funding for research and preservation?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph A"
+  },
+  {
+    "number": 15,
+    "question": "Choose: 'I ________ my relative at the weekend.' (routine visit — normal course of events)",
+    "choices": ["will have visited", "will visit", "will be visiting", "am going to visit"],
+    "correct_answer": "will be visiting"
+  },
+  {
+    "number": 16,
+    "question": "Which phrase expresses that you haven't fully decided something yet?",
+    "choices": ["You're spot on!", "I'm on the fence about it.", "It looks as if we agree.", "That's exactly what I was going to say!"],
+    "correct_answer": "I'm on the fence about it."
+  },
+  {
+    "number": 17,
+    "question": "Read: 'I'm torn between going to the cinema and staying home.' This means the speaker ________.",
+    "choices": ["has already decided", "is expressing agreement", "is finding it hard to choose", "is disagreeing with a suggestion"],
+    "correct_answer": "is finding it hard to choose"
+  },
+  {
+    "number": 18,
+    "question": "Which is the correct use of 'whereas' as a signposting phrase?",
+    "choices": ["Whereas is used to conclude a speech.", "Whereas is used to contrast two ideas.", "Whereas is used to sequence an argument.", "Whereas is used to paraphrase."],
+    "correct_answer": "Whereas is used to contrast two ideas."
+  },
+  {
+    "number": 19,
+    "question": "Which type of question is designed to make a point rather than get an answer?",
+    "choices": ["A factual question", "A rhetorical question", "A leading question", "An open question"],
+    "correct_answer": "A rhetorical question"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'A big cause of climate change is greenhouse gases.' What does 'give rise to' mean in this context?",
+    "choices": ["reduces", "eliminates", "causes or produces", "prevents"],
+    "correct_answer": "causes or produces"
+  },
+  {
+    "number": 21,
+    "question": "Choose: 'Global warming results ________ more water shortages.'",
+    "choices": ["from", "to", "in", "by"],
+    "correct_answer": "in"
+  },
+  {
+    "number": 22,
+    "question": "Choose: 'Soil erosion ________ deforestation.' (is caused by)",
+    "choices": ["leads to", "gives rise to", "results from", "results in"],
+    "correct_answer": "results from"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'People are likely to live until the age of 100 as a result of better medicine.' What does 'as a result of better medicine' tell us?",
+    "choices": ["Better medicine is the result of longer lives.", "Better medicine is a cause of longer lives.", "Longer lives cause better medicine.", "Longer lives result from longer lives."],
+    "correct_answer": "Better medicine is a cause of longer lives."
+  },
+  {
+    "number": 24,
+    "question": "Which compound noun describes the protective layer of the atmosphere that absorbs ultraviolet radiation?",
+    "choices": ["habitat loss", "greenhouse gas", "ozone layer", "soil erosion"],
+    "correct_answer": "ozone layer"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'We may have seen some improvement in poverty and crime in recent decades.' The word 'may' here expresses ________.",
+    "choices": ["certainty", "possibility", "impossibility", "obligation"],
+    "correct_answer": "possibility"
+  },
+  {
+    "number": 26,
+    "question": "Which sentence uses 'be about to' correctly?",
+    "choices": ["They are about to leave an hour ago.", "The train was about to arrived.", "The company is about to launch a new product.", "She is about to went home yesterday."],
+    "correct_answer": "The company is about to launch a new product."
+  },
+  {
+    "number": 27,
+    "question": "Read: 'I'm really bothered by the amount of plastic we use.' Which formal version is correct?",
+    "choices": ["I am bothered about plastic use.", "I am deeply concerned by the amount of plastic we use.", "I'm very worried about plastic.", "I am upset by plastic usage."],
+    "correct_answer": "I am deeply concerned by the amount of plastic we use."
+  },
+  {
+    "number": 28,
+    "question": "In a persuasive presentation, 'Emotion' as a rhetorical device means ________.",
+    "choices": ["Using facts and statistics", "Using emotional language or appealing to the audience's feelings", "Using questions with no answers", "Using repetition of key words"],
+    "correct_answer": "Using emotional language or appealing to the audience's feelings"
+  },
+  {
+    "number": 29,
+    "question": "Choose: 'I ________ to go to the Save the Planet lecture. I've arranged to meet everyone at 5 p.m.'",
+    "choices": ["will go", "am about to go", "am going", "will be going"],
+    "correct_answer": "am going"
+  },
+  {
+    "number": 30,
+    "question": "Choose: 'They ________ arrive at eight, not seven.' (already arranged)",
+    "choices": ["will", "are going to", "are about to", "are to"],
+    "correct_answer": "are going to"
+  },
+  {
+    "number": 31,
+    "question": "Which word means 'an animal that kills and eats other animals for food'?",
+    "choices": ["poacher", "crustacean", "predator", "invertebrate"],
+    "correct_answer": "predator"
+  },
+  {
+    "number": 32,
+    "question": "Which of these is the correct definition of a 'mammal'?",
+    "choices": ["An animal that lays eggs and has scales", "A warm-blooded animal that feeds its young with milk", "An animal without a backbone", "A cold-blooded animal living in water"],
+    "correct_answer": "A warm-blooded animal that feeds its young with milk"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'By 2075 the population of the world ________ to more than nine billion.'",
+    "choices": ["will rise", "will be rising", "will have risen", "is going to rise"],
+    "correct_answer": "will have risen"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Our eating habits ________ change.' (will have to)",
+    "choices": ["will have to", "will be", "are likely to", "are going to"],
+    "correct_answer": "will have to"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'It is ________ that we will be able to produce enough meat to feed all those people.' (unlikely)",
+    "choices": ["likely", "certain", "unlikely", "bound"],
+    "correct_answer": "unlikely"
+  },
+  {
+    "number": 36,
+    "question": "Which correctly expresses a conclusion in a formal email?",
+    "choices": ["By the way, reduce plastic.", "I look forward to your response.", "To sum up, plastic is bad.", "So, let's make a decision."],
+    "correct_answer": "I look forward to your response."
+  },
+  {
+    "number": 37,
+    "question": "Read: 'The future's terrifying text argues that life is unlikely to get better for most people.' What is the main evidence given?",
+    "choices": ["Global warming and water shortages", "AI and robotics eliminating jobs", "Rising crime rates", "Increasing poverty levels"],
+    "correct_answer": "AI and robotics eliminating jobs"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'In a few years, all of us ________ it!' (future food alternatives — will be eating)",
+    "choices": ["will eat", "will have eaten", "will be eating", "are going to eat"],
+    "correct_answer": "will be eating"
+  },
+  {
+    "number": 39,
+    "question": "Which word means 'soft material growing on the body of an animal, like a cat'?",
+    "choices": ["scales", "fins", "fur", "skeleton"],
+    "correct_answer": "fur"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'Five years ________ now, Kamal will have gained his degree in astrophysics.'",
+    "choices": ["since", "after", "before", "from"],
+    "correct_answer": "from"
+  }
+]

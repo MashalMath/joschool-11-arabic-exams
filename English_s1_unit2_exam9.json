@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Which compound noun refers to 'power produced from natural, non-depleting sources'?",
+    "choices": ["fossil fuels", "greenhouse gas", "renewable energy", "toxic waste"],
+    "correct_answer": "renewable energy"
+  },
+  {
+    "number": 2,
+    "question": "Which word correctly completes this sentence? 'Tortoises are ________ creatures and are usually seen alone.'",
+    "choices": ["marine", "furry", "solitary", "cuddly"],
+    "correct_answer": "solitary"
+  },
+  {
+    "number": 3,
+    "question": "Heavy snow that falls in large quantities is described as ________ snow.",
+    "choices": ["freak", "gale-force", "heavy", "soaring"],
+    "correct_answer": "heavy"
+  },
+  {
+    "number": 4,
+    "question": "Which sentence correctly uses 'be going to' for a prediction based on present evidence?",
+    "choices": ["I think it will rain soon.", "I'm sure she will pass her exams.", "Look at those clouds — it's going to rain!", "She will visit Paris one day."],
+    "correct_answer": "Look at those clouds — it's going to rain!"
+  },
+  {
+    "number": 5,
+    "question": "'He will probably be late, as usual.' Which adverb expresses probability here?",
+    "choices": ["certainly", "definitely", "probably", "possibly"],
+    "correct_answer": "probably"
+  },
+  {
+    "number": 6,
+    "question": "Which sentence correctly uses Future Perfect? 'By next year, I ________ from college.'",
+    "choices": ["will graduate", "will be graduating", "will have graduated", "am going to graduate"],
+    "correct_answer": "will have graduated"
+  },
+  {
+    "number": 7,
+    "question": "Which option is correct? 'By 2030, the government ________ a new hospital in Zarqa.'",
+    "choices": ["will build", "will be building", "will have built", "is going to build"],
+    "correct_answer": "will have built"
+  },
+  {
+    "number": 8,
+    "question": "Choose: 'I am sure ________ better after taking medicine.'",
+    "choices": ["will feel", "will have felt", "I'll feel", "am going to feel"],
+    "correct_answer": "I'll feel"
+  },
+  {
+    "number": 9,
+    "question": "Choose: 'Ahmad has studied hard. He is ________ to pass the exam.'",
+    "choices": ["unlikely", "about", "bound", "due"],
+    "correct_answer": "bound"
+  },
+  {
+    "number": 10,
+    "question": "Choose: 'The H.R. ________ visit our bank on Tuesday.' (official announcement)",
+    "choices": ["is about to", "is hoping to", "is to", "is planning to"],
+    "correct_answer": "is to"
+  },
+  {
+    "number": 11,
+    "question": "'The party ________ at 7 pm in the auditorium.' What kind of future is this?",
+    "choices": ["Future arrangement with another person", "Timetabled or scheduled future event", "Future action decided now", "Routine future event"],
+    "correct_answer": "Timetabled or scheduled future event"
+  },
+  {
+    "number": 12,
+    "question": "The house is very old. It ________ fall down. (very soon)",
+    "choices": ["will", "is planning to", "is about to", "is due to"],
+    "correct_answer": "is about to"
+  },
+  {
+    "number": 13,
+    "question": "Read: 'I am writing to express my concern about the use of disposable cups.' This phrase in a formal email is used for ________.",
+    "choices": ["making a point forcefully", "calling to action", "giving reasons for writing", "explaining solutions"],
+    "correct_answer": "giving reasons for writing"
+  },
+  {
+    "number": 14,
+    "question": "Which of these is NOT a formal email writing convention?",
+    "choices": ["Avoid contractions", "Avoid phrasal verbs", "Use passives to make points less personal", "Use casual, conversational language"],
+    "correct_answer": "Use casual, conversational language"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'I would ask you to investigate alternative forms of packaging.' This is ________.",
+    "choices": ["an urgent demand", "a polite formal request", "a casual suggestion", "an introduction to the email"],
+    "correct_answer": "a polite formal request"
+  },
+  {
+    "number": 16,
+    "question": "Read paragraph A of 'They Need Saving Too': 'This popularity enables organisations such as the WWF to raise money.' What does 'this popularity' refer to?",
+    "choices": ["The popularity of the article", "The popularity of the giant panda", "The popularity of the WWF", "The popularity of research"],
+    "correct_answer": "The popularity of the giant panda"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'With its tiny eyes, big mouth and slimy pink body, the blobfish is far from attractive.' Which paragraph contains this?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph B"
+  },
+  {
+    "number": 18,
+    "question": "In which paragraph does the author explain why wildlife conservation institutions often choose certain animals to represent them?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph A"
+  },
+  {
+    "number": 19,
+    "question": "In which paragraph does the author describe an animal that is very different from others in its class?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph C"
+  },
+  {
+    "number": 20,
+    "question": "Which paragraph explains how a creature's physical features protect it from an extreme environment?",
+    "choices": ["Paragraph A", "Paragraph B", "Paragraph C", "Paragraph D"],
+    "correct_answer": "Paragraph B"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'OK, but another option might be to use recycled materials.' This phrase is used to ________.",
+    "choices": ["agree with the speaker", "express strong indecision", "offer an alternative when disagreeing", "conclude the discussion"],
+    "correct_answer": "offer an alternative when disagreeing"
+  },
+  {
+    "number": 22,
+    "question": "Which option expresses indecision by listing both sides of an argument?",
+    "choices": ["You're spot on!", "On the one hand... on the other hand...", "It looks as if we agree.", "Shall we go with this idea?"],
+    "correct_answer": "On the one hand... on the other hand..."
+  },
+  {
+    "number": 23,
+    "question": "Read: 'This time next week, you will be giving your presentation but you won't have finished yet!' Which TWO tenses are used?",
+    "choices": ["Future Simple and Future Continuous", "Future Continuous and Future Perfect", "Future Perfect and Future Perfect Continuous", "Future Simple and Future Perfect"],
+    "correct_answer": "Future Continuous and Future Perfect"
+  },
+  {
+    "number": 24,
+    "question": "Choose: 'Some scientists think by the end of the 21st century we ________ a cure to many illnesses.'",
+    "choices": ["will discover", "will be discovering", "will have discovered", "are going to discover"],
+    "correct_answer": "will have discovered"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'Extra help is certain ________ arrive soon.'",
+    "choices": ["of", "to", "that", "for"],
+    "correct_answer": "to"
+  },
+  {
+    "number": 26,
+    "question": "Choose: 'I ________ selling them online once I have enough items.' (thinking about it)",
+    "choices": ["am planning to start", "am hoping to start", "am thinking of starting", "am about to start"],
+    "correct_answer": "am thinking of starting"
+  },
+  {
+    "number": 27,
+    "question": "Which phrase means 'to cause a result'?",
+    "choices": ["result from", "be due to", "lead to", "as a result of"],
+    "correct_answer": "lead to"
+  },
+  {
+    "number": 28,
+    "question": "Complete: 'Global warming has caused freak weather in many parts of the world.' Using RISE: 'Global warming ________ freak weather.'",
+    "choices": ["has resulted in", "has been due to", "has given rise to", "has led from"],
+    "correct_answer": "has given rise to"
+  },
+  {
+    "number": 29,
+    "question": "Which signposting phrase is used to conclude a lecture?",
+    "choices": ["The second thing is...", "Whereas...", "I'm going to be talking about...", "So, to sum up..."],
+    "correct_answer": "So, to sum up..."
+  },
+  {
+    "number": 30,
+    "question": "Which rhetorical technique involves grouping three similar ideas or points together?",
+    "choices": ["Repetition", "Tripling", "Emotion", "Rhetorical questions"],
+    "correct_answer": "Tripling"
+  },
+  {
+    "number": 31,
+    "question": "Read: 'Goldfish are ________ creatures that many people keep as pets.' (related to water)",
+    "choices": ["solitary", "nocturnal", "marine", "cuddly"],
+    "correct_answer": "marine"
+  },
+  {
+    "number": 32,
+    "question": "Read: 'Owls are ________ animals that can see very well at night.'",
+    "choices": ["marine", "solitary", "cuddly", "nocturnal"],
+    "correct_answer": "nocturnal"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'Children love small ________ animals like rabbits and guinea pigs.' (soft, pleasant to hold)",
+    "choices": ["marine", "nocturnal", "slimy", "cuddly"],
+    "correct_answer": "cuddly"
+  },
+  {
+    "number": 34,
+    "question": "Choose correctly: 'Below average rainfall can result ________ water scarcity.'",
+    "choices": ["from", "to", "in", "by"],
+    "correct_answer": "in"
+  },
+  {
+    "number": 35,
+    "question": "Choose correctly: 'Soil erosion ________ deforestation.' (caused by)",
+    "choices": ["leads to", "results in", "gives rise to", "results from"],
+    "correct_answer": "results from"
+  },
+  {
+    "number": 36,
+    "question": "Which of these describes the function of 'be due to + infinitive' in talking about the future?",
+    "choices": ["Plans not yet decided", "Something happening very soon", "Timetabled events", "Official arrangements and commands"],
+    "correct_answer": "Timetabled events"
+  },
+  {
+    "number": 37,
+    "question": "Which option correctly fills the blank? 'We ________ on holiday this summer.' (planned)",
+    "choices": ["are about to go", "are to go", "are planning to go", "are due to go"],
+    "correct_answer": "are planning to go"
+  },
+  {
+    "number": 38,
+    "question": "Which of these is a key word for Future Continuous?",
+    "choices": ["by the time", "by 2030", "this time tomorrow", "in three years from now"],
+    "correct_answer": "this time tomorrow"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Insects are invertebrates because they do not have a backbone.' What does 'backbone' mean?",
+    "choices": ["A type of wing", "The spinal column", "A protective shell", "A type of fin"],
+    "correct_answer": "The spinal column"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'It's been decided that we are going to raise money for a children's charity.' What kind of future is this?",
+    "choices": ["A decision made at the moment of speaking", "Something that has already been decided", "A timetabled event", "A routine event"],
+    "correct_answer": "Something that has already been decided"
+  }
+]

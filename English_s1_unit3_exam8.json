@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to fail to do what you promised someone'?",
+    "choices": [
+      "make up with somebody",
+      "let somebody down",
+      "put up with somebody",
+      "empathise with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "She _____ forever talking behind people's backs. (annoying present habit)",
+    "choices": [
+      "used to",
+      "was",
+      "is",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective describes someone who 'refuses to change their mind or consider different viewpoints'?",
+    "choices": [
+      "modest",
+      "sincere",
+      "bigoted",
+      "capable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'Monks gives Oliver the money that is owed to him and leaves the country. Oliver is adopted by Mr Brownlow.' What is the most important message of the ending?",
+    "choices": [
+      "crime is always rewarded in the end",
+      "honesty and kindness eventually triumph over dishonesty",
+      "money is the most important thing in life",
+      "Oliver should have stayed in the workhouse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "As a child, I _____ spend my weekends playing with my friends. (setting the scene)",
+    "choices": [
+      "would",
+      "am",
+      "is",
+      "used to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Which phrase means 'to have someone's values, work and lifestyle as your model to follow'?",
+    "choices": [
+      "loathe",
+      "despise",
+      "follow in somebody's footsteps",
+      "look down on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The person _____ designed the house is a world-famous architect.",
+    "choices": [
+      "which",
+      "whose",
+      "who",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to talk about someone in an unkind way when they are absent'?",
+    "choices": [
+      "give somebody a compliment",
+      "empathise with somebody",
+      "talk behind somebody's back",
+      "make up with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'A better work-life balance also enables families to spend more quality time together.' What does 'quality time' mean?",
+    "choices": [
+      "time spent working on important projects",
+      "time that is enjoyable and meaningful",
+      "time that is very short but productive",
+      "time spent alone without any distractions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Which sentence uses a DEFINING relative clause correctly?",
+    "choices": [
+      "Amman, which is the capital of Jordan, is beautiful.",
+      "My brother, who lives in the UK, is a doctor.",
+      "The man who gave me the gift is my friend.",
+      "Technology, which I find exciting, is always changing."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which phrase means 'a baby that has been recently born into a family'?",
+    "choices": [
+      "a clash between you and a sibling",
+      "flunking an important exam",
+      "a newborn baby in the family",
+      "relocating to a different town"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "He _____ go to the park after school every day. (repeated past action)",
+    "choices": [
+      "is",
+      "used to",
+      "am",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "In which section of an opinion essay should you 'restate your opinion or thesis'?",
+    "choices": [
+      "introduction",
+      "main body paragraph 1",
+      "main body paragraph 2",
+      "conclusion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 14,
+    "question": "Produced in South Korea, _____ I-talk has its headquarters, this is a bright new star.",
+    "choices": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to behave foolishly and waste time'?",
+    "choices": [
+      "show off",
+      "lose your temper",
+      "mess about",
+      "wind somebody up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "She is now an _____ figure for everyone in my family.",
+    "choices": [
+      "immature",
+      "bigoted",
+      "inspirational",
+      "conceited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'One day, they encouraged Oliver to beg for more food, but this made the managers of the workhouse angry.' Why did the managers get angry?",
+    "choices": [
+      "because Oliver refused to work",
+      "because the boys were playing games",
+      "because Oliver asked for more food, which was against the rules",
+      "because Oliver tried to escape"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "When I was younger, I _____ always stay up late. (annoying repeated habit — past)",
+    "choices": [
+      "would",
+      "is",
+      "am",
+      "will"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Which adjective means 'having a very high opinion of yourself'?",
+    "choices": [
+      "modest",
+      "trustworthy",
+      "conceited",
+      "sincere"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Rewrite: 'I bought my computer at a shop. It has closed down.' (Use relative clause)",
+    "choices": [
+      "The shop where I bought my computer has closed down.",
+      "The shop which I bought my computer has closed down.",
+      "The shop who I bought my computer has closed down.",
+      "The shop whose I bought my computer has closed down."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "She _____ be tiny, but now she's the tallest in the class. (past state — ended)",
+    "choices": [
+      "would",
+      "used to",
+      "was forever",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase means 'an extremely positive role model'?",
+    "choices": [
+      "a bad influence on somebody",
+      "look down on somebody",
+      "a good/shining example of",
+      "despise"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'People sometimes think that stressful or upsetting events shape us negatively.' Which word in this sentence signals that this is an OPINION?",
+    "choices": [
+      "stressful",
+      "events",
+      "think",
+      "negatively"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "The year _____ I was born was 2005.",
+    "choices": [
+      "where",
+      "which",
+      "whose",
+      "when"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to stop being upset and forgive each other after an argument'?",
+    "choices": [
+      "fall out with somebody",
+      "lose your temper",
+      "make up with somebody",
+      "have a go at somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Suha hates anyone who is different from her. She's really _____.",
+    "choices": [
+      "sincere",
+      "bigoted",
+      "trustworthy",
+      "charming"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "In 'Older people tend to think that teenagers spend too much time relaxing', the phrase 'tend to think' is used to:",
+    "choices": [
+      "express an absolute fact",
+      "give a specific example",
+      "generalise about what is usually the case",
+      "introduce a personal opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "What does 'subsistence' mean in the context of the workhouses?",
+    "choices": [
+      "great luxury and comfort",
+      "having barely enough to survive",
+      "earning a large income",
+      "providing extra food for workers"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "My friend, _____ I've known for ten years, is very supportive.",
+    "choices": [
+      "that",
+      "which",
+      "whose",
+      "who"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'In conclusion, I would say that while society may have changed, families remain as close as they were, aided by technology.' What is the purpose of this sentence?",
+    "choices": [
+      "to introduce the topic",
+      "to present a supporting argument",
+      "to summarise the thesis and main points",
+      "to give new information"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which phrase means 'to endure someone or something unpleasant'?",
+    "choices": [
+      "make fun of somebody",
+      "put up with somebody",
+      "give somebody a compliment",
+      "empathise with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "My brother _____ always losing his football boots. It drove my parents crazy.",
+    "choices": [
+      "was",
+      "is",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to behave in a way that inspires others'?",
+    "choices": [
+      "look down on somebody",
+      "set a good example",
+      "despise",
+      "loathe"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Oliver was sad to leave the other orphans. Although the boys lived hand-to-mouth, they had a sense of belonging.' What does 'sense of belonging' tell us about the orphans?",
+    "choices": [
+      "they were very wealthy and happy",
+      "they felt connected to and accepted by each other despite their poverty",
+      "they wanted to leave the orphanage",
+      "they were well-fed and cared for"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The relative pronoun 'whose' is used to show:",
+    "choices": [
+      "time",
+      "place",
+      "possession",
+      "reason"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to suddenly and unexpectedly start crying'?",
+    "choices": [
+      "lose your temper",
+      "burst into tears",
+      "make a fuss of somebody",
+      "blow things out of proportion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "He _____ always come home late and expect dinner to be ready. (annoying typical past habit)",
+    "choices": [
+      "is",
+      "would",
+      "used to be",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective describes someone who 'shows great warmth, charm, and attractiveness in personality'?",
+    "choices": [
+      "bigoted",
+      "charming",
+      "pushy",
+      "immature"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "That boy, _____ mum is Japanese, is fluent in five languages.",
+    "choices": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which phrase means 'to view someone as an inspiration because of their actions'?",
+    "choices": [
+      "loathe",
+      "look down on",
+      "find somebody inspirational",
+      "despise"
+    ],
+    "correct_answer": "c"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Coal, oil and gas are examples of ________.",
+    "choices": ["toxic waste", "renewable energy", "fossil fuels", "vehicle emissions"],
+    "correct_answer": "fossil fuels"
+  },
+  {
+    "number": 2,
+    "question": "The gradual wearing away of soil is called soil ________.",
+    "choices": ["scarcity", "erosion", "emission", "warming"],
+    "correct_answer": "erosion"
+  },
+  {
+    "number": 3,
+    "question": "Something trapped in the atmosphere which causes the planet to heat up is called a ________ gas.",
+    "choices": ["fossil", "renewable", "greenhouse", "vehicle"],
+    "correct_answer": "greenhouse"
+  },
+  {
+    "number": 4,
+    "question": "Which weather phrase means 'extremely hot' like the sun burning?",
+    "choices": ["heavy heat", "freak heat", "scorching heat", "sub-zero heat"],
+    "correct_answer": "scorching heat"
+  },
+  {
+    "number": 5,
+    "question": "Temperatures below zero degrees are called ________ temperatures.",
+    "choices": ["soaring", "torrential", "blistering", "sub-zero"],
+    "correct_answer": "sub-zero"
+  },
+  {
+    "number": 6,
+    "question": "Unusually extreme or unexpected weather is called ________ weather.",
+    "choices": ["heavy", "freak", "torrential", "blistering"],
+    "correct_answer": "freak"
+  },
+  {
+    "number": 7,
+    "question": "In the 'Future's Bright' text, in 2018 the proportion of the world's population living in extreme poverty fell to around ________.",
+    "choices": ["5%", "10%", "15%", "20%"],
+    "correct_answer": "10%"
+  },
+  {
+    "number": 8,
+    "question": "According to the 'Future's Bright' text, which technology may save huge numbers of lives?",
+    "choices": ["Robots", "Driverless cars", "Solar panels", "Wind turbines"],
+    "correct_answer": "Driverless cars"
+  },
+  {
+    "number": 9,
+    "question": "In 'The Future's Terrifying', what will AI and robotics eliminate?",
+    "choices": ["Skilled jobs only", "Unskilled and semi-skilled jobs", "Management positions", "Creative jobs"],
+    "correct_answer": "Unskilled and semi-skilled jobs"
+  },
+  {
+    "number": 10,
+    "question": "Which word means 'covered in liquid and not nice to touch'?",
+    "choices": ["furry", "cuddly", "slimy", "marine"],
+    "correct_answer": "slimy"
+  },
+  {
+    "number": 11,
+    "question": "An animal that is 'solitary' prefers to ________.",
+    "choices": ["live in large groups", "travel alone or in small groups", "sleep during the day", "live near water"],
+    "correct_answer": "travel alone or in small groups"
+  },
+  {
+    "number": 12,
+    "question": "The pangolin is targeted by poachers because its scales are highly prized in ________.",
+    "choices": ["European medicine", "traditional Chinese medicine", "African medicine", "modern science"],
+    "correct_answer": "traditional Chinese medicine"
+  },
+  {
+    "number": 13,
+    "question": "Why does the blobfish have tiny fins and no skeleton?",
+    "choices": ["It evolved in warm water", "It adapted to survive high water pressure", "It lost them through disease", "It was born without them"],
+    "correct_answer": "It adapted to survive high water pressure"
+  },
+  {
+    "number": 14,
+    "question": "The aye-aye sleeps ________ in nests in the trees.",
+    "choices": ["at night", "during the day", "in winter", "underwater"],
+    "correct_answer": "during the day"
+  },
+  {
+    "number": 15,
+    "question": "In formal email writing, the introduction should ________.",
+    "choices": ["offer solutions", "state reasons for writing", "ask for action", "mention a reply"],
+    "correct_answer": "state reasons for writing"
+  },
+  {
+    "number": 16,
+    "question": "Which is the correct formal version of 'You've got to stop using plastic!'?",
+    "choices": ["You should stop using plastic!", "I urge you to stop using plastic.", "Please stop using plastic!", "Stop using plastic now!"],
+    "correct_answer": "I urge you to stop using plastic."
+  },
+  {
+    "number": 17,
+    "question": "'I'm thinking of ________ my summer job.' Complete with the correct form.",
+    "choices": ["to quit", "quit", "quitting", "quitted"],
+    "correct_answer": "quitting"
+  },
+  {
+    "number": 18,
+    "question": "'The bus ________ leave at 10 o'clock.' — formal timetabled command.",
+    "choices": ["is about to", "is going to", "is to", "is due to"],
+    "correct_answer": "is due to"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct form: 'I ________ create a new website.' (already decided plan)",
+    "choices": ["will", "am about to", "am going to", "am due to"],
+    "correct_answer": "am going to"
+  },
+  {
+    "number": 20,
+    "question": "Which option correctly uses Future Perfect? 'By next year, I ________ married.'",
+    "choices": ["will get", "will be getting", "will have got", "am going to get"],
+    "correct_answer": "will have got"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'It looks as if we agree on the second option.' This phrase is used to ________.",
+    "choices": ["express indecision", "reach a decision", "express disagreement", "express surprise"],
+    "correct_answer": "reach a decision"
+  },
+  {
+    "number": 22,
+    "question": "Which is correct? 'On the one hand she is kind, ________ on the other hand she is strict.'",
+    "choices": ["so", "but", "because", "since"],
+    "correct_answer": "but"
+  },
+  {
+    "number": 23,
+    "question": "Choose the correct option: 'By 2050, software ________ to predict traffic jams.'",
+    "choices": ["will be able", "will have been able", "is going to be able", "will be being able"],
+    "correct_answer": "will be able"
+  },
+  {
+    "number": 24,
+    "question": "In a compound noun where both words are nouns, the stress is always on ________.",
+    "choices": ["the second noun", "both equally", "the first noun", "neither"],
+    "correct_answer": "the first noun"
+  },
+  {
+    "number": 25,
+    "question": "Which future form is used for timetabled events?",
+    "choices": ["will + infinitive", "be going to + infinitive", "Simple Present", "Future Perfect"],
+    "correct_answer": "Simple Present"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'The orangutan and black rhino are critically endangered.' What does 'critically endangered' mean?",
+    "choices": ["They are common animals.", "They face a very high risk of extinction.", "They are being protected well.", "They are no longer threatened."],
+    "correct_answer": "They face a very high risk of extinction."
+  },
+  {
+    "number": 27,
+    "question": "Which phrase means 'almost certainly will happen'?",
+    "choices": ["is unlikely to", "might", "is bound to", "could"],
+    "correct_answer": "is bound to"
+  },
+  {
+    "number": 28,
+    "question": "'Seriously?!' is used to express ________.",
+    "choices": ["agreement", "indecision", "surprise or disagreement", "reaching a decision"],
+    "correct_answer": "surprise or disagreement"
+  },
+  {
+    "number": 29,
+    "question": "Global warming ________ to lead to water shortages. (almost certain)",
+    "choices": ["is unlikely", "is certain", "might", "could"],
+    "correct_answer": "is certain"
+  },
+  {
+    "number": 30,
+    "question": "In the text about Farid's email, what does he urge the company to do?",
+    "choices": ["Increase plastic packaging", "Reduce plastic packaging", "Stop selling vegetables", "Change their product prices"],
+    "correct_answer": "Reduce plastic packaging"
+  },
+  {
+    "number": 31,
+    "question": "Read: 'Much of this plastic is a result of unnecessary packaging.' Which cause-and-effect structure is shown?",
+    "choices": ["result from", "give rise to", "as a result of", "lead to"],
+    "correct_answer": "as a result of"
+  },
+  {
+    "number": 32,
+    "question": "Which signposting phrase introduces a topic in a lecture or presentation?",
+    "choices": ["So, to sum up...", "In other words...", "I'm going to be talking about...", "The second thing is..."],
+    "correct_answer": "I'm going to be talking about..."
+  },
+  {
+    "number": 33,
+    "question": "Which signposting phrase is used to contrast two ideas?",
+    "choices": ["In other words", "I'm going to be talking about", "Whereas", "So, to sum up"],
+    "correct_answer": "Whereas"
+  },
+  {
+    "number": 34,
+    "question": "Which phrase is used when a speaker is going to paraphrase what they just said?",
+    "choices": ["So, to sum up", "In other words", "The second thing is", "Whereas"],
+    "correct_answer": "In other words"
+  },
+  {
+    "number": 35,
+    "question": "'So, to sum up...' is used for ________.",
+    "choices": ["introducing a topic", "sequencing an argument", "contrasting ideas", "concluding"],
+    "correct_answer": "concluding"
+  },
+  {
+    "number": 36,
+    "question": "Which rhetorical device involves repeating a word or phrase for emphasis?",
+    "choices": ["Tripling", "Quotations", "Emotion", "Repetition"],
+    "correct_answer": "Repetition"
+  },
+  {
+    "number": 37,
+    "question": "Using information in groups of three in a speech is called ________.",
+    "choices": ["Repetition", "Tripling", "Emotion", "Rhetorical questions"],
+    "correct_answer": "Tripling"
+  },
+  {
+    "number": 38,
+    "question": "A question asked to make a point, not to get an answer, is called a ________ question.",
+    "choices": ["leading", "rhetorical", "factual", "direct"],
+    "correct_answer": "rhetorical"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'As a consequence of artificial intelligence, some people have lost their jobs.' What caused job losses?",
+    "choices": ["Global warming", "Plastic packaging", "Artificial intelligence", "Water scarcity"],
+    "correct_answer": "Artificial intelligence"
+  },
+  {
+    "number": 40,
+    "question": "Which word means 'soft and pleasant to hold, like a soft toy'?",
+    "choices": ["slimy", "furry", "cuddly", "marine"],
+    "correct_answer": "cuddly"
+  }
+]

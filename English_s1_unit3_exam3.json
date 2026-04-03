@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which adjective means 'able to deal with the most difficult situations'?",
+    "choices": [
+      "immature",
+      "idealistic",
+      "tough",
+      "charming"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "She _____ constantly complaining about her workload. Her boss is getting frustrated.",
+    "choices": [
+      "used to",
+      "is",
+      "would",
+      "was"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which phrase means 'to tolerate someone or something'?",
+    "choices": [
+      "let somebody down",
+      "make up with somebody",
+      "put up with somebody",
+      "lose your temper"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'Luckily, he survived. When he was better, he was taken to Mr Brownlow, and was made to feel at home.' What does 'feel at home' mean?",
+    "choices": [
+      "to feel lost and confused",
+      "to feel comfortable in a particular place",
+      "to go back to your own house",
+      "to feel hungry and tired"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "We often use _____ to set the scene when describing past habits, and then use 'would' for other examples.",
+    "choices": [
+      "would",
+      "was/were + always",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Which adjective describes someone who 'always tells people how great they are'?",
+    "choices": [
+      "modest",
+      "sincere",
+      "conceited",
+      "capable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Rewrite using a relative clause: 'I was talking about an app. It's really cool.'",
+    "choices": [
+      "I was talking about an app which it's really cool.",
+      "I was talking about an app that is really cool.",
+      "I was talking about an app, which really cool.",
+      "I was talking about an app who is really cool."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to make someone feel foolish by laughing at them'?",
+    "choices": [
+      "empathise with somebody",
+      "give somebody a compliment",
+      "make fun of somebody",
+      "be the peacemaker"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Many people today feel that relationships between members of the same family are not as close as they were a few generations ago.' This sentence expresses:",
+    "choices": [
+      "a proven scientific fact",
+      "what many people believe or feel",
+      "a specific statistic from research",
+      "the author's final conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Which word is used for a 'fight or strong disagreement'?",
+    "choices": [
+      "row",
+      "clash",
+      "both a and b",
+      "relocate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "2001 was the year _____ the terrorist attack happened.",
+    "choices": [
+      "where",
+      "whose",
+      "which",
+      "when"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Why did Oliver's brother Monks want Oliver to be a thief?",
+    "choices": [
+      "because Monks was a generous person",
+      "because he wanted Oliver to be punished",
+      "so that Oliver would never be honest and Monks could keep all the money",
+      "because Oliver had stolen from Monks before"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "She _____ always make a fuss of him when they visited. (typical past behaviour - repeated action)",
+    "choices": [
+      "is",
+      "would",
+      "used to be",
+      "was forever"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Which adjective describes a person who is 'not yet mentally or emotionally mature'?",
+    "choices": [
+      "idealistic",
+      "immature",
+      "inspirational",
+      "compassionate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'It is commonly accepted that the time needed to run a household has also decreased over the last few decades.' Which phrase signals an impersonal view?",
+    "choices": [
+      "I believe that",
+      "In my opinion",
+      "It is commonly accepted that",
+      "Personally"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "What does 'went hungry' mean in the context of Oliver Twist?",
+    "choices": [
+      "he ate a lot",
+      "he didn't have enough food",
+      "he became a chef",
+      "he shared food with others"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The city _____ I was born has changed a lot.",
+    "choices": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Which phrase describes 'a newborn baby in the family'?",
+    "choices": [
+      "a row with your best friend",
+      "flunking an important exam",
+      "a newborn baby in the family",
+      "a clash between you and a sibling"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Khalil's life is completely dedicated to tackling pollution. He's _____ about it.",
+    "choices": [
+      "idealistic",
+      "immature",
+      "conceited",
+      "passionate"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "Which phrase in an opinion essay gives a PERSONAL opinion?",
+    "choices": [
+      "It is often argued that",
+      "It is widely believed that",
+      "Many people today feel that",
+      "I would argue that"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Rewrite using a participle clause: 'There are very few people who are still using analogue televisions.'",
+    "choices": [
+      "There are very few people used analogue televisions.",
+      "There are very few people still using analogue televisions.",
+      "There are very few people to use analogue televisions.",
+      "There are very few people which using analogue televisions."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which adjective describes someone who 'can always be trusted'?",
+    "choices": [
+      "bigoted",
+      "trustworthy",
+      "defensive",
+      "pushy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Changes in our working lives and the advent of technology have certainly altered how families interact.' What does 'altered' mean?",
+    "choices": [
+      "improved completely",
+      "destroyed entirely",
+      "changed",
+      "maintained"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "My brother _____ always shouting at me when we were kids. I found it very annoying.",
+    "choices": [
+      "is",
+      "was",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which word means 'to hate something or someone very much'?",
+    "choices": [
+      "admire",
+      "idolise",
+      "loathe",
+      "despise"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "What does 'a subsistence' refer to in the context of the workhouses?",
+    "choices": [
+      "luxury and comfort",
+      "having just enough to survive",
+      "a large income",
+      "a type of work"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "The headset _____ came with my phone is really uncomfortable to wear.",
+    "choices": [
+      "whose",
+      "who",
+      "which",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase means 'to look at someone with admiration and respect'?",
+    "choices": [
+      "look down on",
+      "despise",
+      "look up to",
+      "loathe"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read the essay extract: 'I would say that while society may have changed, families remain as close as they were.' This sentence is used in the _____ of the essay.",
+    "choices": [
+      "introduction",
+      "main body",
+      "conclusion",
+      "fact box"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Which phrase means 'to disappoint someone'?",
+    "choices": [
+      "empathise with somebody",
+      "let somebody down",
+      "make up with somebody",
+      "give somebody a compliment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "She _____ know all the answers when she was a student. (past state — no longer true)",
+    "choices": [
+      "would",
+      "is always",
+      "used to",
+      "was forever"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Which phrase means 'to have someone you admire very highly, almost as if they are perfect'?",
+    "choices": [
+      "look down on",
+      "put somebody on a pedestal",
+      "despise",
+      "set a good example"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Jameela believes she's a better person than all her friends. She's so _____.",
+    "choices": [
+      "hypocritical",
+      "charming",
+      "conceited",
+      "compassionate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Oliver decided to escape to London but had no food and went hungry for days, before he met another boy called Jack Dawkins.' Who showed Oliver the way to the city?",
+    "choices": [
+      "Fagin",
+      "Mr Brownlow",
+      "Mr Sikes",
+      "Jack Dawkins"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "In a non-defining relative clause, the information given is:",
+    "choices": [
+      "essential and cannot be removed",
+      "extra and non-essential",
+      "always about a place",
+      "always about time"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to argue with your closest friend'?",
+    "choices": [
+      "a newborn baby in the family",
+      "a row with your best friend",
+      "flunking an important exam",
+      "relocating to a different town"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "She was _____ arguing with her parents when she was younger. (annoying repeated habit in the past)",
+    "choices": [
+      "forever",
+      "used to",
+      "will",
+      "is"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective describes someone who 'has high standards that are not always realistic'?",
+    "choices": [
+      "dedicated",
+      "capable",
+      "idealistic",
+      "compassionate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Going online can be seen as a way of bringing families together.' The phrase 'can be seen as' is used to express:",
+    "choices": [
+      "a personal opinion",
+      "a conclusion",
+      "an impersonal or general view",
+      "a specific fact"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which phrase means 'to follow the example set by another person'?",
+    "choices": [
+      "set a good example",
+      "find somebody inspirational",
+      "follow in somebody's footsteps",
+      "put somebody on a pedestal"
+    ],
+    "correct_answer": "c"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to lose control of your emotions and get angry'?",
+    "choices": [
+      "put up with somebody",
+      "make up with somebody",
+      "lose your temper",
+      "empathise with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "My uncle _____ always take me swimming when I was young. (repeated past action)",
+    "choices": [
+      "used to",
+      "is",
+      "would",
+      "will"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective describes someone who 'always tells the truth and acts with integrity'?",
+    "choices": [
+      "bigoted",
+      "sincere",
+      "pushy",
+      "defensive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'A striking example of this is the humble washing machine, which Hans Rosling called the greatest invention of the industrial revolution.' Why did he call it the greatest invention?",
+    "choices": [
+      "because it cleaned clothes faster than people could",
+      "because it made clothes look new",
+      "because it freed parents to spend more time with their children",
+      "because it saved families a lot of money"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "He didn't _____ to lose his temper so often when he was younger.",
+    "choices": [
+      "use",
+      "used",
+      "using",
+      "uses"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Which phrase means 'to view someone as a bad model whose behaviour negatively influences others'?",
+    "choices": [
+      "set a good example",
+      "follow in somebody's footsteps",
+      "a bad influence on somebody",
+      "find somebody inspirational"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The architect of the tower, _____ began work in 2014, was very talented.",
+    "choices": [
+      "which",
+      "whose",
+      "where",
+      "who"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to stop being angry with someone and become friends again'?",
+    "choices": [
+      "fall out with somebody",
+      "make up with somebody",
+      "lose your temper",
+      "wind somebody up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Jack introduced Oliver to an old man called Fagin, who gave Oliver some food and a bed to sleep on.' Why do you think Fagin gave Oliver food and a bed?",
+    "choices": [
+      "because Fagin was a generous and kind person",
+      "because he wanted Oliver to trust him so he could use him later",
+      "because Oliver was Fagin's relative",
+      "because Fagin was the manager of a workhouse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "In which sentence can the relative pronoun NOT be omitted?",
+    "choices": [
+      "The book (that) I read was excellent.",
+      "The man (who) I met was kind.",
+      "Amman, which is the capital, is beautiful.",
+      "The app (that) you can keep in your pocket is useful."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which phrase describes the act of 'moving to live in a different town or country'?",
+    "choices": [
+      "a clash between you and a sibling",
+      "flunking an important exam",
+      "relocating to a different town or country",
+      "a row with your best friend"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "She _____ be the most creative student in the class, but now she doesn't show much interest.",
+    "choices": [
+      "would",
+      "is",
+      "am",
+      "used to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "What is a 'topic sentence' in academic writing?",
+    "choices": [
+      "the last sentence of a paragraph",
+      "the sentence that contains the main idea of the paragraph",
+      "a sentence that gives background information",
+      "a sentence that concludes the essay"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "I found the book _____ page was torn at the library.",
+    "choices": [
+      "which",
+      "whose",
+      "who",
+      "where"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to suddenly start crying'?",
+    "choices": [
+      "make a fuss of somebody",
+      "show off",
+      "burst into tears",
+      "mess about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Aunt Abeer has always wanted to help children and she is a really _____ person.",
+    "choices": [
+      "conceited",
+      "pushy",
+      "compassionate",
+      "bigoted"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'Whereas in the past family members living apart would have to write letters and often wait a long time for a reply, nowadays there are many more ways to keep in touch.' This comparison shows that technology has:",
+    "choices": [
+      "made family communication more difficult",
+      "made family communication easier and more frequent",
+      "replaced face-to-face meetings completely",
+      "caused families to argue more often"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "My sister _____ always mess about in class when she was young.",
+    "choices": [
+      "is",
+      "used to",
+      "are",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which word means 'to worship or have extreme admiration for someone'?",
+    "choices": [
+      "loathe",
+      "despise",
+      "idolise",
+      "look down on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "My grandma's house, _____ has no Wi-Fi, is very peaceful.",
+    "choices": [
+      "that",
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "She _____ always be the last one to leave the office. (typical annoying present behaviour)",
+    "choices": [
+      "used to",
+      "was",
+      "will",
+      "were"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase means 'a person who inspires others through their achievements and behaviour'?",
+    "choices": [
+      "a bad influence on somebody",
+      "a good/shining example of",
+      "look down on",
+      "despise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'In some cases, young people communicate more through their phones than face-to-face.' 'In some cases' is used to:",
+    "choices": [
+      "state an absolute fact",
+      "show certainty",
+      "generalise about a situation",
+      "introduce a conclusion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "The shop _____ I bought my computer from has closed down.",
+    "choices": [
+      "who",
+      "whose",
+      "which",
+      "when"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to dismiss or feel contempt for someone'?",
+    "choices": [
+      "look up to",
+      "admire",
+      "look down on",
+      "idolise"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Huda is in a lot of pain from her illness, but she doesn't complain. She's _____.",
+    "choices": [
+      "capable",
+      "pushy",
+      "passionate",
+      "tough"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "In 'By and large, young people do more sport', 'by and large' means:",
+    "choices": [
+      "in very specific cases",
+      "generally speaking",
+      "never",
+      "exactly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "What does 'skinny' mean?",
+    "choices": [
+      "very tall",
+      "very old",
+      "very thin",
+      "very strong"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "These headphones, _____ I paid a fortune for, stopped working after two days.",
+    "choices": [
+      "that",
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Oliver is adopted by Mr Brownlow, which shows what a kind man he is.' The word 'which' here refers to:",
+    "choices": [
+      "Oliver",
+      "Mr Brownlow",
+      "the whole idea of adopting Oliver",
+      "the country Monks left"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which phrase means 'to have a strong disagreement'?",
+    "choices": [
+      "sibling",
+      "clash",
+      "relocate",
+      "flunk"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "When we were kids, my sister _____ always losing her shoes. It drove my mum crazy.",
+    "choices": [
+      "is",
+      "used to",
+      "was",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to have an inspiring effect on people around you'?",
+    "choices": [
+      "look down on somebody",
+      "despise somebody",
+      "find somebody inspirational",
+      "loathe somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'It is commonly accepted that the time needed to run a household has decreased.' This phrase introduces:",
+    "choices": [
+      "a personal opinion",
+      "a generalisation accepted by most people",
+      "a specific statistic",
+      "a conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Rewrite: 'The flip phone, which was designed in the 1990s, is rapidly becoming popular again.' (Participle clause)",
+    "choices": [
+      "The flip phone, designing in the 1990s, is rapidly becoming popular again.",
+      "The flip phone, designed in the 1990s, is rapidly becoming popular again.",
+      "The flip phone, which designing in the 1990s, is rapidly becoming popular again.",
+      "The flip phone design in the 1990s is rapidly becoming popular again."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to genuinely share and understand another person's emotions'?",
+    "choices": [
+      "make fun of somebody",
+      "empathise with somebody",
+      "talk behind somebody's back",
+      "fall out with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "My sister _____ constantly winding me up when we were growing up together.",
+    "choices": [
+      "is",
+      "was",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective means 'genuinely caring about others who are suffering or in need'?",
+    "choices": [
+      "pushy",
+      "defensive",
+      "compassionate",
+      "conceited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The writer, _____ book was published last year, is very famous.",
+    "choices": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "What is the correct structure of an opinion essay in order?",
+    "choices": [
+      "main body then introduction then conclusion",
+      "conclusion then main body then introduction",
+      "introduction then main body then conclusion",
+      "introduction then conclusion then main body"
+    ],
+    "correct_answer": "c"
+  }
+]

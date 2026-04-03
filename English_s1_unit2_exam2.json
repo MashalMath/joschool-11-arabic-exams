@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Types of animals in danger of extinction are called ________.",
+    "choices": ["fossil fuels", "endangered species", "toxic waste", "habitat loss"],
+    "correct_answer": "endangered species"
+  },
+  {
+    "number": 2,
+    "question": "The gradual increase in the Earth's temperature is called global ________.",
+    "choices": ["warming", "erosion", "scarcity", "emission"],
+    "correct_answer": "warming"
+  },
+  {
+    "number": 3,
+    "question": "Poisonous gases produced by engines of non-electric vehicles are called ________.",
+    "choices": ["greenhouse gases", "vehicle emissions", "acid rain", "toxic waste"],
+    "correct_answer": "vehicle emissions"
+  },
+  {
+    "number": 4,
+    "question": "Chemicals and other harmful waste products are known as ________.",
+    "choices": ["fossil fuels", "exhaust fumes", "renewable energy", "toxic waste"],
+    "correct_answer": "toxic waste"
+  },
+  {
+    "number": 5,
+    "question": "A machine used to produce electric power from wind is a ________.",
+    "choices": ["solar panel", "wind turbine", "greenhouse gas", "ozone layer"],
+    "correct_answer": "wind turbine"
+  },
+  {
+    "number": 6,
+    "question": "Rain that contains lots of pollutants is called ________ rain.",
+    "choices": ["torrential", "freak", "acid", "heavy"],
+    "correct_answer": "acid"
+  },
+  {
+    "number": 7,
+    "question": "The disappearance of areas that are home to plants and animals is called loss of ________.",
+    "choices": ["ozone layer", "habitat", "fossil fuels", "vehicle emissions"],
+    "correct_answer": "habitat"
+  },
+  {
+    "number": 8,
+    "question": "Which collocation means temperatures that are extremely high and rising?",
+    "choices": ["sub-zero temperatures", "soaring temperatures", "freak temperatures", "heavy temperatures"],
+    "correct_answer": "soaring temperatures"
+  },
+  {
+    "number": 9,
+    "question": "Which word means 'covered in thick, soft hair'?",
+    "choices": ["slimy", "marine", "furry", "solitary"],
+    "correct_answer": "furry"
+  },
+  {
+    "number": 10,
+    "question": "Which word describes an animal that is active and awake at night?",
+    "choices": ["solitary", "cuddly", "nocturnal", "marine"],
+    "correct_answer": "nocturnal"
+  },
+  {
+    "number": 11,
+    "question": "The pangolin population in China has fallen by around ________ since the 1960s.",
+    "choices": ["50%", "70%", "80%", "90%"],
+    "correct_answer": "90%"
+  },
+  {
+    "number": 12,
+    "question": "The aye-aye is found only on the island of ________.",
+    "choices": ["Sri Lanka", "Madagascar", "Borneo", "Java"],
+    "correct_answer": "Madagascar"
+  },
+  {
+    "number": 13,
+    "question": "In the article 'They Need Saving Too', paragraph A says that invertebrates make up over ________ of all creatures on Earth.",
+    "choices": ["50%", "70%", "80%", "90%"],
+    "correct_answer": "90%"
+  },
+  {
+    "number": 14,
+    "question": "'I'm on the fence about it.' This phrase means the speaker ________.",
+    "choices": ["has made a decision", "is very enthusiastic", "hasn't made a decision yet", "strongly agrees"],
+    "correct_answer": "hasn't made a decision yet"
+  },
+  {
+    "number": 15,
+    "question": "'That's what I was going to say!' is used to express ________.",
+    "choices": ["disagreement", "indecision", "reaching a decision", "agreement"],
+    "correct_answer": "agreement"
+  },
+  {
+    "number": 16,
+    "question": "'We're on the wrong track.' means ________.",
+    "choices": ["we are going in the right direction", "we are not in agreement", "we have reached a decision", "we are very sure"],
+    "correct_answer": "we are not in agreement"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct future form: 'By 2075, the population ________ to more than nine billion.'",
+    "choices": ["will rise", "will be rising", "will have risen", "is going to rise"],
+    "correct_answer": "will have risen"
+  },
+  {
+    "number": 18,
+    "question": "Which key word is associated with Future Perfect tense?",
+    "choices": ["this time tomorrow", "at the weekend", "by 2030", "tomorrow morning"],
+    "correct_answer": "by 2030"
+  },
+  {
+    "number": 19,
+    "question": "Future Perfect Continuous = Subject + ________.",
+    "choices": ["will + have + V3", "will + be + Ving", "will + have + been + Ving", "be + going to + Vinf"],
+    "correct_answer": "will + have + been + Ving"
+  },
+  {
+    "number": 20,
+    "question": "'I'm having second thoughts.' means the speaker is ________.",
+    "choices": ["very confident about a decision", "thinking of changing their mind", "reaching a final decision", "expressing strong agreement"],
+    "correct_answer": "thinking of changing their mind"
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct option: 'By the time today's young people retire, they ________ for 70 years.'",
+    "choices": ["will work", "will be working", "will have been working", "are going to work"],
+    "correct_answer": "will have been working"
+  },
+  {
+    "number": 22,
+    "question": "'Technology is sure ________ become safer.' Complete with the correct structure.",
+    "choices": ["to", "of", "that", "for"],
+    "correct_answer": "to"
+  },
+  {
+    "number": 23,
+    "question": "Which phrase means 'almost definitely will not happen'?",
+    "choices": ["is bound to", "is sure to", "is unlikely to", "is certain to"],
+    "correct_answer": "is unlikely to"
+  },
+  {
+    "number": 24,
+    "question": "In formal writing, instead of 'Some people say', you should write ________.",
+    "choices": ["People claim", "We are told that", "It is said by people", "Many think"],
+    "correct_answer": "We are told that"
+  },
+  {
+    "number": 25,
+    "question": "In a formal letter, the main paragraphs should ________.",
+    "choices": ["state reasons for writing", "mention you expect a reply", "state problems and offer solutions", "ask the reader to take action"],
+    "correct_answer": "state problems and offer solutions"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'Within 20 years, we will have stopped fighting over oil – we'll be fighting over water instead.' What does this suggest about the future?",
+    "choices": ["Oil will become more valuable.", "Water will become a major source of conflict.", "People will stop fighting completely.", "Oil and water will both be plentiful."],
+    "correct_answer": "Water will become a major source of conflict."
+  },
+  {
+    "number": 27,
+    "question": "Which word means 'related to the sea'?",
+    "choices": ["solitary", "furry", "marine", "nocturnal"],
+    "correct_answer": "marine"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct form: 'I ________ to go to the lecture on climate change.' (plan)",
+    "choices": ["am thinking of going", "am planning to go", "am about to go", "am due to go"],
+    "correct_answer": "am planning to go"
+  },
+  {
+    "number": 29,
+    "question": "'She'll be visiting her family at the weekend.' This Future Continuous indicates ________.",
+    "choices": ["a completed action", "a routine or normal event", "an action decided now", "a timetabled event"],
+    "correct_answer": "a routine or normal event"
+  },
+  {
+    "number": 30,
+    "question": "Which sentence correctly uses 'be about to'?",
+    "choices": ["They are about to planning a trip.", "They are about to announce the winners.", "They about to announce the winners.", "They are about announce the winners."],
+    "correct_answer": "They are about to announce the winners."
+  },
+  {
+    "number": 31,
+    "question": "In the compound noun 'industrial waste', the stress falls on ________.",
+    "choices": ["both words equally", "industrial", "neither word", "waste"],
+    "correct_answer": "waste"
+  },
+  {
+    "number": 32,
+    "question": "In the compound noun 'climate change', the stress falls on ________.",
+    "choices": ["change", "climate", "both equally", "neither"],
+    "correct_answer": "climate"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'The blobfish has tiny fins and no skeleton, which keeps it from being crushed by the water pressure.' What does the underlined word 'which' refer to?",
+    "choices": ["tiny fins only", "having tiny fins and no skeleton", "the ocean floor", "the water pressure"],
+    "correct_answer": "having tiny fins and no skeleton"
+  },
+  {
+    "number": 34,
+    "question": "Driving is ________ to become safer because of driverless cars.",
+    "choices": ["unlikely", "certain", "sure", "bound"],
+    "correct_answer": "sure"
+  },
+  {
+    "number": 35,
+    "question": "'Ok, so shall we go with this idea?' is a phrase used for ________.",
+    "choices": ["expressing indecision", "expressing disagreement", "reaching a decision", "expressing surprise"],
+    "correct_answer": "reaching a decision"
+  },
+  {
+    "number": 36,
+    "question": "Which future form expresses a decision made at the moment of speaking?",
+    "choices": ["be going to", "Future Perfect", "will + infinitive", "Future Continuous"],
+    "correct_answer": "will + infinitive"
+  },
+  {
+    "number": 37,
+    "question": "The process by which gases trapped in the atmosphere cause the planet to heat up is called the ________ effect.",
+    "choices": ["acid", "habitat", "greenhouse", "ozone"],
+    "correct_answer": "greenhouse"
+  },
+  {
+    "number": 38,
+    "question": "Invertebrates are animals ________.",
+    "choices": ["that only live in water", "without a backbone", "that are nocturnal", "covered in scales"],
+    "correct_answer": "without a backbone"
+  },
+  {
+    "number": 39,
+    "question": "Which phrase means the speaker cannot identify the exact reason for something?",
+    "choices": ["I'm torn between", "I can't put my finger on it", "You're spot on", "Let's make a decision"],
+    "correct_answer": "I can't put my finger on it"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'This popularity enables organisations such as the WWF to raise money to support a range of critically endangered species.' What does 'this popularity' refer to?",
+    "choices": ["The popularity of the giant panda", "The popularity of invertebrates", "The popularity of the WWF logo", "The popularity of wildlife documentaries"],
+    "correct_answer": "The popularity of the giant panda"
+  }
+]

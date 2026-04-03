@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Which compound noun means 'the wearing away of topsoil by wind or water'?",
+    "choices": ["habitat loss", "soil erosion", "acid rain", "water scarcity"],
+    "correct_answer": "soil erosion"
+  },
+  {
+    "number": 2,
+    "question": "Energy produced from natural sources such as wind and sun is called ________.",
+    "choices": ["fossil fuels", "toxic waste", "renewable energy", "greenhouse gas"],
+    "correct_answer": "renewable energy"
+  },
+  {
+    "number": 3,
+    "question": "Which phrase best describes 'vehicle emissions'?",
+    "choices": ["Toxic chemicals stored underground", "Poisonous gases from vehicle engines", "Rain containing pollutants", "Loss of natural habitats"],
+    "correct_answer": "Poisonous gases from vehicle engines"
+  },
+  {
+    "number": 4,
+    "question": "'High humidity' refers to ________.",
+    "choices": ["very high temperatures", "a large amount of moisture in the air", "very strong winds", "very heavy snowfall"],
+    "correct_answer": "a large amount of moisture in the air"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct collocation: 'We experienced ________ rain which caused severe flooding.'",
+    "choices": ["gale-force", "sub-zero", "torrential", "soaring"],
+    "correct_answer": "torrential"
+  },
+  {
+    "number": 6,
+    "question": "In the 'Future's Bright' text, what is described as 'the key reason for most car accidents'?",
+    "choices": ["Poor road conditions", "Human error", "Vehicle speed", "Weather conditions"],
+    "correct_answer": "Human error"
+  },
+  {
+    "number": 7,
+    "question": "According to the text, life expectancy is expected to reach ________ as a result of better medicine.",
+    "choices": ["70 years", "80 years", "90 years", "100 years"],
+    "correct_answer": "100 years"
+  },
+  {
+    "number": 8,
+    "question": "Which word describes an animal that lives alone rather than in groups?",
+    "choices": ["marine", "nocturnal", "solitary", "cuddly"],
+    "correct_answer": "solitary"
+  },
+  {
+    "number": 9,
+    "question": "The WWF symbol is a giant panda because pandas are ________.",
+    "choices": ["very dangerous", "cute or beautiful", "the largest animals", "easy to protect"],
+    "correct_answer": "cute or beautiful"
+  },
+  {
+    "number": 10,
+    "question": "The blobfish gets swept into fishing nets ________.",
+    "choices": ["on purpose by poachers", "accidentally when boats sweep the ocean floor", "because it swims near the surface", "due to pollution in the water"],
+    "correct_answer": "accidentally when boats sweep the ocean floor"
+  },
+  {
+    "number": 11,
+    "question": "Which feature makes the pangolin unique among mammals?",
+    "choices": ["It has wings", "It is covered in scales", "It lives underwater", "It is nocturnal"],
+    "correct_answer": "It is covered in scales"
+  },
+  {
+    "number": 12,
+    "question": "Tigers have no natural ________ because they are at the top of their food chain.",
+    "choices": ["habitats", "prey", "predators", "scales"],
+    "correct_answer": "predators"
+  },
+  {
+    "number": 13,
+    "question": "Animals at risk of becoming extinct are described as ________.",
+    "choices": ["naturally extinct", "critically predated", "critically endangered", "naturally solitary"],
+    "correct_answer": "critically endangered"
+  },
+  {
+    "number": 14,
+    "question": "In a formal email, before signing off you should ________.",
+    "choices": ["state the problem again", "offer more solutions", "mention you expect a reply", "introduce yourself"],
+    "correct_answer": "mention you expect a reply"
+  },
+  {
+    "number": 15,
+    "question": "Which is the correct formal rewrite of 'I'm really bothered by the amount of plastic we use'?",
+    "choices": ["I worry about plastic.", "I am deeply concerned by the amount of plastic we use.", "Plastic is really bad.", "I think plastic is a problem."],
+    "correct_answer": "I am deeply concerned by the amount of plastic we use."
+  },
+  {
+    "number": 16,
+    "question": "'It is essential that we all take immediate action.' This phrase in the email is used for ________.",
+    "choices": ["giving reasons for writing", "making a point forcefully", "asking for action", "concluding"],
+    "correct_answer": "making a point forcefully"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct option: 'In a few years, tablets won't exist anymore. They ________ replaced by smartwatches.'",
+    "choices": ["will be", "will have been", "are going to be", "will be being"],
+    "correct_answer": "will have been"
+  },
+  {
+    "number": 18,
+    "question": "Which key phrase signals Future Perfect or Future Perfect Continuous?",
+    "choices": ["tomorrow morning", "at the weekend", "by the time", "this evening"],
+    "correct_answer": "by the time"
+  },
+  {
+    "number": 19,
+    "question": "'She ________ explaining how to understand the labels on clothes.' (routine future event)",
+    "choices": ["will be", "is going to be", "will have been", "is about to be"],
+    "correct_answer": "will be"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct option: 'I'm meeting her next week to finalise the plans.' This is ________.",
+    "choices": ["a timetabled event", "a future arrangement with another person", "a decision made at the moment", "a routine event"],
+    "correct_answer": "a future arrangement with another person"
+  },
+  {
+    "number": 21,
+    "question": "Which option is correct? 'The human race ________ on another planet.' (probably won't)",
+    "choices": ["is certain to live", "is bound to live", "is unlikely to live", "is sure to live"],
+    "correct_answer": "is unlikely to live"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'I'm ________ to get someone to fix my car.'",
+    "choices": ["planning", "thinking of", "about", "due"],
+    "correct_answer": "planning"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Technology is also making our lives easier and safer, and this trend is bound to continue.' What does 'this trend' refer to?",
+    "choices": ["Technology making lives easier and safer", "The rise of driverless cars", "The fall in crime rates", "Better medicine"],
+    "correct_answer": "Technology making lives easier and safer"
+  },
+  {
+    "number": 24,
+    "question": "'I urge you to consider these solutions.' The underlined phrase in the email is used for ________.",
+    "choices": ["giving reasons for writing", "explaining why the issue is important", "making a point forcefully", "calling to action"],
+    "correct_answer": "calling to action"
+  },
+  {
+    "number": 25,
+    "question": "Which is correct? 'The lecture ________ to start soon.' (very soon)",
+    "choices": ["is due", "is about", "is planning", "is hoping"],
+    "correct_answer": "is about"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'Advances in robotics will not only reduce unskilled jobs but will also eliminate semi-skilled jobs.' What is the main argument here?",
+    "choices": ["AI will create new jobs", "AI will only affect unskilled workers", "AI will negatively impact multiple types of jobs", "AI will improve the job market"],
+    "correct_answer": "AI will negatively impact multiple types of jobs"
+  },
+  {
+    "number": 27,
+    "question": "Which word means 'animals without a backbone'?",
+    "choices": ["crustaceans", "reptiles", "invertebrates", "mammals"],
+    "correct_answer": "invertebrates"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase is used to express that both sides of an argument are being considered?",
+    "choices": ["You're spot on", "On the one hand... on the other hand", "It doesn't grab me", "Seriously?"],
+    "correct_answer": "On the one hand... on the other hand"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct collocation: 'The desert had ________ heat that cracked the ground.'",
+    "choices": ["sub-zero", "torrential", "gale-force", "scorching"],
+    "correct_answer": "scorching"
+  },
+  {
+    "number": 30,
+    "question": "'Global warming gives rise to water shortages.' Which cause-and-effect structure is this?",
+    "choices": ["result from", "give rise to", "due to", "as a consequence of"],
+    "correct_answer": "give rise to"
+  },
+  {
+    "number": 31,
+    "question": "Read: 'A third of consumers say they base their buying decisions on ethical practices.' What does this suggest?",
+    "choices": ["Most consumers don't care about ethics.", "A significant number of consumers are influenced by ethical practices.", "Consumers only care about price.", "Most consumers prefer plastic packaging."],
+    "correct_answer": "A significant number of consumers are influenced by ethical practices."
+  },
+  {
+    "number": 32,
+    "question": "Which word means 'the spinal column of an animal'?",
+    "choices": ["fin", "scale", "backbone", "skeleton"],
+    "correct_answer": "backbone"
+  },
+  {
+    "number": 33,
+    "question": "Which rhetorical device uses emotional language to persuade an audience?",
+    "choices": ["Repetition", "Tripling", "Emotion", "Quotations"],
+    "correct_answer": "Emotion"
+  },
+  {
+    "number": 34,
+    "question": "Using a well-selected quote from a famous person in a presentation is the rhetorical device of ________.",
+    "choices": ["Emotion", "Repetition", "Tripling", "Quotations"],
+    "correct_answer": "Quotations"
+  },
+  {
+    "number": 35,
+    "question": "When giving a persuasive presentation, you should focus on getting across ________.",
+    "choices": ["as many points as possible", "just one key message", "your personal opinions only", "statistics and numbers only"],
+    "correct_answer": "just one key message"
+  },
+  {
+    "number": 36,
+    "question": "Which compound noun means 'rain containing harmful chemicals from pollution'?",
+    "choices": ["freak rain", "heavy rain", "acid rain", "torrential rain"],
+    "correct_answer": "acid rain"
+  },
+  {
+    "number": 37,
+    "question": "Choose the correct answer: 'I ________ selling them online once I have enough items.' (thinking about a plan)",
+    "choices": ["am planning to", "am hoping to", "am thinking of", "am about to"],
+    "correct_answer": "am thinking of"
+  },
+  {
+    "number": 38,
+    "question": "Read the sentence: 'The aye-aye comes out to hunt at night.' What does this tell us about the aye-aye?",
+    "choices": ["It is a marine creature.", "It is nocturnal.", "It is critically endangered.", "It is covered in scales."],
+    "correct_answer": "It is nocturnal."
+  },
+  {
+    "number": 39,
+    "question": "Which signposting phrase sequences an argument in a lecture?",
+    "choices": ["In other words", "So, to sum up", "The second thing is", "Whereas"],
+    "correct_answer": "The second thing is"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'I am writing to draw your attention to a pressing problem.' This phrase is used for ________.",
+    "choices": ["making a point forcefully", "giving reasons for writing", "concluding the email", "explaining solutions"],
+    "correct_answer": "giving reasons for writing"
+  }
+]

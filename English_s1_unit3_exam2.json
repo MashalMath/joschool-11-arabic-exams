@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which adjective describes someone who is 'determined to get what they want'?",
+    "choices": [
+      "modest",
+      "sincere",
+      "pushy",
+      "decent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "My sister and I _____ always falling out when we were teenagers.",
+    "choices": [
+      "are",
+      "were",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which phrase means 'to criticise someone'?",
+    "choices": [
+      "make up with somebody",
+      "empathise with somebody",
+      "have a go at somebody",
+      "put up with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'In England during the 1800s, many people came to the cities to work. There were places called workhouses where the poorest people could live, work and eat.' Why did people go to workhouses?",
+    "choices": [
+      "to study and get educated",
+      "to live, work and eat in order to survive",
+      "to escape from the police",
+      "to meet their friends and family"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "He _____ be tiny, but now he's quite a bit taller than his brother. (past state that no longer exists)",
+    "choices": [
+      "would",
+      "is",
+      "used to",
+      "was forever"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Which adjective means 'not talking in a proud way about your achievements'?",
+    "choices": [
+      "conceited",
+      "hypocritical",
+      "modest",
+      "pushy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Husam has lost his phone. He is very absent-minded. (Combine using a relative clause)",
+    "choices": [
+      "Husam, which is very absent-minded, has lost his phone.",
+      "Husam, who is very absent-minded, has lost his phone.",
+      "Husam, whose is very absent-minded, has lost his phone.",
+      "Husam, where is very absent-minded, has lost his phone."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to try and impress somebody'?",
+    "choices": [
+      "tell somebody off",
+      "show off",
+      "burst into tears",
+      "be the peacemaker"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Oliver was shocked when he saw the boys take things from people's pockets. He understood that they were thieves!' Why was Oliver shocked?",
+    "choices": [
+      "because the boys were running fast",
+      "because he saw the boys stealing from people",
+      "because Fagin was angry at the boys",
+      "because the police were chasing him"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "We use a present participle to replace a relative clause with _____ verb.",
+    "choices": [
+      "a passive",
+      "an active",
+      "a future",
+      "a stative"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Which word means 'a noisy argument or fight'?",
+    "choices": [
+      "clash",
+      "sibling",
+      "row",
+      "flunk"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "He's quite _____ — you would never know that he's a big star.",
+    "choices": [
+      "conceited",
+      "modest",
+      "pushy",
+      "bigoted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "In 'Broadly speaking, Generation Z have an entrepreneurial spirit', the phrase 'broadly speaking' is used to:",
+    "choices": [
+      "acknowledge that you are generalising",
+      "express a strong opinion",
+      "talk about a specific fact",
+      "contradict a previous statement"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "The land _____ the house is built is extremely picturesque.",
+    "choices": [
+      "which",
+      "who",
+      "where",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to react as if what happened is much worse than it is'?",
+    "choices": [
+      "burst into tears",
+      "blow things out of proportion",
+      "make a fuss of somebody",
+      "show off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "She's such a(n) _____ teacher that all her students want to be like her.",
+    "choices": [
+      "tough",
+      "bigoted",
+      "immature",
+      "inspirational"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'Fagin then told Oliver to go into the streets with the other boys and learn from them.' What did Fagin want Oliver to learn?",
+    "choices": [
+      "how to read and write",
+      "how to cook food",
+      "how to steal from people",
+      "how to find a job"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "When I was young, I _____ visit my grandparents every weekend. (repeated past action)",
+    "choices": [
+      "am always",
+      "would",
+      "was forever",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which phrase means 'to get angry'?",
+    "choices": [
+      "make up with somebody",
+      "lose your temper",
+      "empathise with somebody",
+      "give somebody a compliment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "What does 'huddled together' mean?",
+    "choices": [
+      "standing very far apart from each other",
+      "sat or stood very close to other people",
+      "arguing loudly with each other",
+      "working hard together"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Rewrite using a participle clause: 'The copy which was made by the carbon paper was called the carbon copy.'",
+    "choices": [
+      "The copy making by the carbon paper was called the carbon copy.",
+      "The copy made by the carbon paper was called the carbon copy.",
+      "The copy which made by carbon paper was called the carbon copy.",
+      "The copy to make by carbon paper was called the carbon copy."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which adjective means 'intolerant of other people's beliefs and practices'?",
+    "choices": [
+      "sincere",
+      "idealistic",
+      "bigoted",
+      "charming"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Mr Brownlow explained that Oliver's mother was a rich woman. But his brother, a man called Monks, knew that Oliver would only get the money if Oliver was an honest person.' Why did Monks want Oliver to become a thief?",
+    "choices": [
+      "because Monks was a kind person who wanted to help Oliver",
+      "so that Oliver could never be honest and Monks could keep all the money",
+      "because Monks wanted Oliver to leave the country",
+      "so that Oliver could give the money to Mr Brownlow"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "In which type of relative clause can we use 'that' instead of 'which' or 'who'?",
+    "choices": [
+      "non-defining relative clause",
+      "defining relative clause",
+      "participle clause",
+      "both types equally"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to reconcile with someone after a disagreement'?",
+    "choices": [
+      "fall out with somebody",
+      "talk behind somebody's back",
+      "make up with somebody",
+      "let somebody down"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "He's a very _____ person and will always act in the proper way.",
+    "choices": [
+      "immature",
+      "hypocritical",
+      "conceited",
+      "decent"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "What does 'a sense of belonging' mean?",
+    "choices": [
+      "feeling lost and confused",
+      "feeling comfortable and accepted in a particular place",
+      "feeling angry and rejected",
+      "feeling hungry and tired"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "My brother _____ always show off, even now.",
+    "choices": [
+      "used to",
+      "was forever",
+      "will",
+      "were"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Which phrase means 'to speak badly about someone when they are not present'?",
+    "choices": [
+      "empathise with somebody",
+      "give somebody a compliment",
+      "talk behind somebody's back",
+      "put up with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'There were places called workhouses where the poorest people could live, work and eat.' The relative clause 'where the poorest people could live, work and eat' is:",
+    "choices": [
+      "a defining relative clause",
+      "a non-defining relative clause",
+      "a participle clause",
+      "an adverbial clause"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "Which adjective describes a person who 'behaves in a way that shows they think someone is criticising them'?",
+    "choices": [
+      "passionate",
+      "defensive",
+      "idealistic",
+      "trustworthy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "What does 'flunking an important exam' mean?",
+    "choices": [
+      "passing an exam with high marks",
+      "studying hard for an exam",
+      "failing an important exam",
+      "cheating in an exam"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "She will look after your baby well; she's reliable, responsible and completely _____.",
+    "choices": [
+      "bigoted",
+      "immature",
+      "trustworthy",
+      "conceited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Going online can be seen as a way of bringing families together as well as a distraction.' What TWO roles does going online play?",
+    "choices": [
+      "it only separates families",
+      "it brings families together and it distracts them",
+      "it only brings families together",
+      "it distracts families and causes arguments"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "When I was little, my parents _____ forever telling me off about the things I'd done.",
+    "choices": [
+      "are",
+      "was",
+      "were",
+      "used to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to feel what another person is feeling'?",
+    "choices": [
+      "empathise with somebody",
+      "make fun of somebody",
+      "fall out with somebody",
+      "put up with somebody"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "The man _____ daughter I met in Jordan is my teacher.",
+    "choices": [
+      "which",
+      "where",
+      "who",
+      "whose"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "In non-defining relative clauses, we _____ use 'that'.",
+    "choices": [
+      "always",
+      "sometimes",
+      "never",
+      "often"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Which word describes 'a child whose parents have died'?",
+    "choices": [
+      "housekeeper",
+      "sibling",
+      "orphan",
+      "workhouse"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "In 'To some extent, electronic devices are a distraction in the classroom', the phrase 'to some extent' means:",
+    "choices": [
+      "completely and without doubt",
+      "never at all",
+      "partly or in some degree",
+      "exactly and precisely"
+    ],
+    "correct_answer": "c"
+  }
+]

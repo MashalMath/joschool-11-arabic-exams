@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to say things in order to annoy somebody'?",
+    "choices": [
+      "make a fuss of somebody",
+      "wind somebody up",
+      "be the peacemaker",
+      "tell somebody off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "She _____ always borrowing my clothes without asking. It's so annoying!",
+    "choices": [
+      "used to",
+      "would",
+      "is",
+      "was"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which word means 'constantly telling people how great you are'?",
+    "choices": [
+      "modest",
+      "conceited",
+      "trustworthy",
+      "compassionate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'In England during the 1800s, many people came to the cities to work. There were places called workhouses where the poorest people could live, work and eat to make ends meet.' What does 'make ends meet' mean?",
+    "choices": [
+      "to save a lot of money",
+      "to have just enough money to buy what you need",
+      "to spend money carelessly",
+      "to earn a huge salary"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "When I was a child, I _____ feel bored at home on my own. (past state)",
+    "choices": [
+      "would",
+      "used to",
+      "was",
+      "am"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which adjective describes a person who 'says one thing but does something different'?",
+    "choices": [
+      "sincere",
+      "decent",
+      "hypocritical",
+      "passionate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Mrs Baqer is a very _____ teacher and you'll benefit from her lessons.",
+    "choices": [
+      "conceited",
+      "capable",
+      "bigoted",
+      "immature"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "The girl _____ eyes are blue is the British student.",
+    "choices": [
+      "who",
+      "which",
+      "whose",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Which phrase means 'to behave in a silly way'?",
+    "choices": [
+      "show off",
+      "burst into tears",
+      "mess about",
+      "lose your temper"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Read: 'Oliver was sad to leave the other orphans. Although the boys lived hand-to-mouth, they had a sense of belonging at the house.' What does 'hand-to-mouth' mean?",
+    "choices": [
+      "eating with their hands",
+      "dealing with things without thinking about the future",
+      "having plenty of food",
+      "sharing food equally"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "My brother gets attention for being great at school. 'Gets attention' is closest in meaning to:",
+    "choices": [
+      "is ignored by everyone",
+      "receives focus and care from others",
+      "causes trouble at school",
+      "studies very hard alone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "We _____ use 'would' to describe a past state.",
+    "choices": [
+      "always",
+      "sometimes",
+      "don't",
+      "often"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Rewrite using a participle clause: 'There was a wire which attached the phone to the wall.'",
+    "choices": [
+      "There was a wire attached the phone to the wall.",
+      "There was a wire attaching the phone to the wall.",
+      "There was a wire that attaching the phone to the wall.",
+      "There was a wire which attaching the phone to the wall."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "She's so _____ that she refuses to accept anyone who thinks differently from her.",
+    "choices": [
+      "modest",
+      "passionate",
+      "bigoted",
+      "capable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following is a NON-DEFINING relative clause?",
+    "choices": [
+      "The house which we just walked past belongs to my grandfather.",
+      "My grandfather's house, which I love, isn't very modern.",
+      "Phones are something that you can keep in your pocket.",
+      "You had to have a wire that connected your computer."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Which phrase means 'to help other people resolve an argument'?",
+    "choices": [
+      "wind somebody up",
+      "have a go at somebody",
+      "be the peacemaker",
+      "make fun of somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "On the whole, I _____ that Generation Z spend a lot of time online.",
+    "choices": [
+      "believe",
+      "sweeping",
+      "broadly",
+      "cases"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'Mr Brownlow was worried about the skinny boy and took him back to his house.' What does 'skinny' mean?",
+    "choices": [
+      "very tall",
+      "very thin",
+      "very old",
+      "very sick"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which word means 'able to deal with difficult situations'?",
+    "choices": [
+      "immature",
+      "pushy",
+      "tough",
+      "idealistic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Technology is always changing. I find this exciting. (Combine using a relative clause)",
+    "choices": [
+      "Technology is always changing, which I find exciting.",
+      "Technology is always changing, that I find exciting.",
+      "Technology is always changing, who I find exciting.",
+      "Technology is always changing, where I find exciting."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "She _____ always arguing with her parents when she was younger.",
+    "choices": [
+      "is forever",
+      "was forever",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which adjective means 'feeling very strongly about something'?",
+    "choices": [
+      "defensive",
+      "trustworthy",
+      "passionate",
+      "decent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Oliver decided to escape to London but had no food and went hungry for days.' Which phrase tells us Oliver had no food?",
+    "choices": [
+      "escape to London",
+      "went hungry",
+      "had no food",
+      "both b and c"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Amman, _____ is the capital of Jordan, is a big city.",
+    "choices": [
+      "who",
+      "that",
+      "which",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to suddenly start crying'?",
+    "choices": [
+      "lose your temper",
+      "burst into tears",
+      "fall out with somebody",
+      "let somebody down"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Nawal proved she was _____ by helping at an animal shelter.",
+    "choices": [
+      "charming",
+      "conceited",
+      "compassionate",
+      "bigoted"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In 'Nine times out of ten, I agree with her', this phrase is used to express:",
+    "choices": [
+      "always disagreeing",
+      "never agreeing",
+      "usually or almost always",
+      "exactly nine agreements"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "What does 'a clash between you and a sibling' mean?",
+    "choices": [
+      "a celebration with a brother or sister",
+      "a fight or disagreement with a brother or sister",
+      "a game played with family members",
+      "a school project with siblings"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "We use a _____ participle to replace a relative clause with a passive verb.",
+    "choices": [
+      "present",
+      "future",
+      "past",
+      "perfect"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'At the workhouse, all the other boys were as malnourished as Oliver.' What does 'malnourished' mean?",
+    "choices": [
+      "very happy",
+      "very thin due to lack of food",
+      "very strong",
+      "very intelligent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Which word means 'to move to a new place to live or work'?",
+    "choices": [
+      "flunk",
+      "clash",
+      "relocate",
+      "row"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "She _____ the peacemaker in our household when we were kids.",
+    "choices": [
+      "is always",
+      "was always",
+      "used to be",
+      "would be"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to give someone a lot of attention'?",
+    "choices": [
+      "let somebody down",
+      "make a fuss of somebody",
+      "put up with somebody",
+      "empathise with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Laith is a highly skilled pianist, but he doesn't show off about it. He's _____.",
+    "choices": [
+      "trustworthy",
+      "modest",
+      "passionate",
+      "idealistic"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'Oliver is adopted by Mr Brownlow, which shows what a kind man he is.' The relative clause 'which shows what a kind man he is' is:",
+    "choices": [
+      "a defining relative clause giving essential information",
+      "a non-defining clause commenting on the whole main clause",
+      "a participle clause replacing an active verb",
+      "a defining clause that can use 'that'"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to fail to do something, especially an exam'?",
+    "choices": [
+      "clash",
+      "relocate",
+      "sibling",
+      "flunk"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "In 'I may be overgeneralising, but I think young people are losing the art of conversation', the underlined phrase acknowledges that:",
+    "choices": [
+      "the speaker is certain about this fact",
+      "the speaker is making a specific claim",
+      "the speaker knows they might be generalising too broadly",
+      "the speaker disagrees with young people"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Which word means 'a brother or sister'?",
+    "choices": [
+      "housekeeper",
+      "orphan",
+      "sibling",
+      "peacemaker"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The flip phone, _____ was designed in the 1990s, is rapidly becoming popular again.",
+    "choices": [
+      "that",
+      "who",
+      "which",
+      "whose"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which phrase means 'to speak to somebody angrily about something wrong that they have done'?",
+    "choices": [
+      "wind somebody up",
+      "show off",
+      "tell somebody off",
+      "mess about"
+    ],
+    "correct_answer": "c"
+  }
+]

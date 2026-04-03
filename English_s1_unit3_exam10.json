@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to quickly become very emotional and start crying'?",
+    "choices": [
+      "show off",
+      "mess about",
+      "burst into tears",
+      "lose your temper"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "My dad _____ come home at six in the morning and we'd have breakfast together. (repeated past action)",
+    "choices": [
+      "used to",
+      "would",
+      "is",
+      "was forever"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective means 'able to understand and share the feelings of others with care'?",
+    "choices": [
+      "bigoted",
+      "pushy",
+      "conceited",
+      "compassionate"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'He was quite naughty and I used to mess about from time to time, sure. I mean, there was one time when I dressed up in my dad's clothes and went down the High Street pretending to be him!' This shows that the speaker:",
+    "choices": [
+      "was always very quiet and well-behaved",
+      "was sometimes mischievous and playful as a child",
+      "was a very serious child",
+      "never did anything silly or funny"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "My concentration span _____ very short when I was at school. (past state — ended)",
+    "choices": [
+      "would be",
+      "used to be",
+      "was forever",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which phrase means 'to behave as an excellent model for others to follow'?",
+    "choices": [
+      "loathe",
+      "despise",
+      "set a good example",
+      "look down on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Bluetooth, _____ sounds like a dental problem, is actually a kind of wireless connection.",
+    "choices": [
+      "that",
+      "who",
+      "whose",
+      "which"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to go back to a state of harmony with someone after a disagreement'?",
+    "choices": [
+      "fall out with somebody",
+      "wind somebody up",
+      "make up with somebody",
+      "have a go at somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'They took it way too seriously and blew it completely out of proportion.' What did the speaker's parents do?",
+    "choices": [
+      "they reacted calmly and ignored the prank",
+      "they laughed along with the speaker",
+      "they treated a small prank as if it were a very serious matter",
+      "they punished the speaker very fairly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Which relative pronoun is used for possession?",
+    "choices": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Which phrase describes 'failing an important school exam'?",
+    "choices": [
+      "a clash between you and a sibling",
+      "relocating to a different country",
+      "flunking an important exam",
+      "a newborn baby in the family"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "My sister and I _____ always making up after every argument. (characteristic present behaviour)",
+    "choices": [
+      "used to",
+      "were",
+      "are",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "What makes a paragraph 'coherent' according to the Active Writing box?",
+    "choices": [
+      "it has as many sentences as possible",
+      "it begins with a statistic",
+      "it has sentences in logical order supporting the topic sentence",
+      "it is very long and detailed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "This is the man _____ won the golden prize.",
+    "choices": [
+      "which",
+      "whose",
+      "where",
+      "who"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to speak negatively about someone in their absence'?",
+    "choices": [
+      "give somebody a compliment",
+      "empathise with somebody",
+      "put up with somebody",
+      "talk behind somebody's back"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "She is really _____ about animals; they're so important to her.",
+    "choices": [
+      "modest",
+      "trustworthy",
+      "passionate",
+      "hypocritical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'Around 74% of children under 10 use video-sharing sites online.' Is this sentence a fact or an opinion?",
+    "choices": [
+      "an opinion because it uses 'around'",
+      "a fact because it is a verifiable statistic",
+      "an opinion because it is about children",
+      "a fact because it mentions Jordan"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "When I was little, my brother _____ always show off in front of our relatives.",
+    "choices": [
+      "would",
+      "is",
+      "am",
+      "will"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Which adjective describes someone who 'has a very positive, perhaps unrealistic view'?",
+    "choices": [
+      "bigoted",
+      "idealistic",
+      "tough",
+      "defensive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Rewrite: 'The shop where I bought my computer has closed down.' (Defining relative clause, omitting the pronoun)",
+    "choices": [
+      "The shop I bought my computer from has closed down.",
+      "The shop where I bought my computer from has closed down.",
+      "The shop which bought my computer has closed down.",
+      "The shop, where I bought my computer, has closed down."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "He _____ go to the park every afternoon when he was a boy, but now he prefers staying indoors.",
+    "choices": [
+      "is",
+      "am",
+      "used to",
+      "will"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase means 'to behave as a great model that others follow'?",
+    "choices": [
+      "despise",
+      "look down on",
+      "a good/shining example of",
+      "loathe"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'I would argue that families generally remain as close as they ever were.' This sentence introduces:",
+    "choices": [
+      "a fact proven by research",
+      "the writer's thesis or personal opinion",
+      "a generalisation about all families",
+      "the conclusion of the essay"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The woman _____ husband works abroad is my neighbour.",
+    "choices": [
+      "which",
+      "who",
+      "where",
+      "whose"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'a heated argument or altercation'?",
+    "choices": [
+      "sibling",
+      "row",
+      "relocate",
+      "flunk"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "He's really _____; always telling everyone how great he is.",
+    "choices": [
+      "modest",
+      "sincere",
+      "conceited",
+      "trustworthy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In 'You might think this is an overgeneralisation, but old people can't handle technology', this phrase signals:",
+    "choices": [
+      "a definite proven fact",
+      "the writer acknowledges they may be exaggerating",
+      "a specific case study",
+      "a conclusion to the essay"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Read: 'One night, a woman arrived at a workhouse. She gave birth to a baby but then sadly died.' What was the result for the baby?",
+    "choices": [
+      "the baby was adopted by Mr Brownlow immediately",
+      "the baby was sent to a house for orphans",
+      "the baby was left at the workhouse with Fagin",
+      "the baby was sent to prison"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Rewrite using a participle clause: 'The man who is waiting for the bus is my teacher.'",
+    "choices": [
+      "The man waited for the bus is my teacher.",
+      "The man waiting for the bus is my teacher.",
+      "The man to wait for the bus is my teacher.",
+      "The man which waiting for the bus is my teacher."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Oliver was shocked when he saw the boys take things from people's pockets.' What were the boys doing?",
+    "choices": [
+      "giving people gifts",
+      "helping people carry bags",
+      "stealing from people",
+      "selling goods in the street"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which phrase means 'to have a serious disagreement that affects a relationship'?",
+    "choices": [
+      "make up with somebody",
+      "fall out with somebody",
+      "put up with somebody",
+      "empathise with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "She _____ constantly winding me up these days. I can't stand it!",
+    "choices": [
+      "used to",
+      "was",
+      "is",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to have someone whose success inspires you to do the same'?",
+    "choices": [
+      "despise",
+      "set a good example",
+      "follow in somebody's footsteps",
+      "look down on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Mr Brownlow explained that Oliver's mother was a rich woman.' What does this new information suggest about Oliver's life?",
+    "choices": [
+      "Oliver was always destined to be poor",
+      "Oliver had a right to an inheritance he had been kept from",
+      "Oliver's mother chose to live in a workhouse",
+      "Oliver knew about his mother's wealth all along"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Which type of relative clause gives ESSENTIAL information and cannot be removed?",
+    "choices": [
+      "non-defining relative clause",
+      "defining relative clause",
+      "participle clause",
+      "adverbial clause"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which phrase means 'to be unable to tolerate someone any longer'?",
+    "choices": [
+      "empathise with somebody",
+      "give somebody a compliment",
+      "put up with somebody",
+      "fall out with somebody"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "He _____ constantly lose things when he was young. It frustrated everyone.",
+    "choices": [
+      "is",
+      "would",
+      "used to be",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective describes someone who is 'unwilling to change their mind or accept different viewpoints'?",
+    "choices": [
+      "charming",
+      "sincere",
+      "bigoted",
+      "dedicated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "I had to go into the hall, _____ the phone was kept, and everyone could hear me.",
+    "choices": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Which phrase means 'to have deep contempt for someone and feel they are worthless'?",
+    "choices": [
+      "admire",
+      "look up to",
+      "despise",
+      "idolise"
+    ],
+    "correct_answer": "c"
+  }
+]

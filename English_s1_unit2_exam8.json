@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Which compound noun means 'poison released by vehicle engines'?",
+    "choices": ["acid rain", "vehicle emissions", "greenhouse gas", "ozone layer"],
+    "correct_answer": "vehicle emissions"
+  },
+  {
+    "number": 2,
+    "question": "Which collocation describes very high, fast-rising temperatures?",
+    "choices": ["sub-zero temperatures", "gale-force temperatures", "soaring temperatures", "blistering temperatures"],
+    "correct_answer": "soaring temperatures"
+  },
+  {
+    "number": 3,
+    "question": "Which weather collocation means temperatures that are dangerously hot?",
+    "choices": ["freak temperatures", "heavy temperatures", "blistering temperatures", "sub-zero temperatures"],
+    "correct_answer": "blistering temperatures"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'By the time I get on the train next Saturday, I ________ this trip for two months!' (plan)",
+    "choices": ["will plan", "will be planning", "will have been planning", "am going to plan"],
+    "correct_answer": "will have been planning"
+  },
+  {
+    "number": 5,
+    "question": "Read: 'When I arrive at the platform on Saturday, my friend Hamed ________ for me.' (wait)",
+    "choices": ["will wait", "will have waited", "will be waiting", "is going to wait"],
+    "correct_answer": "will be waiting"
+  },
+  {
+    "number": 6,
+    "question": "Choose: 'By the end of the week, I hope we ________ Athens.' (reach)",
+    "choices": ["will reach", "will be reaching", "will have reached", "are going to reach"],
+    "correct_answer": "will have reached"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'I think our plan ________ succeed.' (bound)",
+    "choices": ["is sure to", "is likely to", "is bound to", "is about to"],
+    "correct_answer": "is bound to"
+  },
+  {
+    "number": 8,
+    "question": "Which is the correct question form? 'Will Faten ________ school by 4 p.m.?'",
+    "choices": ["be finishing", "have finished", "finish", "have been finishing"],
+    "correct_answer": "have finished"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct option: 'Is Abeer ________ apologise for her behaviour?'",
+    "choices": ["likely to", "bound to", "certain to", "sure to"],
+    "correct_answer": "likely to"
+  },
+  {
+    "number": 10,
+    "question": "By the time they get home, Abbas and Jaber ________ for 18 hours.",
+    "choices": ["will travel", "will be travelling", "will have been travelling", "will have travelled"],
+    "correct_answer": "will have been travelling"
+  },
+  {
+    "number": 11,
+    "question": "Five years ________ now, Kamal will have gained his degree in astrophysics.",
+    "choices": ["since", "after", "before", "from"],
+    "correct_answer": "from"
+  },
+  {
+    "number": 12,
+    "question": "I hope that ________ the year 2050, doctors will have found a cure for cancer.",
+    "choices": ["from", "in", "since", "by"],
+    "correct_answer": "by"
+  },
+  {
+    "number": 13,
+    "question": "Which phrase means 'almost certainly will not happen'?",
+    "choices": ["is bound to", "is certain to", "is unlikely to", "is sure to"],
+    "correct_answer": "is unlikely to"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'It is essential that we all take immediate action to prevent this.' Which structure is 'it is essential that'?",
+    "choices": ["A cause-and-effect structure", "A formal email phrase for making a point forcefully", "A signposting phrase", "A rhetorical question"],
+    "correct_answer": "A formal email phrase for making a point forcefully"
+  },
+  {
+    "number": 15,
+    "question": "The final paragraph of a formal email should ________.",
+    "choices": ["introduce the topic", "state the problem", "ask the recipient to take action", "describe the solutions"],
+    "correct_answer": "ask the recipient to take action"
+  },
+  {
+    "number": 16,
+    "question": "In compound nouns where both words are nouns, the stress is on ________.",
+    "choices": ["the second word", "the first word", "both words equally", "the longest word"],
+    "correct_answer": "the first word"
+  },
+  {
+    "number": 17,
+    "question": "Which of these compound nouns has the stress on the SECOND word?",
+    "choices": ["climate change", "habitat loss", "industrial waste", "acid rain"],
+    "correct_answer": "industrial waste"
+  },
+  {
+    "number": 18,
+    "question": "Which animal was assumed to be extinct until 2008?",
+    "choices": ["The blobfish", "The pangolin", "The aye-aye", "The pygmy tarsier"],
+    "correct_answer": "The pygmy tarsier"
+  },
+  {
+    "number": 19,
+    "question": "What does the WWF use to raise money for critically endangered species?",
+    "choices": ["The image of the blobfish", "The image of the giant panda", "The image of the pangolin", "The image of the aye-aye"],
+    "correct_answer": "The image of the giant panda"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'I'm going to turn them into shorts.' This future form expresses ________.",
+    "choices": ["a routine event", "a timetabled event", "something already decided", "a decision made now"],
+    "correct_answer": "something already decided"
+  },
+  {
+    "number": 21,
+    "question": "'Send me the details — I'll take a look.' This expresses ________.",
+    "choices": ["something already planned", "a timetabled event", "a decision made at the moment of speaking", "a routine future event"],
+    "correct_answer": "a decision made at the moment of speaking"
+  },
+  {
+    "number": 22,
+    "question": "Which option completes this sentence correctly? 'She ________ how to understand the labels on clothes.' (routine action — normal course of events)",
+    "choices": ["is going to be explaining", "will have explained", "will be explaining", "is about to explain"],
+    "correct_answer": "will be explaining"
+  },
+  {
+    "number": 23,
+    "question": "Which phrase means 'expected to happen in the very near future'?",
+    "choices": ["is due to", "is planning to", "is about to", "is hoping to"],
+    "correct_answer": "is about to"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'I look forward to your response.' Where does this appear in a formal email?",
+    "choices": ["Introduction", "Main body", "Before signing off", "Subject line"],
+    "correct_answer": "Before signing off"
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is a cause-and-effect phrase showing the cause comes AFTER the phrase?",
+    "choices": ["result in", "lead to", "due to", "give rise to"],
+    "correct_answer": "due to"
+  },
+  {
+    "number": 26,
+    "question": "Which phrase means 'to cause something to happen'?",
+    "choices": ["result from", "be due to", "give rise to", "as a consequence of"],
+    "correct_answer": "give rise to"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'This may be due to better education.' Rewrite using 'result from': 'This may ________ better education.'",
+    "choices": ["result in", "result from", "give rise to", "be a consequence of"],
+    "correct_answer": "result from"
+  },
+  {
+    "number": 28,
+    "question": "Which of these is NOT an example of expressing indecision?",
+    "choices": ["I'm torn between...", "I can't make up my mind.", "You're spot on!", "I'm on the fence about it."],
+    "correct_answer": "You're spot on!"
+  },
+  {
+    "number": 29,
+    "question": "Which phrase signals that the speaker is going to paraphrase what they just said?",
+    "choices": ["So, to sum up", "I'm going to be talking about", "In other words", "The second thing is"],
+    "correct_answer": "In other words"
+  },
+  {
+    "number": 30,
+    "question": "Engaging the audience in a presentation can be done by telling a ________ anecdote.",
+    "choices": ["long", "personal", "boring", "technical"],
+    "correct_answer": "personal"
+  },
+  {
+    "number": 31,
+    "question": "Read: 'I can't put my finger on it, but the one with the water bottle doesn't grab me.' What does the second part mean?",
+    "choices": ["It is very attractive", "It doesn't interest or appeal to me", "It is perfect", "I definitely prefer it"],
+    "correct_answer": "It doesn't interest or appeal to me"
+  },
+  {
+    "number": 32,
+    "question": "Read: 'Okay, so shall we go with the one with the bright colours?' This phrase is used to ________.",
+    "choices": ["express indecision", "express disagreement", "reach a decision", "express agreement"],
+    "correct_answer": "reach a decision"
+  },
+  {
+    "number": 33,
+    "question": "Which adjective describes an animal that is pleasant to hug or hold?",
+    "choices": ["furry", "slimy", "marine", "cuddly"],
+    "correct_answer": "cuddly"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Driving is sure to become safer.' Which structure is this?",
+    "choices": ["be + about + to-inf", "be + sure + to-inf", "be + planning + to-inf", "be + going + to-inf"],
+    "correct_answer": "be + sure + to-inf"
+  },
+  {
+    "number": 35,
+    "question": "Choose: 'With such strong winds, the airport is ________ to be open.'",
+    "choices": ["bound", "likely", "sure", "unlikely"],
+    "correct_answer": "unlikely"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'We stopped the party due to the bad weather.' What caused the party to stop?",
+    "choices": ["The party organisers", "The weather", "The venue", "The guests"],
+    "correct_answer": "The weather"
+  },
+  {
+    "number": 37,
+    "question": "Choose the correct formal rewrite of 'I heard that sea plastic is harming over 600 species.'",
+    "choices": ["Sea plastic is estimated to be harming over 600 species.", "I think sea plastic harms many species.", "Sea plastic harms 600 species probably.", "People say sea plastic harms species."],
+    "correct_answer": "Sea plastic is estimated to be harming over 600 species."
+  },
+  {
+    "number": 38,
+    "question": "The aye-aye is traditionally considered ________.",
+    "choices": ["a symbol of good luck", "an omen of bad luck", "a sacred animal", "a symbol of nature"],
+    "correct_answer": "an omen of bad luck"
+  },
+  {
+    "number": 39,
+    "question": "Which word describes an animal that prefers to live alone rather than in a group?",
+    "choices": ["cuddly", "marine", "solitary", "furry"],
+    "correct_answer": "solitary"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'In 100 years' time, half the world's languages will have disappeared.' This is an example of ________.",
+    "choices": ["Future Simple", "Future Continuous", "Future Perfect", "Future Perfect Continuous"],
+    "correct_answer": "Future Perfect"
+  }
+]

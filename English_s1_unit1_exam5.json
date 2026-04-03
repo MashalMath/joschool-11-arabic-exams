@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Authors sometimes express their views SUBTLY by using __________ such as 'should' or 'must'.",
+    "choices": [
+      "passive constructions",
+      "modal verbs",
+      "noun phrases",
+      "statistics"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'Look at Tara Taylor's case, a mother who lives in the USA: when she uploaded a photo of her daughter on social media, a friend spotted a problem with one of the child's eyes. It turned out that the girl had a rare disease, but her sight was saved!' — How did the Internet help Tara Taylor's daughter?",
+    "choices": [
+      "She received medical advice by email",
+      "She learned to communicate online",
+      "A friend spotted a disease in the child's eye through a social media photo",
+      "She made new friends"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "What __________ you thinking about right now? You look worried.",
+    "choices": [
+      "do",
+      "were",
+      "are",
+      "did"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'In Jordan, there are over six million mobile phones in use by the population.' — How many mobile phones are in use in Jordan?",
+    "choices": [
+      "Over three million",
+      "Over ten million",
+      "Over one million",
+      "Over six million"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "We __________ touch for years, but then she found me on social media.",
+    "choices": [
+      "made",
+      "stayed",
+      "kept",
+      "lost"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "He sent a postcard to __________ contact with his pen friend in Japan.",
+    "choices": [
+      "make",
+      "carry",
+      "lose",
+      "maintain"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "'I __________ heartbroken when I heard the sad news.' — Complete correctly.",
+    "choices": [
+      "am",
+      "were",
+      "have been",
+      "was"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "Children often __________ new teachers quickly when they are friendly and funny.",
+    "choices": [
+      "come across as",
+      "take to",
+      "strike up",
+      "hit it off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Writers use opinion verbs such as __________ to signal their personal viewpoint.",
+    "choices": [
+      "'According to' and 'Reports show'",
+      "'First' and 'Finally'",
+      "'I feel' and 'In my opinion'",
+      "'However' and 'Furthermore'"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Which two phrases both express SADNESS?",
+    "choices": [
+      "I'm heartbroken. / I'm feeling a bit blue.",
+      "I'm walking on air! / I can't stop smiling.",
+      "Get out of here! / Who would have thought it?",
+      "It's been keeping me up. / I've had it up to here."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'there is a danger that this increased use of AI could result in problems with online safety if not controlled.' — What could happen if AI is not controlled?",
+    "choices": [
+      "Students will get better grades",
+      "There could be problems with online safety",
+      "AI will stop working",
+      "Technology prices will rise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'In 1956, Ake Viking, a Swede, tossed a letter into the sea, hoping it would reach his future wife. Two years later, he received a letter from Paolina.' — How long did it take to get a response?",
+    "choices": [
+      "Two weeks",
+      "Twenty years",
+      "Two months",
+      "Two years"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "A: 'I've been given a promotion!' B: Which is the most appropriate response?",
+    "choices": [
+      "I'm so sorry to hear that.",
+      "I don't blame you.",
+      "I'm really pleased for you!",
+      "What a pain!"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'unless we start to control how we use AI, kids will be the biggest losers.' — Who said this, according to the essay?",
+    "choices": [
+      "Time magazine in an article from July 2023",
+      "Net Positive website",
+      "UNIDO",
+      "The Jordanian government"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "It's your birthday today, __________ it?",
+    "choices": [
+      "isn't",
+      "is",
+      "was",
+      "wasn't"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Since the invention of the Internet, the world __________ a very different place.",
+    "choices": [
+      "was becoming",
+      "became",
+      "becomes",
+      "has become"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "He __________ his new job yet — he is still looking for one.",
+    "choices": [
+      "doesn't start",
+      "wasn't starting",
+      "hasn't started",
+      "didn't start"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'After writing developed, they invented more ingenious methods of delivering messages.' — The word 'ingenious' means:",
+    "choices": [
+      "Dangerous",
+      "Simple and basic",
+      "Old-fashioned",
+      "Clever and creative"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'But you can still send telegrams through the Jordan Post Company!' — According to the text, what can you still do in Jordan?",
+    "choices": [
+      "Send telegrams through the Jordan Post Company",
+      "Send messages in bottles",
+      "Use the Titanic radio system",
+      "Use smoke signals legally"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "The new policy __________ significant improvements in student performance.",
+    "choices": [
+      "came across",
+      "made out",
+      "brought about",
+      "spelled out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'Perhaps this is what inspired her to go to Africa when she was in her 20s.' — The word 'inspired' means:",
+    "choices": [
+      "prevented and stopped",
+      "motivated and encouraged",
+      "confused and misled",
+      "warned and advised"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Researchers __________ that note 132 years before the family discovered it.",
+    "choices": [
+      "were writing",
+      "have written",
+      "wrote",
+      "had written"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "He __________ his homework when his mother called him for dinner.",
+    "choices": [
+      "was doing",
+      "has done",
+      "does",
+      "did"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "He __________ the door when I arrived at his house.",
+    "choices": [
+      "opened",
+      "has opened",
+      "was opening",
+      "opens"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Yara has been a vegetarian __________ three years now.",
+    "choices": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "The family was __________ to hear that the missing child had been found safe.",
+    "choices": [
+      "livid",
+      "astonished",
+      "terrified",
+      "devastated"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Everybody needs to feel appreciated, __________ they?",
+    "choices": [
+      "don't",
+      "do",
+      "doesn't",
+      "didn't"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Which of these phrases is most suitable for CITING A SOURCE in an analytical essay?",
+    "choices": [
+      "In my opinion...",
+      "I feel that...",
+      "According to the website Net Positive...",
+      "I think that..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "They were __________ to hear the news — no one had expected such a result.",
+    "choices": [
+      "tense",
+      "livid",
+      "devastated",
+      "astonished"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "She sent him a text to __________ the message that she would be late.",
+    "choices": [
+      "maintain",
+      "lose",
+      "establish",
+      "convey"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "He is __________ of heights — he cannot look out of a second-floor window.",
+    "choices": [
+      "astonished",
+      "livid",
+      "terrified",
+      "exasperated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "A: 'I finally passed my driving test!' B: Which response shows HAPPINESS for the speaker?",
+    "choices": [
+      "I don't blame you.",
+      "I'm really pleased for you!",
+      "I'm so sorry to hear that.",
+      "What a pain!"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'thanks to the work done by the naturalist Jane Goodall since the 1960s, we should take the possibility seriously that some animals can both take in what we are saying and get across complex ideas.' — 'Take in' in this context means:",
+    "choices": [
+      "destroy completely",
+      "bring about change",
+      "understand and process information",
+      "collect physically"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'People are still sending messages and it usually takes only seconds to deliver them.' — How long does it usually take to deliver a message today?",
+    "choices": [
+      "Only seconds",
+      "A few hours",
+      "Several days",
+      "A few minutes"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'English as a vehicle of international communication would seem to be here to stay.' — The phrase 'here to stay' means:",
+    "choices": [
+      "It will disappear soon",
+      "It was invented recently",
+      "It is only used in one country",
+      "It will continue to exist for a long time"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "Luckily, I had backed up all my files before the computer __________ down.",
+    "choices": [
+      "had broken",
+      "was breaking",
+      "breaks",
+      "broke"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "The teacher __________ angry because students were playing football in class when she came in.",
+    "choices": [
+      "has been",
+      "was",
+      "were",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Which sentence is GRAMMATICALLY CORRECT?",
+    "choices": [
+      "I know the answer to this question.",
+      "He is believing her story.",
+      "She is having a car.",
+      "I am knowing the answer."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Chinese is the most spoken language in the world, but as it is complex, it isn't the ideal lingua franca.' — Why is Chinese not ideal as a global language?",
+    "choices": [
+      "Very few people speak it",
+      "It is complex and difficult to learn",
+      "It has no written form",
+      "It is only spoken in Asia"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'AI is already used by many forms of social media.' — The word 'already' suggests that:",
+    "choices": [
+      "AI has never been used",
+      "AI in social media is not new — it has been happening for a while",
+      "AI will be used in future",
+      "AI was recently banned"
+    ],
+    "correct_answer": "b"
+  }
+]

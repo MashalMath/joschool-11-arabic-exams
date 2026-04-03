@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "'Get __________ of here!' — completing the expression of surprise.",
+    "choices": [
+      "up",
+      "away",
+      "out",
+      "off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'The question of which languages will dominate the future is a difficult one to answer.' — The word 'dominate' means:",
+    "choices": [
+      "Disappear from use",
+      "Be the most powerful or widely used",
+      "Be spoken by few people",
+      "Become unimportant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "She __________ to a tourist the other day and they had a very interesting conversation.",
+    "choices": [
+      "was speaking",
+      "speaks",
+      "has spoken",
+      "spoke"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "'I'm heartbroken.' — What emotion does this phrase express?",
+    "choices": [
+      "Annoyance",
+      "Relief",
+      "Sadness",
+      "Happiness"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "We __________ about the accident until we saw it on the news that evening.",
+    "choices": [
+      "didn't know",
+      "hadn't known",
+      "don't know",
+      "weren't knowing"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'when students learn a foreign language, they are also learning about the culture of the country or countries where it is spoken.' — What additional thing do students learn when studying a foreign language?",
+    "choices": [
+      "How to avoid making friends",
+      "How to use technology better",
+      "How to travel more cheaply",
+      "The culture of the country where it is spoken"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'We are still at an early stage in the development of AI and there is no doubt it is an exciting form of technology.' — What does the writer think about AI?",
+    "choices": [
+      "It is perfect and has no problems",
+      "It is exciting but needs careful control",
+      "It should be banned immediately",
+      "It is only useful for adults"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Read: 'UNIDO reports that many industries have worked together to create a plan for using AI in the country's development over the next five years.' — What has been created for Jordan's use of AI?",
+    "choices": [
+      "A law banning AI in schools",
+      "A government AI tax",
+      "A new AI research university",
+      "A five-year development plan for using AI"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "After the argument, they __________ touch and never spoke again.",
+    "choices": [
+      "made",
+      "established",
+      "kept",
+      "lost"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "A: 'I'm extremely worried about my aunt.' B: Which is the best response?",
+    "choices": [
+      "Who would have thought it?",
+      "I'm walking on air!",
+      "I'm so sorry to hear that.",
+      "What a relief!"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "She found it difficult to __________ her feelings in a simple message.",
+    "choices": [
+      "lose",
+      "convey",
+      "maintain",
+      "establish"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "She __________ whenever anyone says something she disagrees with — very angrily.",
+    "choices": [
+      "refuses to let it drop",
+      "fires questions",
+      "jumps down people's throats",
+      "insists on the last word"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Which sentence clearly expresses a PERSONAL OPINION rather than a fact?",
+    "choices": [
+      "I feel that animal communication will be better understood in the future.",
+      "There are six million mobile phones in Jordan.",
+      "The Earth revolves around the sun.",
+      "The telegraph was invented in 1837."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'According to the website Net Positive, AI can even identify children's voices. This might mean children are directed to online advertising and content that their parents would not want.' — What is the danger of AI identifying children's voices?",
+    "choices": [
+      "Children may lose their phones",
+      "Children may be directed to unwanted online advertising and content",
+      "Children may be blocked from the Internet",
+      "Children may be monitored by police"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Most teenagers __________ texting to making phone calls nowadays.",
+    "choices": [
+      "prefer",
+      "are preferring",
+      "prefers",
+      "preferred"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Read: 'Thanks to the work done by the naturalist Jane Goodall since the 1960s...' — 'Thanks to' means:",
+    "choices": [
+      "Without",
+      "Despite",
+      "Because of / as a result of",
+      "Before"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "What do you think __________ this new idea? Do you like it?",
+    "choices": [
+      "for",
+      "on",
+      "of",
+      "about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "How often __________ you check your messages on social media?",
+    "choices": [
+      "do",
+      "are",
+      "did",
+      "were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Will you __________ the message to Hala when you see her at school?",
+    "choices": [
+      "stay",
+      "make",
+      "lose",
+      "deliver"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "The rival groups had battles in which they tried to __________ each other completely.",
+    "choices": [
+      "wipe out",
+      "take in",
+      "point out",
+      "come across"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Please __________ my message to the manager when you see him tomorrow.",
+    "choices": [
+      "lose",
+      "pass on",
+      "establish",
+      "carry"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which phrase expresses that you are VERY HAPPY?",
+    "choices": [
+      "It's keeping me up at night.",
+      "I'm heartbroken.",
+      "I've had it up to here.",
+      "I'm walking on air!"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "It's hard to __________ everything when a teacher speaks very fast.",
+    "choices": [
+      "spell out",
+      "bring about",
+      "take in",
+      "wipe out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "He felt __________ by her constant complaints — he couldn't take it anymore.",
+    "choices": [
+      "astonished",
+      "exasperated",
+      "ecstatic",
+      "tense"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "A good way to break the ice is to __________ the other person a sincere compliment.",
+    "choices": [
+      "hit it off",
+      "pay",
+      "strike up",
+      "come across as"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "He was __________ to see a snake in his garden — he stood completely still.",
+    "choices": [
+      "livid",
+      "exasperated",
+      "astonished",
+      "terrified"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'we have long assumed that communication with – and between – animals must be limited.' — The word 'assumed' means:",
+    "choices": [
+      "proved scientifically",
+      "denied completely",
+      "believed without proof",
+      "discovered recently"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Read: 'As a child, Jane loved reading books about a fictional character called Dr Dolittle, who could talk to animals. Perhaps this is what inspired her to go to Africa when she was in her 20s.' — What inspired Jane to go to Africa?",
+    "choices": [
+      "Reading books about Dr Dolittle who could talk to animals",
+      "She studied zoology at university",
+      "She saw a documentary about chimpanzees",
+      "Her parents encouraged her to go"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "By the end of this year, she __________ English for five years.",
+    "choices": [
+      "is studying",
+      "studied",
+      "has studied",
+      "will have studied"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "Teachers must __________ the message that hard work leads to success.",
+    "choices": [
+      "pass on",
+      "lose",
+      "establish",
+      "maintain"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "A: 'I lost my phone again.' B: '__________ ? That's the second time this week!'",
+    "choices": [
+      "Were you?",
+      "Have you?",
+      "Are you?",
+      "Did you?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "A: 'I can't believe I passed!' B: Which phrase shows DISBELIEF?",
+    "choices": [
+      "I'm so sorry to hear that.",
+      "I don't blame you.",
+      "That's a weight off my mind.",
+      "You've got to be kidding me!"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Most teenagers __________ their mobile phone within reach at all times.",
+    "choices": [
+      "kept",
+      "keep",
+      "have kept",
+      "are keeping"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "He has no idea how he lost his keys. He is completely __________.",
+    "choices": [
+      "bewildered",
+      "terrified",
+      "thrilled",
+      "ecstatic"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "Zeina likes people paying her compliments, __________?",
+    "choices": [
+      "doesn't she?",
+      "wasn't she?",
+      "isn't she?",
+      "does she?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 36,
+    "question": "You're coming to the party tonight, __________?",
+    "choices": [
+      "are you?",
+      "won't you?",
+      "aren't you?",
+      "will you?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "'I can breathe a sigh of __________.' — Complete the phrase correctly.",
+    "choices": [
+      "annoyance",
+      "sadness",
+      "relief",
+      "surprise"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "They've already finished their homework, __________?",
+    "choices": [
+      "haven't they?",
+      "hadn't they?",
+      "have they?",
+      "didn't they?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "She __________ a conversation with the person sitting next to her on the plane.",
+    "choices": [
+      "hit it off",
+      "struck up",
+      "came across as",
+      "paid a compliment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The Illman family __________ on the beach when they found the old bottle in the sand.",
+    "choices": [
+      "had walked",
+      "were walking",
+      "walks",
+      "walked"
+    ],
+    "correct_answer": "b"
+  }
+]

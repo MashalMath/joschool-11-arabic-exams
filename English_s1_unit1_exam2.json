@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "She was completely __________ by the instructions — they made no sense at all.",
+    "choices": [
+      "bewildered",
+      "ecstatic",
+      "livid",
+      "thrilled"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is a STATE VERB that does NOT normally take the -ing form?",
+    "choices": [
+      "run",
+      "go",
+      "play",
+      "believe"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "'I'm walking on air!' — What emotion does this phrase express?",
+    "choices": [
+      "Anxiety",
+      "Sadness",
+      "Annoyance",
+      "Happiness"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "The Earth __________ around the sun. This is a well-known scientific fact.",
+    "choices": [
+      "has revolved",
+      "is revolving",
+      "revolves",
+      "revolved"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "'I'm __________ sick about the exam.' — expressing strong anxiety.",
+    "choices": [
+      "feeling",
+      "worried",
+      "walking",
+      "driving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "She wrote a letter to __________ contact with her childhood friend who moved away.",
+    "choices": [
+      "deliver",
+      "make",
+      "carry",
+      "lose"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "'I __________ your point of view but I completely disagree.' — Choose the correct form.",
+    "choices": [
+      "was understanding",
+      "have been understanding",
+      "am understanding",
+      "understand"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "A: 'Jordan isn't a European country.' B: '__________ ? That's obvious, of course.'",
+    "choices": [
+      "Is it?",
+      "Does it?",
+      "Isn't it?",
+      "Was it?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "The detective __________ the suspect without giving him time to answer.",
+    "choices": [
+      "refused to let it drop",
+      "fired questions at",
+      "jumped down the throat of",
+      "put on the spot"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "He didn't come to class yesterday, __________?",
+    "choices": [
+      "did he?",
+      "has he?",
+      "was he?",
+      "didn't he?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 11,
+    "question": "I'm completely __________ about my exam results — I never thought I'd do so well!",
+    "choices": [
+      "frightened",
+      "angry",
+      "ecstatic",
+      "devastated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The family __________ on the beach when they found the message in a bottle.",
+    "choices": [
+      "were walking",
+      "had walked",
+      "walks",
+      "walked"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "She __________ the door when I knocked — she was surprised to see me.",
+    "choices": [
+      "has opened",
+      "opened",
+      "was opening",
+      "opens"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'Fluency in a foreign language is highly important for a student's future. There are many reasons for this. Firstly, having a good command of a foreign language can help young people be successful in their chosen career.' — What is ONE benefit of learning a foreign language?",
+    "choices": [
+      "It helps them avoid mathematics",
+      "It replaces the need for English",
+      "It helps young people succeed in their career",
+      "It makes them popular with teachers"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'English is now a compulsory subject in many primary schools too.' — The word 'compulsory' means:",
+    "choices": [
+      "Required by law — not optional",
+      "Taught only in secondary schools",
+      "Optional — students can choose",
+      "Expensive to learn"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "'Maybe...' and 'Possibly...' are phrases that express the author's __________.",
+    "choices": [
+      "definition",
+      "certainty",
+      "known fact",
+      "probability or uncertainty"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "Yousuf has been asking you questions all day, __________?",
+    "choices": [
+      "hasn't he?",
+      "didn't he?",
+      "wasn't he?",
+      "has he?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "The Industrial Revolution __________ a complete change in the way people lived.",
+    "choices": [
+      "took in",
+      "wiped out",
+      "pointed out",
+      "brought about"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Despite his hard work, nothing improves and he is becoming more and more __________.",
+    "choices": [
+      "ecstatic",
+      "exasperated",
+      "thrilled",
+      "bewildered"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "While she __________ a shower, someone rang the doorbell.",
+    "choices": [
+      "was having",
+      "had",
+      "has",
+      "had been having"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Too many children rely __________ social media to make new friends these days.",
+    "choices": [
+      "to",
+      "with",
+      "on",
+      "about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "He talks so fast in meetings that other people rarely manage to __________ edgeways.",
+    "choices": [
+      "get a word in",
+      "refuse to let it drop",
+      "fire questions",
+      "insist on the last word"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Perhaps students are wasting their time by learning French and German, and should be turning their attention to Mandarin, the most spoken language in the world.' — According to this view, what should students learn instead of French and German?",
+    "choices": [
+      "Italian",
+      "Japanese",
+      "Mandarin",
+      "Arabic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "'I'm feeling a bit __________.' — an expression meaning 'sad'.",
+    "choices": [
+      "yellow",
+      "red",
+      "blue",
+      "green"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'proficiency in a different language also makes travelling less stressful and fun!' — The word 'proficiency' means:",
+    "choices": [
+      "The ability to write only",
+      "A high level of skill and ability in a language",
+      "Having a foreign passport",
+      "A basic knowledge only"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "__________ a list before they went shopping? Yes, they were well prepared.",
+    "choices": [
+      "Had they prepared",
+      "Have they prepared",
+      "Were they preparing",
+      "Did they prepare"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "The storm __________ the electricity supply to the entire village for two days.",
+    "choices": [
+      "brought about",
+      "pointed out",
+      "made out",
+      "wiped out"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase means you are EXTREMELY HAPPY about something?",
+    "choices": [
+      "I'm heartbroken.",
+      "I can't stop smiling!",
+      "I've had it up to here.",
+      "It's keeping me up at night."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "We __________ David in town a few days ago when we were shopping.",
+    "choices": [
+      "did see",
+      "had seen",
+      "were seeing",
+      "saw"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "The number of people using the Internet __________ rapidly these days.",
+    "choices": [
+      "is growing",
+      "grows",
+      "grew",
+      "has grew"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "The disease nearly __________ the entire population of the island centuries ago.",
+    "choices": [
+      "picked up",
+      "brought about",
+      "wiped out",
+      "made out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The invention of the Internet has __________ enormous changes in communication.",
+    "choices": [
+      "pointed out",
+      "brought about",
+      "wiped out",
+      "picked up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "There's no need to __________ — I was only making a small suggestion.",
+    "choices": [
+      "put me on the spot",
+      "get a word in edgeways",
+      "refuse to let it drop",
+      "jump down my throat"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Since the dawn of time, people __________ different ways of communicating.",
+    "choices": [
+      "use",
+      "were using",
+      "have been using",
+      "used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'she taught us that they are omnivores (people used to think they were vegetarian).' — What does 'omnivores' mean?",
+    "choices": [
+      "Animals that eat only plants",
+      "Animals that eat only meat",
+      "Animals that eat only insects",
+      "Animals that eat both plants and meat"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "No one called while I was out this morning, __________ they?",
+    "choices": [
+      "don't",
+      "did",
+      "didn't",
+      "do"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'Jane went on to write a number of books about her work. As well as explaining chimpanzees' highly developed social behaviour...' — The phrase 'went on to' means:",
+    "choices": [
+      "continued to do something after",
+      "stopped doing",
+      "started doing for the first time",
+      "refused to do"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "We didn't __________ at first, but we became good friends over time.",
+    "choices": [
+      "come across as",
+      "hit it off",
+      "strike up",
+      "pay a compliment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "I __________ a useful article about space exploration the other day.",
+    "choices": [
+      "spelled out",
+      "made out",
+      "brought about",
+      "came across"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "She was talking so much that I couldn't __________ edgeways at all.",
+    "choices": [
+      "put someone on the spot",
+      "get a word in",
+      "jump down a throat",
+      "fire questions"
+    ],
+    "correct_answer": "b"
+  }
+]

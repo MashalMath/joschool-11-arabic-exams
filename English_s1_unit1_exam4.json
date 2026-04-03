@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The two friends really __________ and spent the whole evening talking together.",
+    "choices": [
+      "struck up",
+      "hit it off",
+      "made small talk",
+      "came across"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "I __________ down everything she's said so far — it's important information.",
+    "choices": [
+      "wrote",
+      "was writing",
+      "had written",
+      "have written"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "He walked in without knocking because we __________ to lock the door properly.",
+    "choices": [
+      "had forgotten",
+      "forget",
+      "forgot",
+      "have forgotten"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "Nowadays, young people __________ by hand much less than before.",
+    "choices": [
+      "write",
+      "have written",
+      "are writing",
+      "wrote"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "A: 'I'm having a great time at the party.' B: '__________ ? I'm glad you could come.'",
+    "choices": [
+      "Were you?",
+      "Have you?",
+      "Are you?",
+      "Did you?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "'It's been keeping me __________ at night!' — this expresses anxiety.",
+    "choices": [
+      "down",
+      "off",
+      "out",
+      "up"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "There was so much new information that she couldn't __________ it all at once.",
+    "choices": [
+      "pick up",
+      "take in",
+      "come across",
+      "make out"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which verb is a STATE VERB that cannot normally take -ing?",
+    "choices": [
+      "read",
+      "know",
+      "walk",
+      "write"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Since the invention of the mobile phone and the Internet, the world has become a different place.' — Which grammar structure is used here?",
+    "choices": [
+      "Present Continuous",
+      "Past Perfect",
+      "Present Perfect Simple",
+      "Past Simple"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "He usually __________ to work by car, but today he is taking the bus.",
+    "choices": [
+      "has driven",
+      "is driving",
+      "drives",
+      "drove"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'AI computers can now do amazing things, including writing songs, solving scientific problems and even helping to find cures for diseases.' — Which of the following CAN AI do?",
+    "choices": [
+      "Only play games",
+      "Write songs, solve scientific problems and help find cures for diseases",
+      "Only browse websites",
+      "Only write songs"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The programme __________ at 8 o'clock every Monday — don't miss it!",
+    "choices": [
+      "has started",
+      "started",
+      "starts",
+      "is starting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The audience was completely __________ by the magician's tricks — no one could explain them.",
+    "choices": [
+      "bewildered",
+      "livid",
+      "ecstatic",
+      "tense"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'At first, the animals ran away as soon as they saw her. But maybe because she knew very little about these wild animals, it is highly likely that her calmness gained their trust.' — How did Jane gain the chimpanzees' trust?",
+    "choices": [
+      "She dressed like them",
+      "She gave them food regularly",
+      "She talked to them quietly every day",
+      "Her calm manner helped her gain their trust"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Our train __________ at 9 p.m. — don't be late!",
+    "choices": [
+      "has left",
+      "leaves",
+      "left",
+      "is leaving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Social media sites direct advertisements __________ younger users constantly.",
+    "choices": [
+      "to",
+      "with",
+      "about",
+      "for"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "After years without contact, they finally managed to __________ touch through a mutual friend.",
+    "choices": [
+      "lose",
+      "deliver",
+      "make",
+      "carry"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "She __________ a headache right now, so she cannot come to class today.",
+    "choices": [
+      "has",
+      "was having",
+      "had",
+      "is having"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "A: 'I've just got back from Paris!' B: '__________ ? How was it?'",
+    "choices": [
+      "Are you?",
+      "Were you?",
+      "Did you?",
+      "Have you?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "My father is on his way. He __________ arrived yet — traffic is bad.",
+    "choices": [
+      "haven't",
+      "doesn't",
+      "hasn't",
+      "didn't"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'there is no doubt it is an exciting form of technology.' — The phrase 'there is no doubt' means the writer is:",
+    "choices": [
+      "Quoting another source",
+      "Unsure about this point",
+      "Completely certain about this point",
+      "Asking the reader a question"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "He __________ always __________ noise in class — it is so frustrating!",
+    "choices": [
+      "is / making",
+      "was / making",
+      "has / made",
+      "does / make"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "'I'm worried __________ about my results.' — Complete with the correct word.",
+    "choices": [
+      "bad",
+      "sick",
+      "mad",
+      "ill"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Which phrase best expresses RELIEF after receiving good news?",
+    "choices": [
+      "I'm heartbroken.",
+      "That's a weight off my mind.",
+      "You've got to be kidding me!",
+      "I've had it up to here with this."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "A: 'I'm having a wonderful time here at the camp.' B: '__________ ? I'm really glad.'",
+    "choices": [
+      "Have you?",
+      "Did you?",
+      "Were you?",
+      "Are you?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "Randa's mother was absolutely __________ when she found her daughter had cheated.",
+    "choices": [
+      "livid",
+      "happy",
+      "terrified",
+      "confused"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "The news channel was the first to __________ the message of the earthquake warning.",
+    "choices": [
+      "establish",
+      "lose",
+      "deliver",
+      "maintain"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase best expresses ANXIETY about a problem?",
+    "choices": [
+      "I'm walking on air!",
+      "That's a weight off my mind.",
+      "Get out of here!",
+      "It's been keeping me up at night."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "Read: 'A telegram was sent to the London police, and they were waiting for him when he arrived there.' — The pronoun 'they' refers to:",
+    "choices": [
+      "The London police",
+      "The station workers",
+      "John Tawell's friends",
+      "The train passengers"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "I __________ always __________ my phone — it drives my family crazy!",
+    "choices": [
+      "have / lost",
+      "do / lose",
+      "was / losing",
+      "am / losing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "After I __________ my breakfast, I went straight to school.",
+    "choices": [
+      "have had",
+      "had had",
+      "had",
+      "was having"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "'I've had it __________ to here with people being rude.' — Complete correctly.",
+    "choices": [
+      "up",
+      "off",
+      "down",
+      "out"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Despite the distance, they managed to __________ contact through regular video calls.",
+    "choices": [
+      "lose",
+      "make",
+      "carry",
+      "maintain"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Jordan is in a good position for using AI as it is at the forefront of technology.' — 'As' in this sentence means:",
+    "choices": [
+      "while",
+      "although",
+      "unless",
+      "because"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "She felt __________ when she heard that her best friend was moving abroad.",
+    "choices": [
+      "astonished",
+      "devastated",
+      "ecstatic",
+      "tense"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "I __________ for a job as a nurse and went for an interview yesterday.",
+    "choices": [
+      "have applied",
+      "apply",
+      "applied",
+      "applying"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Eid Al-Adha __________ on the 10th of Thul-Hijja every year.",
+    "choices": [
+      "is falling",
+      "falls",
+      "has fallen",
+      "fell"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'Fluency in a foreign language is highly important for a student's future.' — The word 'fluency' means:",
+    "choices": [
+      "The ability to translate written texts only",
+      "Knowing the grammar rules only",
+      "Having a foreign accent",
+      "The ability to speak a language easily and accurately"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "In an analytical essay, what is the purpose of a TOPIC SENTENCE?",
+    "choices": [
+      "To introduce the main idea of a paragraph",
+      "To cite a source",
+      "To ask a question for the reader",
+      "To summarise the whole essay"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 40,
+    "question": "From the top of the hill, they could __________ the lights of the distant city.",
+    "choices": [
+      "come across",
+      "wipe out",
+      "make out",
+      "pick up"
+    ],
+    "correct_answer": "c"
+  }
+]

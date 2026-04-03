@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "He had no idea why the computer broke. He felt completely __________.",
+    "choices": [
+      "ecstatic",
+      "bewildered",
+      "exasperated",
+      "thrilled"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "What __________ you usually do on Friday evenings after school?",
+    "choices": [
+      "do",
+      "were",
+      "did",
+      "are"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "He __________ the solution to the puzzle after thinking about it for hours.",
+    "choices": [
+      "spelled out",
+      "took in",
+      "came across",
+      "figured out"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "The government used television broadcasts to __________ the emergency message nationwide.",
+    "choices": [
+      "maintain",
+      "lose",
+      "establish",
+      "convey"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "Lola __________ it before she discovered a snake at her feet and screamed.",
+    "choices": [
+      "hadn't noticed",
+      "didn't notice",
+      "doesn't notice",
+      "hasn't noticed"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "We hadn't met before today, __________?",
+    "choices": [
+      "did we?",
+      "had we?",
+      "didn't we?",
+      "hadn't we?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Let's go to the cinema this evening, __________?",
+    "choices": [
+      "will we?",
+      "won't we?",
+      "shall we?",
+      "don't we?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Everyone enjoyed the party last night, __________ they?",
+    "choices": [
+      "wasn't",
+      "didn't",
+      "don't",
+      "weren't"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Young people __________ by hand less and less often in recent years.",
+    "choices": [
+      "wrote",
+      "write",
+      "have written",
+      "are writing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Parents can learn __________ ways to limit their children's internet use.",
+    "choices": [
+      "about",
+      "with",
+      "for",
+      "on"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'The invention of the telegraph in 1837 sped up communication dramatically.' — In what year was the telegraph invented?",
+    "choices": [
+      "1800",
+      "1820",
+      "1837",
+      "1900"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'Since the dawn of time, people have been using different ways of communicating at a distance.' — Which tense is used in this sentence?",
+    "choices": [
+      "Past Perfect",
+      "Present Perfect Continuous",
+      "Present Simple",
+      "Past Continuous"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read: 'Jane spelled out to the scientific community for the first time that animals, too, could use tools.' — The phrasal verb 'spelled out' means:",
+    "choices": [
+      "proved scientifically",
+      "explained very clearly",
+      "denied publicly",
+      "wrote down"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Our boss is completely fed up with all the paperwork, __________?",
+    "choices": [
+      "isn't he?",
+      "doesn't he?",
+      "wasn't he?",
+      "is he?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "I __________ been a teacher since 2002 — it's been a wonderful career.",
+    "choices": [
+      "am",
+      "has",
+      "had",
+      "have"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "He kept asking one question after another — he was __________ for ten minutes.",
+    "choices": [
+      "putting me on the spot",
+      "getting a word in",
+      "firing questions at me",
+      "refusing to let it drop"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Nothing ever seems to change in this situation, __________ it?",
+    "choices": [
+      "is",
+      "doesn't",
+      "does",
+      "do"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'her calmness gained their trust. It was only later that Jane would learn how dangerous they could be.' — What does this suggest about Jane?",
+    "choices": [
+      "She was a trained animal expert",
+      "She knew they were dangerous from the start",
+      "She was never in danger",
+      "She was brave but unaware of the danger at first"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "'Who would have __________ it?' — Complete the expression of surprise.",
+    "choices": [
+      "thought",
+      "done",
+      "known",
+      "said"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "The kids __________ in the garden when it suddenly started to rain heavily.",
+    "choices": [
+      "was playing",
+      "playing",
+      "were playing",
+      "played"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Nothing is changing and he is becoming more and more __________ about the situation.",
+    "choices": [
+      "exasperated",
+      "thrilled",
+      "happy",
+      "ecstatic"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'At this time, people believed that only humans could use tools, but Jane watched chimpanzees using sticks to take ants from a tree.' — What did Jane prove for the first time?",
+    "choices": [
+      "Animals can understand human language",
+      "Chimpanzees can make fire",
+      "Chimpanzees are more intelligent than humans",
+      "Animals can also use tools, not only humans"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Which phrase best expresses ANNOYANCE with a situation?",
+    "choices": [
+      "I'm walking on air!",
+      "This is driving me up the wall!",
+      "Who would have thought it?",
+      "I'm feeling a bit blue."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The instructions __________ exactly what to do in case of an emergency.",
+    "choices": [
+      "spelled out",
+      "came across",
+      "figured out",
+      "wiped out"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "The crowd went __________ when their team scored the winning goal in extra time.",
+    "choices": [
+      "terrified",
+      "livid",
+      "ecstatic",
+      "devastated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "I __________ already __________ to that officer, so he knew I was innocent.",
+    "choices": [
+      "had / talked",
+      "was / talking",
+      "have / talked",
+      "am / talking"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'India and China are considered to be the main emerging economies.' — The word 'emerging' in this context means:",
+    "choices": [
+      "Declining and shrinking",
+      "Very old and established",
+      "Already fully developed",
+      "Growing and developing rapidly"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "By the time we arrived at the airport, my father already __________ left.",
+    "choices": [
+      "did",
+      "had",
+      "was",
+      "has"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "While I __________ TV, my phone fell off the table and broke.",
+    "choices": [
+      "watch",
+      "have watched",
+      "was watching",
+      "watched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "She is __________ about her trip to Japan — she has been counting the days.",
+    "choices": [
+      "ecstatic",
+      "tense",
+      "devastated",
+      "livid"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "Don't __________ in front of everyone — ask her the difficult question in private.",
+    "choices": [
+      "refuse to let it drop",
+      "put her on the spot",
+      "jump down her throat",
+      "fire questions at her"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Mozart __________ more than 600 pieces of music in his short life.",
+    "choices": [
+      "writes",
+      "was writing",
+      "wrote",
+      "has written"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "'__________ a weight off my mind!' — Complete the expression of relief.",
+    "choices": [
+      "That's",
+      "Here's",
+      "There's",
+      "What's"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Don't forget to call me when you arrive safely, __________?",
+    "choices": [
+      "do you?",
+      "won't you?",
+      "will you?",
+      "don't you?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "The phone __________ every five minutes today — this is very annoying!",
+    "choices": [
+      "rang",
+      "is ringing",
+      "has rung",
+      "rings"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "What __________ you do last weekend? Did you go anywhere special?",
+    "choices": [
+      "were",
+      "have",
+      "do",
+      "did"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "He can swim very well, __________?",
+    "choices": [
+      "can he?",
+      "does he?",
+      "doesn't he?",
+      "can't he?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'This was attributed to a mixture of cultural reasons and past government policies.' — Why can only 25% of UK adults speak a foreign language?",
+    "choices": [
+      "Because English is the only language needed",
+      "A mixture of cultural reasons and past government policies",
+      "Because all UK adults speak Latin instead",
+      "Because foreign language teaching is illegal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read the whole essay 'Regulated AI is Good for Children'. What is the writer's MAIN ARGUMENT?",
+    "choices": [
+      "AI is always beneficial for children and society",
+      "Children should never use any form of technology",
+      "AI can be good for children, but only if it is carefully regulated and controlled",
+      "AI should be banned for all children immediately"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "The reporter used smoke signals to __________ the message to the next village.",
+    "choices": [
+      "establish",
+      "carry",
+      "lose",
+      "maintain"
+    ],
+    "correct_answer": "b"
+  }
+]

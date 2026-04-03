@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Save our trees. Stop ________ rain! (fill in the compound noun)",
+    "choices": ["freak", "torrential", "acid", "heavy"],
+    "correct_answer": "acid"
+  },
+  {
+    "number": 2,
+    "question": "Make public transport free to reduce vehicle ________.",
+    "choices": ["erosion", "emissions", "scarcity", "turbines"],
+    "correct_answer": "emissions"
+  },
+  {
+    "number": 3,
+    "question": "Water ________ will lead to war! (fill in the compound noun)",
+    "choices": ["erosion", "emission", "scarcity", "turbine"],
+    "correct_answer": "scarcity"
+  },
+  {
+    "number": 4,
+    "question": "Which word means 'a large flat piece that covers the body of some animals like reptiles'?",
+    "choices": ["fin", "backbone", "scale", "skeleton"],
+    "correct_answer": "scale"
+  },
+  {
+    "number": 5,
+    "question": "A crustacean is ________.",
+    "choices": ["a type of fish with a skeleton", "an animal with a hard shell, like a crab or lobster", "a mammal living in the sea", "a nocturnal reptile"],
+    "correct_answer": "an animal with a hard shell, like a crab or lobster"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'I am deeply concerned by the huge quantity of plastic.' What does this phrase show in the email?",
+    "choices": ["It gives reasons for writing.", "It explains why the issue is important.", "It asks for action.", "It concludes the email."],
+    "correct_answer": "It explains why the issue is important."
+  },
+  {
+    "number": 7,
+    "question": "Which future form describes something happening as part of a normal routine?",
+    "choices": ["Future Perfect", "Future Continuous", "Future Perfect Continuous", "Simple Present"],
+    "correct_answer": "Future Continuous"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'By the end of today, Dana and Eman ________ the entire first series.'",
+    "choices": ["will be watching", "will have been watching", "will have watched", "are going to watch"],
+    "correct_answer": "will have watched"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct option: 'We ________ sleeping under the stars at this time next week.'",
+    "choices": ["will have been", "will be", "are going to be", "will have"],
+    "correct_answer": "will be"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct option: 'By the time we reach the entrance, we ________ for three hours.'",
+    "choices": ["will be waiting", "will wait", "will have been waiting", "will have waited"],
+    "correct_answer": "will have been waiting"
+  },
+  {
+    "number": 11,
+    "question": "Which sentence is incorrect regarding formal email conventions?",
+    "choices": ["Use passives to make points less personal.", "Use I am writing, not I'm writing.", "Use phrasal verbs like 'cut down on'.", "Use hypothetical constructions like 'I would ask you to'."],
+    "correct_answer": "Use phrasal verbs like 'cut down on'."
+  },
+  {
+    "number": 12,
+    "question": "'I urge you to reduce plastic usage as a matter of urgency.' This phrase is ________.",
+    "choices": ["giving reasons for writing", "explaining why the issue is important", "calling to action", "making a point forcefully"],
+    "correct_answer": "calling to action"
+  },
+  {
+    "number": 13,
+    "question": "Which is the correct formal version of 'Get rid of plastic packaging!'?",
+    "choices": ["Remove plastic packaging!", "Plastic packaging should be banned.", "Stop using plastic!", "Do not use plastic!"],
+    "correct_answer": "Plastic packaging should be banned."
+  },
+  {
+    "number": 14,
+    "question": "Read: 'With luck, no one will be living in this way within a few decades.' Which future tense is used?",
+    "choices": ["Future Simple", "Future Continuous", "Future Perfect", "Future Perfect Continuous"],
+    "correct_answer": "Future Continuous"
+  },
+  {
+    "number": 15,
+    "question": "'By 2050, young people will have been trying, and failing, to get a job for most of their working lives.' Which tense is this?",
+    "choices": ["Future Simple", "Future Continuous", "Future Perfect", "Future Perfect Continuous"],
+    "correct_answer": "Future Perfect Continuous"
+  },
+  {
+    "number": 16,
+    "question": "Which is the correct definition of 'dystopia'?",
+    "choices": ["A perfect society in the future", "An imaginary place where life is extremely difficult", "A scientific prediction about the future", "A political system of the future"],
+    "correct_answer": "An imaginary place where life is extremely difficult"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'You've done so much revision you're ________ to pass your exams.'",
+    "choices": ["unlikely", "bound", "about", "due"],
+    "correct_answer": "bound"
+  },
+  {
+    "number": 18,
+    "question": "After her injury, it's ________ that Laila will reach the finals.",
+    "choices": ["bound", "sure", "certain", "unlikely"],
+    "correct_answer": "unlikely"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct answer: 'A big ________ of climate change is greenhouse gases.'",
+    "choices": ["result", "cause", "effect", "rise"],
+    "correct_answer": "cause"
+  },
+  {
+    "number": 20,
+    "question": "'Developments in technology have given rise ________ artificial intelligence.'",
+    "choices": ["in", "for", "to", "of"],
+    "correct_answer": "to"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'Invertebrates make up over 90% of all creatures on Earth.' What does this statistic highlight?",
+    "choices": ["Invertebrates are the most dangerous animals.", "Most animals on Earth lack a backbone.", "Vertebrates are more common than invertebrates.", "Invertebrates receive the most funding."],
+    "correct_answer": "Most animals on Earth lack a backbone."
+  },
+  {
+    "number": 22,
+    "question": "Which word means 'a small, thin, flat plate that covers the body of a fish or reptile'?",
+    "choices": ["fin", "scale", "skeleton", "backbone"],
+    "correct_answer": "scale"
+  },
+  {
+    "number": 23,
+    "question": "'I'm ________ between this plan and that one.' (can't decide)",
+    "choices": ["torn", "spot", "fence", "track"],
+    "correct_answer": "torn"
+  },
+  {
+    "number": 24,
+    "question": "Complete: 'I'm on the ________ about it.' (haven't decided)",
+    "choices": ["track", "spot", "fence", "finger"],
+    "correct_answer": "fence"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase is used to contrast two ideas in a presentation?",
+    "choices": ["So, to sum up", "The second thing is", "In other words", "Whereas"],
+    "correct_answer": "Whereas"
+  },
+  {
+    "number": 26,
+    "question": "Which phrase sequences an argument?",
+    "choices": ["So, to sum up", "In other words", "The second thing is", "I'm going to be talking about"],
+    "correct_answer": "The second thing is"
+  },
+  {
+    "number": 27,
+    "question": "In a persuasive presentation, props are used to ________.",
+    "choices": ["confuse the audience", "save time", "engage and illustrate key points for the audience", "replace the introduction"],
+    "correct_answer": "engage and illustrate key points for the audience"
+  },
+  {
+    "number": 28,
+    "question": "Read: 'As a consequence of artificial intelligence, some people have lost their jobs.' Which cause-and-effect structure comes before the CAUSE?",
+    "choices": ["Lead to", "Result in", "As a consequence of", "Give rise to"],
+    "correct_answer": "As a consequence of"
+  },
+  {
+    "number": 29,
+    "question": "Which is the correct formal rewrite of 'It's important to do this right away'?",
+    "choices": ["Do it now!", "It is essential to take immediate action.", "Please act quickly.", "This is urgent!"],
+    "correct_answer": "It is essential to take immediate action."
+  },
+  {
+    "number": 30,
+    "question": "Which of these is an adjective used to describe an animal that often lives alone?",
+    "choices": ["marine", "nocturnal", "solitary", "endangered"],
+    "correct_answer": "solitary"
+  },
+  {
+    "number": 31,
+    "question": "The blue whale is critically ________ and travels alone or in small groups.",
+    "choices": ["solitary", "nocturnal", "endangered", "marine"],
+    "correct_answer": "endangered"
+  },
+  {
+    "number": 32,
+    "question": "The pygmy tarsier was assumed to be ________ until 2008.",
+    "choices": ["solitary", "critically endangered", "extinct", "marine"],
+    "correct_answer": "extinct"
+  },
+  {
+    "number": 33,
+    "question": "Choose the correct option: 'You ________ apologise at once!' (command/instruction)",
+    "choices": ["are about to", "are due to", "are to", "are planning to"],
+    "correct_answer": "are to"
+  },
+  {
+    "number": 34,
+    "question": "Choose the best answer: 'The monthly car boot sale ________ at 10 a.m.'",
+    "choices": ["is going to start", "will start", "starts", "is about to start"],
+    "correct_answer": "starts"
+  },
+  {
+    "number": 35,
+    "question": "Which option means 'things that live in water with shells, like crabs and lobsters'?",
+    "choices": ["invertebrates", "crustaceans", "reptiles", "primates"],
+    "correct_answer": "crustaceans"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'Some supermarkets have managed to cut the amount of plastic packaging by using sustainable cardboard.' What is the purpose of this information in Farid's email?",
+    "choices": ["To criticise supermarkets", "To show that reducing plastic is possible and has been done", "To argue that cardboard is worse than plastic", "To suggest consumers change their habits"],
+    "correct_answer": "To show that reducing plastic is possible and has been done"
+  },
+  {
+    "number": 37,
+    "question": "Which word means 'soft material growing on the body of an animal, like a cat or rabbit'?",
+    "choices": ["scales", "fins", "fur", "skeleton"],
+    "correct_answer": "fur"
+  },
+  {
+    "number": 38,
+    "question": "In the sentence 'It starts at 7 p.m. in the auditorium', the future meaning comes from ________.",
+    "choices": ["be going to", "will", "Simple Present for timetabled events", "Future Continuous"],
+    "correct_answer": "Simple Present for timetabled events"
+  },
+  {
+    "number": 39,
+    "question": "Which of these best expresses reaching a decision?",
+    "choices": ["I'm torn between the two options.", "I can't make up my mind.", "Okay, so shall we go with this plan?", "I'm having second thoughts."],
+    "correct_answer": "Okay, so shall we go with this plan?"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'This may be due to better education, or perhaps to a reduction in extreme poverty.' What is being explained here?",
+    "choices": ["Why life expectancy is increasing", "Why technology is advancing", "Why crime has been dropping", "Why poverty has increased"],
+    "correct_answer": "Why crime has been dropping"
+  }
+]

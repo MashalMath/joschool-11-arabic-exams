@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "'She __________ like her new school.' — Which form is correct?",
+    "choices": [
+      "hasn't",
+      "aren't",
+      "doesn't",
+      "isn't"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "She tried hard to __________ contact with her long-lost sister through social media.",
+    "choices": [
+      "deliver",
+      "maintain",
+      "carry",
+      "establish"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'This might mean children are directed to online advertising and content that their parents would not want.' — 'Might' in this sentence expresses:",
+    "choices": [
+      "Certainty — it will definitely happen",
+      "Obligation — they must do it",
+      "Possibility — it is not certain",
+      "Permission — they are allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "She doesn't like spicy food, __________?",
+    "choices": [
+      "does she?",
+      "doesn't she?",
+      "is she?",
+      "isn't she?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "She felt very __________ as she waited for her job interview to begin.",
+    "choices": [
+      "upset",
+      "tense",
+      "bewildered",
+      "surprised"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Landline telephones __________ less and less common in recent years across the world.",
+    "choices": [
+      "are becoming",
+      "become",
+      "became",
+      "have become"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Children __________ more and more time on their phones these days — it is a concern.",
+    "choices": [
+      "spend",
+      "have spent",
+      "spent",
+      "are spending"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "She was completely __________ when she won first prize — she had never expected it.",
+    "choices": [
+      "devastated",
+      "ecstatic",
+      "tense",
+      "livid"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "He could try to work harder at school, __________?",
+    "choices": [
+      "can't he?",
+      "doesn't he?",
+      "couldn't he?",
+      "could he?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Read: 'A criminal, John Tawell, was caught after he had escaped on the train to London. A telegram was sent to the London police, and they were waiting for him when he arrived there.' — How was John Tawell caught?",
+    "choices": [
+      "He was recognised by passengers",
+      "A telegram was sent ahead to the London police",
+      "Police followed him on the next train",
+      "He was stopped at the station gate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'It is easy to get your message across in a hotel or restaurant in Spanish and French.' — The phrase 'get your message across' means:",
+    "choices": [
+      "translate perfectly",
+      "deliver a letter",
+      "write a message",
+      "communicate successfully"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "We __________ an old friend in town when we went shopping last Friday.",
+    "choices": [
+      "had seen",
+      "see",
+      "saw",
+      "were seeing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "An analytical essay relies mainly on __________ to support the writer's argument.",
+    "choices": [
+      "researched facts",
+      "creative stories",
+      "emotional language",
+      "personal feelings"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "He lost everything he owned in the fire and felt absolutely __________.",
+    "choices": [
+      "bewildered",
+      "ecstatic",
+      "devastated",
+      "tense"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "A: 'I'm really nervous about the interview.' B: '__________ ? Don't worry, you'll be great!'",
+    "choices": [
+      "Were you?",
+      "Are you?",
+      "Have you?",
+      "Do you?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "He __________ any Chinese courses before he travelled to China last year.",
+    "choices": [
+      "hadn't taken",
+      "doesn't take",
+      "hasn't taken",
+      "didn't take"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "She __________ him a compliment about his creative approach to the problem.",
+    "choices": [
+      "struck up",
+      "came across as",
+      "paid",
+      "took to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Heavy rainfall __________ the entire harvest, causing a severe food shortage.",
+    "choices": [
+      "came across",
+      "spelled out",
+      "wiped out",
+      "figured out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "'You've __________ to be kidding me!' — Complete the expression.",
+    "choices": [
+      "got",
+      "need",
+      "been",
+      "have"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "A: 'I can't understand what he's saying.' B: '__________ ? Let me try to explain it.'",
+    "choices": [
+      "Can you?",
+      "Couldn't you?",
+      "Don't you?",
+      "Can't you?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "A: 'I finally finished my geography project!' B: Which phrase suits as a response?",
+    "choices": [
+      "I've had it up to here.",
+      "That's a weight off your mind!",
+      "I'm heartbroken.",
+      "What a pain!"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "It was difficult to __________ the urgency of the situation to the committee.",
+    "choices": [
+      "get across",
+      "figure out",
+      "bring about",
+      "pick up"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "She __________ an old diary while cleaning the attic last weekend.",
+    "choices": [
+      "came across",
+      "wiped out",
+      "pointed out",
+      "took in"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "She has a lot of work to do, __________?",
+    "choices": [
+      "hasn't she?",
+      "doesn't she?",
+      "is she?",
+      "does she?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "My friends and I __________ emails to each other — we prefer messaging apps now.",
+    "choices": [
+      "are not usually sending",
+      "not send",
+      "don't usually send",
+      "didn't send"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "The writing was so small that he could barely __________ the words on the page.",
+    "choices": [
+      "make out",
+      "bring about",
+      "spell out",
+      "take in"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "A: 'I've been waiting here for an hour!' B: '__________ ? I'm terribly sorry!'",
+    "choices": [
+      "Were you?",
+      "Are you?",
+      "Did you?",
+      "Have you?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "He walked up to the stranger and __________ a conversation about the weather.",
+    "choices": [
+      "hit off",
+      "paid",
+      "came across as",
+      "struck up"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "The article aims to __________ an important message about climate change.",
+    "choices": [
+      "convey",
+      "lose",
+      "establish",
+      "maintain"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Happier stories have also come to light. In 1956, Ake Viking, a Swede, tossed a letter into the sea.' — The phrase 'come to light' means:",
+    "choices": [
+      "become dark",
+      "become known",
+      "be delivered",
+      "be forgotten"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Nobody helped her when she was struggling with the project, __________?",
+    "choices": [
+      "didn't he?",
+      "didn't they?",
+      "did they?",
+      "do they?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "It took me a while to __________ how to use the new software on my computer.",
+    "choices": [
+      "spell out",
+      "get across",
+      "figure out",
+      "come across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "We had no signal in the valley, but started to __________ it in the mountains.",
+    "choices": [
+      "spell out",
+      "pick up",
+      "figure out",
+      "bring about"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'a recent study in the UK revealed that only about 25% of adults in The UK can hold a conversation in a foreign language.' — What percentage of UK adults can speak a foreign language?",
+    "choices": [
+      "75%",
+      "10%",
+      "50%",
+      "25%"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "When the phone __________, she was writing an important letter to her sister.",
+    "choices": [
+      "rings",
+      "had rung",
+      "was ringing",
+      "rang"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "Even after everyone agreed to move on, she __________ and kept bringing it up.",
+    "choices": [
+      "refused to let it drop",
+      "put someone on the spot",
+      "jumped down a throat",
+      "fired questions"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "He __________ her a compliment on her excellent presentation skills.",
+    "choices": [
+      "struck up",
+      "paid",
+      "hit off",
+      "took to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "She __________ us about our project before we even sat down.",
+    "choices": [
+      "jumped down our throats",
+      "got a word in edgeways",
+      "insisted on the last word",
+      "fired questions at"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'naturalists have continued to study different forms of communication between animals such as whales and elephants, who can pick up sounds made by other whales and elephants over large distances.' — How do whales and elephants communicate over long distances?",
+    "choices": [
+      "By touch only",
+      "By using sign language",
+      "By using tools",
+      "By picking up sounds made by others of their kind"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "She __________ her umbrella again — this is the third time this week!",
+    "choices": [
+      "is forgetting",
+      "has forgotten",
+      "had forgotten",
+      "forgot"
+    ],
+    "correct_answer": "b"
+  }
+]

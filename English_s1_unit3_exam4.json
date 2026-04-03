@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which phrase means 'to praise someone'?",
+    "choices": [
+      "fall out with somebody",
+      "give somebody a compliment",
+      "put up with somebody",
+      "wind somebody up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "My teacher _____ always shouting at students last year. It was very stressful.",
+    "choices": [
+      "is",
+      "used to",
+      "was",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective means 'full of sympathy and care for others who are suffering'?",
+    "choices": [
+      "pushy",
+      "defensive",
+      "compassionate",
+      "immature"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'A nurse called the baby Oliver Twist and he was sent to a house for orphans until he was nine.' Why was Oliver sent to a house for orphans?",
+    "choices": [
+      "because he was very ill",
+      "because his mother died after giving birth",
+      "because he ran away from home",
+      "because his father was in prison"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "When I was a child, we _____ go to the park every weekend. (repeated past action)",
+    "choices": [
+      "used to",
+      "are",
+      "is",
+      "was"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Which phrase means 'to admire or revere someone very greatly'?",
+    "choices": [
+      "despise",
+      "loathe",
+      "idolise",
+      "look down on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Rewrite: 'What's the name of that website that sells retro-tech?' (Using participle clause)",
+    "choices": [
+      "What's the name of that website sold retro-tech?",
+      "What's the name of that website to sell retro-tech?",
+      "What's the name of that website selling retro-tech?",
+      "What's the name of that website which selling retro-tech?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase means 'to quarrel and stop being friends with someone'?",
+    "choices": [
+      "make up with somebody",
+      "fall out with somebody",
+      "empathise with somebody",
+      "put up with somebody"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'But a man, Mr Brownlow, told the police officer that Oliver had not taken anything.' Why did Mr Brownlow defend Oliver?",
+    "choices": [
+      "because Oliver was his son",
+      "because Mr Brownlow knew Fagin",
+      "because Mr Brownlow believed Oliver was innocent",
+      "because Mr Brownlow wanted to keep Oliver as a servant"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "In a defining relative clause, we _____ use 'that' instead of 'which' or 'who'.",
+    "choices": [
+      "cannot",
+      "never",
+      "can",
+      "must not"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which adjective describes someone who 'genuinely means what they say'?",
+    "choices": [
+      "hypocritical",
+      "bigoted",
+      "sincere",
+      "conceited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "I _____ believe in ghosts, but not anymore. (past state that has ended)",
+    "choices": [
+      "would",
+      "was",
+      "used to",
+      "am"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "What is the function of the INTRODUCTION in an opinion essay?",
+    "choices": [
+      "to summarise the main points and restate the opinion",
+      "to give supporting arguments with examples",
+      "to summarise the topic and state the writer's position",
+      "to list facts and statistics only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The book _____ I read yesterday was very interesting.",
+    "choices": [
+      "who",
+      "whose",
+      "where",
+      "which"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Which phrase means 'to say things in order to annoy somebody'?",
+    "choices": [
+      "tell somebody off",
+      "mess about",
+      "wind somebody up",
+      "show off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "She is _____ dedicated to her work. She never stops.",
+    "choices": [
+      "a truly",
+      "truly",
+      "an truly",
+      "the truly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'Around 97% of these children spend up to 6 hours a day online.' This is an example of:",
+    "choices": [
+      "an opinion",
+      "a personal conviction",
+      "a fact that can be verified",
+      "a generalisation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "When he was little, my brother used to _____ things out of proportion.",
+    "choices": [
+      "blow",
+      "burst",
+      "make",
+      "show"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Which phrase means 'to deeply respect and greatly value someone as a role model'?",
+    "choices": [
+      "loathe",
+      "despise",
+      "look down on",
+      "admire"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "My grandfather's house, _____ I love, isn't very modern. (non-defining)",
+    "choices": [
+      "that",
+      "which",
+      "who",
+      "whose"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "She _____ always complaining about the weather. (annoying habit in the present)",
+    "choices": [
+      "was",
+      "used to",
+      "would",
+      "is"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 22,
+    "question": "Which adjective describes someone who 'has a magnetic personality that attracts people'?",
+    "choices": [
+      "conceited",
+      "charming",
+      "pushy",
+      "bigoted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'The boys gathered together to give the old man watches and jewellery.' What does this tell us about Fagin?",
+    "choices": [
+      "Fagin was teaching the boys to make watches",
+      "the boys were buying gifts for Fagin",
+      "the boys were bringing Fagin stolen goods",
+      "Fagin was giving the boys presents"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "When the relative pronoun is the _____ of the relative clause, you can omit it.",
+    "choices": [
+      "subject",
+      "object",
+      "verb",
+      "adjective"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which phrase means 'to help resolve an argument between others'?",
+    "choices": [
+      "wind somebody up",
+      "be the peacemaker",
+      "have a go at somebody",
+      "burst into tears"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "If you want to be sure a secret is kept, tell Randa. She's _____.",
+    "choices": [
+      "conceited",
+      "bigoted",
+      "trustworthy",
+      "modest"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In 'More often than not, young people communicate using messaging apps', this phrase means:",
+    "choices": [
+      "never",
+      "rarely",
+      "usually",
+      "sometimes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "What does 'living day-to-day' mean?",
+    "choices": [
+      "planning carefully for the future",
+      "dealing with things without thinking about the future",
+      "saving money every day",
+      "travelling to a new place each day"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Users _____ care about photograph quality will be happy with the new camera.",
+    "choices": [
+      "whose",
+      "where",
+      "which",
+      "who"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'I would say that while society may have changed, families remain as close as they were.' This sentence is used to:",
+    "choices": [
+      "introduce the topic",
+      "give a supporting argument",
+      "restate the thesis in the conclusion",
+      "present a counterargument"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which word means 'to ask strangers for money or food'?",
+    "choices": [
+      "beg",
+      "flunk",
+      "clash",
+      "relocate"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "My brother _____ constantly losing his keys. He's so forgetful!",
+    "choices": [
+      "is",
+      "was",
+      "used to",
+      "would"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Which phrase means 'to have great admiration for someone, treating them like a role model'?",
+    "choices": [
+      "look down on",
+      "despise",
+      "follow in somebody's footsteps",
+      "loathe"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Oliver was sad to leave the other orphans. Although the boys lived hand-to-mouth, they had a sense of belonging.' Why was Oliver sad to leave?",
+    "choices": [
+      "because he had plenty of food there",
+      "because the orphans helped and looked after each other",
+      "because it was where he was born",
+      "because the workhouse was far from London"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "In an opinion essay, the MAIN BODY should include:",
+    "choices": [
+      "only facts and statistics",
+      "two or three paragraphs with arguments including the given topics and your own idea",
+      "the introduction and conclusion only",
+      "a list of vocabulary words"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which word means 'saying one thing but doing the opposite'?",
+    "choices": [
+      "hypocritical",
+      "sincere",
+      "trustworthy",
+      "dedicated"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "She _____ turn up at 11 o'clock and act as if nothing's wrong. (typical present behaviour)",
+    "choices": [
+      "used to",
+      "was forever",
+      "will",
+      "would"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Which adjective describes someone who is 'very committed and works extremely hard for a cause'?",
+    "choices": [
+      "pushy",
+      "dedicated",
+      "immature",
+      "bigoted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Televisions used to have a dial. The dial was used to change the channel. (Combine using relative clause)",
+    "choices": [
+      "Televisions used to have a dial that was used to change the channel.",
+      "Televisions used to have a dial who was used to change the channel.",
+      "Televisions used to have a dial where was used to change the channel.",
+      "Televisions used to have a dial whose was used to change the channel."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 40,
+    "question": "What does 'a housekeeper' mean?",
+    "choices": [
+      "a child whose parents have died",
+      "a person whose job is to look after a house",
+      "a person who works in a factory",
+      "a person who teaches children at home"
+    ],
+    "correct_answer": "b"
+  }
+]

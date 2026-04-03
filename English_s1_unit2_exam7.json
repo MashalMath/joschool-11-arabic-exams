@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "question": "Burning fossil fuels creates a hole in the ozone ________. Stop the cycle of destruction!",
+    "choices": ["erosion", "layer", "warming", "scarcity"],
+    "correct_answer": "layer"
+  },
+  {
+    "number": 2,
+    "question": "Close factories that produce ________ waste now!",
+    "choices": ["acid", "fossil", "toxic", "renewable"],
+    "correct_answer": "toxic"
+  },
+  {
+    "number": 3,
+    "question": "Protect ________ species and stop habitat loss!",
+    "choices": ["marine", "extinct", "endangered", "solitary"],
+    "correct_answer": "endangered"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct form: 'Insects are ________ because they do not have a backbone.'",
+    "choices": ["mammals", "reptiles", "invertebrates", "crustaceans"],
+    "correct_answer": "invertebrates"
+  },
+  {
+    "number": 5,
+    "question": "Which of these correctly describes the function of Future Perfect?",
+    "choices": ["An action in progress at a specific future time", "A routine future action", "An action that will be completed before a specific future time", "A plan already decided"],
+    "correct_answer": "An action that will be completed before a specific future time"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct option: 'By tomorrow, we ________ the project.' (start)",
+    "choices": ["will be starting", "will start", "will have started", "are going to start"],
+    "correct_answer": "will have started"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'The planet belongs to all living things: protect ________ species.'",
+    "choices": ["extinct", "renewable", "endangered", "solitary"],
+    "correct_answer": "endangered"
+  },
+  {
+    "number": 8,
+    "question": "Choose: 'In 2030, ________ you ________ here for a whole year?' (live)",
+    "choices": ["Will / have lived", "Will / have been living", "Are / going to live", "Will / be living"],
+    "correct_answer": "Will / have been living"
+  },
+  {
+    "number": 9,
+    "question": "He ________ the car from Aqaba. (not, drive) — negative Future Perfect Continuous.",
+    "choices": ["won't be driving", "won't drive", "won't have been driving", "isn't going to drive"],
+    "correct_answer": "won't have been driving"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct option: 'I ________ all the work by next Saturday.' (complete, promise)",
+    "choices": ["am going to complete", "am about to complete", "will have completed", "will be completing"],
+    "correct_answer": "will have completed"
+  },
+  {
+    "number": 11,
+    "question": "Choose: 'I ________ a full day.' (play — Future Perfect Continuous)",
+    "choices": ["will play", "will be playing", "will have played", "will have been playing"],
+    "correct_answer": "will have been playing"
+  },
+  {
+    "number": 12,
+    "question": "Which word means 'a thin flat body part that fish use to swim'?",
+    "choices": ["scale", "backbone", "fin", "skeleton"],
+    "correct_answer": "fin"
+  },
+  {
+    "number": 13,
+    "question": "A mammal is ________.",
+    "choices": ["an animal that lays eggs and lives in water", "a warm-blooded animal that feeds its young with milk", "an animal covered in scales", "an animal without a backbone"],
+    "correct_answer": "a warm-blooded animal that feeds its young with milk"
+  },
+  {
+    "number": 14,
+    "question": "A reptile is ________.",
+    "choices": ["a warm-blooded mammal", "a cold-blooded animal with scales", "a marine invertebrate", "a nocturnal primate"],
+    "correct_answer": "a cold-blooded animal with scales"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'The aye-aye is the world's largest nocturnal primate.' What does 'nocturnal' mean?",
+    "choices": ["Active during the day", "Living alone", "Active at night", "Living in water"],
+    "correct_answer": "Active at night"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct speaking phrase: 'I ________ between the first idea and the second.'",
+    "choices": ["am on the fence", "am torn", "can't make up my mind about", "am having second thoughts about"],
+    "correct_answer": "am torn"
+  },
+  {
+    "number": 17,
+    "question": "'You're ________ on!' means 'You are exactly correct!'",
+    "choices": ["spot", "track", "fence", "finger"],
+    "correct_answer": "spot"
+  },
+  {
+    "number": 18,
+    "question": "Which phrase is used to disagree politely while acknowledging a point?",
+    "choices": ["You're spot on!", "That's what I was going to say!", "That's a good point, but...", "It looks as if we agree."],
+    "correct_answer": "That's a good point, but..."
+  },
+  {
+    "number": 19,
+    "question": "Choose: 'I ________ getting a new laptop.' (thinking about, not decided yet)",
+    "choices": ["am planning to get", "am hoping to get", "am thinking of getting", "am about to get"],
+    "correct_answer": "am thinking of getting"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct option: 'Students ________ arrive at 7 p.m.' (official instruction)",
+    "choices": ["are about to", "are planning to", "are to", "are hoping to"],
+    "correct_answer": "are to"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'I am writing to draw your attention to a pressing problem.' The word 'pressing' means ________.",
+    "choices": ["minor", "urgent and important", "environmental", "solved"],
+    "correct_answer": "urgent and important"
+  },
+  {
+    "number": 22,
+    "question": "In the email, Farid suggests creating a plastic-free aisle where customers could use ________.",
+    "choices": ["plastic bags only", "reusable containers or paper bags", "biodegradable plastic", "cardboard boxes only"],
+    "correct_answer": "reusable containers or paper bags"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Around a third of consumers base their buying decisions on ethical practices.' This means ________.",
+    "choices": ["33% of buyers care about ethics", "50% of buyers care about ethics", "10% of buyers care about ethics", "Most buyers care about ethics"],
+    "correct_answer": "33% of buyers care about ethics"
+  },
+  {
+    "number": 24,
+    "question": "Which word completes this formal sentence? 'It is ________ that we all take immediate action to prevent this.'",
+    "choices": ["vital", "likely", "possible", "optional"],
+    "correct_answer": "vital"
+  },
+  {
+    "number": 25,
+    "question": "In compound nouns, when the first word is an adjective, the stress is on the ________.",
+    "choices": ["first word", "second word", "both equally", "neither word"],
+    "correct_answer": "second word"
+  },
+  {
+    "number": 26,
+    "question": "The word 'industrial' in 'industrial waste' is an ________.",
+    "choices": ["noun", "verb", "adjective", "adverb"],
+    "correct_answer": "adjective"
+  },
+  {
+    "number": 27,
+    "question": "Which signposting phrase introduces what the speaker is going to talk about?",
+    "choices": ["So, to sum up...", "Whereas...", "In other words...", "I'm going to be talking about..."],
+    "correct_answer": "I'm going to be talking about..."
+  },
+  {
+    "number": 28,
+    "question": "A rhetorical question is asked to ________.",
+    "choices": ["get a factual answer from the audience", "make a point, not get an answer", "confuse the audience", "summarise the talk"],
+    "correct_answer": "make a point, not get an answer"
+  },
+  {
+    "number": 29,
+    "question": "Read: 'Global warming is certain to lead to more water shortages.' What does 'lead to' mean here?",
+    "choices": ["prevent", "reduce", "cause", "explain"],
+    "correct_answer": "cause"
+  },
+  {
+    "number": 30,
+    "question": "Which sentence shows a Future Continuous for a routine event?",
+    "choices": ["By next year I will have saved enough money.", "She will be visiting her family at the weekend.", "I'm going to study architecture.", "They are about to announce the results."],
+    "correct_answer": "She will be visiting her family at the weekend."
+  },
+  {
+    "number": 31,
+    "question": "Choose the correct answer: 'Driverless cars ________ reduce the number of road accidents.' (almost certainly)",
+    "choices": ["are unlikely to", "are going to", "are sure to", "are about to"],
+    "correct_answer": "are sure to"
+  },
+  {
+    "number": 32,
+    "question": "In the 'Future's Terrifying' text, what will most people be in 30 years' time?",
+    "choices": ["Rich", "Healthy", "Poor", "Educated"],
+    "correct_answer": "Poor"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'Such cars are already a reality and are going to become more common in the next few years.' What kind of prediction is this?",
+    "choices": ["Based on opinion only", "Based on existing evidence", "A wild guess", "A scientific theory"],
+    "correct_answer": "Based on existing evidence"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I hope I ________ so much money by 40 that I won't need to work.'",
+    "choices": ["will earn", "will have earned", "will be earning", "will have been earning"],
+    "correct_answer": "will have earned"
+  },
+  {
+    "number": 35,
+    "question": "Which phrase means 'as a result'?",
+    "choices": ["result from", "lead to", "as a consequence of", "give rise to"],
+    "correct_answer": "as a consequence of"
+  },
+  {
+    "number": 36,
+    "question": "Which of these is a cause-and-effect phrase where the RESULT comes after the phrase?",
+    "choices": ["result from", "due to", "because of", "lead to"],
+    "correct_answer": "lead to"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'No one will be living in this way within a few decades.' Which future form is used?",
+    "choices": ["Future Simple", "Future Continuous", "Future Perfect", "Future Perfect Continuous"],
+    "correct_answer": "Future Continuous"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct answer: 'By six o'clock, they ________ for 24 hours non-stop.'",
+    "choices": ["will work", "will be working", "will have worked", "will have been working"],
+    "correct_answer": "will have been working"
+  },
+  {
+    "number": 39,
+    "question": "Which word describes something pleasant to hold, like a soft toy?",
+    "choices": ["slimy", "cuddly", "furry", "marine"],
+    "correct_answer": "cuddly"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'This time next week, you will be giving your presentation about climate change.' This Future Continuous expresses ________.",
+    "choices": ["a completed future action", "an action in progress at a specific future time", "a timetabled event", "a decision made now"],
+    "correct_answer": "an action in progress at a specific future time"
+  }
+]

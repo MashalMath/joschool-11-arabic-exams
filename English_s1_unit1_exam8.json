@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "He plays football every Friday, __________?",
+    "choices": [
+      "isn't he?",
+      "does he?",
+      "doesn't he?",
+      "wasn't he?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "More and more people __________ social media to stay in touch these days.",
+    "choices": [
+      "are using",
+      "used to use",
+      "will use",
+      "used"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "She usually __________ the bus to school every morning without fail.",
+    "choices": [
+      "took",
+      "has taken",
+      "is taking",
+      "takes"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "After working hard for months, she was absolutely __________ when she failed the final exam.",
+    "choices": [
+      "tense",
+      "devastated",
+      "bewildered",
+      "ecstatic"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The museum __________ at 9 a.m. every day including weekends.",
+    "choices": [
+      "opened",
+      "has opened",
+      "is opening",
+      "opens"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'As with other forms of social media, AI can learn about its users' interests and hobbies, and that includes children.' — What can AI learn about children?",
+    "choices": [
+      "Their favourite teachers",
+      "Their school grades",
+      "Their home addresses",
+      "Their interests and hobbies"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'Reports also suggest Arabic and Spanish will be important languages to do business in.' — Which two languages are mentioned as important for business?",
+    "choices": [
+      "Arabic and Spanish",
+      "English and Italian",
+      "French and Chinese",
+      "German and Japanese"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "The government plans to have control __________ how AI is used in schools.",
+    "choices": [
+      "on",
+      "with",
+      "about",
+      "to"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "It wasn't the best book she had ever read, __________?",
+    "choices": [
+      "is it?",
+      "did it?",
+      "was it?",
+      "wasn't it?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Which phrase best expresses SADNESS?",
+    "choices": [
+      "I'm feeling a bit blue.",
+      "I'm walking on air!",
+      "I can't stop smiling.",
+      "You've got to be kidding me!"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'she uploaded a photo of her daughter on social media, a friend spotted a problem with one of the child's eyes.' — The word 'spotted' in this sentence means:",
+    "choices": [
+      "photographed",
+      "ignored",
+      "created",
+      "noticed"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "After his team lost the final match, he felt absolutely __________ for days.",
+    "choices": [
+      "ecstatic",
+      "devastated",
+      "bewildered",
+      "tense"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "She __________ bad all morning while she was cooking the food for the guests.",
+    "choices": [
+      "was feeling",
+      "felt",
+      "is feeling",
+      "feel"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "John __________ for his exams right now and cannot be disturbed.",
+    "choices": [
+      "has prepared",
+      "prepares",
+      "is preparing",
+      "prepared"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "After she __________ her breakfast, she left for school immediately.",
+    "choices": [
+      "finished",
+      "has finished",
+      "had finished",
+      "was finishing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "'... is driving me up the wall!' — What emotion does this phrase express?",
+    "choices": [
+      "Sadness",
+      "Relief",
+      "Happiness",
+      "Annoyance"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'Artificial Intelligence (AI) refers to how computers can do tasks that are usually done by intelligent humans.' — What does Artificial Intelligence mean?",
+    "choices": [
+      "Computers performing tasks usually done by intelligent humans",
+      "A type of robot",
+      "Humans performing computer tasks",
+      "A new social media platform"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "The journalist __________ the politician by asking about his secret meetings.",
+    "choices": [
+      "put the politician on the spot",
+      "refused to let it drop",
+      "fired questions at",
+      "got a word in edgeways"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "She felt much better after she __________ to the new house with her family.",
+    "choices": [
+      "moved",
+      "had moved",
+      "has moved",
+      "is moving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "You wouldn't tell anyone my secret, __________?",
+    "choices": [
+      "would you?",
+      "will you?",
+      "won't you?",
+      "wouldn't you?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "I __________ a film when the lights suddenly went out last night.",
+    "choices": [
+      "watched",
+      "was watching",
+      "have watched",
+      "had watched"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'In 1956, Ake Viking, a Swede, tossed a letter into the sea, hoping it would reach his future wife. Two years later, he received a letter from a Sicilian girl, Paolina, who had found his bottle and soon after they were married!' — What happened to Ake Viking's letter?",
+    "choices": [
+      "It sank with the Titanic",
+      "It was never found",
+      "A Sicilian girl found it and they later married",
+      "Police used it to catch a criminal"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Water __________ at 100 degrees Celsius. This is a scientific fact.",
+    "choices": [
+      "boiled",
+      "is boiling",
+      "boils",
+      "has boiled"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'In my opinion, Jane Goodall brought about a complete change in the way people understood how animals can communicate.' — The author uses 'in my opinion' to:",
+    "choices": [
+      "Quote another source",
+      "Signal that this is a personal viewpoint",
+      "State a scientific fact",
+      "Introduce a counter-argument"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "A: 'She can speak five languages!' B: '__________ ? That's incredible!'",
+    "choices": [
+      "Has she?",
+      "Can she?",
+      "Does she?",
+      "Is she?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "What should a writer do BEFORE writing an analytical essay?",
+    "choices": [
+      "Begin with a personal story",
+      "Avoid using any sources",
+      "Research the topic using reliable sources",
+      "Write the conclusion first"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "He __________ when I pointed out the mistake, which made me feel very uncomfortable.",
+    "choices": [
+      "refused to let it drop",
+      "insisted on the last word",
+      "put me on the spot",
+      "jumped down my throat"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "Sarah isn't coming to the meeting tomorrow, __________?",
+    "choices": [
+      "is she?",
+      "doesn't she?",
+      "isn't she?",
+      "does she?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "'What __________ you thinking about right now?' — Choose the correct answer.",
+    "choices": [
+      "did",
+      "are",
+      "were",
+      "do"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "He __________ every step of the plan so that nobody would make a mistake.",
+    "choices": [
+      "took in",
+      "brought about",
+      "spelled out",
+      "pointed out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Read the text about Messaging Through Time. What is the MAIN IDEA of the whole article?",
+    "choices": [
+      "The Internet should not be used by children",
+      "Mobile phones have made life worse for everyone",
+      "Communication methods have changed greatly over time, with both advantages and disadvantages",
+      "Ancient communication was better than modern methods"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "After reading the instructions three times, she finally __________ how to assemble it.",
+    "choices": [
+      "made out",
+      "wiped out",
+      "brought about",
+      "figured out"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Don't forget about the meeting tomorrow morning, __________?",
+    "choices": [
+      "will you?",
+      "do you?",
+      "won't you?",
+      "don't you?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'It is easy to get your message across in a hotel or restaurant in Spanish and French, but neither is as widely spoken or as simple to learn as English.' — 'Neither' refers to:",
+    "choices": [
+      "Arabic and Spanish",
+      "Spanish and French",
+      "French and English",
+      "English and Chinese"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "He __________ an interesting documentary about animal communication by accident.",
+    "choices": [
+      "brought about",
+      "figured out",
+      "came across",
+      "got across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "A: 'I'm fed up with people interrupting me.' B: 'I don't __________ you.'",
+    "choices": [
+      "believe",
+      "doubt",
+      "mind",
+      "blame"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'Jordan is in a good position for using AI as it is at the forefront of technology.' — What does 'at the forefront of technology' mean?",
+    "choices": [
+      "Among the leading countries in technology",
+      "Behind other countries in technology",
+      "Just beginning to use technology",
+      "Against the use of technology"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'In 2002, she became a UN Messenger for Peace.' — In what year did Jane become a UN Messenger for Peace?",
+    "choices": [
+      "1980",
+      "1995",
+      "1960",
+      "2002"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "A: 'Actually, I used to play the violin.' B: '__________ ? I didn't know that.'",
+    "choices": [
+      "Were you?",
+      "Did you?",
+      "Do you?",
+      "Have you?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Tom __________ any Chinese courses before he travelled to China.",
+    "choices": [
+      "has never taken",
+      "never took",
+      "never takes",
+      "had never taken"
+    ],
+    "correct_answer": "d"
+  }
+]

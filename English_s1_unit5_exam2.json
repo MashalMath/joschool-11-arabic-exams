@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word is another way of saying 'deafness'?",
+    "choices": [
+      "eyesight",
+      "hearing loss",
+      "perceive",
+      "colour-blind"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "If you ________ something, you can see, hear, or understand it with some difficulty.",
+    "choices": [
+      "make out",
+      "stink",
+      "aroma",
+      "scent"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective means 'having an even and regular surface'?",
+    "choices": [
+      "coarse",
+      "smooth",
+      "spiky",
+      "squishy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "The adjective 'fluffy' means:",
+    "choices": [
+      "rough in texture",
+      "covered in many large spikes",
+      "covered in soft fur or pieces of material",
+      "something that stays on what it touches"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Which word means 'really bad smells' (noun)?",
+    "choices": [
+      "aroma",
+      "scent",
+      "stench",
+      "subtle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Which word describes 'a room full of switched-on computers' in terms of sound?",
+    "choices": [
+      "chirp",
+      "hum",
+      "pop",
+      "screech"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "The sound of 'steaks under the grill' is best described as:",
+    "choices": [
+      "rustle",
+      "thud",
+      "sizzle",
+      "crunch"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "What sound does 'a heavy book dropped on a wooden floor' make?",
+    "choices": [
+      "pop",
+      "thud",
+      "hum",
+      "chirp"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "We regret ________ you that the restaurant has closed down. (formal apology)",
+    "choices": [
+      "informing",
+      "to inform",
+      "inform",
+      "informed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "I regret ________ harder last year. (I regret a past action)",
+    "choices": [
+      "to not study",
+      "not studying",
+      "not to study",
+      "study"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "I keep stopping ________ a cup of tea. (stop in order to do something else)",
+    "choices": [
+      "making",
+      "make",
+      "to make",
+      "made"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "I don't stop ________ till I've finished. (no longer do something)",
+    "choices": [
+      "to study",
+      "study",
+      "studied",
+      "studying"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "I like ________ at least three hours a day in the library. (it's a good idea)",
+    "choices": [
+      "spending",
+      "to spend",
+      "spend",
+      "spent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "I like ________ at home. (I enjoy it)",
+    "choices": [
+      "to work",
+      "work",
+      "working",
+      "worked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "You should try ________ in the library. (experiment to see what happens)",
+    "choices": [
+      "to work",
+      "work",
+      "working",
+      "worked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "I always try ________ it so that I finish on time. (make an effort)",
+    "choices": [
+      "planning",
+      "plan",
+      "to plan",
+      "planned"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "I'm full – I ________ (not eat) so much food.",
+    "choices": [
+      "used to not eat",
+      "am not used to eating",
+      "don't get used to eat",
+      "wasn't used to eating"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "How ________ people ________ (deal) with poor eyesight before glasses?",
+    "choices": [
+      "did / use to deal",
+      "did / used to deal",
+      "do / use to deal",
+      "were / used to deal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which phrase means 'I'm slowly becoming comfortable with this'?",
+    "choices": [
+      "I used to do it.",
+      "I am used to doing it.",
+      "I am getting used to doing it.",
+      "I used to doing it."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "I can hear my neighbour ________ his violin.",
+    "choices": [
+      "to practise",
+      "practise",
+      "practising",
+      "practised"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Hanan felt the mosquito ________ on her leg. (completed action)",
+    "choices": [
+      "landing",
+      "to land",
+      "land",
+      "landed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Did you see him ________ the winning goal?",
+    "choices": [
+      "scoring",
+      "to score",
+      "score",
+      "scored"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Do these grapes need ________?",
+    "choices": [
+      "to wash",
+      "washing",
+      "wash",
+      "washed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage: 'The Jordan Museum opened recently in the Ras al-Ayn district of Amman, near the Citadel. It tells the story of Jordan through history in a beautiful building combining stone and glass.' Where is the Jordan Museum located?",
+    "choices": [
+      "Near the Roman Theatre",
+      "Near the Citadel in Ras al-Ayn",
+      "In the centre of Amman",
+      "Near the Dead Sea"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "According to the review, what does the stone in the museum's building represent?",
+    "choices": [
+      "Jordan's future",
+      "Jordan's present",
+      "Jordan's past",
+      "Jordan's culture"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "What does the reviewer describe as 'totally mind-blowing' at the Jordan Museum?",
+    "choices": [
+      "The interactive displays",
+      "The children's area",
+      "The copper Dead Sea scrolls",
+      "The café and gift shop"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "What was the reviewer's only criticism of the Jordan Museum?",
+    "choices": [
+      "It was too expensive.",
+      "The experience went by too fast.",
+      "There was no café.",
+      "The exhibits were boring."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase is used to express a negative aspect in a review?",
+    "choices": [
+      "What I really liked was ...",
+      "I was blown away by ...",
+      "My only criticism is ...",
+      "I'd definitely recommend ..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Which phrase is used in the conclusion of a review to recommend something?",
+    "choices": [
+      "My only criticism is ...",
+      "I was disappointed by ...",
+      "I'd definitely recommend going ...",
+      "What I really liked was ..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Which word means 'rough in texture, not smooth'?",
+    "choices": [
+      "silky",
+      "coarse",
+      "fluffy",
+      "squishy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "I'd prefer ________ somewhere quiet. (specific situation)",
+    "choices": [
+      "going",
+      "go",
+      "to go",
+      "gone"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "I generally favour savoury ________ sweet dishes.",
+    "choices": [
+      "than",
+      "over",
+      "above",
+      "to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Which expression means 'I don't mind what we choose'?",
+    "choices": [
+      "I'd rather eat out.",
+      "I prefer eating in.",
+      "I'm easy.",
+      "Given the choice, I'd go there."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "I'd sooner ________ outside. (formal preference)",
+    "choices": [
+      "sitting",
+      "sit",
+      "to sit",
+      "sat"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Which suffix does NOT cause a change in word stress?",
+    "choices": [
+      "-ity",
+      "-ic",
+      "-ment",
+      "-ion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "What is the stressed syllable change pattern for the word pair 'photograph – photographic'?",
+    "choices": [
+      "no change",
+      "stress moves to the first syllable",
+      "stress moves due to the -ic suffix",
+      "stress moves due to the -ment suffix"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "The word 'smelly' describes:",
+    "choices": [
+      "a pleasant smell",
+      "a subtle smell",
+      "a really bad smell (adjective)",
+      "a mouth-watering smell"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Which cooking word means 'to remove the outer layer of a fruit or vegetable'?",
+    "choices": [
+      "boil",
+      "slice",
+      "peel",
+      "simmer"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Which cooking word means 'to cut into thin flat pieces'?",
+    "choices": [
+      "puree",
+      "whizz",
+      "simmer",
+      "slice"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "When did ketchup first gain popularity with tomatoes, according to the podcast?",
+    "choices": [
+      "the sixth century",
+      "the 17th and 18th centuries",
+      "the 1870s",
+      "1983"
+    ],
+    "correct_answer": "c"
+  }
+]

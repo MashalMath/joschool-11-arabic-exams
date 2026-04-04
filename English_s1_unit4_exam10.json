@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "A journalist who works with 'clickbait' headlines is primarily trying to ________.",
+    "choices": [
+      "investigate corruption",
+      "present both sides of the story",
+      "attract as many clicks and page views as possible",
+      "verify sources and report accurately"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "The word 'puzzle' is a synonym for ________.",
+    "choices": [
+      "hoax",
+      "fraud",
+      "enigma",
+      "hint"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "To 'refute an allegation' means to ________.",
+    "choices": [
+      "release a public statement",
+      "formally deny an accusation",
+      "come up with a solution",
+      "hit the headlines"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "The collocation 'attention span' refers to how long someone can ________.",
+    "choices": [
+      "write an article without stopping",
+      "concentrate before losing focus",
+      "read a newspaper in one sitting",
+      "stay interested in one topic over months"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following means the same as 'expose'?",
+    "choices": [
+      "maintain",
+      "drop",
+      "state",
+      "reveal"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "A 'sensational' story is one that is ________.",
+    "choices": [
+      "based on thorough research",
+      "shocking and exciting but not necessarily serious",
+      "very sad and emotional",
+      "reported by only one newspaper"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "The collocation 'generate revenue' is an example of which structure?",
+    "choices": [
+      "adjective + noun",
+      "adverb + adjective",
+      "verb + noun",
+      "verb + adverb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which adjective correctly matches its definition: 'interesting enough to be reported'?",
+    "choices": [
+      "heartwarming",
+      "newsworthy",
+      "hard-hitting",
+      "topical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "To 'report something to the police' means to ________.",
+    "choices": [
+      "investigate a crime secretly",
+      "formally tell the police about an incident",
+      "publish a story in a newspaper",
+      "refuse an accusation publicly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "The phrase 'Would you believe it?' in an anecdote is used to show ________.",
+    "choices": [
+      "background information",
+      "the end of the story",
+      "the speaker's attitude of disbelief",
+      "a turning point in the narrative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "The word 'friendship' ends in the suffix ________.",
+    "choices": [
+      "-ment",
+      "-dom",
+      "-tion",
+      "-ship"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct form: 'He argued ________, marshalling evidence and logic to support his position.'",
+    "choices": [
+      "persuasion",
+      "persuasive",
+      "persuade",
+      "persuasively"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct word form: 'The ________ twist in the plot kept the audience on the edge of their seats.'",
+    "choices": [
+      "surprise",
+      "surprisingly",
+      "surprising",
+      "surprised"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Complete correctly: 'The child responded ________ to her parent's instructions.'",
+    "choices": [
+      "exasperate",
+      "exasperation",
+      "exasperated",
+      "exasperatedly"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct form: 'The family was ________ by the loss of their home.'",
+    "choices": [
+      "devastate",
+      "devastating",
+      "devastated",
+      "devastatingly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "He was shocked when he opened the exam paper because he ________ (study) the wrong topics all night.",
+    "choices": [
+      "studied",
+      "was studying",
+      "had studied",
+      "had been studying"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "When the hotel manager stood up to speak, everyone ________ (wait) for Abbas in the dining room.",
+    "choices": [
+      "waited",
+      "had waited",
+      "was waiting",
+      "had been waiting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The gang ________ (print) counterfeit money for years before they were finally caught.",
+    "choices": [
+      "printed",
+      "were printing",
+      "had printed",
+      "had been printing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "We do NOT use the Past Perfect Continuous in the sentence 'She ________ him regularly' because it involves a repeated action stated with frequency.",
+    "choices": [
+      "had been visiting",
+      "was visiting",
+      "had visited",
+      "visited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "He missed the meeting because he ________ (be) in hospital for two weeks.",
+    "choices": [
+      "was",
+      "has been",
+      "had been",
+      "is"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The rewritten form of 'She won the race and she also broke a world record' using 'Not only' is ________.",
+    "choices": [
+      "Not only did she win the race, but she also broke a world record.",
+      "Not only she won the race, but she also broke a world record.",
+      "She not only won the race, but also broke a world record.",
+      "Not only won she the race, but she broke a world record also."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Scarcely ________ the journalists left the building when the fire alarm rang.",
+    "choices": [
+      "did",
+      "had",
+      "was",
+      "have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "The correct negative inversion form of 'He didn't imagine that his friend was a spy' is ________.",
+    "choices": [
+      "Little he imagined that his friend was a spy.",
+      "Little had he imagined that his friend was a spy.",
+      "Little did he imagine that his friend was a spy.",
+      "He little imagined that his friend was a spy."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Seldom ________ such an important news story been ignored by the public.",
+    "choices": [
+      "did",
+      "has",
+      "was",
+      "had"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "In no way ________ the article represent a balanced view of the issue.",
+    "choices": [
+      "did",
+      "the article",
+      "the article did",
+      "was"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "The narrator in 'The Man in Black' was wandering 'without a care in the world'. This shows she was feeling ________.",
+    "choices": [
+      "anxious and worried",
+      "relaxed and carefree",
+      "suspicious of the man",
+      "afraid of something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "The word 'bellowed' in a story means the character ________.",
+    "choices": [
+      "whispered softly",
+      "spoke quietly into his phone",
+      "shouted in a loud, deep voice",
+      "muttered under his breath"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Noura's family were taught how to find water in the desert by ________.",
+    "choices": [
+      "a map from their hotel",
+      "a local Bedouin guide",
+      "their own research",
+      "a fellow hotel guest"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "In the sentence 'I drove aimlessly around the city for hours', the adverbs follow the order ________.",
+    "choices": [
+      "manner at the beginning of a clause for emphasis",
+      "manner before the main verb",
+      "manner → place → time at the end of the clause",
+      "time between the subject and verb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Starting a story in the middle of the action rather than at the beginning is recommended to create ________.",
+    "choices": [
+      "a humorous effect",
+      "a dramatic effect",
+      "a balanced structure",
+      "a formal tone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "The phrase 'the vast majority of people still read print newspapers' tells us that print media ________.",
+    "choices": [
+      "had completely disappeared",
+      "was growing faster than online media",
+      "was still dominant despite the rise of online news",
+      "had no readers at the time"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "In the sentence 'Anyway, it is surely the freedom of the press that matters', the word 'freedom' belongs to the word class ________.",
+    "choices": [
+      "adjective",
+      "verb",
+      "adverb",
+      "noun"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "The second reporter changed her mind about the hotel development after ________.",
+    "choices": [
+      "speaking to local restaurant owners",
+      "attending a protest meeting",
+      "researching the developer online",
+      "visiting the building site"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "The ancient 'kites' in the Black Desert were designed to ________.",
+    "choices": [
+      "protect villages from enemy attacks",
+      "mark the boundaries of farming land",
+      "funnel animals into a point where they could be caught",
+      "provide shelter from the desert wind"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "A text type that gives the writer's personal views on an issue is called ________.",
+    "choices": [
+      "a gossip column",
+      "a news item",
+      "an opinion piece",
+      "a celebrity profile"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The debate phrase 'It is clearly the case that ...' is used to ________.",
+    "choices": [
+      "give a personal example",
+      "explain why an argument is valid",
+      "refer to statistics",
+      "summarise and link the argument"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The correct second step in a formal debate structure is ________.",
+    "choices": [
+      "the debate is summed up",
+      "speakers present rebuttals",
+      "proposition and opposition present main arguments",
+      "teams hear the statement and come up with arguments"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The comment adverb 'Personally' in a sentence signals that what follows is ________.",
+    "choices": [
+      "a scientific fact",
+      "the speaker's own opinion",
+      "a commonly known truth",
+      "a statistic from research"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "The phrase 'I'll never forget ...' in an anecdote is used to ________.",
+    "choices": [
+      "introduce background information",
+      "signal the turning point",
+      "round off the anecdote",
+      "give the listener background details"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "A 'human interest story' is best described as ________.",
+    "choices": [
+      "an opinion piece about politics",
+      "a breaking news item",
+      "a personal story about people's experiences or emotions",
+      "a celebrity profile"
+    ],
+    "correct_answer": "c"
+  }
+]

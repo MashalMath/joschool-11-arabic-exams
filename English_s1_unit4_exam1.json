@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "News stories that use sensational headlines to attract clicks are called ________.",
+    "choices": [
+      "hard-hitting",
+      "clickbait",
+      "exclusive",
+      "off the record"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "When a video or post spreads very quickly on the internet, we say it has gone ________.",
+    "choices": [
+      "public",
+      "topical",
+      "viral",
+      "balanced"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "A journalist who wants to ________ corruption must have strong evidence.",
+    "choices": [
+      "verify",
+      "expose",
+      "release",
+      "generate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "The word 'hoax' is a synonym for ________.",
+    "choices": [
+      "clue",
+      "mystery",
+      "fake",
+      "sign"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "A news story that considers all sides equally is described as ________.",
+    "choices": [
+      "sensational",
+      "quirky",
+      "balanced",
+      "heartbreaking"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The collocation 'shed light' means to ________.",
+    "choices": [
+      "hide important information",
+      "make something clearer",
+      "attract public attention",
+      "publish an article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Stories that are ________ are interesting enough to be reported in the news.",
+    "choices": [
+      "newsworthy",
+      "heartwarming",
+      "exclusive",
+      "off the record"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "To 'verify sources' means to ________.",
+    "choices": [
+      "hide information from readers",
+      "check that information is correct",
+      "release a statement to the public",
+      "present both sides of a story"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Which of the following is a collocation meaning 'to become widely known on the internet'?",
+    "choices": [
+      "hit the headlines",
+      "go viral",
+      "shed light",
+      "raise awareness"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "The word 'enigma' is a synonym for ________.",
+    "choices": [
+      "clue",
+      "mystery",
+      "fraud",
+      "hoax"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "A news article published in only one newspaper or channel is called ________.",
+    "choices": [
+      "topical",
+      "quirky",
+      "exclusive",
+      "sensational"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The suffix '-ment' in the word 'improvement' makes it a ________.",
+    "choices": [
+      "verb",
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "The noun form of the verb 'allege' is ________.",
+    "choices": [
+      "allegeable",
+      "allegation",
+      "allegedly",
+      "alleger"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Which word has the suffix '-dom' meaning a state or condition?",
+    "choices": [
+      "neighbourhood",
+      "activism",
+      "freedom",
+      "security"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "The noun form of the verb 'solve' is ________.",
+    "choices": [
+      "solvable",
+      "solvably",
+      "solution",
+      "solving"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Which suffix is used to form the noun 'neighbourhood'?",
+    "choices": [
+      "-dom",
+      "-ity",
+      "-hood",
+      "-ment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Before the EBAP visited the Black Desert of Jordan, nobody ________ (explore) the archaeology of this large area.",
+    "choices": [
+      "explored",
+      "had explored",
+      "was exploring",
+      "has explored"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "We use the Past Perfect Simple to talk about an action that happened ________ another past action.",
+    "choices": [
+      "at the same time as",
+      "after",
+      "earlier than",
+      "more recently than"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "She was tired because she ________ for hours.",
+    "choices": [
+      "had been flying",
+      "had flown",
+      "flew",
+      "was flying"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "The Past Perfect Continuous is formed with ________.",
+    "choices": [
+      "was/were + verb-ing",
+      "had + past participle",
+      "had + been + verb-ing",
+      "have/has + been + verb-ing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "We do NOT use the Past Perfect Continuous with repeated actions when we say ________.",
+    "choices": [
+      "how long something lasted",
+      "how frequently something happened",
+      "the result of a past action",
+      "what caused a past event"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "________ had they left when the storm began.",
+    "choices": [
+      "Seldom",
+      "Scarcely",
+      "Little",
+      "Never"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Negative inversion is used to add ________ to a sentence.",
+    "choices": [
+      "humour",
+      "confusion",
+      "emphasis",
+      "balance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Which sentence uses negative inversion correctly?",
+    "choices": [
+      "Never I had felt so afraid.",
+      "Never had I felt so afraid.",
+      "Never I felt so afraid.",
+      "Never felt I so afraid."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "No sooner ________ they arrived than the rain started.",
+    "choices": [
+      "have",
+      "did",
+      "had",
+      "were"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "________ did they know that the newspaper was copying their stories.",
+    "choices": [
+      "Seldom",
+      "Little",
+      "Scarcely",
+      "Hardly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "To look at something quickly and briefly is to ________.",
+    "choices": [
+      "peer",
+      "bellow",
+      "glance",
+      "wander"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "To speak very quietly so that you cannot easily be heard is to ________.",
+    "choices": [
+      "yell",
+      "bellow",
+      "mutter",
+      "race"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "To shout in a low, deep voice is to ________.",
+    "choices": [
+      "glance",
+      "bellow",
+      "wander",
+      "spot"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "To notice something or someone for the first time is to ________.",
+    "choices": [
+      "wander",
+      "peer",
+      "spot",
+      "mutter"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The phrase 'You'll never believe what happened to me' is used in an anecdote to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "signal that the anecdote is about to start",
+      "round off the anecdote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The phrase 'I'll never forget ...' is used at the ________ of an anecdote.",
+    "choices": [
+      "beginning",
+      "turning point",
+      "middle",
+      "end"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "To 'release a statement' means to ________.",
+    "choices": [
+      "keep information secret",
+      "make an official public announcement",
+      "deny an allegation",
+      "report to the police"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "The word 'poignant' in the context of photography means ________.",
+    "choices": [
+      "carefully cropped",
+      "causing a feeling of sadness",
+      "taken without permission",
+      "showing animals in the wild"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "A text that contains overgeneralisations and exaggerated facts is described as ________.",
+    "choices": [
+      "balanced",
+      "exclusive",
+      "biased",
+      "hard-hitting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The phrase 'I would argue that ...' is used in a debate to ________.",
+    "choices": [
+      "refer to research or statistics",
+      "explain why an argument is valid",
+      "summarise the debate",
+      "give a personal example"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "In a debate, the phrase 'There is some evidence that ...' is used to ________.",
+    "choices": [
+      "round off the argument",
+      "give a personal example",
+      "refer to research or statistics",
+      "introduce a turning point"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The phrase 'Suddenly, ...' in an anecdote is used to introduce ________.",
+    "choices": [
+      "background information",
+      "a turning point",
+      "the speaker's attitude",
+      "the ending of the story"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "The phrase 'No word of a lie!' in an anecdote is used to show ________.",
+    "choices": [
+      "background information",
+      "the end of the story",
+      "the speaker's attitude of sincerity",
+      "a turning point in the narrative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which adverb position rule states that adverbs of place and time can go at the beginning of a clause to add emphasis?",
+    "choices": [
+      "Position 1",
+      "Position 2",
+      "Position 3",
+      "Position 4"
+    ],
+    "correct_answer": "c"
+  }
+]

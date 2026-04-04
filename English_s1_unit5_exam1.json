@@ -89,7 +89,7 @@
   },
   {
     "number": 9,
-    "question": "Choose the correct verb form: 'In an emergency, you can't stop ________ questions.'",
+    "question": "In an emergency, you can't stop ________ questions.",
     "choices": [
       "to ask",
       "ask",
@@ -100,7 +100,7 @@
   },
   {
     "number": 10,
-    "question": "Choose the correct form: 'The animal would need ________ an X-ray for confirmation.'",
+    "question": "The animal would need ________ an X-ray for confirmation.",
     "choices": [
       "having",
       "to have",
@@ -111,7 +111,7 @@
   },
   {
     "number": 11,
-    "question": "I remember ________ my swimming kit, but now I can't find it. (I did it and remember it now)",
+    "question": "I remember ________ my swimming kit, but now I can't find it.",
     "choices": [
       "to bring",
       "bring",
@@ -122,7 +122,7 @@
   },
   {
     "number": 12,
-    "question": "Remember ________ your swimming kit. (Don't forget to do it)",
+    "question": "Remember ________ your swimming kit before you leave.",
     "choices": [
       "bringing",
       "to bring",
@@ -177,7 +177,7 @@
   },
   {
     "number": 17,
-    "question": "My contact lenses felt weird at first, but I ________ (wear) them eventually.",
+    "question": "My contact lenses felt weird at first, but I ________ wearing them eventually.",
     "choices": [
       "used to wearing",
       "got used to wearing",
@@ -188,7 +188,7 @@
   },
   {
     "number": 18,
-    "question": "He ________ (sleep) on a hard mattress – it doesn't bother him.",
+    "question": "He ________ sleeping on a hard mattress — it doesn't bother him.",
     "choices": [
       "used to sleeping",
       "got used to sleeping",
@@ -199,7 +199,7 @@
   },
   {
     "number": 19,
-    "question": "I ________ (not like) eating fish, but I love it now.",
+    "question": "I ________ eating fish, but I love it now.",
     "choices": [
       "didn't use to like",
       "am not used to liking",
@@ -210,7 +210,7 @@
   },
   {
     "number": 20,
-    "question": "Which sentence uses 'used to' correctly to describe a past habit that no longer exists?",
+    "question": "Choose the sentence that correctly uses 'used to' for a past habit that no longer exists.",
     "choices": [
       "I am used to wake up early.",
       "I used to wake up early.",
@@ -221,18 +221,18 @@
   },
   {
     "number": 21,
-    "question": "To talk about an action in progress after verbs like 'see' and 'hear', we use:",
+    "question": "I saw him ________ to his friend while they were waiting outside.",
     "choices": [
-      "object + infinitive without to",
-      "object + gerund",
-      "object + past participle",
-      "object + infinitive with to"
+      "talk",
+      "talking",
+      "to talk",
+      "talked"
     ],
     "correct_answer": "b"
   },
   {
     "number": 22,
-    "question": "I saw somebody ________ in the water. (completed action)",
+    "question": "I saw somebody ________ in the water.",
     "choices": [
       "falling",
       "to fall",
@@ -243,18 +243,18 @@
   },
   {
     "number": 23,
-    "question": "After the verbs 'need', 'deserve', and 'require', the gerund has a ________ sense.",
+    "question": "The kitchen really needs ________. It hasn't been cleaned in weeks.",
     "choices": [
-      "active",
-      "passive",
-      "future",
-      "present"
+      "to clean",
+      "clean",
+      "cleaning",
+      "cleaned"
     ],
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "number": 24,
-    "question": "These documents require ________.",
+    "question": "These documents require ________ before they can be processed.",
     "choices": [
       "to sign",
       "sign",
@@ -276,7 +276,7 @@
   },
   {
     "number": 26,
-    "question": "According to the passage about Sabriye, what did she learn at the special boarding school?",
+    "question": "Read the passage: 'Sabriye went to a special boarding school for the blind. She learnt various sports including horse riding and she also learnt how to read Braille.' What did she learn at the special boarding school?",
     "choices": [
       "swimming and painting",
       "horse riding and Braille",
@@ -287,18 +287,18 @@
   },
   {
     "number": 27,
-    "question": "Why did Sabriye decide to write a Tibetan Braille system?",
+    "question": "Read the passage: 'There was no Braille in Tibetan, so she decided to write a Tibetan Braille system. At first, she did this to help her with her own studies, but then she realised its potential to help people in the mountainous region of China.' Why did Sabriye originally write a Tibetan Braille system?",
     "choices": [
-      "Because her teacher asked her to",
-      "Because there was no Braille in Tibetan",
-      "Because she wanted to become famous",
-      "Because the Tibetan government paid her"
+      "to help Tibetan children",
+      "to help with her own studies",
+      "to become famous",
+      "because the government asked her"
     ],
     "correct_answer": "b"
   },
   {
     "number": 28,
-    "question": "What is the main reason for the high incidence of blindness in Tibet according to the article?",
+    "question": "Read the passage: 'Many Tibetan people had problems with their eyesight, partly because of their diet but mainly because of the damaging sun at high altitudes.' What is the MAIN reason for eyesight problems in Tibet?",
     "choices": [
       "their diet",
       "lack of doctors",
@@ -309,7 +309,7 @@
   },
   {
     "number": 29,
-    "question": "What was Sabriye nominated for in 2005?",
+    "question": "Read the passage: 'Her work has become famous and she was even nominated for the Nobel Peace Prize in 2005.' What was Sabriye nominated for?",
     "choices": [
       "The Pulitzer Prize",
       "The Nobel Peace Prize",
@@ -320,7 +320,7 @@
   },
   {
     "number": 30,
-    "question": "What is the name of the school Sabriye and Paul Kronenberg set up?",
+    "question": "Read the passage: 'Together they set up a school, called Braille Without Borders. It has a vision to help blind children to adjust to their blindness and to learn many of the same skills that she had learnt as a girl.' What is the name of the school Sabriye and Paul set up?",
     "choices": [
       "Blind Vision School",
       "Tibet Learning Centre",
@@ -331,7 +331,7 @@
   },
   {
     "number": 31,
-    "question": "Which word describes food that is 'delicious-tasting'?",
+    "question": "Which word describes food that is 'delicious-tasting and makes your mouth water'?",
     "choices": [
       "subtle",
       "stench",
@@ -342,7 +342,7 @@
   },
   {
     "number": 32,
-    "question": "Which of the following is NOT a sound word used in the unit?",
+    "question": "Which of the following is NOT a sound word?",
     "choices": [
       "rustling",
       "chirping",
@@ -353,7 +353,7 @@
   },
   {
     "number": 33,
-    "question": "I'd rather ________ something light. (making a choice)",
+    "question": "I'd rather ________ something light this evening.",
     "choices": [
       "eating",
       "to eat",
@@ -364,7 +364,7 @@
   },
   {
     "number": 34,
-    "question": "I prefer ________ at home to going out to a restaurant. (general preference)",
+    "question": "I prefer ________ at home to going out to a restaurant.",
     "choices": [
       "to eat",
       "eating",
@@ -386,7 +386,7 @@
   },
   {
     "number": 36,
-    "question": "In a review, where do you give brief details of where and when you went?",
+    "question": "In a review, where do you give brief details of where and when you went and your overall impression?",
     "choices": [
       "First main paragraph",
       "Introduction",

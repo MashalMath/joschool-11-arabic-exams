@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "A news story that is 'quirky' is best described as ________.",
+    "choices": [
+      "very sad and emotional",
+      "strongly critical of authority",
+      "unusual in an interesting and entertaining way",
+      "related to current political events"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Clickbait headlines are designed to ________.",
+    "choices": [
+      "provide balanced information to readers",
+      "attract clicks by being sensational or misleading",
+      "report breaking news immediately",
+      "be used only in print newspapers"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "The collocation 'generate revenue' is structured as ________.",
+    "choices": [
+      "adjective + noun",
+      "verb + adverb",
+      "adverb + adjective",
+      "verb + noun"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is a synonym for 'drop' as a verb in the context of prices?",
+    "choices": [
+      "increase",
+      "go down",
+      "maintain",
+      "verify"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The phrase 'A friend of a friend told me this story' in an anecdote is used to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "say the anecdote is about to start",
+      "round off the anecdote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "To 'present both sides of the story' in journalism means to ________.",
+    "choices": [
+      "report only the most popular opinion",
+      "give equal coverage to opposing viewpoints",
+      "avoid reporting controversial issues",
+      "publish the story twice"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Which word is a synonym for 'uncover' in the context of journalism?",
+    "choices": [
+      "drop",
+      "state",
+      "maintain",
+      "reveal"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "The adjective 'exclusive' when describing a news story means ________.",
+    "choices": [
+      "the story is very expensive to access",
+      "the story is only published in one place",
+      "the story is only for important people",
+      "the story has been banned from publication"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "The debate phrase 'The crucial point is that ...' is used to ________.",
+    "choices": [
+      "refer to research",
+      "give examples",
+      "identify the most important idea",
+      "summarise the debate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "A 'newsworthy' story is one that is ________.",
+    "choices": [
+      "published by a famous journalist",
+      "interesting enough to be reported",
+      "written in a formal academic style",
+      "based entirely on eyewitness accounts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following words ends in the suffix '-tion'?",
+    "choices": [
+      "freedom",
+      "improvement",
+      "accusation",
+      "neighbourhood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The word 'contraction' ends in the suffix ________.",
+    "choices": [
+      "-ment",
+      "-tion",
+      "-ity",
+      "-dom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "The suffix '-ity' in a noun indicates ________.",
+    "choices": [
+      "a person who does an action",
+      "a state, quality, or condition",
+      "a place or location",
+      "an ongoing action"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Complete the sentence correctly: 'The ________ of certain marine species is a pressing concern for conservationists.'",
+    "choices": [
+      "persuasively",
+      "persuasion",
+      "persuade",
+      "persuasive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct word form: 'She used poetry to ________ her deepest emotions.'",
+    "choices": [
+      "expression",
+      "expressive",
+      "express",
+      "expressly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "He had an accident with the scissors that he ________ (play) with earlier.",
+    "choices": [
+      "was playing",
+      "played",
+      "had been playing",
+      "has played"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Until that night, Raed ________ (never / see) snow in his life.",
+    "choices": [
+      "never saw",
+      "has never seen",
+      "had never seen",
+      "was never seeing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The police officer ________ (eliminate) all the other suspects when he arrested the criminal.",
+    "choices": [
+      "was eliminating",
+      "had eliminated",
+      "eliminated",
+      "have eliminated"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "By the time we opened the door, the noises ________ (already / stop).",
+    "choices": [
+      "were already stopping",
+      "have already stopped",
+      "had already stopped",
+      "already stopped"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "She ________ (be) blind for twelve years when she first started her journey.",
+    "choices": [
+      "was",
+      "had been",
+      "has been",
+      "is"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Which of the following is NOT a negative adverbial used for inversion in English?",
+    "choices": [
+      "Seldom",
+      "Hardly",
+      "Therefore",
+      "Never"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Not only ________ the hotel provide jobs, but it would also attract tourists to the area.",
+    "choices": [
+      "will",
+      "would",
+      "the hotel would",
+      "would the hotel"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Hardly ________ the newspaper published the story when they received a legal warning.",
+    "choices": [
+      "did",
+      "was",
+      "had",
+      "has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "In no way ________ this report be considered reliable without proper sources.",
+    "choices": [
+      "can",
+      "this can",
+      "this should",
+      "should this"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "The rewritten form of 'I had never seen such a convincing hoax' using negative inversion is ________.",
+    "choices": [
+      "Such a hoax I had never seen.",
+      "Never I had seen such a convincing hoax.",
+      "Never had I seen such a convincing hoax.",
+      "I never had seen such a convincing hoax."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Time expressions such as 'before, after, first' in a story are used to ________.",
+    "choices": [
+      "add emphasis to sentences",
+      "sequence events clearly",
+      "replace negative inversion",
+      "introduce a narrator"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "To 'peer' at something means to ________.",
+    "choices": [
+      "walk past something quickly",
+      "look at something closely and carefully",
+      "shout at someone",
+      "speak quietly to avoid being heard"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The crane in 'The Man in Black' was ________.",
+    "choices": [
+      "being built in a hotel",
+      "being repaired by workers",
+      "toppling over some bricks from a building site",
+      "loading materials onto a truck"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "At the end of 'The Man in Black', 'shame flooded through' the narrator because she ________.",
+    "choices": [
+      "was proud of her observation skills",
+      "felt guilty for misjudging the man in black",
+      "was frightened by what happened",
+      "was relieved that the woman was safe"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Adverbs of place and time at the ________ of a clause add emphasis.",
+    "choices": [
+      "end",
+      "middle",
+      "beginning",
+      "second position"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The protesters wanted a ________ of building work until the number of local jobs was confirmed.",
+    "choices": [
+      "cancellation",
+      "suspension",
+      "celebration",
+      "resumption"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Using quotation marks around a word or phrase in a news report indicates that the writer ________.",
+    "choices": [
+      "is using a technical term",
+      "is directly quoting from another source",
+      "does not agree with the opinion expressed",
+      "wants to emphasise an important word"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "The phrase 'under no circumstances would he be able to travel' means ________.",
+    "choices": [
+      "he could travel if he paid extra",
+      "it was completely impossible for him to travel",
+      "he was welcome to try the next day",
+      "the clerk was unsure about the schedule"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "A 'rebuttal' in a debate is when ________.",
+    "choices": [
+      "a speaker gives their opening argument",
+      "a speaker responds to the opposing team's arguments",
+      "the debate winner is announced",
+      "teams are told the topic of the debate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "In the correct order of a debate, what happens first?",
+    "choices": [
+      "speakers present rebuttals",
+      "the debate is summed up",
+      "teams hear the statement and come up with arguments",
+      "proposition and opposition present main arguments"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The comment adverb 'Presumably' in an anecdote suggests the speaker is ________.",
+    "choices": [
+      "certain about the information",
+      "making an educated guess",
+      "reporting something very unusual",
+      "expressing deep regret"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The phrase 'I'll never forget ...' is used at the ________ of an anecdote.",
+    "choices": [
+      "beginning",
+      "turning point",
+      "middle",
+      "end"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "The phrase 'Suddenly, ...' in an anecdote is used to ________.",
+    "choices": [
+      "signal the beginning of the anecdote",
+      "introduce a turning point",
+      "give background information",
+      "show the speaker's attitude"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "An 'urban myth' is a story that ________.",
+    "choices": [
+      "always contains completely true facts",
+      "is told as true but is usually false or exaggerated",
+      "is written by professional journalists only",
+      "relates only to events in big cities"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The phrase 'Well, I'm not sure if you know..., but...' in an anecdote is used to ________.",
+    "choices": [
+      "signal the anecdote is starting",
+      "give background information",
+      "introduce a turning point",
+      "round off the anecdote"
+    ],
+    "correct_answer": "b"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word is 'another word for notice' (verb)?",
+    "choices": [
+      "stink",
+      "perceive",
+      "aroma",
+      "scent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The adjective 'silky' means:",
+    "choices": [
+      "rough and scratchy",
+      "soft and smooth like the material silk",
+      "covered in sharp points",
+      "sticky to the touch"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective describes something 'covered in small, short pointed spines'?",
+    "choices": [
+      "spiky",
+      "fluffy",
+      "prickly",
+      "squishy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which adjective describes 'covered in many large pointed spikes or points'?",
+    "choices": [
+      "prickly",
+      "spiky",
+      "coarse",
+      "smooth"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "What sound does 'a person putting a pin in a balloon' make?",
+    "choices": [
+      "crunch",
+      "hum",
+      "pop",
+      "rustle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "What sound is associated with 'biting into a slice of well-toasted bread'?",
+    "choices": [
+      "sizzle",
+      "chirp",
+      "crunch",
+      "thud"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The word 'screeching' describes the sound of:",
+    "choices": [
+      "a bee flying around",
+      "a parrot or car tyres taking a corner too fast",
+      "a machine running",
+      "a book falling"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which word describes 'something difficult to detect' in terms of smell?",
+    "choices": [
+      "overpowering",
+      "stench",
+      "subtle",
+      "mouth-watering"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read the passage: 'The large permanent collection starts off with a look at what the country was like in the Stone Age, some 1.5 million years ago. You can then move on to different galleries that take you through Jordan's history in chronological order, with a look at more than 2,000 artifacts.' What does the collection cover?",
+    "choices": [
+      "Only the modern history of Jordan",
+      "Jordan's history from the Stone Age to the present",
+      "Only Roman and Nabatean history",
+      "The history of Amman city only"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Read the passage: 'These are explained using modern graphics and interactive displays which are absolutely fascinating.' How are the museum themes explained?",
+    "choices": [
+      "textbooks and lectures",
+      "modern graphics and interactive displays",
+      "documentary films only",
+      "guided tours only"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read the passage: 'I happened to come across this gem of a museum last week on a family trip to Jordan, so we decided to check it out.' How did the writer find the Jordan Museum?",
+    "choices": [
+      "while searching online",
+      "on a family trip to Jordan",
+      "because a friend recommended it",
+      "because it was on the news"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "I'd rather not ________ out tonight.",
+    "choices": [
+      "going",
+      "to go",
+      "go",
+      "gone"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "I'd rather you didn't tell me what to order.",
+      "I'd rather you don't tell me what to order.",
+      "I'd rather you to not tell me what to order.",
+      "I'd rather you not telling me what to order."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Choose the sentence that expresses a general preference using 'prefer'.",
+    "choices": [
+      "I would prefer to eat at home tonight.",
+      "I prefer eating out to cooking at home.",
+      "I'd sooner eat at home.",
+      "I'd rather eat at home this evening."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "'I don't want to eat too late.' → I'd rather ________.",
+    "choices": [
+      "eating not too late",
+      "not eat too late",
+      "to not eat too late",
+      "not eating too late"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "'I like home-cooked meals more than takeaways.' → I prefer ________.",
+    "choices": [
+      "home-cooked meals than takeaways",
+      "home-cooked meals to takeaways",
+      "home-cooked meals over takeaways",
+      "home-cooked meals above takeaways"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "'I really don't mind.' → I'm ________.",
+    "choices": [
+      "fine",
+      "free",
+      "easy",
+      "open"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "After 'be used to' and 'get used to', we use:",
+    "choices": [
+      "infinitive with to",
+      "bare infinitive",
+      "gerund",
+      "past participle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Although it's still a bit strange, Kamal ________ living in the student halls.",
+    "choices": [
+      "used to live",
+      "is getting used to living",
+      "is used to live",
+      "got used to live"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "When my sister was a child, she ________ with dolls.",
+    "choices": [
+      "was used to playing",
+      "got used to play",
+      "used to play",
+      "is used to playing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "I couldn't concentrate on audiobooks at first, but now I ________ listening to them.",
+    "choices": [
+      "used to listen",
+      "am used to listening",
+      "am getting used to listen",
+      "get used to listen"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "'I'm getting used to wearing a hearing aid.' This situation means:",
+    "choices": [
+      "N — This is normal",
+      "B — This is slowly becoming normal",
+      "P — This was true in the past but no longer",
+      "None of the above"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'Visitors used to be able to make out the sea from here.' This situation means:",
+    "choices": [
+      "N — This is normal",
+      "B — This is slowly becoming normal",
+      "P — This was true in the past but no longer",
+      "None of the above"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Which of the following is a gradable adjective?",
+    "choices": [
+      "mind-blowing",
+      "fascinating",
+      "loud",
+      "deafening"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Which intensifier can only be used with gradable adjectives?",
+    "choices": [
+      "absolutely",
+      "completely",
+      "very",
+      "utterly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "I was very terrified.",
+      "I was totally terrified.",
+      "I was extremely terrified.",
+      "I was hugely terrified."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "The show was absolutely interesting.",
+      "The show was utterly interesting.",
+      "The show was very interesting.",
+      "The show was completely interesting."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "The word 'bland' describes food that is:",
+    "choices": [
+      "very spicy",
+      "having very little taste or flavour",
+      "very sweet",
+      "very sour"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Which word describes food that has a 'not very strong or spicy' flavour?",
+    "choices": [
+      "bland",
+      "tasty",
+      "mild",
+      "crunchy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Which word is the opposite of 'crunchy'?",
+    "choices": [
+      "spicy",
+      "sweet",
+      "smooth",
+      "thick"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "In the 'Making Inferences' section, inferences are made based on:",
+    "choices": [
+      "imagination only",
+      "clues in the text and background knowledge",
+      "the title of the article only",
+      "pictures in the text"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Read the passage: 'The school taught her to come to terms with being blind.' The statement 'She felt better when she changed schools because she no longer felt isolated' is:",
+    "choices": [
+      "False — the text states she was still unhappy",
+      "True — implied because the school taught her to come to terms with her blindness",
+      "False — the text directly says she was unhappy",
+      "Cannot be determined"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Read the passage: 'In November 1801 I decided to leave London and move to the country. I went up to the north of England and visited a house on the Yorkshire moors. I arranged to visit the owner of Thrushcross Grange, a man called Heathcliff.' In what year does Mr Lockwood's story begin?",
+    "choices": [
+      "1799",
+      "1800",
+      "1801",
+      "1805"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read the passage: 'I went up to the north of England and visited a house on the Yorkshire moors.' Where is Thrushcross Grange located?",
+    "choices": [
+      "London",
+      "Scotland",
+      "the Yorkshire moors",
+      "Wales"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read the passage: 'Heathcliff and I had hardly spoken on my first visit. I had not stayed long because he was rude. But I was interested in getting to know the man, so I decided to go back to Wuthering Heights the next day.' Why did Lockwood go back to Wuthering Heights?",
+    "choices": [
+      "He forgot something there.",
+      "He was interested in getting to know Heathcliff better.",
+      "Heathcliff invited him.",
+      "He was looking for Catherine."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'All's well that ends well.' What does this Shakespearean quote mean?",
+    "choices": [
+      "Only the ending of a story matters, not how it started.",
+      "If the outcome is good, it doesn't matter what happened before.",
+      "Things do not always end well.",
+      "Every beginning has a good ending."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage: 'He interacted with people from all backgrounds and classes and his staging of plays brought theatre to the general public.' Who did Shakespeare bring theatre to?",
+    "choices": [
+      "the royal court only",
+      "the upper classes only",
+      "the general public",
+      "schools and universities only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "This switch ________ you to turn off all the lights in the house.",
+    "choices": [
+      "enables turn off",
+      "enables to turn off",
+      "enables turning off",
+      "enables you to turn off"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "I am responsible ________ testing people for colour-blindness.",
+    "choices": [
+      "to test",
+      "for testing",
+      "for to test",
+      "of testing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Do you fancy ________ the smelly blue cheese?",
+    "choices": [
+      "to try",
+      "try",
+      "trying",
+      "tried"
+    ],
+    "correct_answer": "c"
+  }
+]

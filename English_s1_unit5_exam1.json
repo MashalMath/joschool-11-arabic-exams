@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Your ________ is your ability to see.",
+    "choices": [
+      "eyesight",
+      "hearing loss",
+      "taste bud",
+      "perceive"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "If you are ________, you can't tell the difference between some colours.",
+    "choices": [
+      "blind",
+      "colour-blind",
+      "deaf",
+      "impaired"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "________ are the tiny bumps on your tongue that allow you to recognise flavours.",
+    "choices": [
+      "Eyesight",
+      "Hearing loss",
+      "Taste buds",
+      "Perceive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which word means 'a pleasant smell of flowers'?",
+    "choices": [
+      "stench",
+      "aroma",
+      "scent",
+      "overpowering"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "The word 'aroma' describes:",
+    "choices": [
+      "a really bad smell",
+      "the smell of something delicious cooking",
+      "something difficult to detect",
+      "something too strong"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which adjective means 'covered in small, short pointed spines or points'?",
+    "choices": [
+      "fluffy",
+      "silky",
+      "prickly",
+      "squishy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The word 'subtle' describes something that is:",
+    "choices": [
+      "too strong",
+      "really bad",
+      "difficult to detect",
+      "delicious"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which word means 'soft and smooth like the material silk'?",
+    "choices": [
+      "coarse",
+      "silky",
+      "spiky",
+      "sticky"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct verb form: 'In an emergency, you can't stop ________ questions.'",
+    "choices": [
+      "to ask",
+      "ask",
+      "asking",
+      "asked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct form: 'The animal would need ________ an X-ray for confirmation.'",
+    "choices": [
+      "having",
+      "to have",
+      "have",
+      "had"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "I remember ________ my swimming kit, but now I can't find it. (I did it and remember it now)",
+    "choices": [
+      "to bring",
+      "bring",
+      "brought",
+      "bringing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Remember ________ your swimming kit. (Don't forget to do it)",
+    "choices": [
+      "bringing",
+      "to bring",
+      "brought",
+      "bring"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "I'll never forget ________ ice cream for the first time.",
+    "choices": [
+      "to taste",
+      "tasting",
+      "taste",
+      "tasted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Don't forget ________ the ice cream in the freezer.",
+    "choices": [
+      "putting",
+      "put",
+      "to put",
+      "puts"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Becoming a perfumer means ________ up spicy food.",
+    "choices": [
+      "to give",
+      "give",
+      "giving",
+      "given"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "I didn't mean ________ so much chilli sauce on my chips.",
+    "choices": [
+      "putting",
+      "to put",
+      "put",
+      "puts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "My contact lenses felt weird at first, but I ________ (wear) them eventually.",
+    "choices": [
+      "used to wearing",
+      "got used to wearing",
+      "am used to wear",
+      "used to wear"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "He ________ (sleep) on a hard mattress – it doesn't bother him.",
+    "choices": [
+      "used to sleeping",
+      "got used to sleeping",
+      "is used to sleeping",
+      "used to sleep"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "I ________ (not like) eating fish, but I love it now.",
+    "choices": [
+      "didn't use to like",
+      "am not used to liking",
+      "don't get used to liking",
+      "wasn't used to like"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "Which sentence uses 'used to' correctly to describe a past habit that no longer exists?",
+    "choices": [
+      "I am used to wake up early.",
+      "I used to wake up early.",
+      "I get used to waking up early.",
+      "I used to waking up early."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "To talk about an action in progress after verbs like 'see' and 'hear', we use:",
+    "choices": [
+      "object + infinitive without to",
+      "object + gerund",
+      "object + past participle",
+      "object + infinitive with to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "I saw somebody ________ in the water. (completed action)",
+    "choices": [
+      "falling",
+      "to fall",
+      "fall",
+      "fallen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "After the verbs 'need', 'deserve', and 'require', the gerund has a ________ sense.",
+    "choices": [
+      "active",
+      "passive",
+      "future",
+      "present"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "These documents require ________.",
+    "choices": [
+      "to sign",
+      "sign",
+      "signing",
+      "signed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read the passage: 'Sabriye Tenberken became blind at the age of 12. She went to a special boarding school for the blind where she learnt horse riding and how to read Braille.' How old was Sabriye when she became blind?",
+    "choices": [
+      "10",
+      "14",
+      "12",
+      "26"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "According to the passage about Sabriye, what did she learn at the special boarding school?",
+    "choices": [
+      "swimming and painting",
+      "horse riding and Braille",
+      "cooking and writing",
+      "music and dancing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Why did Sabriye decide to write a Tibetan Braille system?",
+    "choices": [
+      "Because her teacher asked her to",
+      "Because there was no Braille in Tibetan",
+      "Because she wanted to become famous",
+      "Because the Tibetan government paid her"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "What is the main reason for the high incidence of blindness in Tibet according to the article?",
+    "choices": [
+      "their diet",
+      "lack of doctors",
+      "the damaging sun at high altitudes",
+      "poor water quality"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "What was Sabriye nominated for in 2005?",
+    "choices": [
+      "The Pulitzer Prize",
+      "The Nobel Peace Prize",
+      "The Booker Prize",
+      "The Olympic Medal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "What is the name of the school Sabriye and Paul Kronenberg set up?",
+    "choices": [
+      "Blind Vision School",
+      "Tibet Learning Centre",
+      "Braille Without Borders",
+      "The Sabriye School"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which word describes food that is 'delicious-tasting'?",
+    "choices": [
+      "subtle",
+      "stench",
+      "mouth-watering",
+      "overpowering"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Which of the following is NOT a sound word used in the unit?",
+    "choices": [
+      "rustling",
+      "chirping",
+      "sizzling",
+      "blending"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "I'd rather ________ something light. (making a choice)",
+    "choices": [
+      "eating",
+      "to eat",
+      "eat",
+      "eaten"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "I prefer ________ at home to going out to a restaurant. (general preference)",
+    "choices": [
+      "to eat",
+      "eating",
+      "eat",
+      "eaten"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Which phrase gives someone else the choice?",
+    "choices": [
+      "I'd rather eat out.",
+      "I prefer eating in.",
+      "It's up to you.",
+      "Given the choice, I'd go there."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "In a review, where do you give brief details of where and when you went?",
+    "choices": [
+      "First main paragraph",
+      "Introduction",
+      "Conclusion",
+      "Second main paragraph"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Which intensifier can ONLY be used with non-gradable adjectives?",
+    "choices": [
+      "very",
+      "extremely",
+      "absolutely",
+      "really"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Which intensifier can be used with BOTH gradable and non-gradable adjectives?",
+    "choices": [
+      "very",
+      "extremely",
+      "hugely",
+      "really"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "The word 'stench' means:",
+    "choices": [
+      "a pleasant smell",
+      "a difficult-to-detect smell",
+      "a really bad smell",
+      "a mouth-watering smell"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which cooking word means 'to cook gently in liquid just below boiling point'?",
+    "choices": [
+      "boil",
+      "simmer",
+      "whizz",
+      "peel"
+    ],
+    "correct_answer": "b"
+  }
+]

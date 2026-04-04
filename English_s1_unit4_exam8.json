@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following correctly describes a 'hoax'?",
+    "choices": [
+      "a truthful story backed by evidence",
+      "a trick intended to deceive people",
+      "a story published only in one newspaper",
+      "a strongly critical article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "To 'verify sources' means a journalist ________.",
+    "choices": [
+      "publishes without checking",
+      "makes up quotes from people",
+      "checks whether information comes from reliable places",
+      "interviews multiple celebrities"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following words means 'to say something officially'?",
+    "choices": [
+      "drop",
+      "expose",
+      "state",
+      "uncover"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "A story that is 'off the record' is information that ________.",
+    "choices": [
+      "has been officially confirmed",
+      "should not be publicly reported",
+      "has gone viral on social media",
+      "is published in the public interest"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The word 'dependable' means the same as ________.",
+    "choices": [
+      "quirky",
+      "sensational",
+      "trustworthy",
+      "hard-hitting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The collocation 'shed light on' means to ________.",
+    "choices": [
+      "make something popular online",
+      "clarify or illuminate an issue",
+      "generate advertising revenue",
+      "publish an exclusive story"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Which adjective describes a story that makes the reader feel deeply sad?",
+    "choices": [
+      "topical",
+      "quirky",
+      "heartbreaking",
+      "exclusive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "The phrase 'in the public interest' refers to information that ________.",
+    "choices": [
+      "is very popular on social media",
+      "benefits or matters to the general public",
+      "is funded by the government",
+      "is written by a famous journalist"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "The word 'bizarre' means ________.",
+    "choices": [
+      "reliable",
+      "newsworthy",
+      "strange or weird",
+      "balanced"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "To 'expose corruption' means to ________.",
+    "choices": [
+      "protect dishonest officials",
+      "report and reveal dishonest practices publicly",
+      "conduct a private investigation",
+      "publish only one side of a story"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The word 'pavement' contains which suffix that makes it a noun?",
+    "choices": [
+      "-ity",
+      "-ment",
+      "-tion",
+      "-hood"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following words is formed with the suffix '-sion'?",
+    "choices": [
+      "improvement",
+      "freedom",
+      "tension",
+      "developer"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The correct noun form of the adjective 'secure' is ________.",
+    "choices": [
+      "securely",
+      "secured",
+      "security",
+      "securing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correctly derived word: 'The ________ crowd celebrated the team's victory.'",
+    "choices": [
+      "ecstasy",
+      "ecstatically",
+      "ecstasies",
+      "ecstatic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "The word 'replacement' contains the suffix ________.",
+    "choices": [
+      "-tion",
+      "-ment",
+      "-ity",
+      "-dom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "The tourists ________ (stand) at the bus stop for an hour before the bus arrived.",
+    "choices": [
+      "stood",
+      "were standing",
+      "had been standing",
+      "have stood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Nader had ink all round his mouth because he ________ (chew) his pen during the exam.",
+    "choices": [
+      "chewed",
+      "was chewing",
+      "had chewed",
+      "had been chewing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Abbas ________ (work) at the East Hotel for exactly 25 years on the day he disappeared.",
+    "choices": [
+      "was working",
+      "worked",
+      "had been working",
+      "has worked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "While everyone ________ (leave) the dining room, the rumours began.",
+    "choices": [
+      "left",
+      "was leaving",
+      "had left",
+      "were leaving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Shelley's family were able to ________ until the storm passed.",
+    "choices": [
+      "had survived",
+      "were surviving",
+      "survive",
+      "have survived"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Barely ________ the researchers arrived at the site when a sandstorm began.",
+    "choices": [
+      "had",
+      "did",
+      "were",
+      "have"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Little ________ the editor know that the story was a complete fabrication.",
+    "choices": [
+      "does",
+      "did",
+      "had",
+      "has"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Seldom ________ such a convincing piece of fake news been published.",
+    "choices": [
+      "did",
+      "has",
+      "had",
+      "was"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The rewritten form of 'They had only just left when the house exploded' using 'Scarcely' is ________.",
+    "choices": [
+      "Scarcely they had left when the house exploded.",
+      "Scarcely had they left when the house exploded.",
+      "Scarcely the house had exploded when they left.",
+      "Scarcely left had they when the house exploded."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Under no circumstances ________ students allowed to bring their phones into the examination hall.",
+    "choices": [
+      "were",
+      "students were",
+      "students are",
+      "are"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "The narrator in 'The Man in Black' realised she was wrong about the man because ________.",
+    "choices": [
+      "the police confirmed he was innocent",
+      "she saw him save the old woman from a falling crane",
+      "the old woman told her the man was her relative",
+      "the man apologised for frightening everyone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "During the cyclone, the villagers took shelter ________.",
+    "choices": [
+      "in a school building",
+      "under a large tree",
+      "all together in one house",
+      "in an underground bunker"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "The word 'composed' when describing a photograph means ________.",
+    "choices": [
+      "taken quickly without planning",
+      "arranged and structured carefully",
+      "printed in black and white",
+      "cropped to remove the background"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "The comment adverb 'Theoretically' in a sentence suggests something ________.",
+    "choices": [
+      "is definitely true",
+      "is surprising and unexpected",
+      "is possible in principle but may not be true in practice",
+      "happened in the very distant past"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "In the sentence 'He yelled loudly in my ear', the adverb 'loudly' is placed ________.",
+    "choices": [
+      "at the beginning of the clause",
+      "before the main verb",
+      "at the end of the clause",
+      "between the subject and verb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The second hotel article was concerned that the new roads would ________.",
+    "choices": [
+      "bring more tourists than the area could handle",
+      "affect bird and animal life in a sensitive nature area",
+      "block access to the local school",
+      "destroy historic buildings in the area"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "The sentence 'By the time he died, he had written a lot of letters' uses the Past Perfect Simple to show ________.",
+    "choices": [
+      "an ongoing action at the time of death",
+      "an action in progress before a certain point",
+      "an experience completed before a specific past time",
+      "a repeated action over a period of time"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "The ancient 'kites' found in the Black Desert of Jordan were ________.",
+    "choices": [
+      "objects flown in the sky by ancient people",
+      "large birds that ancient people hunted",
+      "long walls used to trap animals for food",
+      "ancient houses built from stone"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Archaeologists thought the kite walls at Jibal al-Khashabiyeh might be ________.",
+    "choices": [
+      "the world's oldest cave paintings",
+      "possibly the oldest kite walls in the world",
+      "the remains of an ancient city",
+      "the first evidence of writing in the region"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The debate phrase 'There have been several cases where this has happened...' is used to ________.",
+    "choices": [
+      "summarise the argument",
+      "give background information",
+      "provide examples to back up an argument",
+      "refer to statistics from a study"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Issa's advice for debating says a debater should ________.",
+    "choices": [
+      "always argue from personal experience",
+      "be passionate but not aggressive or overly emotional",
+      "use extreme language to convince the audience",
+      "only argue for positions they personally believe"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The phrase 'I'll never do that again.' is used at the ________ of an anecdote.",
+    "choices": [
+      "beginning",
+      "turning point",
+      "middle",
+      "end"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "The comment adverb 'Unbelievably' at the start of a sentence shows the speaker thinks what they are describing is ________.",
+    "choices": [
+      "completely normal",
+      "very difficult to believe",
+      "slightly surprising",
+      "very sad"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "A 'gossip column' in a newspaper is an article about ________.",
+    "choices": [
+      "breaking political news",
+      "environmental issues",
+      "celebrity stories and rumours",
+      "scientific discoveries"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "A text type that tells the personal story of a famous person is called ________.",
+    "choices": [
+      "a gossip column",
+      "a news item",
+      "a celebrity profile",
+      "an opinion piece"
+    ],
+    "correct_answer": "c"
+  }
+]

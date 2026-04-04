@@ -12,7 +12,7 @@
   },
   {
     "number": 2,
-    "question": "Which adjective describes 'something that is too strong' (smell)?",
+    "question": "Which adjective describes 'something that is too strong' in terms of smell?",
     "choices": [
       "subtle",
       "mouth-watering",
@@ -89,51 +89,51 @@
   },
   {
     "number": 9,
-    "question": "Which of the following verbs is followed by a GERUND to talk about general preferences?",
+    "question": "I prefer ________ at home to eating in a restaurant.",
     "choices": [
-      "tend",
-      "fail",
-      "prefer",
-      "encourage"
+      "to cook",
+      "cook",
+      "cooking",
+      "cooked"
     ],
     "correct_answer": "c"
   },
   {
     "number": 10,
-    "question": "The verb 'risk' is followed by:",
+    "question": "She risks ________ her job if she doesn't improve her performance.",
     "choices": [
-      "infinitive with to",
-      "gerund",
-      "bare infinitive",
-      "past participle"
+      "to lose",
+      "losing",
+      "lose",
+      "lost"
     ],
     "correct_answer": "b"
   },
   {
     "number": 11,
-    "question": "The verb 'fail' is followed by:",
+    "question": "Many people fail ________ the connection between smell and taste.",
     "choices": [
-      "gerund",
-      "infinitive with to",
-      "bare infinitive",
-      "past participle"
+      "understanding",
+      "understand",
+      "to understand",
+      "understood"
     ],
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "number": 12,
-    "question": "The verb 'enable' takes the pattern: + object + ________",
+    "question": "This enables us ________ without looking at the keyboard.",
     "choices": [
-      "gerund",
-      "infinitive without to",
-      "infinitive with to",
-      "past participle"
+      "typing",
+      "type",
+      "to type",
+      "typed"
     ],
     "correct_answer": "c"
   },
   {
     "number": 13,
-    "question": "It was Aristotle who was responsible for ________ (encourage) us ________ (believe) that we have five senses.",
+    "question": "It was Aristotle who was responsible for ________ us ________ that we have five senses.",
     "choices": [
       "encouraging / to believe",
       "to encourage / believing",
@@ -144,7 +144,7 @@
   },
   {
     "number": 14,
-    "question": "This enables us ________ (type) without ________ (look) at the keyboard.",
+    "question": "This enables us ________ without ________ at the keyboard.",
     "choices": [
       "typing / looking",
       "to type / looking",
@@ -155,7 +155,7 @@
   },
   {
     "number": 15,
-    "question": "If you have difficulty ________ (do) this, then your proprioception is unlikely ________ (be) as good as it could be.",
+    "question": "If you have difficulty ________ this, then your proprioception is unlikely ________ as good as it could be.",
     "choices": [
       "to do / to be",
       "doing / to be",
@@ -166,40 +166,40 @@
   },
   {
     "number": 16,
-    "question": "I'm used to wearing glasses. This sentence means:",
+    "question": "Choose the sentence that means 'This is now normal for me — I always do it'.",
     "choices": [
-      "I wore glasses in the past but not now.",
-      "I am slowly becoming comfortable wearing glasses.",
-      "This is normal for me; I always wear glasses.",
-      "I started wearing glasses recently."
+      "I used to wear glasses.",
+      "I am getting used to wearing glasses.",
+      "I am used to wearing glasses.",
+      "I got used to wear glasses."
     ],
     "correct_answer": "c"
   },
   {
     "number": 17,
-    "question": "I'm getting used to wearing glasses. This sentence means:",
+    "question": "Choose the sentence that means 'This is slowly becoming normal for me'.",
     "choices": [
-      "This is normal for me.",
-      "I wore glasses in the past but not now.",
-      "This is slowly becoming normal for me.",
+      "I am used to wearing glasses.",
+      "I used to wear glasses.",
+      "I am getting used to wearing glasses.",
       "I have never worn glasses."
     ],
     "correct_answer": "c"
   },
   {
     "number": 18,
-    "question": "I used to wear glasses. This sentence means:",
+    "question": "Choose the sentence that means 'I don't wear glasses anymore — I did in the past'.",
     "choices": [
-      "This is normal for me.",
-      "I don't wear them now.",
-      "This is slowly becoming normal.",
+      "I am used to wearing glasses.",
+      "I used to wear glasses.",
+      "I am getting used to wearing glasses.",
       "I always wear glasses."
     ],
     "correct_answer": "b"
   },
   {
     "number": 19,
-    "question": "I'd rather you ________ tell me what to order! (don't want someone to do something)",
+    "question": "I'd rather you ________ tell me what to order!",
     "choices": [
       "don't",
       "didn't",
@@ -210,7 +210,7 @@
   },
   {
     "number": 20,
-    "question": "Which sentence correctly expresses a specific preference for this evening?",
+    "question": "Choose the correct sentence for a specific preference for this evening.",
     "choices": [
       "I prefer eating at home.",
       "I would prefer to eat at home this evening.",
@@ -221,7 +221,7 @@
   },
   {
     "number": 21,
-    "question": "Read the passage: 'Sabriye studied Tibetan at Bonn University. Many Tibetan people had problems with their eyesight, mainly because of the damaging sun at high altitudes. There was no Braille in Tibetan, so she decided to write a Tibetan Braille system.' Where did Sabriye study Tibetan?",
+    "question": "Read the passage: 'She later studied Tibetan at Bonn University. She learnt that many Tibetan people had problems with their eyesight, partly because of their diet but mainly because of the damaging sun at high altitudes.' Where did Sabriye study Tibetan?",
     "choices": [
       "Oxford University",
       "Berlin University",
@@ -232,7 +232,7 @@
   },
   {
     "number": 22,
-    "question": "According to the passage, what is the MAIN reason many Tibetan people suffer from eyesight problems?",
+    "question": "Read the passage: 'Many Tibetan people had problems with their eyesight, partly because of their diet but mainly because of the damaging sun at high altitudes.' What is the MAIN reason many Tibetan people suffer from eyesight problems?",
     "choices": [
       "their diet",
       "the damaging sun at high altitudes",
@@ -243,7 +243,7 @@
   },
   {
     "number": 23,
-    "question": "Why did Sabriye originally create the Tibetan Braille system?",
+    "question": "Read the passage: 'There was no Braille in Tibetan, so she decided to write a Tibetan Braille system. At first, she did this to help her with her own studies, but then she realised its potential to help people.' Why did Sabriye originally create the Tibetan Braille system?",
     "choices": [
       "To help Tibetan children",
       "To help with her own studies",
@@ -254,7 +254,7 @@
   },
   {
     "number": 24,
-    "question": "Why did some Tibetan parents keep blind children inside?",
+    "question": "Read the passage: 'Some were never allowed outside because their parents believed they would hurt themselves.' Why did some Tibetan parents keep blind children inside?",
     "choices": [
       "There was no school for them.",
       "They believed the children would hurt themselves.",
@@ -265,7 +265,7 @@
   },
   {
     "number": 25,
-    "question": "Who became Sabriye's business partner?",
+    "question": "Read the passage: 'Sabriye later met Paul Kronenberg, who became her business partner. Together they set up a school, called Braille Without Borders.' Who became Sabriye's business partner?",
     "choices": [
       "Edgar Linton",
       "Paul Kronenberg",
@@ -276,7 +276,7 @@
   },
   {
     "number": 26,
-    "question": "What is the vision of Braille Without Borders?",
+    "question": "Read the passage: 'It has a vision to help blind children to adjust to their blindness and to learn many of the same skills that she had learnt as a girl.' What is the vision of Braille Without Borders?",
     "choices": [
       "To teach Tibetan to blind children",
       "To help blind children adjust to their blindness and learn skills",
@@ -287,7 +287,7 @@
   },
   {
     "number": 27,
-    "question": "What was the title of Sabriye's book about her life and work?",
+    "question": "Read the passage: 'She has also won awards for her work and has also written a book called My Path Leads to Tibet about her life and work.' What was the title of Sabriye's book?",
     "choices": [
       "My Path Leads to Tibet",
       "Braille Without Borders",
@@ -298,18 +298,18 @@
   },
   {
     "number": 28,
-    "question": "According to the ketchup podcast, where was ketchup first created?",
+    "question": "Read the passage: 'Ketchup was first created in Asia in the sixth century.' Where and when was ketchup first created?",
     "choices": [
-      "Europe",
-      "the United States",
-      "Asia",
-      "Africa"
+      "Europe, fourth century",
+      "The United States, fifth century",
+      "Asia, sixth century",
+      "Africa, seventh century"
     ],
     "correct_answer": "c"
   },
   {
     "number": 29,
-    "question": "What did the first British ketchup recipes contain?",
+    "question": "Read the passage: 'The first British ketchup recipes contained fish, mushrooms and nuts, but not tomatoes.' What did the first British ketchup recipes contain?",
     "choices": [
       "tomatoes and vinegar",
       "fish, mushrooms and nuts",
@@ -320,7 +320,7 @@
   },
   {
     "number": 30,
-    "question": "What was invented in 1983, according to the ketchup podcast?",
+    "question": "Read the passage: 'The plastic squeeze bottle was invented in 1983.' What was invented in 1983?",
     "choices": [
       "ketchup itself",
       "tomato sauce",
@@ -408,7 +408,7 @@
   },
   {
     "number": 38,
-    "question": "The word 'gross' (adjective) used in informal reviews means:",
+    "question": "The word 'gross' in informal reviews means:",
     "choices": [
       "amazing",
       "impressive",

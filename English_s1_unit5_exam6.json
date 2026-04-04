@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "________ close to loudspeakers at concerts can cause hearing loss in 7 and a half minutes.",
+    "choices": [
+      "To stand",
+      "Stand",
+      "Standing",
+      "Stood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "If you sit too close to a television screen, you risk ________ your eyesight.",
+    "choices": [
+      "to damage",
+      "damage",
+      "damaged",
+      "damaging"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "Touch is the first sense ________ in babies and the last ________ at the end of our lives.",
+    "choices": [
+      "developing / fading",
+      "to develop / to fade",
+      "develop / fade",
+      "developed / faded"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "When ________ an Ongee, instead of asking 'How are you?' it is usual to ask 'How is your nose?'",
+    "choices": [
+      "to greet",
+      "greet",
+      "greeted",
+      "greeting"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "These low-frequency sounds enable elephants ________ sounds 285 km away.",
+    "choices": [
+      "making out",
+      "make out",
+      "to make out",
+      "made out"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "In a writing review, which paragraph typically discusses the positive aspects?",
+    "choices": [
+      "Introduction",
+      "First main paragraph",
+      "Second main paragraph",
+      "Conclusion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The phrase 'I was blown away by …' is used to express:",
+    "choices": [
+      "a negative aspect",
+      "an introduction",
+      "a strong positive impression",
+      "a recommendation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase introduces a recommendation at the end of a review?",
+    "choices": [
+      "What I really liked was ...",
+      "My only criticism is ...",
+      "It's (not) worth visiting ...",
+      "Another highlight was ..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Do you happen ________ where I can get my hearing tested?",
+    "choices": [
+      "knowing",
+      "know",
+      "to know",
+      "known"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The delicious flavours let ________ tempt your taste buds.",
+    "choices": [
+      "them to",
+      "them",
+      "to them",
+      "it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The curry is so spicy I have difficulty ________ anything except the chilli.",
+    "choices": [
+      "to taste",
+      "taste",
+      "tasting",
+      "tasted"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "I feel like ________ something sweet after dinner.",
+    "choices": [
+      "to eat",
+      "eat",
+      "eating",
+      "eaten"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Experts encourage students ________ regular breaks from staring at computer screens.",
+    "choices": [
+      "taking",
+      "take",
+      "to take",
+      "taken"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The teacher forced the students ________ the exam again.",
+    "choices": [
+      "taking",
+      "take",
+      "to take",
+      "taken"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Read the passage: 'She often tried to hide her blindness until she went to a special boarding school for the blind. Here she realised that blind people were capable of doing the same things as everyone else.' What does the phrase 'capable of doing' mean in this context?",
+    "choices": [
+      "unable to do",
+      "afraid to do",
+      "able to do",
+      "forced to do"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Read the passage: 'The school taught her to come to terms with being blind. She learnt various sports including horse riding and she also learnt how to read Braille.' What phrase shows she accepted her blindness?",
+    "choices": [
+      "She often tried to hide her blindness.",
+      "The school taught her to come to terms with being blind.",
+      "She was desperate to fit in.",
+      "She was shocked to find how blind children were treated."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The phrase 'come to terms with' means:",
+    "choices": [
+      "to reject something",
+      "to be angry about something",
+      "to accept a difficult situation",
+      "to celebrate something"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The phrase 'put somebody off' means:",
+    "choices": [
+      "to encourage someone",
+      "to stop someone from liking or doing something",
+      "to help someone",
+      "to delay someone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "The phrase 'spread the word about something' means:",
+    "choices": [
+      "to write about it",
+      "to research it",
+      "to tell many people about it",
+      "to publish it"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The adjective 'tough' has two meanings. Which is NOT one of them?",
+    "choices": [
+      "difficult",
+      "a strong person not easily defeated",
+      "very cold",
+      "hard to cut (like meat)"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The word 'realise' can mean 'to understand or become aware of something'. It can also mean:",
+    "choices": [
+      "to make something real only",
+      "to achieve a dream only",
+      "both to understand and to achieve a dream",
+      "to forget something"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the sentence where 'pursue' means 'to follow'.",
+    "choices": [
+      "She pursued her ambition of becoming a pilot.",
+      "The police didn't pursue the speeding car.",
+      "I would like to pursue a career in journalism.",
+      "She pursued her dream of travelling."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "The word 'vision' in 'It has a vision to help blind children' means:",
+    "choices": [
+      "the ability to see",
+      "a dream or plan for the future",
+      "a supernatural experience",
+      "a medical condition"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Sabriye had to adjust ________ her blindness and focus on what she could do.",
+    "choices": [
+      "of",
+      "about",
+      "with",
+      "to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "She decided to spread the word ________ her Braille system.",
+    "choices": [
+      "of",
+      "about",
+      "to",
+      "with"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "She was as capable ________ doing things as anyone else.",
+    "choices": [
+      "about",
+      "with",
+      "of",
+      "to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Desperate ________ fit in, she did all she could to hide her blindness.",
+    "choices": [
+      "of",
+      "about",
+      "with",
+      "to"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "Read the passage: 'Ketchup was first created in Asia in the sixth century.' When and where was ketchup first created?",
+    "choices": [
+      "Europe, fourth century",
+      "Asia, sixth century",
+      "America, seventh century",
+      "Africa, fifth century"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Read the passage: 'In the UK and Venezuela, ketchup is sweeter than the ketchup in the USA.' How does ketchup in the UK compare to ketchup in the USA?",
+    "choices": [
+      "It is spicier.",
+      "It is sweeter.",
+      "It is more watery.",
+      "It is thicker."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Read the passage: 'Take 2 kg of tomatoes and slice them in half (no need to peel them). Place in a large pan.' Which cooking utensil is mentioned in the ketchup recipe?",
+    "choices": [
+      "bowl",
+      "pan",
+      "tray",
+      "kettle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage: 'Take 2 kg of tomatoes and slice them in half (no need to peel them).' What do you do FIRST to the tomatoes?",
+    "choices": [
+      "peel them",
+      "boil them",
+      "slice them in half",
+      "simmer them"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Read the passage: 'Place in a large pan, then stir in 500 ml of vinegar, 300 g of sugar and some salt and pepper.' What do you add to the tomatoes in the pan?",
+    "choices": [
+      "milk and butter",
+      "oil and salt only",
+      "vinegar, sugar, salt and pepper",
+      "water and garlic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Read the passage: 'Transfer to a blender or food processor and whizz until you have a smooth puree. Chill before serving.' What is the LAST step in the recipe?",
+    "choices": [
+      "simmer it",
+      "whizz it",
+      "chill before serving",
+      "boil it again"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read the passage: 'Shakespeare appears to have invented between 2,000 and 3,000 words.' Approximately how many words did Shakespeare invent?",
+    "choices": [
+      "between 500 and 1,000",
+      "between 1,000 and 2,000",
+      "between 2,000 and 3,000",
+      "between 3,000 and 5,000"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read the passage: 'His plays were recorded because of the invention of the printing press.' Why were Shakespeare's plays recorded?",
+    "choices": [
+      "Because of the internet",
+      "Because of the printing press",
+      "Because of television",
+      "Because of the typewriter"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'Today, people use about 1,700 of these words.' How many of Shakespeare's invented words do people use today?",
+    "choices": [
+      "500",
+      "1,000",
+      "1,700",
+      "2,500"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "The technique of creating new words as Shakespeare did is known as:",
+    "choices": [
+      "inventing",
+      "coining",
+      "borrowing",
+      "adapting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read the passage: 'Today, we use his word rant to describe when we shout about something to get it off our chest.' What does the word 'rant' mean?",
+    "choices": [
+      "to whisper quietly",
+      "to listen carefully",
+      "to shout about something to get it off our chest",
+      "to write a poem"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Which Shakespearean quote means 'Short good jokes are better than long complicated stories'?",
+    "choices": [
+      "All's well that ends well.",
+      "All that glistens is not gold.",
+      "Brevity is the soul of wit.",
+      "The robb'd that smiles, steals something from the thief."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "The Shakespearean quote 'All that glistens is not gold' means:",
+    "choices": [
+      "Gold is the most valuable thing.",
+      "Not everything that looks good or valuable actually is.",
+      "As long as things end well, nothing else matters.",
+      "Being kind is more valuable than being rich."
+    ],
+    "correct_answer": "b"
+  }
+]

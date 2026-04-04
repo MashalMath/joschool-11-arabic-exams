@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word from the unit describes 'the smell of something delicious cooking'?",
+    "choices": [
+      "stench",
+      "scent",
+      "aroma",
+      "subtle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Which word means 'a pleasant smell of flowers'?",
+    "choices": [
+      "stink",
+      "aroma",
+      "overpowering",
+      "scent"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "The adjective 'mouth-watering' describes food that is:",
+    "choices": [
+      "very bland",
+      "very spicy",
+      "delicious and makes you want to eat it",
+      "very sour"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which word describes something 'soft and a bit wet' to touch?",
+    "choices": [
+      "coarse",
+      "sticky",
+      "silky",
+      "squishy"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "Which sound word is associated with 'a bee flying around'?",
+    "choices": [
+      "chirp",
+      "buzz",
+      "screech",
+      "rustle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "The sound of 'leaves moving gently in the wind' is called:",
+    "choices": [
+      "rustling",
+      "humming",
+      "chirping",
+      "sizzling"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "The roar of an engine is associated with which sense?",
+    "choices": [
+      "smell",
+      "touch",
+      "hearing",
+      "taste"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "In a writing review, which section shares personal feelings like 'What I liked was …'?",
+    "choices": [
+      "Introduction",
+      "Second main paragraph — positive aspects",
+      "Third main paragraph — negative aspects",
+      "Conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Choose the sentence that correctly uses an exclamation mark in an informal review.",
+    "choices": [
+      "The museum is located in Amman.",
+      "There was a great gift shop and café!",
+      "The permanent collection starts with the Stone Age.",
+      "The reviewer visited last week."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Proprioception refers to knowing:",
+    "choices": [
+      "how things smell",
+      "how things taste",
+      "where parts of your body are",
+      "how loud sounds are"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Try this experiment ________ your proprioception: close your eyes and touch your nose.",
+    "choices": [
+      "testing",
+      "to test",
+      "test",
+      "tested"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Close your eyes and slowly move your finger ________ your nose.",
+    "choices": [
+      "touching",
+      "touch",
+      "to touch",
+      "touched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Your proprioception is unlikely ________ as good as it could be.",
+    "choices": [
+      "being",
+      "be",
+      "to be",
+      "been"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "I know I should resist, but I can't help ________ when I've got an insect bite.",
+    "choices": [
+      "to scratch",
+      "scratch",
+      "scratching",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Read the passage: 'Many people did not believe she was blind because she travelled by horse. She was shocked to find how blind children were treated. Some were never allowed outside because their parents believed they would hurt themselves.' Why was Sabriye shocked?",
+    "choices": [
+      "Because people were very friendly.",
+      "Because blind children were not allowed outside.",
+      "Because there were no schools in Tibet.",
+      "Because the roads were very bad."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Read the passage: 'She became determined to help them and word was quickly spread about the blind woman who also wanted to set up a school for the blind.' What happened when word spread about Sabriye?",
+    "choices": [
+      "The government arrested her.",
+      "People started to fear her.",
+      "News spread about the blind woman who wanted to set up a school.",
+      "The local people drove her away."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read the passage: 'Sabriye realised that blindness has given her the opportunity to help people like herself.' What did Sabriye realise about her blindness?",
+    "choices": [
+      "It allowed her to travel the world.",
+      "It helped her become wealthy.",
+      "It gave her the opportunity to help people like herself.",
+      "It helped her write many novels."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Which two words are both VERBS and NOUNS in the context of sound words?",
+    "choices": [
+      "loud and quiet",
+      "crunch and buzz",
+      "smell and taste",
+      "rustle and silent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct use of a sound word as a noun.",
+    "choices": [
+      "I can hear the humming of a machine.",
+      "I can hear the hum of a machine. (verb use)",
+      "The fans were hum softly. (verb use)",
+      "I hear the fans humming softly. (noun use)"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "Which verb phrase means 'to adjust to a new situation that is slowly becoming normal'?",
+    "choices": [
+      "used to + infinitive",
+      "be used to + gerund",
+      "get used to + gerund",
+      "would + infinitive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "'It's normal for me to find cat hairs on my clothes.' → Rewrite using 'used to':",
+    "choices": [
+      "I get used to finding cat hairs on my clothes.",
+      "I used to find cat hairs on my clothes.",
+      "I am used to finding cat hairs on my clothes.",
+      "I am getting used to find cat hairs on my clothes."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "'Asma didn't like the smell of fish in the past.' → Rewrite using 'used to':",
+    "choices": [
+      "Asma is used to not liking the smell of fish.",
+      "Asma didn't use to like the smell of fish.",
+      "Asma got used to not liking the smell of fish.",
+      "Asma is getting used to liking the smell of fish."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'Maher played in a football team in the past.' → Rewrite using 'used to':",
+    "choices": [
+      "Maher is used to playing in a football team.",
+      "Maher gets used to playing in a football team.",
+      "Maher used to play in a football team.",
+      "Maher used to playing in a football team."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "This switch ________ you to turn off all the lights in the house.",
+    "choices": [
+      "enables you turn off",
+      "enables you to turn off",
+      "enables turning off",
+      "enables turn off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "I am responsible ________ testing people for colour-blindness.",
+    "choices": [
+      "to test",
+      "for testing",
+      "for to test",
+      "of testing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Do you fancy ________ the smelly blue cheese?",
+    "choices": [
+      "to try",
+      "try",
+      "trying",
+      "tried"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is NOT mentioned as a theme of the Jordan Museum?",
+    "choices": [
+      "food production",
+      "international trade",
+      "visual arts and architecture",
+      "fashion and clothing"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "Read the passage: 'I have been in the army for three years and made some money. And Heathcliff certainly looked stronger than when he had left Wuthering Heights. His speech, his manners and his clothes were also greatly improved.' How long had Heathcliff been in the army?",
+    "choices": [
+      "one year",
+      "two years",
+      "three years",
+      "five years"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read the passage: 'His speech, his manners and his clothes were also greatly improved. He had spent his time well.' How did Heathcliff improve himself?",
+    "choices": [
+      "He studied at a university.",
+      "He travelled to France.",
+      "He improved his speech, manners and clothes through three years in the army.",
+      "He became a businessman."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read the passage: 'The boy was almost as rude as his master was on my first visit. This way, he said, without looking at me.' How is the boy at the door described?",
+    "choices": [
+      "polite and welcoming",
+      "almost as rude as his master",
+      "very friendly",
+      "deaf and blind"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage: 'Ketchup was first created in Asia in the sixth century.' Where was ketchup originally created?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "America"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Read the passage: 'Scientists have recently developed a substance that could prevent ketchup from getting stuck at the bottom of a bottle.' What problem does this new substance solve?",
+    "choices": [
+      "ketchup going off quickly",
+      "ketchup getting stuck at the bottom of a bottle",
+      "ketchup changing colour",
+      "ketchup smelling bad"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Which food word can describe 'yoghurt'?",
+    "choices": [
+      "crunchy",
+      "spicy",
+      "runny",
+      "savoury"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Which food word can describe 'nuts'?",
+    "choices": [
+      "runny",
+      "sweet",
+      "crunchy",
+      "smooth"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Which food word can describe 'chilli sauce'?",
+    "choices": [
+      "runny",
+      "sweet",
+      "spicy",
+      "crunchy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'He leaves it to us, his audiences, to discuss and find our own responses.' According to this, Shakespeare's questions in his plays are:",
+    "choices": [
+      "answered clearly in his works",
+      "left to audiences to discuss and find their own responses",
+      "always answered by the main character",
+      "not relevant to modern times"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage: 'Familiarity with the storylines of Shakespeare's plays allowed early cinema pioneers to experiment with silent movies.' What did familiarity with Shakespeare's storylines allow?",
+    "choices": [
+      "early cinema pioneers to experiment with silent movies",
+      "modern musicians to write songs",
+      "architects to design better theatres",
+      "governments to write new laws"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "The expression 'to be on a wild goose chase' means:",
+    "choices": [
+      "to be kind to everyone",
+      "to be in a difficult situation",
+      "to try to find something that is impossible to find",
+      "to just barely succeed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The expression 'to do something by the skin of your teeth' means:",
+    "choices": [
+      "to do it easily",
+      "to just barely manage to do it",
+      "to do it quickly",
+      "to fail at the last moment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read the passage: 'Shakespeare shaped what we know about history and historical figures.' Why are Shakespeare's history plays important?",
+    "choices": [
+      "they teach us grammar",
+      "they shaped what we know about history and historical figures",
+      "they help us learn new vocabulary",
+      "they inspired modern poetry"
+    ],
+    "correct_answer": "b"
+  }
+]

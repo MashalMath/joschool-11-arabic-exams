@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which vocabulary word is defined as 'your ability to see'?",
+    "choices": [
+      "hearing loss",
+      "taste buds",
+      "eyesight",
+      "colour-blind"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "The adjective 'colour-blind' means a person cannot:",
+    "choices": [
+      "hear colours",
+      "tell the difference between some colours",
+      "see at night",
+      "focus on distant objects"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which word describes 'a really bad smell' (noun)?",
+    "choices": [
+      "aroma",
+      "scent",
+      "overpowering",
+      "stench"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following adjectives describes texture as 'rough in texture, not smooth'?",
+    "choices": [
+      "fluffy",
+      "silky",
+      "coarse",
+      "smooth"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Which texture word describes 'covered in soft fur or pieces of material'?",
+    "choices": [
+      "spiky",
+      "fluffy",
+      "prickly",
+      "squishy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which texture word means 'something that stays on whatever it touches'?",
+    "choices": [
+      "coarse",
+      "smooth",
+      "fluffy",
+      "sticky"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "I generally favour savoury ________ sweet food.",
+    "choices": [
+      "than",
+      "from",
+      "over",
+      "above"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which expression means 'Whatever you want to decide'?",
+    "choices": [
+      "I'd rather eat out.",
+      "I prefer eating in.",
+      "Whatever you prefer.",
+      "I'd sooner stay home."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read the passage: 'It's in a very beautiful building too, a combination of stone (reflecting the past) and glass (reflecting Jordan's present and future).' What does the glass in the building represent?",
+    "choices": [
+      "Jordan's past",
+      "Jordan's culture",
+      "Jordan's geography",
+      "Jordan's present and future"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Read the passage: 'I'd definitely recommend going to the museum if you are in Amman because not only is it informative and educational, but it's also a lot of fun.' What does the reviewer recommend?",
+    "choices": [
+      "He does not recommend the museum.",
+      "He recommends visiting if you are in Amman.",
+      "He recommends visiting only if you have children.",
+      "He recommends the café and gift shop only."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read the passage: 'You can move on to different galleries that take you through Jordan's history in chronological order, with a look at more than 2,000 artifacts covering the Romans, Nabatean history and much more.' Which civilisations does the collection cover?",
+    "choices": [
+      "Greek and Persian",
+      "Roman and Nabatean",
+      "Ottoman and Byzantine",
+      "Islamic and Crusader"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "'The car needs washing.' This sentence means:",
+    "choices": [
+      "The car needs to be washed.",
+      "The car needs to wash itself.",
+      "Someone is washing the car.",
+      "The car was already washed."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "I saw him ________ to the lifeguard while they waited.",
+    "choices": [
+      "talk",
+      "talked",
+      "to talk",
+      "talking"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 14,
+    "question": "I saw somebody ________ in the water.",
+    "choices": [
+      "falling",
+      "to fall",
+      "fall",
+      "fallen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "We listened to Sana ________ the poem from beginning to end.",
+    "choices": [
+      "reciting",
+      "recite",
+      "to recite",
+      "recited"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Reem stood in the garden and felt the rain ________ on her face.",
+    "choices": [
+      "falling",
+      "to fall",
+      "fall",
+      "fallen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "He heard the baby next door ________ every night through the thin walls.",
+    "choices": [
+      "cry",
+      "to cry",
+      "cried",
+      "crying"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Did you see the racing cars ________ just then on the corner?",
+    "choices": [
+      "touching",
+      "touch",
+      "to touch",
+      "touched"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Always remember ________ your hands before you start cooking.",
+    "choices": [
+      "washing",
+      "wash",
+      "to wash",
+      "washed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Getting the grades I need for university means ________ hard for the next six months.",
+    "choices": [
+      "to study",
+      "study",
+      "studying",
+      "studied"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Once your child can walk, he or she needs ________ all the time.",
+    "choices": [
+      "to watch",
+      "watching",
+      "watch",
+      "watched"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Can we stop at the service station ________ the bathroom?",
+    "choices": [
+      "using",
+      "use",
+      "to use",
+      "used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "I really regret ________ out last night as I'm exhausted this morning.",
+    "choices": [
+      "to go",
+      "go",
+      "going",
+      "gone"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage: 'Before you drink your coffee, remember to smell the delicious aroma. If you go on smelling your food and drink regularly, your sense of smell will start to improve.' According to Step 1, what should you do before drinking your coffee?",
+    "choices": [
+      "taste it first",
+      "smell the aroma",
+      "heat it up",
+      "add sugar"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Read the passage: 'Try to improve by choosing a few familiar, pleasant scents and take a minute to really smell them. Try repeating this several times a day and your nose will become more sensitive.' What does Step 2 recommend?",
+    "choices": [
+      "stop eating spicy food",
+      "visit a doctor",
+      "choose familiar pleasant scents and smell them several times a day",
+      "avoid cooking at home"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Read the passage: 'Scientists have found that pink noise can improve deep sleep.' What helps people with insomnia fall asleep according to scientists?",
+    "choices": [
+      "loud music",
+      "pink noise",
+      "complete silence",
+      "white noise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Read the passage: 'Imagine having a sense of smell 700 times more powerful than a human. Grizzly bears noses are so good that they are able to smell a potential meal from up to 18 miles away.' Which animal is being discussed?",
+    "choices": [
+      "dogs",
+      "grizzly bears",
+      "elephants",
+      "sharks"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Read the passage: 'Grizzly bears noses are so good that they are able to smell a potential meal from up to 18 miles away.' How far away can bears smell a meal?",
+    "choices": [
+      "5 miles",
+      "10 miles",
+      "18 miles",
+      "25 miles"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read the passage: 'Molecular gastronomy concerns the physical and chemical changes that occur during cooking. Chefs who understand this can create mouth-watering and unusual dishes.' What does 'molecular gastronomy' concern?",
+    "choices": [
+      "the history of cooking",
+      "growing food organically",
+      "the physical and chemical changes that occur during cooking",
+      "traditional food recipes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read the passage: 'Hashem Restaurant in Amman is the oldest restaurant in Amman and serves local food at cheap prices despite that it hosts celebrities and even royalty!' How is Hashem Restaurant described?",
+    "choices": [
+      "the most expensive restaurant in Amman",
+      "the oldest restaurant in Amman serving local food at cheap prices",
+      "a restaurant that only serves celebrities",
+      "a molecular gastronomy restaurant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Which word is the opposite of 'sweet' when describing food taste?",
+    "choices": [
+      "mild",
+      "bland",
+      "smooth",
+      "savoury"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "Which cooking word means 'to turn food into a smooth paste using a blender'?",
+    "choices": [
+      "simmer",
+      "stir",
+      "puree",
+      "slice"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Read the passage: 'He was covered in snow. I wonder if I may stay here for a short time, sir, I asked.' How does Lockwood describe Heathcliff when he enters?",
+    "choices": [
+      "well-dressed and welcoming",
+      "covered in snow",
+      "carrying books",
+      "sitting by the fire"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read the passage: 'It won't stop, Heathcliff replied impatiently. The weather won't change, and you'll never find your way back across the moors in this snow.' What did Heathcliff say about the weather?",
+    "choices": [
+      "It will clear up soon.",
+      "It's just a light shower.",
+      "It won't stop and you'll never find your way across the moors.",
+      "I'll take you home myself."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read the passage: 'Shakespeare's plays have influenced the plots of famous novels like Aldous Huxley's Brave New World.' Which novel's plot was influenced by Shakespeare?",
+    "choices": [
+      "Oliver Twist",
+      "Brave New World",
+      "Wuthering Heights",
+      "Jane Eyre"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'His plays feature universal themes and emotions, and the questions he poses engage people from century to century all over the world. Shakespeare's plays mirror our society today and the messages are still relevant.' Why can Shakespeare's plays be performed in many different ways?",
+    "choices": [
+      "they are short",
+      "they feature universal themes and emotions still relevant today",
+      "they have simple language",
+      "they are always funny"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage: 'The robb'd that smiles, steals something from the thief.' What does this Shakespearean quote mean?",
+    "choices": [
+      "Thieves always smile.",
+      "Smiling when robbed takes satisfaction away from the thief.",
+      "You should always report theft.",
+      "Stolen things should be returned with a smile."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read the passage: 'Hamlet's to be or not to be is as valid today as it has ever been.' How is Hamlet's famous question described?",
+    "choices": [
+      "outdated and no longer relevant",
+      "as valid today as it has ever been",
+      "only relevant to students of philosophy",
+      "a phrase no longer used"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Which suffix DOES cause a change in word stress, as in 'economy → economic'?",
+    "choices": [
+      "-ment",
+      "-ly",
+      "-ance",
+      "-ic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Which word pair shows stress change due to the '-ble' or '-bly' suffix?",
+    "choices": [
+      "develop – development",
+      "insure – insurance",
+      "prefer – preferable",
+      "economical – economically"
+    ],
+    "correct_answer": "c"
+  }
+]

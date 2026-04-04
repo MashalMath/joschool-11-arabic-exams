@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage: 'Around 25% of people are supertasters. Supertasters have more taste buds than the average person, and they tend to dislike bitter foods.' What percentage of people are supertasters?",
+    "choices": [
+      "10%",
+      "15%",
+      "25%",
+      "50%"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Read the passage: 'Around 25% of people are supertasters. Supertasters have more taste buds than the average person, and they tend to dislike bitter foods.' What type of food do supertasters tend to dislike?",
+    "choices": [
+      "spicy food",
+      "salty food",
+      "bitter food",
+      "sour food"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Read the passage: 'For the Ongee people of the Andaman Islands, smell is the most important sense. When greeting an Ongee, instead of asking How are you? it is usual to ask How is your nose?' Which sense is most important to the Ongee people?",
+    "choices": [
+      "sight",
+      "touch",
+      "hearing",
+      "smell"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Read the passage: 'For the Ongee people of the Andaman Islands, smell is the most important sense. When greeting an Ongee, instead of asking How are you? it is usual to ask How is your nose?' How do the Ongee people greet each other?",
+    "choices": [
+      "How are you?",
+      "How is your nose?",
+      "How do you feel?",
+      "What do you smell?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage: 'Touch is the first sense to develop in babies and the last to fade at the end of our lives.' Touch is the ________ sense to develop in babies.",
+    "choices": [
+      "last",
+      "second",
+      "third",
+      "first"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Read the passage: 'One of these is proprioception — the sense of knowing which parts of our body are where. This enables us to type without looking at the keyboard or walk around without having to watch our feet.' What is 'proprioception'?",
+    "choices": [
+      "the sense of smell",
+      "the sense of knowing which parts of your body are where",
+      "the sense of taste",
+      "the sense of hearing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "You should also avoid ________ suddenly when exercising.",
+    "choices": [
+      "stop",
+      "to stop",
+      "stopped",
+      "stopping"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "She can't stand ________ in crowded places.",
+    "choices": [
+      "to eat",
+      "eat",
+      "eating",
+      "eaten"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "They may make you ________ happier.",
+    "choices": [
+      "to feel",
+      "feeling",
+      "feel",
+      "felt"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "I can't help ________ when I've got an insect bite.",
+    "choices": [
+      "to scratch",
+      "scratch",
+      "scratched",
+      "scratching"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "I can't help ________ whenever I smell fresh bread.",
+    "choices": [
+      "to smile",
+      "smile",
+      "smiled",
+      "smiling"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Many people fail ________ the strong link between smell and taste.",
+    "choices": [
+      "understanding",
+      "to understand",
+      "understand",
+      "understood"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Experts encourage us ________ regular breaks from staring at our computer screens.",
+    "choices": [
+      "taking",
+      "take",
+      "to take",
+      "taken"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The verbs 'begin', 'continue', 'hate', 'love' and 'start' can be followed by either a gerund or an infinitive with:",
+    "choices": [
+      "a change in meaning",
+      "no change in meaning",
+      "a change in tense only",
+      "a change in subject only"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "I was surprised ________ that the snake was dry and not wet.",
+    "choices": [
+      "finding",
+      "to find",
+      "find",
+      "found"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "While ________ the snake, I felt it begin ________ itself round my arm.",
+    "choices": [
+      "holding / wrapping",
+      "to hold / to wrap",
+      "holding / to wrap",
+      "to hold / wrapping"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "It seemed ________ to show me affection.",
+    "choices": [
+      "wanting",
+      "to want",
+      "want",
+      "wanted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "I felt lucky that it had let me ________ it.",
+    "choices": [
+      "to touch",
+      "touching",
+      "touch",
+      "touched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage: 'She often tried to hide her blindness until she went to a special boarding school for the blind.' What does this imply about Sabriye?",
+    "choices": [
+      "She was proud of her blindness.",
+      "She used to feel ashamed of being blind.",
+      "She didn't care what others thought.",
+      "She enjoyed being different."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Read the passage: 'Together they set up a school, called Braille Without Borders.' Is it true that Sabriye founded Braille Without Borders on her own?",
+    "choices": [
+      "Yes — she started it alone",
+      "No — Paul Kronenberg co-founded it with her",
+      "Yes — the text confirms it",
+      "No — the Tibetan government founded it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Read the passage: 'She was even nominated for the Nobel Peace Prize in 2005.' Did Sabriye WIN the Nobel Peace Prize?",
+    "choices": [
+      "Yes — she won it in 2005",
+      "Yes — the text confirms it clearly",
+      "No — she was only nominated for it",
+      "No — she won a different prize"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Read the passage: 'Many people did not believe she was blind because she travelled by horse.' Why did people in Tibet not believe Sabriye was blind?",
+    "choices": [
+      "She could see very well.",
+      "She travelled by horse.",
+      "She spoke Tibetan fluently.",
+      "She had a guide dog."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read the passage: 'Elephants use infrasonic sound to communicate. These low-frequency sounds enable elephants to make out sounds 285 km away.' Which sense enables elephants to communicate over 285 km?",
+    "choices": [
+      "sight",
+      "touch",
+      "infrasonic sound (hearing)",
+      "smell"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage: 'The large permanent collection starts off with a look at what the country was like in the Stone Age, some 1.5 million years ago.' How far back does the museum's permanent collection start?",
+    "choices": [
+      "500 years ago",
+      "1,000 years ago",
+      "some 1.5 million years ago",
+      "7,500 years ago"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read the passage: 'Another highlight is one of the world's oldest human statues, dating back to 7500 BCE.' When does this statue date back to?",
+    "choices": [
+      "3000 BCE",
+      "7500 BCE",
+      "1500 BCE",
+      "500 BCE"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Read the passage: 'I was also impressed by the special children's area where children can take part in interactive exhibits and even take part in performing arts activities inspired by the museum's exhibits.' What special feature does the Jordan Museum have for children?",
+    "choices": [
+      "A cinema",
+      "A swimming pool",
+      "An interactive area with performing arts activities",
+      "A library"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In a writing review, style and register should be:",
+    "choices": [
+      "formal and academic",
+      "very technical",
+      "informal and conversational",
+      "neutral and impersonal"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Which intensifier can only be used with GRADABLE adjectives?",
+    "choices": [
+      "absolutely",
+      "utterly",
+      "extremely",
+      "completely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "The exhibition was very mind-blowing.",
+      "The exhibition was extremely mind-blowing.",
+      "The exhibition was absolutely fascinating.",
+      "The exhibition was very fascinating."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "The sound effects were absolutely loud.",
+      "The sound effects were utterly loud.",
+      "The sound effects were extremely loud.",
+      "The sound effects were completely loud."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The food word 'savoury' is the opposite of:",
+    "choices": [
+      "spicy",
+      "sweet",
+      "bland",
+      "crunchy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Which cooking method is used to 'cook in liquid at 100 degrees'?",
+    "choices": [
+      "simmer",
+      "whizz",
+      "boil",
+      "peel"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Which cooking tool blends ingredients into a smooth puree?",
+    "choices": [
+      "pan",
+      "food processor",
+      "slice",
+      "stir"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "To 'chill' food means to:",
+    "choices": [
+      "boil it",
+      "cool it in the refrigerator",
+      "fry it",
+      "season it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The word 'whizz' in a recipe means:",
+    "choices": [
+      "to slice into pieces",
+      "to remove the skin",
+      "to blend quickly in a food processor",
+      "to boil rapidly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'In the 17th and 18th centuries, Europeans thought that tomatoes were poisonous.' What did Europeans think about tomatoes in the 17th and 18th centuries?",
+    "choices": [
+      "They were delicious.",
+      "They were poisonous.",
+      "They were too expensive.",
+      "They were difficult to grow."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage: 'Although ketchup in the Philippines is made from bananas, it doesn't taste like it.' What is ketchup in the Philippines made from?",
+    "choices": [
+      "tomatoes",
+      "chilli",
+      "bananas",
+      "mushrooms"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Read the passage: 'Consumer research shows that young people like healthy, fresh ingredients such as in Galayet Bandora.' What kind of ingredients do young people prefer according to consumer research?",
+    "choices": [
+      "processed",
+      "healthy and fresh",
+      "spicy",
+      "sweet"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Which expression asks about preference in conversation?",
+    "choices": [
+      "I'd rather eat something light.",
+      "Which do you prefer?",
+      "I'm easy.",
+      "It's your call."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "I'd go for fish and chips ________ day.",
+    "choices": [
+      "every",
+      "any",
+      "some",
+      "one"
+    ],
+    "correct_answer": "b"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The word 'make out' in the context of the senses means:",
+    "choices": [
+      "to produce something",
+      "to see, hear, or understand with some difficulty",
+      "to leave a place",
+      "to create a noise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Which word describes 'something that is sticky and stays on something it touches'?",
+    "choices": [
+      "silky",
+      "coarse",
+      "smooth",
+      "sticky"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "The adjective 'coarse' means:",
+    "choices": [
+      "soft and a bit wet",
+      "covered in soft fur",
+      "rough in texture, not smooth",
+      "soft and smooth like silk"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "In conversation, 'It's your call' means:",
+    "choices": [
+      "You should call me.",
+      "It's your decision.",
+      "I prefer this option.",
+      "I would rather choose."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Which expression means 'I have a slight preference for this option'?",
+    "choices": [
+      "It's up to you.",
+      "I'm easy.",
+      "I have a (slight) preference for ...",
+      "Whatever you prefer."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "I'd sooner ________ Chinese food than Indian.",
+    "choices": [
+      "having",
+      "to have",
+      "have",
+      "had"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Given the choice, I'd ________ eat at home.",
+    "choices": [
+      "rather",
+      "sooner",
+      "prefer",
+      "better"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct sentence for a general preference.",
+    "choices": [
+      "I prefer to eat at home to going out.",
+      "I prefer eating at home to going out.",
+      "I prefer eat at home to going out.",
+      "I prefer eating at home than going out."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read the passage: 'Proprioception is the sense of knowing which parts of our body are where. This enables us to type without looking at the keyboard or walk around without watching our feet.' What does proprioception allow us to do?",
+    "choices": [
+      "Hear better",
+      "Taste more flavours",
+      "Type without looking at the keyboard",
+      "Smell from a distance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Read the passage: 'In fact, the current scientific consensus is that we have five more senses beyond the original five.' How many additional senses does current science suggest we have?",
+    "choices": [
+      "three",
+      "four",
+      "five",
+      "six"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Read the passage: 'It was Aristotle who was responsible for encouraging us to believe that we have five senses.' Who encouraged the belief that humans have five senses?",
+    "choices": [
+      "Newton",
+      "Aristotle",
+      "Darwin",
+      "Einstein"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage: 'Items 2 and 6 are not true.' Which two facts about the five senses are NOT true?",
+    "choices": [
+      "facts 1 and 3",
+      "facts 2 and 6",
+      "facts 4 and 7",
+      "facts 5 and 9"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Males are much more likely to be ________ than females.",
+    "choices": [
+      "hearing-impaired",
+      "colour-blind",
+      "taste-sensitive",
+      "smell-sensitive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Supertasters tend to dislike ________ foods.",
+    "choices": [
+      "sweet",
+      "salty",
+      "bitter",
+      "sour"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Read the passage: 'Standing close to loudspeakers at concerts can cause hearing loss in 7 and a half minutes.' How long does it take for hearing loss to occur when standing close to loudspeakers?",
+    "choices": [
+      "5 minutes",
+      "7 minutes",
+      "7.5 minutes",
+      "10 minutes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "In a writing review, which paragraph describes the event or place in more detail using sight and sound?",
+    "choices": [
+      "Introduction",
+      "First main paragraph",
+      "Second main paragraph",
+      "Conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "In a review, which section gives a clear recommendation?",
+    "choices": [
+      "Introduction",
+      "First main paragraph",
+      "Second main paragraph",
+      "Conclusion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "The phrase 'It didn't live up to my expectations' is used to express:",
+    "choices": [
+      "a positive aspect",
+      "a recommendation",
+      "a negative aspect",
+      "an introduction"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Which of these is an example of informal vocabulary used in a review?",
+    "choices": [
+      "Furthermore, I would like to note that ...",
+      "In conclusion, I recommend ...",
+      "It was a hugely enjoyable experience!",
+      "The museum was opened in the Ras al-Ayn district."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The phrasal verb 'check out' in a review means:",
+    "choices": [
+      "leave the hotel",
+      "pay for something",
+      "investigate or visit something",
+      "look for something"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "I was totally ________ by the interactive displays.",
+    "choices": [
+      "impressive",
+      "interested",
+      "fascinated",
+      "loud"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "The Dead Sea scrolls were extremely ________.",
+    "choices": [
+      "mind-blowing",
+      "fascinating",
+      "petrified",
+      "deafening"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "I was seriously ________ when we walked across the tight rope.",
+    "choices": [
+      "petrified",
+      "impressive",
+      "deafening",
+      "silly"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "The sound effects were incredibly ________.",
+    "choices": [
+      "mind-blowing",
+      "loud",
+      "petrified",
+      "fascinating"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which suffix causes a change in word stress, as in 'active → activity'?",
+    "choices": [
+      "-ment",
+      "-ly",
+      "-ity",
+      "-ance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "The word pair 'speculate → speculation' shows stress change because of the suffix:",
+    "choices": [
+      "-ment",
+      "-ly",
+      "-ance",
+      "-ion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Which of these word pairs does NOT change stress placement?",
+    "choices": [
+      "photograph – photographic",
+      "generous – generosity",
+      "develop – development",
+      "economy – economic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Read the passage: 'Heathcliff certainly looked stronger than when he had left Wuthering Heights. His speech, his manners and his clothes were also greatly improved. He had spent his time well.' Why did Heathcliff look different when he returned?",
+    "choices": [
+      "He had been ill.",
+      "He had spent three years in the army and improved in speech, manners and clothes.",
+      "He had won a lot of money.",
+      "He had travelled to London."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Read the passage: 'It won't stop,' Heathcliff replied impatiently. 'The weather won't change, and you'll never find your way back across the moors in this snow.' Why could Lockwood not go back to Thrushcross Grange?",
+    "choices": [
+      "Heathcliff told him not to.",
+      "The road was blocked.",
+      "It was snowing and he would never find his way across the moors.",
+      "His horse had run away."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read the passage: 'While Catherine was out of the room, Ellen Dean spoke to Mr Edgar Linton. Just then Catherine came into the room. Edgar, she cried, Heathcliff has come back. And Heathcliff certainly looked stronger than when he had left Wuthering Heights.' Which character appears in BOTH extracts?",
+    "choices": [
+      "Mr Lockwood",
+      "Ellen Dean",
+      "Heathcliff",
+      "Edgar Linton"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The phrase 'It nearly broke her heart when he went away' means:",
+    "choices": [
+      "Her heart was damaged physically.",
+      "She was very sad when he left.",
+      "She was very angry when he left.",
+      "She was happy when he left."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "The phrase 'Do not call Heathcliff names' means:",
+    "choices": [
+      "Don't address him by name.",
+      "Don't call him on the phone.",
+      "Don't say unkind things about him.",
+      "Don't introduce him to others."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Read the passage: 'Catherine falls in love with a man who is cruel and unkind, not a rich, kind man.' What is ironic about Wuthering Heights?",
+    "choices": [
+      "The heroine is blind.",
+      "The love interest is cruel and unkind, not kind and rich.",
+      "The story has a happy ending.",
+      "The setting is in a city."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read the passage: 'Shakespeare's plays have influenced the plots of famous novels like Aldous Huxley's Brave New World and films like Ten Things I Hate About You.' Which famous novel was influenced by Shakespeare?",
+    "choices": [
+      "Oliver Twist",
+      "Pride and Prejudice",
+      "Brave New World",
+      "Jane Eyre"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read the passage: 'Looking at Shakespeare's plays and analysing the motivation of the protagonists can help students develop critical thinking skills.' How can studying Shakespeare help students today?",
+    "choices": [
+      "It teaches them grammar.",
+      "It helps them develop critical thinking skills.",
+      "It improves their pronunciation.",
+      "It teaches them history."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "The Shakespearean expression 'a heart of gold' means:",
+    "choices": [
+      "You have got a problem.",
+      "You are very kind.",
+      "Something has returned to the beginning.",
+      "You just managed to do something."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The Shakespearean expression 'to be in a pickle' means:",
+    "choices": [
+      "to be very kind",
+      "to be in a difficult situation",
+      "to succeed at the last moment",
+      "to do something impossible"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "The Shakespearean expression 'to come full circle' means:",
+    "choices": [
+      "to be in trouble",
+      "to be very kind",
+      "something has returned to where it started",
+      "to do something at the last moment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The Shakespearean expression 'to do something by the skin of your teeth' means:",
+    "choices": [
+      "to fail completely",
+      "to do it easily",
+      "to just barely manage to do something",
+      "to do it kindly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "The Shakespearean expression 'to be on a wild goose chase' means:",
+    "choices": [
+      "to be very kind",
+      "to be in a difficult situation",
+      "to try to find something that is impossible to find",
+      "to just barely succeed"
+    ],
+    "correct_answer": "c"
+  }
+]

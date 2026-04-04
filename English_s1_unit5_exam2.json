@@ -89,7 +89,7 @@
   },
   {
     "number": 9,
-    "question": "We regret ________ you that the restaurant has closed down. (formal apology)",
+    "question": "We regret ________ you that the restaurant has closed down.",
     "choices": [
       "informing",
       "to inform",
@@ -100,7 +100,7 @@
   },
   {
     "number": 10,
-    "question": "I regret ________ harder last year. (I regret a past action)",
+    "question": "I regret ________ harder last year.",
     "choices": [
       "to not study",
       "not studying",
@@ -111,7 +111,7 @@
   },
   {
     "number": 11,
-    "question": "I keep stopping ________ a cup of tea. (stop in order to do something else)",
+    "question": "I keep stopping ________ a cup of tea.",
     "choices": [
       "making",
       "make",
@@ -122,7 +122,7 @@
   },
   {
     "number": 12,
-    "question": "I don't stop ________ till I've finished. (no longer do something)",
+    "question": "I don't stop ________ till I've finished.",
     "choices": [
       "to study",
       "study",
@@ -133,7 +133,7 @@
   },
   {
     "number": 13,
-    "question": "I like ________ at least three hours a day in the library. (it's a good idea)",
+    "question": "I like ________ at least three hours a day in the library because it's a good habit.",
     "choices": [
       "spending",
       "to spend",
@@ -144,7 +144,7 @@
   },
   {
     "number": 14,
-    "question": "I like ________ at home. (I enjoy it)",
+    "question": "I like ________ at home. It's very relaxing.",
     "choices": [
       "to work",
       "work",
@@ -155,7 +155,7 @@
   },
   {
     "number": 15,
-    "question": "You should try ________ in the library. (experiment to see what happens)",
+    "question": "You should try ________ in the library to see if it helps you concentrate.",
     "choices": [
       "to work",
       "work",
@@ -166,7 +166,7 @@
   },
   {
     "number": 16,
-    "question": "I always try ________ it so that I finish on time. (make an effort)",
+    "question": "I always try ________ it so that I finish on time.",
     "choices": [
       "planning",
       "plan",
@@ -177,7 +177,7 @@
   },
   {
     "number": 17,
-    "question": "I'm full – I ________ (not eat) so much food.",
+    "question": "I'm full — I ________ eating so much food.",
     "choices": [
       "used to not eat",
       "am not used to eating",
@@ -188,7 +188,7 @@
   },
   {
     "number": 18,
-    "question": "How ________ people ________ (deal) with poor eyesight before glasses?",
+    "question": "How ________ people ________ with poor eyesight before the invention of glasses?",
     "choices": [
       "did / use to deal",
       "did / used to deal",
@@ -199,7 +199,7 @@
   },
   {
     "number": 19,
-    "question": "Which phrase means 'I'm slowly becoming comfortable with this'?",
+    "question": "Choose the sentence that means 'I'm slowly becoming comfortable with this'.",
     "choices": [
       "I used to do it.",
       "I am used to doing it.",
@@ -221,7 +221,7 @@
   },
   {
     "number": 21,
-    "question": "Hanan felt the mosquito ________ on her leg. (completed action)",
+    "question": "Hanan felt the mosquito ________ on her leg.",
     "choices": [
       "landing",
       "to land",
@@ -265,7 +265,7 @@
   },
   {
     "number": 25,
-    "question": "According to the review, what does the stone in the museum's building represent?",
+    "question": "Read the passage: 'It's in a very beautiful building too, a combination of stone (reflecting the past) and glass (reflecting Jordan's present and future).' What does the stone in the building represent?",
     "choices": [
       "Jordan's future",
       "Jordan's present",
@@ -276,7 +276,7 @@
   },
   {
     "number": 26,
-    "question": "What does the reviewer describe as 'totally mind-blowing' at the Jordan Museum?",
+    "question": "Read the passage: 'What I really liked was the only copper Dead Sea scrolls, which is totally mind-blowing.' What does the reviewer describe as 'totally mind-blowing'?",
     "choices": [
       "The interactive displays",
       "The children's area",
@@ -287,7 +287,7 @@
   },
   {
     "number": 27,
-    "question": "What was the reviewer's only criticism of the Jordan Museum?",
+    "question": "Read the passage: 'My only criticism of the museum is that the experience just went by too fast.' What was the reviewer's only criticism?",
     "choices": [
       "It was too expensive.",
       "The experience went by too fast.",
@@ -331,7 +331,7 @@
   },
   {
     "number": 31,
-    "question": "I'd prefer ________ somewhere quiet. (specific situation)",
+    "question": "I'd prefer ________ somewhere quiet this evening.",
     "choices": [
       "going",
       "go",
@@ -364,7 +364,7 @@
   },
   {
     "number": 34,
-    "question": "I'd sooner ________ outside. (formal preference)",
+    "question": "I'd sooner ________ outside. It's a lovely evening.",
     "choices": [
       "sitting",
       "sit",
@@ -386,12 +386,12 @@
   },
   {
     "number": 36,
-    "question": "What is the stressed syllable change pattern for the word pair 'photograph – photographic'?",
+    "question": "In the word pair 'photograph – photographic', the stress moves because of the suffix:",
     "choices": [
-      "no change",
-      "stress moves to the first syllable",
-      "stress moves due to the -ic suffix",
-      "stress moves due to the -ment suffix"
+      "-ment",
+      "-ly",
+      "-ic",
+      "-ance"
     ],
     "correct_answer": "c"
   },
@@ -430,7 +430,7 @@
   },
   {
     "number": 40,
-    "question": "When did ketchup first gain popularity with tomatoes, according to the podcast?",
+    "question": "Read the passage: 'Tomato-based ketchup recipes didn't gain popularity until the 1870s.' When did ketchup first become popular with tomatoes?",
     "choices": [
       "the sixth century",
       "the 17th and 18th centuries",

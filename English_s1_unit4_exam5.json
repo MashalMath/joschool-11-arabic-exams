@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word means 'to confirm that information is accurate and true'?",
+    "choices": [
+      "expose",
+      "verify",
+      "release",
+      "report"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The collocation 'in the public interest' means the story is ________.",
+    "choices": [
+      "funded by the government",
+      "only for famous people",
+      "important or useful for society",
+      "published in public spaces"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The word 'weird' is a synonym for ________.",
+    "choices": [
+      "reliable",
+      "newsworthy",
+      "strange",
+      "exclusive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is a 'verb + adverb' collocation?",
+    "choices": [
+      "a bizarre theory",
+      "reveal the truth",
+      "discuss calmly",
+      "potentially embarrassing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "A story that is 'topical' is ________.",
+    "choices": [
+      "published in only one place",
+      "related to current events or issues",
+      "very sad and emotional",
+      "unusual in an interesting way"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "The phrase 'attention span' refers to how long a person can ________.",
+    "choices": [
+      "write an article",
+      "read without stopping",
+      "concentrate without being distracted",
+      "stay awake"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "To 'report something to the police' means to ________.",
+    "choices": [
+      "come up with a solution",
+      "shed light on an issue",
+      "formally tell the police about an incident",
+      "go viral on the internet"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "The word 'reveal' is a synonym for ________.",
+    "choices": [
+      "drop",
+      "maintain",
+      "uncover",
+      "state"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "A news story that shocks or excites readers but is not very serious is ________.",
+    "choices": [
+      "balanced",
+      "sensational",
+      "newsworthy",
+      "hard-hitting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "To 'refute an allegation' means to ________.",
+    "choices": [
+      "accept a claim as true",
+      "investigate a criminal act",
+      "formally deny an accusation",
+      "make a public statement"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "The word 'confusion' contains the suffix ________.",
+    "choices": [
+      "-tion",
+      "-ment",
+      "-sion",
+      "-hood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following nouns is formed with the suffix '-ist'?",
+    "choices": [
+      "developer",
+      "activist",
+      "improvement",
+      "freedom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Complete the sentence correctly: 'There has been a significant ________ in the number of online readers.'",
+    "choices": [
+      "improve",
+      "improving",
+      "improvable",
+      "improvement"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 14,
+    "question": "The word 'allegation' uses which suffix to form a noun?",
+    "choices": [
+      "-ment",
+      "-tion",
+      "-ity",
+      "-dom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following contains the suffix '-hood' indicating a community or state?",
+    "choices": [
+      "neighbourhood",
+      "freedom",
+      "security",
+      "protester"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Nobody ________ (make) anything like the ancient walls before the people of the Black Desert.",
+    "choices": [
+      "made",
+      "was making",
+      "had made",
+      "has made"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Reem got into trouble at school because she ________ (text) during lessons.",
+    "choices": [
+      "texted",
+      "was texting",
+      "had been texting",
+      "has been texting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Which tense is used to describe an ongoing background action interrupted by a main event?",
+    "choices": [
+      "Past Simple",
+      "Past Perfect Simple",
+      "Past Continuous",
+      "Past Perfect Continuous"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "While they ________ (talk), there was a sudden power cut and the lights went off.",
+    "choices": [
+      "talked",
+      "were talking",
+      "had talked",
+      "had been talking"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The central square was flooded because it ________ (rain) for five days.",
+    "choices": [
+      "rained",
+      "was raining",
+      "had rained",
+      "had been raining"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Not only ________ Ibrahim arrive late, but he also forgot his homework.",
+    "choices": [
+      "Ibrahim did",
+      "did Ibrahim",
+      "Ibrahim had",
+      "had Ibrahim"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "No sooner ________ the match started than it began to rain.",
+    "choices": [
+      "did",
+      "had",
+      "has",
+      "was"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Which sentence correctly uses negative inversion with 'scarcely'?",
+    "choices": [
+      "Scarcely they had arrived when the show began.",
+      "Scarcely had they arrived when the show began.",
+      "Scarcely the show began had they arrived.",
+      "They had scarcely arrived when began the show."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "The adverbial phrase 'under no circumstances' is used to express ________.",
+    "choices": [
+      "immediate sequence",
+      "rare occurrence",
+      "complete prohibition",
+      "unknown information"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Rarely ________ I felt so taken aback by a news headline.",
+    "choices": [
+      "have",
+      "did",
+      "was",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "The man was 'muttering' into his phone. This means he was ________.",
+    "choices": [
+      "shouting loudly",
+      "looking carefully at the screen",
+      "speaking very quietly",
+      "walking aimlessly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "The narrator was taking photographs and wandering aimlessly around the city. This tells us she was feeling ________.",
+    "choices": [
+      "anxious and worried",
+      "relaxed and carefree",
+      "suspicious",
+      "afraid"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The old woman in 'The Man in Black' was described as walking slowly with ________.",
+    "choices": [
+      "a shopping bag",
+      "a leather handbag",
+      "a book under her arm",
+      "a walking stick"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "The feeling the narrator experienced at the end of 'The Man in Black' story was ________.",
+    "choices": [
+      "pride",
+      "excitement",
+      "shame",
+      "anger"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Adverbs of ________ can go before the main verb as well as at the end of a clause.",
+    "choices": [
+      "time",
+      "place",
+      "manner",
+      "frequency"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "A headline that says 'You won't believe what happened next!' uses which technique?",
+    "choices": [
+      "negative inversion",
+      "balanced reporting",
+      "clickbait",
+      "hard-hitting journalism"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Protesters tried to stop lorries from ________.",
+    "choices": [
+      "leaving the beach area",
+      "entering the beach to start building work",
+      "transporting materials to a new site",
+      "using the main road near the hotel"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "The ancient people of the Black Desert were found to have worked together in large teams. This shows they had ________.",
+    "choices": [
+      "no food sources available",
+      "advanced social organisation",
+      "imported tools from other regions",
+      "no knowledge of agriculture"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "A text containing missing or exaggerated facts is a sign of ________.",
+    "choices": [
+      "good investigative journalism",
+      "a balanced report",
+      "bias",
+      "an exclusive story"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "The phrase 'In support of this, I could point to ...' in a debate is used to ________.",
+    "choices": [
+      "summarise previous points",
+      "introduce a turning point",
+      "refer to research or statistics",
+      "give background information"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Making statements that use 'always' or 'never' in a debate is a sign that ________.",
+    "choices": [
+      "you are very passionate",
+      "your argument may not be strong",
+      "your research is thorough",
+      "you have prepared well"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The phrase 'Have I ever told you about ...?' in an anecdote is used to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "signal that the anecdote is starting",
+      "show the speaker's attitude"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "In an anecdote, 'It turned out that ...' introduces ________.",
+    "choices": [
+      "the start of the anecdote",
+      "general background information",
+      "an unexpected turning point or revelation",
+      "the end of the anecdote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The comment adverb 'Apparently' suggests the speaker is ________.",
+    "choices": [
+      "certain about what happened",
+      "reporting what they heard from someone else",
+      "very upset about the event",
+      "giving a factual scientific explanation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The correct structure for negative inversion is: negative adverbial + ________ + subject + clause.",
+    "choices": [
+      "main verb",
+      "object",
+      "auxiliary verb",
+      "adverb"
+    ],
+    "correct_answer": "c"
+  }
+]

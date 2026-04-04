@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The collocation 'hit the headlines' means to ________.",
+    "choices": [
+      "write a sensational story",
+      "become a major news topic",
+      "verify the facts in a report",
+      "publish an exclusive interview"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Which word means to say something firmly and continuously?",
+    "choices": [
+      "drop",
+      "expose",
+      "maintain",
+      "uncover"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following collocations has the structure 'verb + noun'?",
+    "choices": [
+      "a bizarre theory",
+      "potentially embarrassing",
+      "discuss calmly",
+      "expose corruption"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "The word 'enigma' means the same as ________.",
+    "choices": [
+      "fraud",
+      "hint",
+      "puzzle",
+      "hoax"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "A journalist who covers 'traditional news stories' prefers to report on ________.",
+    "choices": [
+      "celebrity gossip and entertainment",
+      "clickbait designed for page views",
+      "serious issues in the public interest",
+      "sensational but unverified stories"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The collocation 'raise awareness' is an example of ________.",
+    "choices": [
+      "adjective + noun",
+      "adverb + adjective",
+      "verb + noun",
+      "verb + adverb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following means 'information not meant for public report'?",
+    "choices": [
+      "topical",
+      "off the record",
+      "exclusive",
+      "newsworthy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "A story that is 'hard-hitting' would most likely contain ________.",
+    "choices": [
+      "light entertainment and comedy",
+      "strong criticism of an issue or person",
+      "information about celebrity fashion",
+      "interesting but unimportant facts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Which word means 'to make something visible or public that was previously hidden'?",
+    "choices": [
+      "maintain",
+      "drop",
+      "expose",
+      "state"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The comment adverb 'Surely' in a sentence suggests the speaker ________.",
+    "choices": [
+      "is very surprised",
+      "believes something is obviously true",
+      "is reporting something uncertain",
+      "is expressing deep regret"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following words ends with the noun suffix '-or'?",
+    "choices": [
+      "investigator",
+      "improvement",
+      "suspension",
+      "freedom"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct form: 'The ________ impact of the hurricane was felt for months.'",
+    "choices": [
+      "devastate",
+      "devastating",
+      "devastated",
+      "devastatingly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Complete the sentence: 'Sorry, we're having technical problems and are ________ working on a solution.'",
+    "choices": [
+      "current",
+      "currently",
+      "currency",
+      "currents"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct form: 'I don't think I made a ________ impression in the interview.'",
+    "choices": [
+      "favour",
+      "favourably",
+      "favourable",
+      "favored"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correctly derived form: 'The manager promised to ________ the situation.'",
+    "choices": [
+      "investigation",
+      "investigated",
+      "investigator",
+      "investigate"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "Last night, I ________ (drive) back home when I saw a strange object in the sky.",
+    "choices": [
+      "drove",
+      "was driving",
+      "had been driving",
+      "had driven"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "I felt tired because I ________ (drive) all day before I finally reached the hotel.",
+    "choices": [
+      "drove",
+      "was driving",
+      "had been driving",
+      "have been driving"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "By the time I got to the field, the object ________ (disappear).",
+    "choices": [
+      "disappeared",
+      "was disappearing",
+      "had disappeared",
+      "has disappeared"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "The Past Perfect Continuous with linking words like 'when' and 'before' focuses on ________.",
+    "choices": [
+      "a sudden single completed action",
+      "a state that was true at a single moment",
+      "a continuing activity up to a past point",
+      "a repeated habit in the past"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "How long ________ Abbas been working at the hotel when he disappeared?",
+    "choices": [
+      "had",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Never ________ I read such a convincing piece of fake news before.",
+    "choices": [
+      "I have",
+      "have",
+      "did",
+      "had"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Which structure follows 'No sooner' in a negative inversion sentence?",
+    "choices": [
+      "no sooner + subject + main verb + than",
+      "no sooner + auxiliary + subject + main verb + than",
+      "no sooner + main verb + subject + than",
+      "no sooner + subject + auxiliary + main verb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Not only ________ she exposed the corruption, but she also named the officials responsible.",
+    "choices": [
+      "she did",
+      "she had",
+      "did she",
+      "had she"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "At no time ________ the newspaper checked whether the story was true.",
+    "choices": [
+      "did",
+      "has",
+      "had",
+      "was"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "The rewritten form of 'You should not approach the animal' using negative inversion with 'Under no circumstances' is: 'Under no circumstances ________.'",
+    "choices": [
+      "you should approach the animal.",
+      "should you approach the animal.",
+      "approach the animal should you.",
+      "the animal should you approach."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Using 'direct speech' in a story is recommended because it ________.",
+    "choices": [
+      "makes the story shorter",
+      "makes the story more interesting",
+      "avoids using past tenses",
+      "provides more scientific accuracy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "In 'The Man in Black', when the narrator first noticed the man, he was ________.",
+    "choices": [
+      "arguing loudly with someone",
+      "eating at a beachside restaurant",
+      "sitting on a bench and talking on his phone",
+      "walking towards the old lady"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "The phrase 'My heart was pounding furiously as the man raced towards her' shows ________.",
+    "choices": [
+      "negative inversion",
+      "Past Perfect Simple",
+      "a Past Continuous action interrupted by another",
+      "an adverb position rule"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "The word 'poignant' in the context of photography means ________.",
+    "choices": [
+      "showing a landscape from above",
+      "causing a feeling of sadness",
+      "taken in very bright light",
+      "arranged in a formal studio setting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "The rule 'manner → place → time' applies to the position of ________ in a clause.",
+    "choices": [
+      "narrative events",
+      "adverbs when all three types are used together",
+      "negative inversion structures",
+      "writing steps"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Quotation marks around a phrase in a news article indicate that the writer ________.",
+    "choices": [
+      "is proud of what they have done",
+      "is using a technical term",
+      "does not agree with the idea expressed",
+      "is quoting from a legal document"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The Wadi Rum text mentions that 'Little did they imagine how much was growing there.' This tells us Noura's family was surprised to find ________.",
+    "choices": [
+      "a water source in the desert",
+      "many plants growing in the desert",
+      "ancient walls in the desert",
+      "wild animals in the desert"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Noura's family found out about surviving in the desert from ________.",
+    "choices": [
+      "a water-finding device they brought",
+      "a local Bedouin guide",
+      "a map from their hotel",
+      "a GPS system on their mobile phone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "The kite walls built by the ancient people of the Black Desert show they ________.",
+    "choices": [
+      "lived in complete isolation",
+      "worked together in large teams",
+      "did not hunt animals at all",
+      "had no access to plants for food"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "A text type that expresses the writer's personal view on an issue is called ________.",
+    "choices": [
+      "a news item",
+      "a gossip column",
+      "an opinion piece",
+      "a celebrity profile"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The correct first step in a formal debate structure is ________.",
+    "choices": [
+      "speakers presenting rebuttals",
+      "the winner being announced",
+      "the proposition presenting their main argument",
+      "teams hearing the statement and forming arguments"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "Muneer's debating tip says checking whether a point is 'relevant or logical' helps a debater ________.",
+    "choices": [
+      "practise speaking quickly",
+      "memorise grammar rules",
+      "ensure their argument cannot easily be challenged",
+      "find emotional stories to use"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The comment adverb 'Disappointingly' in an anecdote shows the speaker felt ________.",
+    "choices": [
+      "pleased with the result",
+      "very surprised",
+      "let down by what happened",
+      "proud of their actions"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In an anecdote, 'Before we knew what was happening...' is used to ________.",
+    "choices": [
+      "signal the beginning of the anecdote",
+      "give background information",
+      "show a sudden or unexpected turning point",
+      "round off the anecdote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "A 'human interest story' is best described as ________.",
+    "choices": [
+      "a story that analyses political events",
+      "a personal story about people's experiences or emotions",
+      "a story that covers major scientific discoveries",
+      "a report on financial markets"
+    ],
+    "correct_answer": "b"
+  }
+]

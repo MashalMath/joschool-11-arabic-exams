@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "A story that causes feelings of happiness in the reader is described as ________.",
+    "choices": [
+      "hard-hitting",
+      "heartwarming",
+      "sensational",
+      "exclusive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The collocation 'in the public interest' means the information ________.",
+    "choices": [
+      "is very popular on social media",
+      "is important or useful for society",
+      "is funded by the government",
+      "is written by a famous journalist"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "The word 'trustworthy' is a synonym for ________.",
+    "choices": [
+      "strange",
+      "fake",
+      "reliable",
+      "newsworthy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which word means 'to make something decrease or fall'?",
+    "choices": [
+      "drop",
+      "uncover",
+      "expose",
+      "reveal"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "A news article that includes strong criticism is called ________.",
+    "choices": [
+      "topical",
+      "heartbreaking",
+      "quirky",
+      "hard-hitting"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "To 'generate revenue' means to ________.",
+    "choices": [
+      "reduce costs in a company",
+      "produce income or profit",
+      "publish a news article",
+      "verify facts in a report"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "The most common structure for a collocation of 'adjective + noun' is shown in which example?",
+    "choices": [
+      "discuss calmly",
+      "a bizarre theory",
+      "reveal the truth",
+      "potentially embarrassing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "To 'release a statement' means to ________.",
+    "choices": [
+      "verify sources",
+      "present both sides",
+      "make an official public announcement",
+      "shed light on an issue"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "The word 'claim' is a synonym for ________.",
+    "choices": [
+      "drop",
+      "state",
+      "uncover",
+      "reveal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "A story that is very sad and emotionally upsetting is described as ________.",
+    "choices": [
+      "quirky",
+      "heartbreaking",
+      "exclusive",
+      "balanced"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The noun formed from the verb 'suspend' using the suffix '-sion' is ________.",
+    "choices": [
+      "suspender",
+      "suspended",
+      "suspension",
+      "suspensive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following nouns uses the suffix '-er' or '-or'?",
+    "choices": [
+      "freedom",
+      "security",
+      "developer",
+      "neighbourhood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The word 'obstruction' contains the suffix ________.",
+    "choices": [
+      "-ment",
+      "-tion",
+      "-ity",
+      "-hood"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Which sentence uses the correct noun form? 'The two sides need to find a ________ to the problem.'",
+    "choices": [
+      "solvable",
+      "solving",
+      "solver",
+      "solution"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "What does the suffix '-dom' indicate in English nouns?",
+    "choices": [
+      "a person who does something",
+      "a quality or state",
+      "an action or process",
+      "a place or location"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "The people who built the ancient walls also ________ (build) amazing long structures called 'kites' to catch animals.",
+    "choices": [
+      "built",
+      "were building",
+      "had built",
+      "have built"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "While he ________ the moon, he found lots of strange animals living there.",
+    "choices": [
+      "studied",
+      "had studied",
+      "has studied",
+      "was studying"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "The Past Perfect Continuous is used to focus on ________.",
+    "choices": [
+      "a sudden completed action",
+      "the length or duration of an activity in the past",
+      "a future plan from the past",
+      "a repeated action in the past"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "By the time he died, he ________ a lot of important letters.",
+    "choices": [
+      "wrote",
+      "was writing",
+      "had written",
+      "has written"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "A newspaper in New York ________ (publish) a series of amazing stories about animals on the moon in 1835.",
+    "choices": [
+      "was publishing",
+      "published",
+      "had published",
+      "has published"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "In no way ________ this article represent the official view.",
+    "choices": [
+      "this does",
+      "does this",
+      "this is",
+      "is this"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Scarcely ________ she started reading when she realised it was a hoax.",
+    "choices": [
+      "has",
+      "have",
+      "had",
+      "was"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Which adverbial phrase is used with negative inversion to mean 'immediately after'?",
+    "choices": [
+      "Little did",
+      "Seldom",
+      "No sooner ... than",
+      "Under no circumstances"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Little ________ they imagine how full of plants the desert really was.",
+    "choices": [
+      "did",
+      "do",
+      "have",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "At no time ________ students allowed to use their phones during the exam.",
+    "choices": [
+      "were",
+      "are",
+      "is",
+      "be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "The word 'posing' in the context of photography means ________.",
+    "choices": [
+      "taking photos secretly",
+      "standing in a particular position for a photo",
+      "removing unwanted parts of a photo",
+      "looking at something carefully"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "To 'capture' an image means to ________.",
+    "choices": [
+      "delete a photo",
+      "crop an image",
+      "succeed in showing something using a picture",
+      "pose for a photograph"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "The word 'cropped' in photography means ________.",
+    "choices": [
+      "posed in a natural position",
+      "printed in black and white",
+      "having parts removed to show only what matters",
+      "taken from a great distance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "To 'evoke' a feeling in photography means to ________.",
+    "choices": [
+      "remove parts of a photo",
+      "make someone remember or feel an emotion",
+      "pose for a picture",
+      "show a wide outdoor scene"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "The word 'landscape' in photography refers to ________.",
+    "choices": [
+      "a close-up portrait of a person",
+      "a view of the land or countryside",
+      "a photo taken from above",
+      "a carefully posed group photo"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "The phrase 'That reminds me of a time when...' is used in an anecdote to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "signal that the anecdote is starting",
+      "round off the story"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "To 'refute an allegation' means to ________.",
+    "choices": [
+      "accept and confirm a claim",
+      "ignore it completely",
+      "formally deny an accusation",
+      "investigate it further"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "A text is biased when it shows ________.",
+    "choices": [
+      "expert opinions from both sides",
+      "little respect for different opinions",
+      "clear and verifiable evidence",
+      "balanced coverage of all viewpoints"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "The phrase 'For instance, ...' in a debate is used to ________.",
+    "choices": [
+      "summarise the argument",
+      "give examples to back up an argument",
+      "refer to statistics from a study",
+      "introduce background information"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Muneer's debating tip is that preparation involves ________.",
+    "choices": [
+      "memorising long speeches",
+      "thinking through arguments and finding supporting evidence",
+      "always agreeing with the audience",
+      "avoiding personal opinions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "The phrase 'Anyway, to cut a long story short, ...' in an anecdote is used to ________.",
+    "choices": [
+      "give background information",
+      "show the speaker's attitude",
+      "introduce a turning point",
+      "signal the beginning of the anecdote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "If all three types of adverbs are used in the same clause, the correct order is ________.",
+    "choices": [
+      "time → place → manner",
+      "place → manner → time",
+      "manner → place → time",
+      "manner → time → place"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The correct noun form to complete the sentence 'The vast ________ of people still read print newspapers' is ________.",
+    "choices": [
+      "major",
+      "majorly",
+      "majority",
+      "majors"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In a debate, which tip means: 'Analyse the arguments to see how strong they are, and adapt them as needed'?",
+    "choices": [
+      "Think of lots of possible arguments",
+      "Analyse and adapt arguments",
+      "Back up arguments with evidence",
+      "Keep your points relevant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The phrase 'I'll never do that again' is used at the ________ of an anecdote.",
+    "choices": [
+      "beginning",
+      "turning point",
+      "middle",
+      "end"
+    ],
+    "correct_answer": "d"
+  }
+]

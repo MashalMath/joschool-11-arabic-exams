@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word means 'to bring something hidden into the open'?",
+    "choices": [
+      "maintain",
+      "drop",
+      "uncover",
+      "state"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "A newspaper report that presents only one side and exaggerates facts is considered ________.",
+    "choices": [
+      "exclusive",
+      "balanced",
+      "biased",
+      "topical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The collocation 'expose corruption' means ________.",
+    "choices": [
+      "to cover up dishonest practices",
+      "to reveal dishonest or illegal behaviour",
+      "to prevent crime from happening",
+      "to report an accident to the police"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "'Hints' and 'clues' are synonyms for ________.",
+    "choices": [
+      "signs",
+      "facts",
+      "frauds",
+      "mysteries"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "Which adjective describes a news story that is published in only one place?",
+    "choices": [
+      "balanced",
+      "quirky",
+      "exclusive",
+      "heartwarming"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The phrase 'present both sides of the story' is an example of which collocation structure?",
+    "choices": [
+      "adjective + noun",
+      "verb + noun",
+      "adverb + adjective",
+      "verb + adverb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is an example of an 'adverb + adjective' collocation?",
+    "choices": [
+      "verify sources",
+      "potentially embarrassing",
+      "a bizarre theory",
+      "discuss calmly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "To 'come up with' a solution means to ________.",
+    "choices": [
+      "refuse an allegation",
+      "report something to the police",
+      "think of or produce an idea",
+      "release a public statement"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "A 'heartbreaking' news story is one that is ________.",
+    "choices": [
+      "unusual and funny",
+      "very sad",
+      "strongly critical",
+      "shocking and exciting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Which word means 'to say something is true or to assert'?",
+    "choices": [
+      "expose",
+      "claim",
+      "drop",
+      "uncover"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following words contains the suffix '-ment'?",
+    "choices": [
+      "security",
+      "suspension",
+      "pavement",
+      "neighbourhood"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The word 'protester' contains the suffix ________.",
+    "choices": [
+      "-tion",
+      "-ist",
+      "-er",
+      "-ity"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The correct noun form of the word 'investigate' is ________.",
+    "choices": [
+      "investigator",
+      "investigating",
+      "investigated",
+      "investigation"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 14,
+    "question": "Which of the following has the suffix '-ity'?",
+    "choices": [
+      "activist",
+      "replacement",
+      "opportunity",
+      "developer"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "In the sentence: 'The two sides need to find a ________ to their disagreement', the correct word is ________.",
+    "choices": [
+      "solve",
+      "solvable",
+      "solution",
+      "solving"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "The animals that ________ (run) away from the people could not escape from the walls.",
+    "choices": [
+      "ran",
+      "were running",
+      "had been running",
+      "have run"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "By that time, sales of the newspaper ________ (increase) dramatically.",
+    "choices": [
+      "increased",
+      "were increasing",
+      "had increased",
+      "have increased"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The linking words 'when', 'after', 'before', and 'by the time' are often used with ________.",
+    "choices": [
+      "Present Simple",
+      "Past Continuous",
+      "Future Simple",
+      "Past Perfect tenses"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "She ________ (be) blind for 12 years when she started her journey across the country.",
+    "choices": [
+      "was",
+      "had been",
+      "is",
+      "has been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "He wrote about a spot that he ________ (discover) on the surface of Venus.",
+    "choices": [
+      "was discovering",
+      "discovered",
+      "had discovered",
+      "has discovered"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Seldom ________ I seen such a convincing fake news story.",
+    "choices": [
+      "have",
+      "did",
+      "had",
+      "was"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Barely ________ the journalist published the story when complaints began to arrive.",
+    "choices": [
+      "did",
+      "was",
+      "had",
+      "has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "The negative adverbial 'not only ... but also' is used to ________.",
+    "choices": [
+      "show immediate sequence of events",
+      "add two related pieces of information for emphasis",
+      "express surprise at a past event",
+      "indicate that something rarely happens"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Which adverb introduces a negative inversion meaning 'without knowing'?",
+    "choices": [
+      "Never",
+      "Seldom",
+      "Scarcely",
+      "Little"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Under no circumstances ________ you share unverified news online.",
+    "choices": [
+      "do",
+      "should",
+      "must",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Which technique in writing makes dialogue more interesting and realistic?",
+    "choices": [
+      "using only Past Simple",
+      "avoiding all adjectives",
+      "using different verbs for speaking such as yell, bellow, mutter",
+      "writing in the third person only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "The word 'landscape' in photography means ________.",
+    "choices": [
+      "a close-up portrait of a person",
+      "a view of the land or countryside",
+      "a photo taken from above",
+      "a carefully posed group photo"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The word 'subject matter' in photography refers to ________.",
+    "choices": [
+      "the camera technique used",
+      "the light source in a photo",
+      "what people are talking or writing about in art",
+      "the colour scheme of an image"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "To 'spot' something means to ________.",
+    "choices": [
+      "shout loudly",
+      "walk aimlessly",
+      "notice something or someone",
+      "look at something closely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "The phrase 'I would argue that ...' in a debate is used to ________.",
+    "choices": [
+      "summarise the argument",
+      "give a personal example",
+      "explain why an argument is valid",
+      "refer to statistics"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "A clickbait headline such as 'You won't believe what happened next!' is designed to ________.",
+    "choices": [
+      "provide balanced information",
+      "expose corruption",
+      "attract clicks by creating curiosity",
+      "present hard-hitting journalism"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The new roads planned near the beach were a concern because they would affect ________.",
+    "choices": [
+      "tourism and hotel revenue",
+      "bird and animal life in a sensitive nature area",
+      "access to the local school",
+      "historic buildings in the area"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "The word 'refute' means to ________.",
+    "choices": [
+      "formally accept an accusation",
+      "investigate a claim",
+      "formally deny and reject an accusation",
+      "report someone to the police"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Wearing long black clothes in the desert can ________.",
+    "choices": [
+      "make you hotter by absorbing more heat",
+      "help people stay cool in extreme heat",
+      "protect against sandstorms only",
+      "make it easier to find water"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The phrase 'So, as we have seen, therefore we must conclude that ...' is used in a debate to ________.",
+    "choices": [
+      "give examples",
+      "refer to research",
+      "explain the argument",
+      "summarise and link the argument"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "Speaker 1 in the debate argued that watching violence on TV ________.",
+    "choices": [
+      "has no effect on people",
+      "creates more violence",
+      "makes people care more",
+      "is necessary for education"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Speaker 2 in the debate countered that watching upsetting news can ________.",
+    "choices": [
+      "make people more aggressive",
+      "reduce public interest in news",
+      "make people care more, not less",
+      "cause mental health problems"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The phrase 'No word of a lie!' in an anecdote is used to show ________.",
+    "choices": [
+      "background information",
+      "the end of the story",
+      "the speaker's attitude of sincerity",
+      "a turning point in the narrative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following is the correct order of elements in a negative inversion sentence?",
+    "choices": [
+      "subject + auxiliary verb + negative adverbial",
+      "negative adverbial + subject + main verb",
+      "negative adverbial + auxiliary verb + subject",
+      "auxiliary verb + negative adverbial + subject"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Adverbs of manner, place, and time normally go ________ in a clause.",
+    "choices": [
+      "before the subject",
+      "between the auxiliary and main verb",
+      "at the end of the clause",
+      "immediately after the noun"
+    ],
+    "correct_answer": "c"
+  }
+]

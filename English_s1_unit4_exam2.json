@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "A news story that causes strong emotions but lacks serious content is described as ________.",
+    "choices": [
+      "exclusive",
+      "hard-hitting",
+      "sensational",
+      "newsworthy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "The collocation 'hit the headlines' means ________.",
+    "choices": [
+      "to write a news article",
+      "to become major news",
+      "to verify information",
+      "to expose corruption"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Which adjective describes a story that is related to things happening right now?",
+    "choices": [
+      "quirky",
+      "topical",
+      "balanced",
+      "heartbreaking"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "The word 'dependable' is a synonym for ________.",
+    "choices": [
+      "strange",
+      "reliable",
+      "fake",
+      "sensational"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "A story that is 'off the record' is ________.",
+    "choices": [
+      "published in all newspapers",
+      "not meant to be publicly reported",
+      "based on government information",
+      "supported by research evidence"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "To 'raise awareness' means to ________.",
+    "choices": [
+      "hide a problem from the public",
+      "increase people's knowledge about an issue",
+      "publish a report about crime",
+      "verify the sources of a story"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "The collocation 'attention span' refers to ________.",
+    "choices": [
+      "the number of readers a newspaper has",
+      "the length of time someone can concentrate",
+      "the number of articles published per day",
+      "the quality of a news report"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which of the following best completes the sentence: 'The newspaper decided to ________ both sides of the story'?",
+    "choices": [
+      "expose",
+      "present",
+      "release",
+      "verify"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "A news story that is unusual in an interesting way is called ________.",
+    "choices": [
+      "hard-hitting",
+      "exclusive",
+      "quirky",
+      "balanced"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The word 'bizarre' is a synonym for ________.",
+    "choices": [
+      "reliable",
+      "strange",
+      "newsworthy",
+      "topical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The suffix '-tion' in the word 'accusation' makes it a ________.",
+    "choices": [
+      "verb",
+      "adjective",
+      "noun",
+      "adverb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The noun form of the verb 'replace' is ________.",
+    "choices": [
+      "replaceable",
+      "replacing",
+      "replacement",
+      "replacer"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Which word contains the suffix '-ity'?",
+    "choices": [
+      "freedom",
+      "security",
+      "neighbourhood",
+      "activist"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "The suffix '-ist' in the word 'activist' refers to ________.",
+    "choices": [
+      "a place",
+      "a state",
+      "a person",
+      "an action"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "The noun form of 'improve' with the suffix '-ment' is ________.",
+    "choices": [
+      "improvable",
+      "improvement",
+      "improved",
+      "improving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Stones from ancient houses ________ (lie) under the ground for more than 8,000 years when archaeologists started work.",
+    "choices": [
+      "were lying",
+      "had been lying",
+      "have been lying",
+      "lay"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The gang ________ (print) fake money for years before they were arrested.",
+    "choices": [
+      "had been printing",
+      "printed",
+      "have been printing",
+      "were printing"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Which tense describes a single completed action in the past that is the main event in a story?",
+    "choices": [
+      "Past Perfect Simple",
+      "Past Perfect Continuous",
+      "Past Simple",
+      "Past Continuous"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "He ________ (never / fail) an English exam before, but this one was different.",
+    "choices": [
+      "never failed",
+      "had never failed",
+      "was never failing",
+      "has never failed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The Past Continuous is formed with ________.",
+    "choices": [
+      "had + past participle",
+      "was/were + verb-ing",
+      "had + been + verb-ing",
+      "will + verb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Under no circumstances ________ you leave the building during the exam.",
+    "choices": [
+      "should",
+      "would",
+      "did",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Not only ________ she win the race, but she also broke a world record.",
+    "choices": [
+      "she did",
+      "did she",
+      "she has",
+      "has she"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Which adverb can begin a sentence using negative inversion to mean 'rarely'?",
+    "choices": [
+      "Little",
+      "Seldom",
+      "No sooner",
+      "Scarcely"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Hardly ________ we started eating when the power went off.",
+    "choices": [
+      "have",
+      "did",
+      "had",
+      "were"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Which sentence is an example of negative inversion?",
+    "choices": [
+      "I had never seen such a thing.",
+      "Never had I seen such a thing.",
+      "I never had seen such a thing.",
+      "Such a thing I had never seen."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "To look at something closely and carefully is to ________.",
+    "choices": [
+      "wander",
+      "glance",
+      "spot",
+      "peer"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "To walk in a casual way with no particular direction is to ________.",
+    "choices": [
+      "race",
+      "wander",
+      "bellow",
+      "mutter"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "To shout loudly because you are angry or excited is to ________.",
+    "choices": [
+      "glance",
+      "peer",
+      "yell",
+      "spot"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "To go somewhere as quickly as possible is to ________.",
+    "choices": [
+      "wander",
+      "glance",
+      "race",
+      "mutter"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "The word 'upmarket' when describing restaurants means they are ________.",
+    "choices": [
+      "cheap and affordable",
+      "expensive and high-end",
+      "locally owned and managed",
+      "traditional and old-fashioned"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "To 'come up with a solution' means to ________.",
+    "choices": [
+      "refuse a suggested plan",
+      "report a problem to the police",
+      "think of or produce an answer to a problem",
+      "release an official statement"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The word 'suspension' in the phrase 'suspension of building work' means ________.",
+    "choices": [
+      "a permanent cancellation",
+      "a temporary stop",
+      "a speeding up of work",
+      "a legal investigation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "A text that shows 'little respect for different opinions' is an example of ________.",
+    "choices": [
+      "hard-hitting journalism",
+      "balanced reporting",
+      "bias in writing",
+      "exclusive reporting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "The phrase 'No sooner had ... than ...' in writing is used to show that ________.",
+    "choices": [
+      "something happened very slowly",
+      "one event immediately followed another",
+      "something happened very rarely",
+      "the writer is uncertain about events"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The phrase 'It was probably the most embarrassing moment of my life!' in an anecdote is used to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "round off the anecdote",
+      "signal the anecdote is starting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Noura's debating advice is to avoid statements using 'always' or 'never' because they suggest ________.",
+    "choices": [
+      "the speaker has strong opinions",
+      "the argument may not actually be strong enough",
+      "the speaker has researched thoroughly",
+      "the argument is very persuasive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "A debater who 'stays objective' means they ________.",
+    "choices": [
+      "always agree with the audience",
+      "speak as quickly as possible",
+      "argue based on logic rather than personal feelings",
+      "use extreme language for effect"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The phrase 'Guess what?' in an anecdote is used to ________.",
+    "choices": [
+      "give background information",
+      "introduce a turning point",
+      "signal that the anecdote is about to start",
+      "round off the story"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In photography, to 'compose' a photo means to ________.",
+    "choices": [
+      "remove unwanted parts of a photo",
+      "arrange the elements of a photo carefully",
+      "take a photo without the subject knowing",
+      "add colour to a black and white image"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Starting a story in the middle of the action rather than at the beginning creates ________.",
+    "choices": [
+      "a humorous effect",
+      "a dramatic effect",
+      "a balanced structure",
+      "a formal tone"
+    ],
+    "correct_answer": "b"
+  }
+]

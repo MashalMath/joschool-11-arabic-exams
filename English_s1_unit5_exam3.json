@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The word 'perceive' means:",
+    "choices": [
+      "to smell something strong",
+      "to notice or become aware of something",
+      "to lose your sense of taste",
+      "to damage your hearing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Which adjective describes 'something that is too strong' (smell)?",
+    "choices": [
+      "subtle",
+      "mouth-watering",
+      "overpowering",
+      "scented"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The adjective 'spiky' means:",
+    "choices": [
+      "soft and a bit wet",
+      "covered in many large pointed spikes",
+      "having an even surface",
+      "rough in texture"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Which adjective means 'soft and a bit wet'?",
+    "choices": [
+      "prickly",
+      "sticky",
+      "squishy",
+      "spiky"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "The word 'stink' (verb) means:",
+    "choices": [
+      "to have a pleasant smell",
+      "to have a very bad smell",
+      "to detect a smell",
+      "to cook food"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "The sound of 'hungry baby birds' is called:",
+    "choices": [
+      "rustle",
+      "hum",
+      "chirp",
+      "screech"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The sound 'a car's tyres make as a driver takes a corner too fast' is called:",
+    "choices": [
+      "sizzle",
+      "screech",
+      "thud",
+      "crunch"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "The sound of 'a bag of sweets in the cinema' is best described as:",
+    "choices": [
+      "hum",
+      "chirp",
+      "pop",
+      "rustle"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Which of the following verbs is followed by a GERUND to talk about general preferences?",
+    "choices": [
+      "tend",
+      "fail",
+      "prefer",
+      "encourage"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The verb 'risk' is followed by:",
+    "choices": [
+      "infinitive with to",
+      "gerund",
+      "bare infinitive",
+      "past participle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The verb 'fail' is followed by:",
+    "choices": [
+      "gerund",
+      "infinitive with to",
+      "bare infinitive",
+      "past participle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The verb 'enable' takes the pattern: + object + ________",
+    "choices": [
+      "gerund",
+      "infinitive without to",
+      "infinitive with to",
+      "past participle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "It was Aristotle who was responsible for ________ (encourage) us ________ (believe) that we have five senses.",
+    "choices": [
+      "encouraging / to believe",
+      "to encourage / believing",
+      "encourage / believe",
+      "encouraging / believing"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "This enables us ________ (type) without ________ (look) at the keyboard.",
+    "choices": [
+      "typing / looking",
+      "to type / looking",
+      "to type / to look",
+      "type / look"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "If you have difficulty ________ (do) this, then your proprioception is unlikely ________ (be) as good as it could be.",
+    "choices": [
+      "to do / to be",
+      "doing / to be",
+      "doing / being",
+      "do / be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "I'm used to wearing glasses. This sentence means:",
+    "choices": [
+      "I wore glasses in the past but not now.",
+      "I am slowly becoming comfortable wearing glasses.",
+      "This is normal for me; I always wear glasses.",
+      "I started wearing glasses recently."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "I'm getting used to wearing glasses. This sentence means:",
+    "choices": [
+      "This is normal for me.",
+      "I wore glasses in the past but not now.",
+      "This is slowly becoming normal for me.",
+      "I have never worn glasses."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "I used to wear glasses. This sentence means:",
+    "choices": [
+      "This is normal for me.",
+      "I don't wear them now.",
+      "This is slowly becoming normal.",
+      "I always wear glasses."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "I'd rather you ________ tell me what to order! (don't want someone to do something)",
+    "choices": [
+      "don't",
+      "didn't",
+      "won't",
+      "wouldn't"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Which sentence correctly expresses a specific preference for this evening?",
+    "choices": [
+      "I prefer eating at home.",
+      "I would prefer to eat at home this evening.",
+      "I'd sooner eating at home.",
+      "I prefer to eat at home generally."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Read the passage: 'Sabriye studied Tibetan at Bonn University. Many Tibetan people had problems with their eyesight, mainly because of the damaging sun at high altitudes. There was no Braille in Tibetan, so she decided to write a Tibetan Braille system.' Where did Sabriye study Tibetan?",
+    "choices": [
+      "Oxford University",
+      "Berlin University",
+      "Bonn University",
+      "Tibet University"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "According to the passage, what is the MAIN reason many Tibetan people suffer from eyesight problems?",
+    "choices": [
+      "their diet",
+      "the damaging sun at high altitudes",
+      "lack of doctors",
+      "pollution"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Why did Sabriye originally create the Tibetan Braille system?",
+    "choices": [
+      "To help Tibetan children",
+      "To help with her own studies",
+      "To earn money",
+      "Because the government asked her"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Why did some Tibetan parents keep blind children inside?",
+    "choices": [
+      "There was no school for them.",
+      "They believed the children would hurt themselves.",
+      "The weather was too cold.",
+      "The children were too young."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Who became Sabriye's business partner?",
+    "choices": [
+      "Edgar Linton",
+      "Paul Kronenberg",
+      "Osama Aljabari",
+      "Yanal Shibi"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "What is the vision of Braille Without Borders?",
+    "choices": [
+      "To teach Tibetan to blind children",
+      "To help blind children adjust to their blindness and learn skills",
+      "To publish books in Braille",
+      "To provide financial support to blind families"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "What was the title of Sabriye's book about her life and work?",
+    "choices": [
+      "My Path Leads to Tibet",
+      "Braille Without Borders",
+      "Beyond Blindness",
+      "The Tibetan Journey"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "According to the ketchup podcast, where was ketchup first created?",
+    "choices": [
+      "Europe",
+      "the United States",
+      "Asia",
+      "Africa"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "What did the first British ketchup recipes contain?",
+    "choices": [
+      "tomatoes and vinegar",
+      "fish, mushrooms and nuts",
+      "chilli and garlic",
+      "sugar and salt"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "What was invented in 1983, according to the ketchup podcast?",
+    "choices": [
+      "ketchup itself",
+      "tomato sauce",
+      "the plastic squeeze bottle",
+      "the glass ketchup bottle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which word describes food that has 'little taste or flavour'?",
+    "choices": [
+      "spicy",
+      "bland",
+      "crunchy",
+      "savoury"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Which word is the opposite of 'thick' when describing food?",
+    "choices": [
+      "spicy",
+      "crunchy",
+      "runny",
+      "tasty"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Which word is the opposite of 'bland'?",
+    "choices": [
+      "mild",
+      "smooth",
+      "sweet",
+      "tasty"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Which word is the opposite of 'spicy'?",
+    "choices": [
+      "tasty",
+      "sweet",
+      "crunchy",
+      "mild"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "Which word describes food with a 'crispy, hard texture when you bite it'?",
+    "choices": [
+      "runny",
+      "bland",
+      "crunchy",
+      "smooth"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "In a review, 'What I really liked was …' is used to express:",
+    "choices": [
+      "a negative aspect",
+      "a recommendation",
+      "a positive aspect",
+      "an introduction"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Which word means 'not salty or sweet, having the taste of meat or vegetables'?",
+    "choices": [
+      "sweet",
+      "savoury",
+      "bland",
+      "mild"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "The word 'gross' (adjective) used in informal reviews means:",
+    "choices": [
+      "amazing",
+      "impressive",
+      "disgusting or very unpleasant",
+      "mind-blowing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Which word means 'extremely impressive and surprising'?",
+    "choices": [
+      "gross",
+      "petrified",
+      "mind-blowing",
+      "deafening"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "The adjective 'petrified' means:",
+    "choices": [
+      "extremely excited",
+      "extremely frightened",
+      "extremely impressed",
+      "extremely satisfied"
+    ],
+    "correct_answer": "b"
+  }
+]

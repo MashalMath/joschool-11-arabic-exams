@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which word from the unit means 'having a very bad smell' (adjective)?",
+    "choices": [
+      "subtle",
+      "smelly",
+      "mouth-watering",
+      "scented"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Which word describes food that 'makes your mouth water'?",
+    "choices": [
+      "overpowering",
+      "bland",
+      "mouth-watering",
+      "stench"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The adjective 'overpowering' in the context of smell means:",
+    "choices": [
+      "very subtle and hard to detect",
+      "very pleasant and light",
+      "too strong and overwhelming",
+      "delicious and appetising"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Which pair of words describes textures in the unit?",
+    "choices": [
+      "sizzling and humming",
+      "coarse and silky",
+      "bland and tasty",
+      "overpowering and subtle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The sound of 'waves crashing on the seashore' is an example of:",
+    "choices": [
+      "smell vocabulary",
+      "texture vocabulary",
+      "sound vocabulary",
+      "taste vocabulary"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Which sound word is both a VERB and a NOUN?",
+    "choices": [
+      "loud",
+      "rustling",
+      "crunch",
+      "silent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "I can hear the ________ of a machine.",
+    "choices": [
+      "hums",
+      "humming",
+      "hummed",
+      "hum"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "The fans were ________ softly.",
+    "choices": [
+      "hum",
+      "humming",
+      "hums",
+      "hummed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read the passage: 'She was desperate to fit in, but other children were often cruel to her and her teachers did not understand her needs.' What does 'desperate to fit in' mean?",
+    "choices": [
+      "She wanted to become a teacher.",
+      "She strongly wanted to be accepted and belong.",
+      "She wanted to leave the school.",
+      "She wanted to help other blind children."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Read the passage: 'She quickly grew in confidence.' What did Sabriye quickly gain at the boarding school?",
+    "choices": [
+      "wealth",
+      "confidence",
+      "fame",
+      "only friends"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read the passage: 'She had always wanted to go to Tibet and when she was 26 she decided to pursue her dream.' At what age did Sabriye visit Tibet?",
+    "choices": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage: 'It has a vision to help blind children to adjust to their blindness and to learn many of the same skills that she had learnt as a girl.' The school aims to help blind children ________ their blindness.",
+    "choices": [
+      "ignore",
+      "cure",
+      "adjust to",
+      "be afraid of"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "I was surprised ________ that the snake was dry and not wet.",
+    "choices": [
+      "finding",
+      "to find",
+      "find",
+      "found"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Adnan tries ________ for at least an hour every day.",
+    "choices": [
+      "reading",
+      "to read",
+      "read",
+      "reads"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "He enjoys ________ while he's travelling to school.",
+    "choices": [
+      "to read",
+      "read",
+      "reading",
+      "reads"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "His mum won't let ________ at the dinner table.",
+    "choices": [
+      "him to read",
+      "him reading",
+      "him read",
+      "reading"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Abeer's parents make ________ her homework as soon as she gets home.",
+    "choices": [
+      "her to do",
+      "her doing",
+      "her do",
+      "doing"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "They encourage ________ it before anything else.",
+    "choices": [
+      "her do",
+      "her to do",
+      "her doing",
+      "to do"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "The only way she can avoid ________ it is if she has after-school activities.",
+    "choices": [
+      "to do",
+      "do",
+      "doing",
+      "done"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Maha can't stand ________ violent films or TV series.",
+    "choices": [
+      "to watch",
+      "watch",
+      "watching",
+      "watched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "She refuses ________ anything where violence is shown as entertainment.",
+    "choices": [
+      "watching",
+      "to watch",
+      "watch",
+      "watched"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Comedies, on the other hand, she finds a great pleasure ________.",
+    "choices": [
+      "watching",
+      "to watch",
+      "watch",
+      "watched"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "Imagine ________ a sense of smell 700 times more powerful than a human.",
+    "choices": [
+      "having",
+      "to have",
+      "have",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Grizzly bears are so powerful that they are able ________ a potential meal from up to 18 miles away.",
+    "choices": [
+      "smelling",
+      "smell",
+      "to smell",
+      "smelled"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "This is why it is so important ________ careful when camping in areas where bears live.",
+    "choices": [
+      "being",
+      "be",
+      "to be",
+      "been"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "You won't be able to prevent them from ________ your campsite.",
+    "choices": [
+      "to steal",
+      "steal",
+      "stealing",
+      "stolen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Bears are not likely ________ humans, but can you really afford ________ the risk?",
+    "choices": [
+      "to attack / taking",
+      "attacking / to take",
+      "to attack / to take",
+      "attacking / taking"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Read the passage: 'Edgar, she cried, Edgar, my love, Heathcliff has come back.' How does Catherine describe Heathcliff in this line?",
+    "choices": [
+      "her enemy",
+      "her business partner",
+      "her love",
+      "a stranger"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read the passage: 'Wuthering Heights has had a major influence on popular culture. It has been made into several films (the first dating to 1939).' When was the first film of Wuthering Heights made?",
+    "choices": [
+      "1920",
+      "1929",
+      "1939",
+      "1949"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read the passage: 'It has been made into several films, TV series, plays and even operas.' What has Wuthering Heights been made into?",
+    "choices": [
+      "TV series and operas",
+      "theme parks",
+      "video games",
+      "board games"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage: 'Scientists have found that pink noise can improve deep sleep. Ocean waves, waterfalls, heartbeats and even traffic are natural examples of this type of noise.' What is a natural example of pink noise?",
+    "choices": [
+      "loud music",
+      "traffic and ocean waves",
+      "alarm clocks",
+      "television shows"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Read the passage: 'The oldest cookery books are in fact three tablets from Yale University Babylonian Collection dating back to 1700 BCE.' What are the oldest 'cookery books' in the world?",
+    "choices": [
+      "Egyptian papyrus scrolls",
+      "three tablets from Yale University's Babylonian Collection",
+      "Roman manuscripts",
+      "Greek pottery inscriptions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Read the passage: 'The oldest cookery books are in fact three tablets from Yale University Babylonian Collection dating back to 1700 BCE.' When do these ancient tablets date back to?",
+    "choices": [
+      "500 BCE",
+      "1000 BCE",
+      "1700 BCE",
+      "3000 BCE"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read the passage: 'It was in the 1800s that gastronomy began to emerge as a field of study that went beyond food preparation and simple enjoyment.' In which century did gastronomy begin to emerge as a field of study?",
+    "choices": [
+      "the 1600s",
+      "the 1700s",
+      "the 1800s",
+      "the 1900s"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read the passage: 'Molecular gastronomy concerns the physical and chemical changes that occur during cooking.' What is 'molecular gastronomy'?",
+    "choices": [
+      "the study of how to grow food",
+      "the study of physical and chemical changes that occur during cooking",
+      "the study of food history",
+      "the study of food presentation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read the passage: 'Hashem Restaurant in Amman is famous for its food. It is the oldest restaurant in Amman and serves local food at cheap prices despite that it hosts celebrities and even royalty!' Which restaurant in Amman is described as the oldest?",
+    "choices": [
+      "The Jordan Museum café",
+      "Hashem Restaurant",
+      "The Royal Grill",
+      "Basman Restaurant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage: 'He added a huge amount of vocabulary to enrich the English language so every day English speakers unthinkingly use Shakespearean words or phrases.' What was Shakespeare's influence on the English language?",
+    "choices": [
+      "minimal",
+      "limited to grammar",
+      "enormous — he added huge amounts of vocabulary",
+      "mostly in the area of pronunciation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Read the passage: 'He was also famous for his sonnets (a type of poem with 14 lines), a rhythm called a metre and a specific rhyme scheme.' A sonnet is:",
+    "choices": [
+      "a short story with 14 chapters",
+      "a type of poem with 14 lines, a metre and a specific rhyme scheme",
+      "a play with 14 acts",
+      "a speech with 14 paragraphs"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read the passage: 'Shakespeare died over 400 years ago, but today his plays and sonnets are still studied by over half the students in the world.' How many students worldwide study Shakespeare?",
+    "choices": [
+      "a few schools in England",
+      "students in English-speaking countries only",
+      "over half the students in the world",
+      "mostly literature students"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read the passage: 'Not of an age, but for all time. — Ben Jonson.' What is Ben Jonson's famous quote about Shakespeare?",
+    "choices": [
+      "To be or not to be.",
+      "All's well that ends well.",
+      "Not of an age, but for all time.",
+      "Brevity is the soul of wit."
+    ],
+    "correct_answer": "c"
+  }
+]

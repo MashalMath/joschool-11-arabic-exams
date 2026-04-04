@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "A collocation in which a verb is followed by a noun is shown in which example?",
+    "choices": [
+      "potentially embarrassing",
+      "discuss calmly",
+      "reveal the truth",
+      "a bizarre theory"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is a synonym for the word 'fraud'?",
+    "choices": [
+      "enigma",
+      "hoax",
+      "clue",
+      "sign"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "A journalist who reports 'in the public interest' focuses on issues that ________.",
+    "choices": [
+      "are popular with celebrities",
+      "matter to the general public",
+      "only concern government policies",
+      "avoid all controversial topics"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Which phrase means 'to become popular and spread rapidly online'?",
+    "choices": [
+      "shed light",
+      "hit the headlines",
+      "go viral",
+      "raise awareness"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "The word 'maintain' is a synonym for ________.",
+    "choices": [
+      "expose",
+      "claim",
+      "drop",
+      "reveal"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "A story that is 'heartwarming' causes readers to feel ________.",
+    "choices": [
+      "sad and upset",
+      "angry and frustrated",
+      "happy and emotionally moved",
+      "confused and uncertain"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "To 'shed light on' a topic means to ________.",
+    "choices": [
+      "make it more complicated",
+      "hide important aspects of it",
+      "clarify or explain it better",
+      "publish it without checking sources"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "A 'hard-hitting' article is one that ________.",
+    "choices": [
+      "is written in a light and humorous way",
+      "includes strong criticism and direct commentary",
+      "focuses only on celebrity gossip",
+      "avoids taking any position on an issue"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Which of the following words means 'to notice or see something for the first time'?",
+    "choices": [
+      "glance",
+      "peer",
+      "spot",
+      "bellow"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "A 'balanced' news report is one that ________.",
+    "choices": [
+      "focuses only on negative news",
+      "gives only the writer's opinion",
+      "considers all sides of an issue equally",
+      "reports only facts without analysis"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "The correct noun form of 'develop' using the suffix '-er' is ________.",
+    "choices": [
+      "development",
+      "developing",
+      "developer",
+      "developable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following words has the suffix '-ment'?",
+    "choices": [
+      "activist",
+      "freedom",
+      "tension",
+      "development"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "The suffix '-dom' is used to form the noun ________.",
+    "choices": [
+      "tension",
+      "freedom",
+      "activism",
+      "security"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "The correct noun form of the verb 'allege' in the sentence 'The ________ against him were proven false' is ________.",
+    "choices": [
+      "allegeable",
+      "allegation",
+      "allegedly",
+      "allege"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "In the sentence: 'The airport ________ two days ago because someone phoned to say there was a bad storm coming', the correct verb form is ________.",
+    "choices": [
+      "was closed",
+      "closed",
+      "had closed",
+      "has closed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "When Nasser arrived at the party, the other boys ________ (already / eat) the food.",
+    "choices": [
+      "already ate",
+      "were already eating",
+      "had already eaten",
+      "have already eaten"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "There was a strong smell in the kitchen because someone ________ (cook) fish.",
+    "choices": [
+      "cooked",
+      "had cooked",
+      "had been cooking",
+      "was cooking"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The football team ________ (play) for an hour before they scored a goal.",
+    "choices": [
+      "played",
+      "was playing",
+      "had been playing",
+      "had played"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "The Past Perfect Simple is used to talk about an experience that happened ________.",
+    "choices": [
+      "at the same moment as another past event",
+      "before a specific point in the past",
+      "repeatedly in the past",
+      "as an ongoing background event"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Mustafa broke his leg last week. Before he ________ (fall), he ________ (try) to climb to the top of the mountain.",
+    "choices": [
+      "fell / tried",
+      "had fallen / had been trying",
+      "fell / had been trying",
+      "had fallen / tried"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Little ________ the journalists know that the story they were publishing was completely false.",
+    "choices": [
+      "were",
+      "did",
+      "had",
+      "have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Scarcely ________ the film had started when members of the audience began to walk out.",
+    "choices": [
+      "had",
+      "did",
+      "was",
+      "were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "Negative inversion can sound quite formal, and it is also used to create ________ in informal contexts.",
+    "choices": [
+      "confusion",
+      "dramatic effect",
+      "humour",
+      "balance"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Which negative adverbial is always followed by the structure '... than ...'?",
+    "choices": [
+      "Seldom",
+      "Never",
+      "No sooner",
+      "Little"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Not once ________ the journalist check her facts before publishing the article.",
+    "choices": [
+      "did",
+      "she",
+      "has",
+      "had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "Using time expressions such as 'before, after, and first' in a story helps to ________.",
+    "choices": [
+      "add scientific vocabulary",
+      "sequence events clearly",
+      "write only in the passive voice",
+      "avoid all direct speech"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "A person who 'looks out of place' somewhere means they ________.",
+    "choices": [
+      "are very popular there",
+      "do not seem to belong in that environment",
+      "are wearing beach clothes",
+      "are sitting far from everyone"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The man in the story grabbed the old woman by the arm because ________.",
+    "choices": [
+      "he wanted to steal her handbag",
+      "he was trying to save her from a falling crane",
+      "he wanted to ask for directions",
+      "he was calling the police"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "What fell from the sky in the climax of 'The Man in Black'?",
+    "choices": [
+      "a heavy rainstorm",
+      "a crane from a building site",
+      "part of an old building",
+      "a large bird"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "The phrase 'This clearly reinforces everything I have said up until this point' is used in a debate to ________.",
+    "choices": [
+      "give a personal example",
+      "refer to research",
+      "summarise and link the argument",
+      "introduce a new point"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "The story of Shelley from Vanuatu was used to illustrate how to use ________.",
+    "choices": [
+      "Past Simple only",
+      "negative inversion in context",
+      "the vocabulary of journalism",
+      "the structure of a debate"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Noura's family were taught traditional techniques to survive in the desert by ________.",
+    "choices": [
+      "a hotel manager",
+      "a science teacher",
+      "a local Bedouin guide",
+      "a government official"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "In a debate, you might have to argue for a position you don't personally agree with. This requires ________.",
+    "choices": [
+      "extreme language",
+      "flexibility and objectivity",
+      "emotional appeals to the audience",
+      "memorised speeches"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "The word 'capture' in photography means to ________.",
+    "choices": [
+      "remove parts of a photo",
+      "successfully show something visually",
+      "take a photo without permission",
+      "arrange a landscape photograph"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The phrase 'That reminds me of a time when...' in an anecdote is used to ________.",
+    "choices": [
+      "introduce a turning point",
+      "round off the anecdote",
+      "signal that the anecdote is starting",
+      "give background information"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The comment adverb 'Foolishly' shows the speaker ________.",
+    "choices": [
+      "is uncertain about what happened",
+      "considers their own action to have been unwise",
+      "is reporting something they heard",
+      "is very proud of what they did"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The comment adverb 'Obviously' suggests that something is ________.",
+    "choices": [
+      "a complete surprise",
+      "clearly true or understandable",
+      "something that happened long ago",
+      "very unusual"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "The old beach restaurants near the hotel were described as ________.",
+    "choices": [
+      "expensive and exclusive",
+      "modern and popular",
+      "sad and old",
+      "clean and well-maintained"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The new roads planned near the beach were a concern because they would ________.",
+    "choices": [
+      "use too much water",
+      "affect wildlife in a sensitive nature area",
+      "create too much noise",
+      "disturb sea turtles"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The debate phrase 'It is vital to realise that ...' is used to ________.",
+    "choices": [
+      "summarise the argument",
+      "give a personal example",
+      "explain why the argument is valid",
+      "refer to statistics"
+    ],
+    "correct_answer": "c"
+  }
+]

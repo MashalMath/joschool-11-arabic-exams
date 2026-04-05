@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The price of the two flats is ________ different — one costs twice as much as the other.",
+    "choices": [
+      "marginally",
+      "slightly",
+      "nowhere near",
+      "significantly"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: Working in ________ space means you share your office with people from different companies.",
+    "choices": [
+      "a remote",
+      "a co-working",
+      "a private",
+      "a digital"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct option: 'To ________ roots' means to become permanently settled in a place.",
+    "choices": [
+      "grow",
+      "plant",
+      "put down",
+      "lay"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: The apartment in central Tokyo was very small. Despite this, the space-saving design made it feel ________ rather than cramped.",
+    "choices": [
+      "medium-sized",
+      "densely populated",
+      "compact",
+      "confined"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Could you live in a home that is only 37 square metres in size? That is the size of a so-called tiny home, which has become a big craze in some parts of the world, giving rise to a new social trend: the tiny house movement. These compact properties have become more popular as people recognise the benefits of living small. For some, it's the only way to afford a home, but for others it's a lifestyle choice, offering a way of living more ecologically and less wastefully.'\n\nFor which TWO reasons do people choose to live in tiny homes according to the text?",
+    "choices": [
+      "Because they enjoy the cramped conditions and lack of furniture",
+      "Because it is the only way they can afford a home, or because it is an ecological lifestyle choice",
+      "Because the government forces them to downsize their homes",
+      "Because large homes are no longer being built in most countries"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct option: Please ________ these old magazines. We don't need them anymore.",
+    "choices": [
+      "wipe down",
+      "sweep up",
+      "get rid of",
+      "do up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I was ________ to pay a deposit before moving into the flat. The landlord required it.",
+    "choices": [
+      "managed",
+      "succeeded",
+      "required",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct article: She is ________ youngest student doing the course on the Isle of Skye.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: The sentence 'Switch ________ when you leave the room' is an example of a separable phrasal verb where a pronoun comes in the middle.",
+    "choices": [
+      "off it",
+      "it off",
+      "it of",
+      "off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct modal: This film is ________ to win a number of Oscars. Everyone says so.",
+    "choices": [
+      "supposed",
+      "likely",
+      "managed",
+      "required"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: A ________ populated city has a lot of people living close together in a small area.",
+    "choices": [
+      "compactly",
+      "densely",
+      "tightly",
+      "highly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct option: 'He ________ making life more complicated! Technology is getting worse.' (specific past achievement — negative)",
+    "choices": [
+      "couldn't",
+      "managed",
+      "succeeded in",
+      "was able in"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: Use ________ after (a) few, (a) little, most, and many when followed by a pronoun or determiner.",
+    "choices": [
+      "for",
+      "in",
+      "of",
+      "on"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct article: He lights ________ fire every morning to stay warm in the tent.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: The Japanese ________ with ingenious space-saving solutions, such as using deep wardrobes and sliding doors.",
+    "choices": [
+      "came up",
+      "came across",
+      "came in",
+      "came out"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct option: 'Animals ________ suffer like this.' Complete the sentence using the correct related verb to express 'not supposed to'.",
+    "choices": [
+      "are not supposed to",
+      "don't have to",
+      "needn't",
+      "might not"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: The report on the student common room was ________ on a survey of 50 students.",
+    "choices": [
+      "aimed",
+      "relied",
+      "based",
+      "supported"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct article: I go to ________ university now. I study Engineering. (institution — not a specific building)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: We need to ________ all the bits of broken glass from the kitchen floor before someone gets hurt.",
+    "choices": [
+      "sweep up",
+      "wipe down",
+      "mop up",
+      "do up"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct option: 'My cousin managed to / could persuade his parents.' Which is correct for a specific past achievement?",
+    "choices": [
+      "could",
+      "managed to",
+      "Both are equally correct",
+      "Neither is correct"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: Regarding the wall colour, around ________ of students had no strong feelings on the matter.",
+    "choices": [
+      "half",
+      "all",
+      "none",
+      "three quarters"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'We are ________ to come to school on time.' This is an example of obligation from an outside authority.",
+    "choices": [
+      "managed",
+      "succeeded",
+      "obliged",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: Please rub toothpaste onto the scratched screen and then ________ with a damp cloth.",
+    "choices": [
+      "do it up",
+      "sweep it up",
+      "mop it up",
+      "wipe it down"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct article: ________ Hague is one of the exceptions to the rule of using no article with place names.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: I sometimes think technology has only ________ making life more complicated.",
+    "choices": [
+      "managed in",
+      "succeeded in",
+      "could",
+      "was able to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: In the hostel rules, 'Guests ________ leave all areas clean and tidy after use' — there is no exception.",
+    "choices": [
+      "don't have to",
+      "must",
+      "needn't",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: In a report, the phrase 'In conclusion, it seems ________ the priority is to...' introduces the final recommendation.",
+    "choices": [
+      "that",
+      "how",
+      "which",
+      "what"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct word: 'The freezer broke down' — which phrasal verb correctly describes what the freezer did?",
+    "choices": [
+      "came across",
+      "stopped functioning",
+      "was repaired",
+      "was replaced"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: She ________ her woollen jumper by accident when she washed it at 90 degrees.",
+    "choices": [
+      "shattered",
+      "tangled",
+      "shrunk",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct article: There's Dana from ________ USA and Muna from ________ Dubai.",
+    "choices": [
+      "a / the",
+      "the / no article",
+      "the / a",
+      "no article / the"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: The sentence 'What you do is slide the door to the right' begins with 'What' for ________.",
+    "choices": [
+      "asking a question",
+      "expressing surprise",
+      "giving emphasis",
+      "describing a past action"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct option: 'Students ________ go there.' means it is not allowed.",
+    "choices": [
+      "don't have to",
+      "needn't",
+      "are not allowed to",
+      "might not"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: We should ________ the wall before we paint it to remove dust and grease.",
+    "choices": [
+      "sweep up",
+      "mop up",
+      "do up",
+      "wipe down"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I would ________ recommend installing more seating.' This phrase is used in the conclusion of a report.",
+    "choices": [
+      "strictly",
+      "strongly",
+      "purely",
+      "hardly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: In the NASA experiment, each crew member was NOT ________ to leave the capsule without a spacesuit.",
+    "choices": [
+      "required",
+      "managed",
+      "permitted",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'My parents could / were able to find a nice apartment.' For a specific past achievement, which is correct?",
+    "choices": [
+      "could",
+      "were able to",
+      "Both are correct",
+      "Neither is correct"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: We use 'be ________ to' when something is what should or shouldn't happen according to rules or what is generally expected.",
+    "choices": [
+      "managed",
+      "allowed",
+      "supposed",
+      "required"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct option: The word ________ means 'not having enough space'.",
+    "choices": [
+      "compact",
+      "confined",
+      "cramped",
+      "excess"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The passive house article uses 'the rich' to refer to ________ people.",
+    "choices": [
+      "all wealthy",
+      "some wealthy",
+      "a wealthy",
+      "one wealthy"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct option: 'You ________ recycle your rubbish.' Complete using the word SUPPOSED so that it means it is expected by rules.",
+    "choices": [
+      "are supposed recycle",
+      "are supposed recycling",
+      "are supposed to recycle",
+      "supposed to recycle"
+    ],
+    "correct_answer": "c"
+  }
+]

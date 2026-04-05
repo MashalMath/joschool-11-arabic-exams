@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The temperature difference between the two cities was only ________ — about one degree.",
+    "choices": [
+      "considerably",
+      "significantly",
+      "slightly",
+      "far"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: If you became a digital nomad, which of your ________ would you miss the most?",
+    "choices": [
+      "work contracts",
+      "home comforts",
+      "remote offices",
+      "co-working spaces"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct option: She's ________ down to one place — she loves travelling and exploring new cities.",
+    "choices": [
+      "not tied",
+      "not putting",
+      "not settling",
+      "not moving"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: The wardrobe is very deep, which makes it ________ for storing bedding.",
+    "choices": [
+      "cramped",
+      "confined",
+      "compact",
+      "useful"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'For some, living in a tiny home is the only way to afford a home, but for others it's a lifestyle choice, offering a way of living more ecologically and less wastefully. Living in a small space means that you have to get rid of your excess possessions. It also forces you to go out and engage with the rest of the world.'\n\nWhat does the word 'excess' mean in this context?",
+    "choices": [
+      "expensive and valuable",
+      "additional and not needed because there is already enough",
+      "broken and in need of repair",
+      "old-fashioned and out of style"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct phrasal verb: My brother ________ a puddle of water on the kitchen floor.",
+    "choices": [
+      "swept up",
+      "came across",
+      "wiped down",
+      "broke down"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: Animals are ________ to suffer like this according to the rules of this organization.",
+    "choices": [
+      "managed",
+      "not supposed",
+      "forbidden to",
+      "not allowed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct modal: A good lifeguard ________ be an excellent swimmer. There is no choice.",
+    "choices": [
+      "should",
+      "might",
+      "must",
+      "could"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: ________ largest city in Jordan is Amman.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct word: In Tokyo, many people live in apartments that feel ________ because they lack enough space.",
+    "choices": [
+      "compact",
+      "cramped",
+      "medium-sized",
+      "excess"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: I ________ to find the right answer after several attempts. (specific past achievement)",
+    "choices": [
+      "could",
+      "can",
+      "was able",
+      "might"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct option: What do you think is a suitable age to ________ and get a job?",
+    "choices": [
+      "put down roots",
+      "settle down",
+      "work remotely",
+      "go on the move"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: She soak ________ the stained cloth in warm soapy water to remove the marks.",
+    "choices": [
+      "up",
+      "down",
+      "in",
+      "off"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct form to replace the underlined part: 'I'll wipe down the table.' → I'll wipe ________ down.",
+    "choices": [
+      "it",
+      "that",
+      "the table",
+      "them"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank with the correct article: Half of ________ population live in the capital.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct option to complete the instruction phrase: 'The key/main thing to ________ is to turn off the gas before you start.'",
+    "choices": [
+      "do",
+      "remember",
+      "avoid",
+      "begin"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: In Saudi Arabia, temperatures are high during the day ________ during the night they are very low.",
+    "choices": [
+      "wherever",
+      "however",
+      "whereas",
+      "whatever"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct word: The report language 'Several students expressed a wish for ________' means a small number of students wanted something.",
+    "choices": [
+      "all",
+      "most",
+      "several",
+      "none"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: You ________ to arrive exactly on time. It's not necessary to be there before 9 a.m.",
+    "choices": [
+      "must",
+      "should",
+      "don't have",
+      "mustn't"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct word: According to Professor Pader's research, people in confined spaces also learn to ________ with people rather than withdrawing.",
+    "choices": [
+      "compete",
+      "negotiate",
+      "argue",
+      "disagree"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: The police ________ find the missing child just in time.",
+    "choices": [
+      "succeeded in",
+      "managed to",
+      "could to",
+      "were able in"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct article: I once went to ________ hospital for an operation. (institution)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: Dubai is expensive ________ comparison with many countries.",
+    "choices": [
+      "in",
+      "by",
+      "on",
+      "at"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct modal: Can/Could I ask you a question? This is an example of ________ in English grammar.",
+    "choices": [
+      "obligation",
+      "prohibition",
+      "permission",
+      "necessity"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: The fishermen spent the morning trying to undo the tangled ________ of their nets.",
+    "choices": [
+      "screens",
+      "pipes",
+      "ropes",
+      "leads"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct word: The passive house uses solar energy and has good wall ________ so that heat does not escape.",
+    "choices": [
+      "construction",
+      "insulation",
+      "decoration",
+      "foundation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: We use 'be ________ to' to refer to an outside authority that gives orders or sets rules.",
+    "choices": [
+      "managed",
+      "required",
+      "succeeded",
+      "could"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct option: According to the reading, the tiny home has become a big ________ in some parts of the world.",
+    "choices": [
+      "problem",
+      "crisis",
+      "craze",
+      "debate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: Opinions were ________ about whether there should be a smart TV in the common room.",
+    "choices": [
+      "shared",
+      "agreed",
+      "divided",
+      "united"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct article: Life was very hard and over one million people emigrated. (general statement — use ________ article)",
+    "choices": [
+      "a",
+      "the",
+      "an",
+      "no"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: The hostel notice says: 'Animals are not ________ in the hostel.'",
+    "choices": [
+      "managed",
+      "required",
+      "permitted",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct option: He ________ visit us last week because his car broke down. (negative past ability — specific occasion)",
+    "choices": [
+      "couldn't",
+      "mustn't",
+      "shouldn't",
+      "needn't"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: The Japanese use ________ doors which can divide a room into different living areas.",
+    "choices": [
+      "sliding",
+      "folding",
+      "revolving",
+      "automatic"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct word: 'You ________ to sort your recycling carefully.' means it is what you are expected to do by law.",
+    "choices": [
+      "are managed",
+      "are obliged",
+      "are succeeded",
+      "are allowed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: In the NASA experiment, each crew member had their own personal space, big enough for a tiny ________ and chair.",
+    "choices": [
+      "table",
+      "desk",
+      "bed",
+      "shelf"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct word: You ________ wear jeans in the restaurant. Formal dress is required.",
+    "choices": [
+      "don't have to",
+      "mustn't",
+      "needn't",
+      "might not"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: The way ________ works is by pressing this button gently.",
+    "choices": [
+      "this",
+      "it",
+      "that",
+      "how"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct option: Crew members in the NASA experiment were ________ to leave the capsule unless wearing a spacesuit.",
+    "choices": [
+      "required",
+      "permitted",
+      "not permitted",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: I would strongly ________ asking all students to vote on the smart TV question.",
+    "choices": [
+      "suggest",
+      "recommend",
+      "advise to",
+      "think"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct word: 'On the move' means ________.",
+    "choices": [
+      "staying in one place permanently",
+      "travelling or moving from place to place",
+      "working in a fixed office",
+      "settling down with a family"
+    ],
+    "correct_answer": "b"
+  }
+]

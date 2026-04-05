@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Fill in the blank: The new apartment is ________ larger than the old one — almost double the size.",
+    "choices": [
+      "marginally",
+      "slightly",
+      "significantly",
+      "nowhere near"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Choose the correct meaning of 'settle down'.",
+    "choices": [
+      "to travel frequently to new places",
+      "to establish a stable life in one place",
+      "to work from a remote location",
+      "to share a workspace with others"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Fill in the blank: The prison cell was very ________ — surrounded by walls with no windows.",
+    "choices": [
+      "compact",
+      "medium-sized",
+      "confined",
+      "densely populated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct phrasal verb: She ________ the kitchen surfaces with a damp cloth after cooking.",
+    "choices": [
+      "mopped up",
+      "wiped down",
+      "swept up",
+      "came across"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Living in a compact home might work for one, or even two people, but what about when you are obliged to compete for space with several others? This is a question being investigated by a NASA-funded Mars simulation experiment. A habitat has been located on the slopes of a volcano in the Pacific Ocean, and its goal is to understand how people can successfully live and work together on trips into space.'\n\nWhat is the main goal of the NASA experiment?",
+    "choices": [
+      "to study the effects of gravity on the human body",
+      "to understand how people can live and work together in confined spaces",
+      "to test new space travel technology",
+      "to explore the surface of a Pacific volcano"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Fill in the blank: You ________ take room keys out of the hotel. Please leave them at reception.",
+    "choices": [
+      "don't have to",
+      "must not",
+      "needn't",
+      "might not"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Choose the correct word: There are ________ chairs in the storage room — far more than we actually need.",
+    "choices": [
+      "compact",
+      "excess",
+      "medium-sized",
+      "cramped"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Fill in the blank: I ________ in persuading my parents to let me study abroad.",
+    "choices": [
+      "managed to",
+      "succeeded",
+      "was able in",
+      "could"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct article: ________ USA is known for its diverse culture.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Fill in the blank: Please ________ the broken glass from the floor carefully.",
+    "choices": [
+      "wipe down",
+      "sweep up",
+      "mop up",
+      "do up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct modal: Animals ________ suffer like this. It is cruel and unacceptable.",
+    "choices": [
+      "don't have to",
+      "shouldn't",
+      "might not",
+      "needn't"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Fill in the blank: The aim of this report is ________ areas for improvement in the student common room.",
+    "choices": [
+      "identify",
+      "identifying",
+      "to identify",
+      "identified"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct meaning of 'work remotely'.",
+    "choices": [
+      "to work in a shared office space",
+      "to work from a location away from the main office",
+      "to work overtime on weekends",
+      "to work with a team of people"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: The lock on the door is broken. We need to ________ it if possible.",
+    "choices": [
+      "replace",
+      "mend",
+      "get rid of",
+      "do up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "According to the reading, in Mexico, people prefer to share bedrooms and bathrooms because ________.",
+    "choices": [
+      "homes are too small for individual rooms",
+      "being alone feels like a punishment",
+      "they want to save money on utilities",
+      "privacy is not a cultural value there"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct option to complete the report language: ________ half of the students felt a smart TV would be beneficial.",
+    "choices": [
+      "Most",
+      "Approximately",
+      "Several",
+      "None"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: You are ________ to recycle your rubbish. (what should/shouldn't happen according to rules)",
+    "choices": [
+      "managed",
+      "succeeded",
+      "supposed",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct phrasal verb: I ________ of all the old magazines I had been storing for years.",
+    "choices": [
+      "came across",
+      "swept up",
+      "got rid",
+      "wiped down"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: ________ half of the students expressed concern about installing a smart TV in the common room.",
+    "choices": [
+      "The majority of",
+      "The other",
+      "Hardly any",
+      "None of"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct modal: You ________ switch on the light — it's automatic.",
+    "choices": [
+      "mustn't",
+      "don't have to",
+      "can't",
+      "aren't allowed to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: The tiny home movement gives people a way of living more ________ and less wastefully.",
+    "choices": [
+      "economically",
+      "ecologically",
+      "socially",
+      "digitally"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct article: My grandmother is still ________ head of the family.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: The cushions don't go ________ the sofa — they clash with the colour.",
+    "choices": [
+      "with",
+      "along",
+      "for",
+      "in"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct word: In giving instructions, 'Whatever you do, don't ________' is used to warn strongly against something.",
+    "choices": [
+      "advise what to do",
+      "finish the instructions",
+      "warn about what not to do",
+      "explain what will happen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: The sliding doors can ________ the room into different living areas when needed.",
+    "choices": [
+      "divide",
+      "separate into",
+      "break",
+      "close"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: There have been five 'missions' in the NASA experiment, lasting between ________ months.",
+    "choices": [
+      "three and six",
+      "six and twelve",
+      "ten and fifteen",
+      "twelve and eighteen"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: It's hard to keep up ________ the cleaning when you have a very busy schedule.",
+    "choices": [
+      "on",
+      "in",
+      "with",
+      "for"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct word: Rub toothpaste on the scratched screen and then ________ with a damp dishcloth.",
+    "choices": [
+      "sweep it up",
+      "mop it up",
+      "wipe it down",
+      "do it up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: The report is intended ________ suggestions for improving the town centre.",
+    "choices": [
+      "make",
+      "making",
+      "to make",
+      "made"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct form: She ________ to settle in quickly and made many friends. (specific past achievement)",
+    "choices": [
+      "could",
+      "managed",
+      "can",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: Singapore is very safe ________ other countries.",
+    "choices": [
+      "to",
+      "by",
+      "compared with",
+      "opposite"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct form of the phrasal verb: The kitchen had only recently been ________ and the walls were freshly painted.",
+    "choices": [
+      "wiped down",
+      "done up",
+      "swept up",
+      "mopped up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank with the correct article: The first time I went to Paris was ________ 1990s.",
+    "choices": [
+      "a",
+      "an",
+      "in the",
+      "in"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "According to the reading, what is needed to achieve the right balance in terms of living space?",
+    "choices": [
+      "Enough space for complete privacy",
+      "Enough space for some privacy, but not so much that people stop interacting",
+      "As much space as possible",
+      "Shared space with no private areas at all"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: The majority ________ students were concerned about the size of the common room.",
+    "choices": [
+      "in",
+      "for",
+      "of",
+      "among"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct word: The apartment was ________ sized — not too big and not too small.",
+    "choices": [
+      "compact",
+      "medium",
+      "excess",
+      "confined"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: We were ________ to use the Internet in the office during working hours.",
+    "choices": [
+      "managed",
+      "succeeded",
+      "forbidden",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct phrasal verb: First ________ the broken glass with a dustpan and brush, then wipe the floor.",
+    "choices": [
+      "wipe down",
+      "sweep up",
+      "mop up",
+      "do up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: He ________ be a brilliant athlete when he was younger. (general past ability)",
+    "choices": [
+      "can",
+      "could",
+      "managed to",
+      "was able to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct option to complete the sentence using report language: In conclusion, it ________ that the priority is to replace the seating.",
+    "choices": [
+      "thinks",
+      "believes",
+      "seems",
+      "tells"
+    ],
+    "correct_answer": "c"
+  }
+]

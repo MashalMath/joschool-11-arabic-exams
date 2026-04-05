@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Summer in Singapore is ________ hotter than in England.",
+    "choices": [
+      "marginally",
+      "slightly",
+      "considerably",
+      "nowhere near"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Choose the correct word: The price difference between the two flats was only ________ — just 20 dinars.",
+    "choices": [
+      "significantly",
+      "considerably",
+      "marginally",
+      "miles"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "A person who works while travelling from place to place is called a ________.",
+    "choices": [
+      "remote worker",
+      "digital nomad",
+      "co-worker",
+      "freelancer"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct phrasal verb: The freezer ________ and started leaking water.",
+    "choices": [
+      "broke down",
+      "came across",
+      "swept up",
+      "wiped down"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "A room described as ________ is small but arranged so that everything fits neatly into the available space.",
+    "choices": [
+      "cramped",
+      "confined",
+      "compact",
+      "excess"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Read the passage and answer the question.\n\n'Could you live in a home that is only 37 square metres in size? That is the size of a so-called tiny home, which has become a big craze in some parts of the world, giving rise to a new social trend: the tiny house movement. These compact properties have become more popular as people recognise the benefits of living small.'\n\nWhat does the word 'craze' mean in this context?",
+    "choices": [
+      "a serious problem",
+      "a popular trend",
+      "a difficult challenge",
+      "a dangerous habit"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "According to the reading passage, living in a tiny home forces you to ________.",
+    "choices": [
+      "work from home more often",
+      "spend more money on furniture",
+      "get rid of your excess possessions",
+      "move to a different country"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct modal verb: You ________ wear a seatbelt in a car. It's the law.",
+    "choices": [
+      "might",
+      "could",
+      "must",
+      "ought"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Which sentence uses 'have to' correctly?",
+    "choices": [
+      "I have to want to go to the gym.",
+      "My teacher told me I have to submit the essay tomorrow.",
+      "You have to not park here.",
+      "She have to finish her work."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct article: ________ Eiffel Tower is one of the most visited landmarks in the world.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article needed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank with the correct phrasal verb: I ________ this old photo album while cleaning the attic.",
+    "choices": [
+      "came across",
+      "mopped up",
+      "swept up",
+      "wiped down"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct word: The city of Tokyo is one of the most ________ cities in the world, with millions of people living close together.",
+    "choices": [
+      "cramped",
+      "confined",
+      "compact",
+      "densely populated"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: Students ________ use their phones during the exam. It is strictly prohibited.",
+    "choices": [
+      "don't have to",
+      "mustn't",
+      "needn't",
+      "might not"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "According to the reading passage, which country is described as masters in the art of saving space?",
+    "choices": [
+      "Singapore",
+      "Germany",
+      "Japan",
+      "the USA"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct form: She ________ picking up the language within just two months.",
+    "choices": [
+      "managed to",
+      "succeeded in",
+      "was able in",
+      "could to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: Would you prefer to work from home or in a ________ space?",
+    "choices": [
+      "remote",
+      "co-working",
+      "digital",
+      "confined"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct word to complete the sentence: You should ________ your dishcloth every week as it gets full of bacteria.",
+    "choices": [
+      "mend",
+      "fix",
+      "replace",
+      "do up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank with the correct article: I go to ________ school every day. (referring to the institution)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "According to the reading, the NASA-funded experiment habitat was located ________.",
+    "choices": [
+      "in the Arctic Ocean",
+      "on the slopes of a volcano in the Pacific Ocean",
+      "in the Sahara Desert",
+      "on the surface of the moon"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct modal: Only local residents are ________ to park in the streets here.",
+    "choices": [
+      "managed",
+      "succeeded",
+      "permitted",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: The old sofa is broken. We need to ________ it.",
+    "choices": [
+      "get rid of",
+      "do up",
+      "mop up",
+      "sweep up"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Which phrasal verb means 'to decorate or renovate a place'?",
+    "choices": [
+      "sweep up",
+      "do up",
+      "mop up",
+      "clear up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Choose the correct option: In the NASA experiment, six crew members shared a space ________ 11 metres in diameter.",
+    "choices": [
+      "which was",
+      "who was",
+      "that were",
+      "which were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Fill in the blank: ________ the water off the kitchen floor after the freezer leaked.",
+    "choices": [
+      "Wipe down",
+      "Sweep up",
+      "Mop up",
+      "Clear up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: According to the rules, you ________ leave food behind when you check out.",
+    "choices": [
+      "don't have to",
+      "mustn't",
+      "shouldn't to",
+      "needn't to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "What does 'put down roots' mean?",
+    "choices": [
+      "to plant a garden",
+      "to settle permanently in a place",
+      "to move frequently",
+      "to start a new business"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: England is ________ as hot as Singapore in summer.",
+    "choices": [
+      "far",
+      "nowhere near",
+      "way",
+      "slightly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct article: She is ________ engineer.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "According to Professor Ellen Pader, one major benefit of sharing space with others is that you ________.",
+    "choices": [
+      "save money on rent",
+      "learn respect for other people",
+      "get more personal space",
+      "improve your cooking skills"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: The freezer ________ and all the food inside melted.",
+    "choices": [
+      "came across",
+      "broke down",
+      "wiped down",
+      "mopped up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Choose the correct word: The apartment was so ________ that we could barely move around.",
+    "choices": [
+      "compact",
+      "medium-sized",
+      "cramped",
+      "densely populated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Fill in the blank: He ________ play chess better than anyone I knew when he was young. (past ability)",
+    "choices": [
+      "can",
+      "could",
+      "managed",
+      "was able"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "In report writing, which phrase is used to introduce the aim of the report?",
+    "choices": [
+      "In my opinion...",
+      "The aim of this report is to...",
+      "I think that...",
+      "Let me tell you about..."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: Switch ________ the light when you leave the room.",
+    "choices": [
+      "off it",
+      "it off",
+      "it of",
+      "off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: Littering is ________ everywhere in Sweden, and if caught you will pay a fine.",
+    "choices": [
+      "obliged",
+      "permitted",
+      "forbidden",
+      "required"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct form: My parents ________ find a nice apartment after months of searching. (specific past achievement)",
+    "choices": [
+      "could",
+      "were able to",
+      "can",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "According to the reading, the experiment showed that people in confined spaces get on better when they ________.",
+    "choices": [
+      "have more personal space",
+      "spend more time together rather than retreating to private space",
+      "communicate only through technology",
+      "work independently without distractions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: You are ________ to sort your recycling carefully. It is the law.",
+    "choices": [
+      "allowed",
+      "supposed",
+      "obliged",
+      "managed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct article: I live near ________ River Thames which flows through London.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: The report is ________ on a survey of 50 students.",
+    "choices": [
+      "aimed",
+      "based",
+      "relied",
+      "focused"
+    ],
+    "correct_answer": "b"
+  }
+]

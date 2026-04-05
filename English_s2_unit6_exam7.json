@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The new flat is ________ bigger than the old one — you can really feel the difference.",
+    "choices": [
+      "marginally",
+      "slightly",
+      "considerably",
+      "nowhere near"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: 'Home ________' refers to the things that make a home comfortable, like furniture, appliances and familiar surroundings.",
+    "choices": [
+      "spaces",
+      "comforts",
+      "routines",
+      "solutions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct option: The tiny house movement offers a way of living more ________ and less wastefully.",
+    "choices": [
+      "socially",
+      "digitally",
+      "ecologically",
+      "culturally"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: He decided to ________ roots in Amman after living abroad for ten years.",
+    "choices": [
+      "go down",
+      "put down",
+      "settle",
+      "grow"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Living in a compact home might work for one, or even two people, but what about when you are obliged to compete for space with several others? This is a question being investigated by a NASA-funded Mars simulation experiment. Six crew members share a space which is 11 metres in diameter, i.e. the size of a medium-sized, one-bedroom apartment. They each have their own personal space, big enough for a tiny bed and chair.'\n\nHow large is the shared space in the NASA experiment?",
+    "choices": [
+      "37 square metres",
+      "ten square metres",
+      "11 metres in diameter",
+      "one medium-sized bedroom"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: We use ________ phrasal verbs like 'switch on/off' when the object can be placed between the verb and the particle.",
+    "choices": [
+      "inseparable",
+      "irregular",
+      "separable",
+      "compound"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: The old armchairs were badly ________ — the fabric was torn and the legs were broken.",
+    "choices": [
+      "tangled",
+      "scratched",
+      "shattered",
+      "confined"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct modal: You ________ to switch on the light — it's automatic. (no necessity)",
+    "choices": [
+      "must",
+      "mustn't",
+      "don't need",
+      "should"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: ________ first time I went to Aqaba was in 2015.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct phrasal verb: I'll ________ the wall with a damp cloth to remove the coffee stain.",
+    "choices": [
+      "sweep up",
+      "mop up",
+      "wipe down",
+      "do up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: 'It is not ________ for divers to do this job. A robot can do it safely instead.'",
+    "choices": [
+      "required",
+      "managed",
+      "succeeded",
+      "allowed"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct word: The room was very ________, making it difficult to move around. There was furniture everywhere.",
+    "choices": [
+      "excess",
+      "confined",
+      "medium-sized",
+      "cramped"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: The sentence 'He succeeded ________ persuading her to help' is grammatically correct.",
+    "choices": [
+      "to",
+      "in",
+      "at",
+      "for"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct article: I prefer ________ mountains to the sea. (general preference — plural noun)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: The report stated that a ________ number of students requested storage lockers in the common room.",
+    "choices": [
+      "large",
+      "small",
+      "vast",
+      "significant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct word: 'There are ________ candidates for this job — far more than we can possibly interview.'",
+    "choices": [
+      "cramped",
+      "compact",
+      "confined",
+      "excess"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: The phrase 'And that's it!' is used to ________ a set of instructions.",
+    "choices": [
+      "begin",
+      "interrupt",
+      "finish",
+      "summarize"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct option: 'Huda could speak four languages.' This expresses ________ ability.",
+    "choices": [
+      "general past",
+      "specific past achievement",
+      "future",
+      "present"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: The linker ________ is used in reports to announce a change of topic.",
+    "choices": [
+      "however",
+      "therefore",
+      "regarding",
+      "although"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct article: ________ 18th century was a period of great change in Europe.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: I would ________ you not to touch that wire — it could be dangerous.",
+    "choices": [
+      "tell",
+      "say",
+      "advise",
+      "warn to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'The freezer broke down and was leaking.' What does 'broke down' mean?",
+    "choices": [
+      "was repaired",
+      "was cleaned",
+      "stopped working",
+      "was replaced"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: In the writing task, linkers like 'with ________ to' are used to announce a new topic in a report.",
+    "choices": [
+      "reference",
+      "regard",
+      "respect",
+      "relation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct modal: 'There's a storm coming. It ________ rain heavily tonight.' (general possibility)",
+    "choices": [
+      "must",
+      "will",
+      "can",
+      "has to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: The cup smashed and the pieces went everywhere. My brother ________ them up with a dustpan.",
+    "choices": [
+      "mopped",
+      "swept",
+      "wiped",
+      "cleaned"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: 'We are obliged to come to school on time.' The obligation here comes from ________.",
+    "choices": [
+      "the speaker's personal opinion",
+      "an outside authority or rule",
+      "a future plan",
+      "a general social custom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: In Japanese apartments, bedding is folded every day so that the room can be used for ________ other than sleeping.",
+    "choices": [
+      "purposes",
+      "activities",
+      "habits",
+      "tasks"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct article: She lives in ________ small flat near the university. (first mention — indefinite)",
+    "choices": [
+      "the",
+      "an",
+      "a",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: 'Try to ________ (+ing) breathing recycled air for too long — it's not healthy.'",
+    "choices": [
+      "stop",
+      "prevent",
+      "avoid",
+      "refuse"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct option: 'Luckily, I could / was able to / managed to make new friends quickly at university.' Which option is INCORRECT?",
+    "choices": [
+      "was able to",
+      "managed to",
+      "could",
+      "all are correct"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: The cloth had a stain on it, so I ________ it in warm soapy water for an hour.",
+    "choices": [
+      "swept",
+      "mopped",
+      "soaked",
+      "wiped"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct article: Fadi always loved ________ school. (institution — love for learning)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: In report writing, we use 'Some students expressed a ________ for bright colours on the walls.'",
+    "choices": [
+      "complaint",
+      "preference",
+      "concern",
+      "dislike"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'She has succeeded in ________ the problem.' Complete the sentence correctly.",
+    "choices": [
+      "solve",
+      "to solve",
+      "solved",
+      "solving"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: According to the reading, living small forces you to go out and ________ with the rest of the world.",
+    "choices": [
+      "compete",
+      "engage",
+      "interact",
+      "socialise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct word: The bathroom sink is broken. You need to ________ the damaged part before it gets worse.",
+    "choices": [
+      "sweep up",
+      "replace",
+      "do up",
+      "come across"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: All you have ________ is press the red button to start the machine.",
+    "choices": [
+      "do",
+      "to do",
+      "doing",
+      "done"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct option: Report writing should begin with an introduction explaining ________ the information was obtained.",
+    "choices": [
+      "who",
+      "which",
+      "how",
+      "where"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The sentence 'My parents were able to / managed to find a nice apartment' shows ________ ability.",
+    "choices": [
+      "general past",
+      "specific past achievement",
+      "future",
+      "habitual past"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct article: People who live in ________ prison often face many challenges when they are released.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  }
+]

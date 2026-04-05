@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: England is ________ as hot as Singapore — you can really feel the huge temperature difference.",
+    "choices": [
+      "slightly",
+      "marginally",
+      "nothing like",
+      "way"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: If you had to move to another country, what would help you to ________ in the new place and make friends?",
+    "choices": [
+      "go on the move",
+      "work remotely",
+      "put down roots",
+      "stay confined"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: A room that is neither small nor large is described as ________.",
+    "choices": [
+      "cramped",
+      "confined",
+      "excess",
+      "medium-sized"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: Would you prefer to ________ or work in a company office?",
+    "choices": [
+      "settle down",
+      "work remotely",
+      "put down roots",
+      "be on the move"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Professor Ellen Pader from the University of Massachusetts, who has published research on the impact of space on relationships, believes a major benefit of sharing space with others is that you learn respect for other people, and you also learn to negotiate with people, instead of just withdrawing when things get difficult. In Mexico, for example, according to Pader's research, people often prefer to share bedrooms and bathrooms because being alone feels like a punishment.'\n\nAccording to Pader's research, what is the attitude toward privacy in Mexico?",
+    "choices": [
+      "Mexicans value privacy more than any other culture",
+      "Being alone is considered a reward for hard work",
+      "Privacy is not a universally shared belief — being alone can feel like punishment",
+      "Mexicans prefer to live alone to develop independence"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: She managed ________ a new language in just six months.",
+    "choices": [
+      "to learning",
+      "in learning",
+      "to learn",
+      "learn"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: The old paint was peeling off the walls, so we ________ the whole house.",
+    "choices": [
+      "swept up",
+      "mopped up",
+      "came across",
+      "did up"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct article: He's going to study in ________ Washington University next year.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: The experiment reveals that some ________ is essential, but too much causes people to stop interacting.",
+    "choices": [
+      "space",
+      "privacy",
+      "comfort",
+      "interaction"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct modal: You ________ write yourself a note so you don't forget to collect the parcel.",
+    "choices": [
+      "must",
+      "might",
+      "ought to",
+      "can"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: The window ________ during the storm, leaving dangerous glass all over the floor.",
+    "choices": [
+      "shrank",
+      "tangled",
+      "shattered",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct article: Could you please wash ________ cup in the sink? (a specific cup mentioned in context)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: It's hard to keep up ________ the cleaning when you live in a large flat with many rooms.",
+    "choices": [
+      "on",
+      "in",
+      "for",
+      "with"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct option: The reading text says the tiny home movement 'gives rise to' a new social trend. What does this mean?",
+    "choices": [
+      "it destroys an existing trend",
+      "it creates or leads to a new trend",
+      "it rises above all other trends",
+      "it is caused by a new trend"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: The students ________ required to pay a deposit before moving into the hostel room.",
+    "choices": [
+      "is",
+      "are",
+      "were",
+      "was"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct option: 'I managed to find somewhere to study German as soon as I arrived.' Rewrite using 'ABLE': 'I ________ to find somewhere to study German as soon as I arrived.'",
+    "choices": [
+      "can",
+      "could",
+      "was able",
+      "might be able"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: The hostel rules say: 'Use of portable audio speakers is completely ________ throughout the hostel.'",
+    "choices": [
+      "required",
+      "obliged",
+      "permitted",
+      "forbidden"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct article: He gave ________ lessons to conservation experts about how to survive in the wild.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: The report mentioned that ________ students were of the opinion that there should be some form of entertainment in the common room.",
+    "choices": [
+      "none of",
+      "hardly any",
+      "all of",
+      "very few"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct phrasal verb: He ________ some old books from the 1950s when he was cleaning the library.",
+    "choices": [
+      "swept up",
+      "wiped down",
+      "did up",
+      "came across"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: In Japan, sliding doors are used to ________ a room into different living areas when required.",
+    "choices": [
+      "connect",
+      "open",
+      "divide",
+      "extend"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'It's significantly colder in England in winter.' Rewrite using SIGNIFICANTLY: 'England is ________ colder in winter than Jordan.'",
+    "choices": [
+      "marginally",
+      "slightly",
+      "significantly",
+      "nowhere near"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: The hostel rule states: 'Guests ________ leave food behind when they check out.'",
+    "choices": [
+      "might",
+      "needn't",
+      "mustn't",
+      "don't need"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct article: The tent was in a remote part of ________ island, almost impossible to find.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: 'It's vital that you ________ the gas before you start working on the pipes.'",
+    "choices": [
+      "turns off",
+      "turn off",
+      "turning off",
+      "to turn off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: The expression 'Many were of the ________ that the seating needed replacing' is used in report writing to express shared opinions.",
+    "choices": [
+      "view",
+      "feeling",
+      "idea",
+      "belief"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: She ________ in picking up the language quickly — she was speaking fluently within six months.",
+    "choices": [
+      "managed to",
+      "could",
+      "succeeded",
+      "was able to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct article: Would you like to come round for ________ cup of tea?",
+    "choices": [
+      "the",
+      "an",
+      "a",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: She Soak the tangled leads ________ warm water for twenty minutes.",
+    "choices": [
+      "at",
+      "on",
+      "in",
+      "with"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct option: 'How many bags am I ________ to take on the aeroplane?' This question uses the word ALLOWED.",
+    "choices": [
+      "managed",
+      "required",
+      "allowed",
+      "succeeded"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: The reading says that compact homes have become more popular as people recognise the ________ of living small.",
+    "choices": [
+      "drawbacks",
+      "problems",
+      "benefits",
+      "challenges"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct article: I was reading ________ really good article. The article talked about tiny homes.",
+    "choices": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: The student common room report recommended that the ________ question about the smart TV should be decided by a student vote.",
+    "choices": [
+      "unresolved",
+      "main",
+      "urgent",
+      "important"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I used a damp dishcloth to remove the stain.' Rewrite starting with 'What': '________ was use a damp dishcloth to remove the stain.'",
+    "choices": [
+      "That I did",
+      "What I did",
+      "Which I did",
+      "What did I"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: The linker '________ regard to the seating' is used to start a new section in a formal report.",
+    "choices": [
+      "in",
+      "on",
+      "with",
+      "about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'My cousin didn't want to move to Germany at first, but his parents ________ persuade him.' Use MANAGED.",
+    "choices": [
+      "could",
+      "managed to",
+      "succeeded",
+      "were able"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: The report uses the phrase 'A ________ of students' to mean a very small number.",
+    "choices": [
+      "handful",
+      "majority",
+      "significant number",
+      "vast majority"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct option: 'He was required to get proper qualifications.' This sentence uses 'be required to' because the obligation comes from ________.",
+    "choices": [
+      "the speaker's personal opinion",
+      "an outside authority",
+      "a past habit",
+      "a future intention"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The best solution would ________ to be to provide more recreational facilities near the town centre.",
+    "choices": [
+      "think",
+      "believe",
+      "appear",
+      "seem"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct option: 'He ________ be able to speak Arabic and English fluently by the end of the course.' This expresses a confident prediction.",
+    "choices": [
+      "might",
+      "could",
+      "is bound to",
+      "should"
+    ],
+    "correct_answer": "c"
+  }
+]

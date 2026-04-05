@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: England is ________ as hot as Singapore in the summer.",
+    "choices": [
+      "far",
+      "way",
+      "nothing like",
+      "nowhere near"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: Why do you think some people hate being ________ to one place? Why do they prefer a nomadic lifestyle?",
+    "choices": [
+      "settled down",
+      "tied down",
+      "put down roots",
+      "on the move"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: The term 'co-working space' refers to ________.",
+    "choices": [
+      "a private office for one person",
+      "a shared workspace used by different people",
+      "a home office with remote connection",
+      "a government-run employment centre"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: A ________ is a person who travels from place to place while working remotely using technology.",
+    "choices": [
+      "co-worker",
+      "freelancer",
+      "digital nomad",
+      "home worker"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'So why is living space important? We need to get the right balance between having enough of it to allow some privacy, but not so much that we no longer interact with others.'\n\nWhat is the main idea of this paragraph?",
+    "choices": [
+      "People should always choose the largest home they can afford.",
+      "Too much privacy causes social problems.",
+      "The ideal living space balances privacy with social interaction.",
+      "Tiny homes are the best solution to housing problems."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: I ________ the stain out of the carpet — it took a long time but it finally came off!",
+    "choices": [
+      "got rid of",
+      "swept up",
+      "wiped down",
+      "mopped up"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: You ________ use your phone during the test. It is strictly against the rules.",
+    "choices": [
+      "might not",
+      "don't have to",
+      "needn't",
+      "mustn't"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct article: He works near ________ university. (a specific well-known institution near his home)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: The cables behind the television are very ________ — we need to arrange them neatly and label them.",
+    "choices": [
+      "shattered",
+      "tangled",
+      "scratched",
+      "confined"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct modal: There is a fire! You ________ use the stairs, not the lift.",
+    "choices": [
+      "might",
+      "could",
+      "should",
+      "must"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: The report mentioned that ________ all students felt the chairs and sofas were in bad condition.",
+    "choices": [
+      "hardly",
+      "very few",
+      "nearly",
+      "some"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct option: Replace the underlined noun with a pronoun: 'We're doing up the kitchen.' → We're doing ________ up.",
+    "choices": [
+      "that",
+      "this",
+      "it",
+      "them"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: He needs to ________ courageous if he wants to become a soldier.",
+    "choices": [
+      "be",
+      "being",
+      "been",
+      "to being"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct word: The apartment block in Hong Kong is known for being one of the most ________ areas in the world.",
+    "choices": [
+      "cramped",
+      "confined",
+      "compact",
+      "densely populated"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: She was ________ to pick up the language quickly because she practised every day.",
+    "choices": [
+      "managed",
+      "could",
+      "able",
+      "succeeded"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct article: I have ________ dream of climbing Jabal Umm ad Dami one day.",
+    "choices": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: The report language 'A significant number of students ________ a preference for bright wall colours' means many students wanted bright colours.",
+    "choices": [
+      "denied",
+      "expressed",
+      "agreed",
+      "requested"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct modal: It's a very difficult test. Some people are sure ________ fail.",
+    "choices": [
+      "to",
+      "at",
+      "in",
+      "for"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: The report structure begins with ________ that explains the purpose and how information was gathered.",
+    "choices": [
+      "a conclusion",
+      "a recommendation",
+      "an introduction",
+      "a survey result"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct phrasal verb: The freezer had been leaking for hours. I ________ all the water from the kitchen floor.",
+    "choices": [
+      "swept up",
+      "wiped down",
+      "mopped up",
+      "did up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: Only paying guests are ________ in the hostel. Visitors must wait outside.",
+    "choices": [
+      "managed",
+      "required",
+      "allowed",
+      "obliged"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Bike riders ________ on local roads.' Complete the sentence using the word PERMITTED.",
+    "choices": [
+      "are permitted ride",
+      "are permitted to ride",
+      "permitted ride",
+      "are permitted riding"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: In Sweden, you ________ turn up late or early to appointments. Punctuality is very important.",
+    "choices": [
+      "might",
+      "can",
+      "should",
+      "shouldn't"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct article: Next year, I'm going to study in ________ USA.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: The tiny home movement was born because ________ compact properties have become more popular.",
+    "choices": [
+      "this",
+      "such",
+      "those",
+      "these"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: 'What I did was cover it with tape.' This sentence is an example of ________ for emphasis.",
+    "choices": [
+      "starting with What",
+      "starting with All",
+      "starting with The way",
+      "starting with It"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: The glass on the shower door ________ during the earthquake and left dangerous pieces on the floor.",
+    "choices": [
+      "tangled",
+      "shrunk",
+      "shattered",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct modal: I was ________ to get proper qualifications before starting my job. (requirement from an outside authority)",
+    "choices": [
+      "managed",
+      "succeeded",
+      "required",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: The survey showed that the ________ of students preferred a café over a cinema in the town centre.",
+    "choices": [
+      "majority",
+      "few",
+      "hardly any",
+      "none"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct article: She is ________ oldest student in the class.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: I ________ swim like a fish when I was only four years old. (general past ability)",
+    "choices": [
+      "can",
+      "could",
+      "was able to",
+      "managed to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct option: The passive house is ________ because it does not rely on traditional heating methods.",
+    "choices": [
+      "energy-efficient",
+      "energy-consuming",
+      "solar-dependent",
+      "temperature-controlled"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: The ________ and brush are used to sweep up broken glass and fine dust.",
+    "choices": [
+      "dishcloth",
+      "dustpan",
+      "masking tape",
+      "sponge"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct modal: Would you be ________ to do this for me, Dana? You're less busy than I am.",
+    "choices": [
+      "able",
+      "managed",
+      "allowed",
+      "required"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: In Japanese apartments, bedding can be ________ and put away every day to free up space.",
+    "choices": [
+      "stacked",
+      "rolled",
+      "folded",
+      "hidden"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'It's vital/essential that you ________' is used to ________.",
+    "choices": [
+      "express a light suggestion",
+      "finish a set of instructions",
+      "strongly emphasise something important to do",
+      "describe what is forbidden"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: The deep wardrobes in Japanese apartments are used for ________, allowing the room to be used for other activities.",
+    "choices": [
+      "decoration",
+      "storage",
+      "partition",
+      "insulation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct word: The sentence 'You are supposed to recycle your rubbish' means recycling is ________.",
+    "choices": [
+      "optional but encouraged",
+      "what is generally expected or required by rules",
+      "not necessary",
+      "strongly discouraged"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The report recommended a table tennis table, new seating, and ________ the walls.",
+    "choices": [
+      "cleaning",
+      "insulating",
+      "repainting",
+      "moving"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct article: Passive houses were first invented in ________ Germany and became popular across Europe.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  }
+]

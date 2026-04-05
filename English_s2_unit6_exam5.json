@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The difference in price was ________ — you could barely tell which one was more expensive.",
+    "choices": [
+      "considerably",
+      "significantly",
+      "nowhere near",
+      "marginally"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: Does the idea of a life ________ appeal to you, or do you prefer staying in one place?",
+    "choices": [
+      "on the move",
+      "tied down",
+      "settled down",
+      "put down roots"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: The room felt very ________ — it had no windows and the ceiling was very low.",
+    "choices": [
+      "cramped",
+      "compact",
+      "medium-sized",
+      "densely populated"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: The carpenter ________ the leaking pipe and now it works perfectly.",
+    "choices": [
+      "got rid of",
+      "replaced",
+      "swept up",
+      "mopped up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Professor Ellen Pader from the University of Massachusetts, who has published research on the impact of space on relationships, believes a major benefit of sharing space with others is that you learn respect for other people, and you also learn to negotiate with people, instead of just withdrawing when things get difficult. In many western countries, there is an assumption that we all need privacy, but this is not a universally shared belief.'\n\nAccording to Professor Pader, what happens when people share space?",
+    "choices": [
+      "They become more isolated and withdrawn",
+      "They develop stronger privacy boundaries",
+      "They learn respect and how to negotiate with others",
+      "They feel more stressed and uncomfortable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct modal: There could ________ life on other planets. Scientists are still investigating.",
+    "choices": [
+      "must",
+      "be",
+      "have",
+      "to be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: Could you ________ the broken light bulb? It needs to be changed before tonight.",
+    "choices": [
+      "mend",
+      "get rid of",
+      "replace",
+      "sweep up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct article: He went to ________ school near his home every day. (the building, not the institution)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: The window was left open and the rain came in, creating a large ________ on the floor.",
+    "choices": [
+      "stain",
+      "puddle",
+      "scratch",
+      "tangle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct modal: We are ________ to come to school on time. The headteacher expects it.",
+    "choices": [
+      "managed",
+      "succeeded",
+      "obliged",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: This film is ________ to win a number of awards. The critics love it.",
+    "choices": [
+      "sure",
+      "likely",
+      "bound",
+      "supposed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct word: If you had to move to another country, what would help you to ________ in the new place?",
+    "choices": [
+      "go on the move",
+      "put down roots",
+      "work remotely",
+      "stay tied down"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: You ________ use the stairs in case of fire. The lifts are not safe.",
+    "choices": [
+      "might",
+      "could",
+      "must",
+      "ought"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct option: 'The cushions don't go with the sofa.' Replace 'the sofa' with a pronoun: 'The cushions don't go ________.'",
+    "choices": [
+      "with them",
+      "with it",
+      "with those",
+      "with that"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: The first ________ you do is turn off the main power switch before touching any wires.",
+    "choices": [
+      "thing",
+      "step",
+      "way",
+      "time"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct article: ________ Egyptian pyramids are a very popular tourist attraction.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: Crew members in the NASA experiment were not ________ to leave the capsule unless wearing a spacesuit.",
+    "choices": [
+      "required",
+      "permitted",
+      "managed",
+      "obliged"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct option: 'I'd advise you not to ________' is used when ________.",
+    "choices": [
+      "telling someone to take action immediately",
+      "warning someone against doing something",
+      "giving permission to do something",
+      "explaining a mandatory rule"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: ________ a few students expressed a wish for storage lockers in the common room.",
+    "choices": [
+      "Most",
+      "All",
+      "A",
+      "None"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct word: Her jumper ________ because she washed it at 90 degrees.",
+    "choices": [
+      "shattered",
+      "tangled",
+      "shrunk",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: The masking ________ helps you paint straight lines on the wall.",
+    "choices": [
+      "cloth",
+      "brush",
+      "tape",
+      "pan"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: We ________ call the plumber. I can't fix this leaking pipe myself.",
+    "choices": [
+      "don't have to",
+      "have to",
+      "needn't",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: In Tokyo, many people live in apartments smaller than ________ square metres.",
+    "choices": [
+      "five",
+      "eight",
+      "ten",
+      "fifteen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct article: He had ________ dream of becoming an architect from a very early age.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: After cleaning, use a ________ to pick up any fine dust or small broken pieces from the floor.",
+    "choices": [
+      "dishcloth",
+      "dustpan and brush",
+      "masking tape",
+      "sponge"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct modal: She couldn't visit us last month. This expresses ________.",
+    "choices": [
+      "obligation",
+      "permission",
+      "past inability",
+      "future possibility"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: The passive house uses a special device that takes old, wet air from the house and replaces it with ________ air.",
+    "choices": [
+      "solar",
+      "cold",
+      "fresh",
+      "recycled"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct option: 'Some people commented that ________' is an example of ________ language used in reports.",
+    "choices": [
+      "descriptive",
+      "narrative",
+      "opinion-reporting",
+      "comparative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: The students ________ of the opinion that the chairs were heavy and should be replaced.",
+    "choices": [
+      "had",
+      "were",
+      "felt",
+      "shared"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct modal: Actors ________ be glamorous. It's not a requirement of the job.",
+    "choices": [
+      "must not",
+      "are not obliged to",
+      "might not",
+      "cannot"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: In Sweden, if you are caught dropping litter, you will ________ pay a fine.",
+    "choices": [
+      "might",
+      "can",
+      "will have to",
+      "must"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct option: 'Switch it off' — the pronoun 'it' must go ________ the verb and the particle.",
+    "choices": [
+      "after",
+      "before",
+      "between",
+      "outside"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: When/once you've done that, ________ the surfaces with a clean, dry cloth.",
+    "choices": [
+      "sweep up",
+      "do up",
+      "wipe down",
+      "mop up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct article: He's been in ________ hospital for two weeks now. (the institution — not a specific building)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: The report language 'Regarding wall colour, ________ three quarters of students had no strong feelings' uses a quantifier.",
+    "choices": [
+      "around",
+      "nearly all",
+      "several",
+      "most"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'We've run out of toothpaste.' The phrasal verb 'run out of' is ________.",
+    "choices": [
+      "separable",
+      "inseparable",
+      "regular",
+      "transitive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: The tiny home movement has become a big ________ in some parts of the world, giving rise to a new social trend.",
+    "choices": [
+      "debate",
+      "problem",
+      "issue",
+      "craze"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct word: 'Are not allowed to' and 'were ________ to' both express prohibition.",
+    "choices": [
+      "managed",
+      "obliged",
+      "forbidden",
+      "required"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The house was ________ — neither too small nor too large — just right for a family of four.",
+    "choices": [
+      "compact",
+      "cramped",
+      "confined",
+      "medium-sized"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct option: 'The best solution would ________ to be...' is used at the end of a report.",
+    "choices": [
+      "seem",
+      "think",
+      "believe",
+      "appear"
+    ],
+    "correct_answer": "a"
+  }
+]

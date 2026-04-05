@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The rent in our new flat is only ________ more expensive — about 10 dinars extra per month.",
+    "choices": [
+      "considerably",
+      "significantly",
+      "marginally",
+      "miles"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: The idea of living ________ on the move appeals to people who love adventure.",
+    "choices": [
+      "permanently",
+      "constantly",
+      "always",
+      "never"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct phrasal verb: He ________ some old letters from his grandmother while clearing the attic.",
+    "choices": [
+      "swept up",
+      "wiped down",
+      "came across",
+      "mopped up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: The sliding doors help ________ the room so that one area can be used as a bedroom and another as a living room.",
+    "choices": [
+      "connect",
+      "divide",
+      "create",
+      "open up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Living small requires careful planning and who better to turn to for inspiration than the Japanese, the masters in the art of saving space. In densely populated cities like Tokyo, many people live in apartments smaller than ten square metres. They have managed to come up with ingenious space-saving solutions to make the apartments feel less cramped, such as the use of deep wardrobes and cupboards for storage.'\n\nWhat does 'ingenious' mean in this context?",
+    "choices": [
+      "expensive and luxurious",
+      "simple and traditional",
+      "clever and creative",
+      "large and impressive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Fill in the blank: She ________ be able to speak French, Arabic, and English by the time she finishes university.",
+    "choices": [
+      "is bound to",
+      "must",
+      "should to",
+      "would"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Choose the correct word: The apartment in Tokyo was described as ________ because it was only ten square metres.",
+    "choices": [
+      "compact",
+      "medium-sized",
+      "confined",
+      "excess"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "Fill in the blank: The pipes are tangled — we need to ________ them and label each one clearly.",
+    "choices": [
+      "sweep up",
+      "arrange",
+      "mop up",
+      "wipe down"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct article: I have two sisters. ________ older sister lives in Egypt.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Fill in the blank: In conclusion, it ________ that the priority is to replace the seating and repaint the walls.",
+    "choices": [
+      "appears to",
+      "seems",
+      "feels like",
+      "looks"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct modal: You ________ make your bed at a youth hostel. (obligation from an outside authority)",
+    "choices": [
+      "must",
+      "have to",
+      "should",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Fill in the blank: The screen on the phone is ________ — you can barely see any messages or pictures.",
+    "choices": [
+      "tangled",
+      "shattered",
+      "scratched",
+      "soaked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct option: All you ________ is press the button and the door opens automatically.",
+    "choices": [
+      "need to do",
+      "have to doing",
+      "must doing",
+      "should to do"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: The bedding can be folded and put away every day, allowing the room to be used for ________ other than sleeping.",
+    "choices": [
+      "objects",
+      "items",
+      "purposes",
+      "reasons"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct article: She is ________ engineer who works for a large construction company.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: I ________ forget to collect the parcel from the post office today. It's urgent.",
+    "choices": [
+      "might",
+      "mustn't",
+      "needn't",
+      "don't have to"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct word: When the glass windows ________ during the storm, they left sharp pieces all over the floor.",
+    "choices": [
+      "tangled",
+      "shrank",
+      "shattered",
+      "scratched"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: The report is based ________ a survey of forty people.",
+    "choices": [
+      "in",
+      "for",
+      "on",
+      "at"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct modal: Human divers ________ do the job. A robot can do it instead.",
+    "choices": [
+      "must",
+      "might",
+      "are not required to",
+      "should"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Fill in the blank: The woollen jumper ________ if you wash it at a very high temperature.",
+    "choices": [
+      "shatter",
+      "tangle",
+      "scratch",
+      "shrink"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct option: 'It's advisable to ________' is a phrase used when ________.",
+    "choices": [
+      "finishing a set of instructions",
+      "giving advice on what to do",
+      "warning against a dangerous action",
+      "explaining what is forbidden"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Fill in the blank: We've run ________ of toothpaste — can you buy some on your way home?",
+    "choices": [
+      "across",
+      "up",
+      "out",
+      "down"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Choose the correct word: With ________ phrasal verbs, the verb and particle cannot be separated.",
+    "choices": [
+      "separable",
+      "inseparable",
+      "regular",
+      "compound"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Fill in the blank: ________ nearly all the students agreed that new seating was urgently needed.",
+    "choices": [
+      "Very few",
+      "None of",
+      "Hardly any",
+      "Almost"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct article: Save ________ Pacific Ocean! (from a campaign notice)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: The whole floor was wet, so I quickly ________ the water with a mop.",
+    "choices": [
+      "swept up",
+      "mopped up",
+      "wiped down",
+      "did up"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct form: He was required ________ proper qualifications before starting the job.",
+    "choices": [
+      "getting",
+      "get",
+      "to get",
+      "gets"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: Professor Ellen Pader is from the University of ________.",
+    "choices": [
+      "California",
+      "Texas",
+      "Massachusetts",
+      "New York"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct option: The phrase 'There is no need to ________' is used when ________.",
+    "choices": [
+      "giving strong advice",
+      "telling someone something is unnecessary",
+      "warning about a dangerous action",
+      "finishing a set of instructions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: The passive house uses ________ energy from the sun for heating water.",
+    "choices": [
+      "digital",
+      "solar",
+      "thermal",
+      "wind"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Choose the correct word: 'Make sure you don't ________' is a phrase for explaining what ________ in a set of instructions.",
+    "choices": [
+      "to do first",
+      "not to do",
+      "to avoid saying",
+      "to repeat"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Fill in the blank: She ________ to call me. What happened?",
+    "choices": [
+      "was supposed",
+      "was managed",
+      "was succeeded",
+      "was obliged"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Choose the correct article: I live in ________ flat near the city centre in Amman.",
+    "choices": [
+      "the",
+      "an",
+      "a",
+      "no article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Fill in the blank: The dust ________ needs to be emptied after you sweep the floor.",
+    "choices": [
+      "cloth",
+      "pan",
+      "brush",
+      "tape"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Choose the correct option: 'It can rain heavily in winter.' This sentence expresses ________.",
+    "choices": [
+      "obligation",
+      "prohibition",
+      "general possibility",
+      "specific past ability"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Fill in the blank: The report mentioned that opinions were ________ about whether a smart TV should be installed.",
+    "choices": [
+      "shared",
+      "agreed",
+      "divided",
+      "collected"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Choose the correct article: ________ moon shone down on the Wadi Rum that night.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: The coffee splashed all over the wall! I quickly ________ it with a damp cloth.",
+    "choices": [
+      "swept up",
+      "mopped up",
+      "wiped down",
+      "came across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'We might go for a meal later.' This sentence expresses ________.",
+    "choices": [
+      "obligation",
+      "prohibition",
+      "ability",
+      "uncertain future intention"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: The ________ majority of students were concerned that adding lockers would make the room feel cramped.",
+    "choices": [
+      "large",
+      "vast",
+      "great",
+      "entire"
+    ],
+    "correct_answer": "b"
+  }
+]

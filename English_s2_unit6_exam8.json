@@ -1,0 +1,443 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: The two flats are ________ the same price — there's almost no difference.",
+    "choices": [
+      "nowhere near",
+      "nothing like",
+      "far",
+      "way"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: She loves to ________ — she has lived in seven different countries in the past five years.",
+    "choices": [
+      "settle down",
+      "put down roots",
+      "be on the move",
+      "work remotely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: After the earthquake, many residents were forced to live in ________ temporary shelters with very little space.",
+    "choices": [
+      "densely populated",
+      "medium-sized",
+      "excess",
+      "confined"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: My cousin managed ________ to a new city and quickly made many friends.",
+    "choices": [
+      "moving",
+      "to move",
+      "move",
+      "in moving"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the passage and answer the question.\n\n'Living in a compact home might work for one, or even two people, but what about when you are obliged to compete for space with several others? The experiment shows that although some privacy is essential, people in confined spaces get on better when they spend more time together rather than retreating to their own private or personal space.'\n\nWhat was the main finding of the NASA experiment about people in confined spaces?",
+    "choices": [
+      "Privacy is the most important factor for wellbeing",
+      "People get on better when they spend more time together",
+      "Smaller spaces cause conflict between crew members",
+      "People prefer to work alone in confined conditions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: The report uses the linker '________ wall colour' to introduce a new section topic.",
+    "choices": [
+      "About",
+      "Related to",
+      "Regarding",
+      "Concerning to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: The fish tank glass ________ when it was knocked off the table.",
+    "choices": [
+      "tangled",
+      "shrunk",
+      "scratched",
+      "shattered"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct modal: People ________ park their cars here. There are clear signs prohibiting it.",
+    "choices": [
+      "don't have to",
+      "can't",
+      "needn't",
+      "shouldn't"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: I prefer ________ coffee to tea in the morning. (general preference)",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct phrasal verb: When you move into a new flat, you often need to ________ it to make it feel more like home.",
+    "choices": [
+      "sweep up",
+      "wipe down",
+      "do up",
+      "come across"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: The sentence 'All he did ________ touch it and it broke' is an emphatic structure.",
+    "choices": [
+      "is",
+      "were",
+      "was",
+      "has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct option: 'She ________ picking up the language quickly, even though she had no previous experience.'",
+    "choices": [
+      "managed to",
+      "succeeded in",
+      "could to",
+      "was able in"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Fill in the blank: Use ________ tape to mark straight lines on the wall before painting.",
+    "choices": [
+      "dustpan",
+      "dishcloth",
+      "masking",
+      "carpet"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct article: ________ 1950s were known as a decade of great social change.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Fill in the blank: The tiny home movement shows that for some people, a small space is not a problem but a ________ choice.",
+    "choices": [
+      "lifestyle",
+      "practical",
+      "financial",
+      "social"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct word: 'Students are ________ to keep noise to a minimum after 10 p.m.' (hostel rule)",
+    "choices": [
+      "managed",
+      "succeeded",
+      "required",
+      "allowed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Fill in the blank: My aunt and uncle live in ________ small house in ________ country.",
+    "choices": [
+      "a / a",
+      "the / the",
+      "a / the",
+      "the / a"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct option: 'Alia could / was able to pass her driving test.' Which option is correct when referring to a specific achievement?",
+    "choices": [
+      "could",
+      "was able to",
+      "Both are equally correct",
+      "Neither is correct"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Fill in the blank: The phrase 'carry ________ a task' means to complete or perform a task.",
+    "choices": [
+      "in",
+      "on",
+      "out",
+      "up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct article: ________ sea in the Caribbean is the bluest sea I've ever seen.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: The tiny home has become popular because people recognise the benefits of ________ small.",
+    "choices": [
+      "live",
+      "living",
+      "to live",
+      "lived"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'You ________ to sort out your recycling.' (obliged by law in Sweden)",
+    "choices": [
+      "are managed",
+      "are obliged",
+      "are supposed",
+      "are required"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I soaked the cloth ________ warm soapy water and then pulled it gently to restore its shape.",
+    "choices": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct option: In the report on the student common room, ________ all students felt the seating was in bad condition.",
+    "choices": [
+      "very few",
+      "hardly any",
+      "none of",
+      "nearly"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Fill in the blank: The passive house keeps heat inside the house, just like ________ jumper keeps you warm in winter.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "Choose the correct option: 'We've decided to do up my little sister's bedroom as a surprise.' What does 'do up' mean here?",
+    "choices": [
+      "clean thoroughly",
+      "decorate and renovate",
+      "furnish with new items",
+      "reduce the size of"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Fill in the blank: The NASA experiment habitat has had five 'missions' so far, each lasting between six and ________ months.",
+    "choices": [
+      "eight",
+      "ten",
+      "twelve",
+      "eighteen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Choose the correct option: 'I would strongly ________ asking all students to vote on the question of the smart TV.'",
+    "choices": [
+      "say",
+      "think",
+      "recommend",
+      "believe"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Fill in the blank: 'May I ________ a question?' is an example of asking for permission politely.",
+    "choices": [
+      "ask",
+      "asking",
+      "to ask",
+      "asked"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct option: 'In Spain, you ________ eat an orange with a knife and fork.' Complete using the word SUPPOSED.",
+    "choices": [
+      "are supposed eating",
+      "are supposed to eat",
+      "supposed to eat",
+      "are supposed eat"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Fill in the blank: ________ half of the students had no strong feelings about the wall colour, according to the report.",
+    "choices": [
+      "Around three quarters",
+      "Approximately",
+      "Most",
+      "All"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct option: 'You should spend less on clothes and more on healthy food.' Cross out 'the' where it is NOT correct. Which version is right?",
+    "choices": [
+      "spend less on the clothes and more on healthy food",
+      "spend less on clothes and more on the healthy food",
+      "spend less on the clothes and more on the healthy food",
+      "spend less on clothes and more on healthy food"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: The lawnmower broke ________ last week — can you try to fix it?",
+    "choices": [
+      "up",
+      "in",
+      "out",
+      "down"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'He was able to phone.' is used instead of 'He could phone' because ________.",
+    "choices": [
+      "it describes general ability in the past",
+      "it describes a specific completed action in the past",
+      "it describes future possibility",
+      "it expresses obligation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: In report writing, 'Some people commented ________ the seating was uncomfortable' is a way to report opinions.",
+    "choices": [
+      "about",
+      "that",
+      "how",
+      "which"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct article: ________ Statue of Liberty is closed for maintenance today.",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Fill in the blank: We need to ________ of the old sofa. Nobody wants it and it takes up too much space.",
+    "choices": [
+      "get rid",
+      "come across",
+      "sweep up",
+      "mop up"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "Choose the correct option: 'It's significantly colder in England in winter than in Jordan.' Rewrite using the word SIGNIFICANTLY: 'England is ________ colder in winter than Jordan.'",
+    "choices": [
+      "marginally",
+      "slightly",
+      "significantly",
+      "nowhere near"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Fill in the blank: The best solution would ________ to be to replace the seating and repaint the walls.",
+    "choices": [
+      "think",
+      "believe",
+      "seem",
+      "appear to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Choose the correct article: They drove to ________ mountains and went hiking every weekend.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "c"
+  }
+]
+

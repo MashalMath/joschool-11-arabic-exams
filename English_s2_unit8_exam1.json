@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The Internet of Things refers to machines which gather, store and analyse data and can ________ it to the Internet.",
+    "choices": [
+      "download",
+      "upload",
+      "delete",
+      "block"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "In a smart house, the front door opens with a ________.",
+    "choices": [
+      "password",
+      "PIN number",
+      "digital fingerprint",
+      "voice command"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "A smartwatch is an example of a ________ because it can be worn on the body.",
+    "choices": [
+      "household appliance",
+      "wearable",
+      "sensor",
+      "smart device"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Sensors which can monitor your heart rate could be ________ in your body.",
+    "choices": [
+      "installed",
+      "embedded",
+      "uploaded",
+      "tracked"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Some people are concerned that it is easy to ________ into a self-driving car.",
+    "choices": [
+      "crash",
+      "break",
+      "hack",
+      "log"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "A smart fridge that keeps grocery lists is an example of a ________.",
+    "choices": [
+      "wearable",
+      "sensor",
+      "household appliance",
+      "smart tracker"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Increasingly, smart devices use ________ software rather than a PIN.",
+    "choices": [
+      "tracking",
+      "malfunction",
+      "facial recognition",
+      "embedding"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "The word 'alert' as a verb means to ________.",
+    "choices": [
+      "track the movement of something",
+      "warn or notify someone of a possible danger or problem",
+      "embed a device inside the body",
+      "connect devices to the Internet"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "The word 'malfunction' means ________.",
+    "choices": [
+      "a new software update",
+      "a type of wearable sensor",
+      "a fault that prevents something from working correctly",
+      "a method of uploading data"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Overall, there has been a ________ rise in the number of IoT devices used globally.",
+    "choices": [
+      "dramatic",
+      "sudden",
+      "steady",
+      "slight"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "In Eastern Europe, the number of IoT devices pretty much ________ between 2015 and 2018.",
+    "choices": [
+      "went up dramatically",
+      "stayed the same",
+      "declined sharply",
+      "grew slightly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "When describing trends, 'The graph ________ the number of connected devices in six different areas' — which verb is correct?",
+    "choices": [
+      "describes",
+      "illustrates",
+      "explains",
+      "presents"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Which phrase correctly describes a downward trend?",
+    "choices": [
+      "The number of users rose steadily",
+      "Sales went up dramatically",
+      "The number declined sharply",
+      "There has been a steady growth"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "An 'early adopter' is a person who ________.",
+    "choices": [
+      "waits for prices to drop before buying technology",
+      "uses a new product before other people",
+      "refuses to use new technology",
+      "buys second-hand technology"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "In the article 'Early Adopter or Laggard?', buying state-of-the-art technology is ________.",
+    "choices": [
+      "cheap and accessible",
+      "free for early adopters",
+      "expensive",
+      "always worth it"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "In the article 'Early Adopter or Laggard?', a 'laggard' is someone whose phone is so old they can't even ________ on it.",
+    "choices": [
+      "type",
+      "swipe",
+      "call",
+      "charge"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "New devices often come with ________ issues, so you may need to buy new adaptors.",
+    "choices": [
+      "functionality",
+      "compatibility",
+      "upgrade",
+      "malfunction"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "In the article 'Early Adopter or Laggard?', being a pioneer means dealing with any ________ that manufacturers couldn't predict.",
+    "choices": [
+      "upgrades and features",
+      "bugs or glitches",
+      "compatibility options",
+      "memory issues"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "The word 'obsolete' means ________.",
+    "choices": [
+      "most modern",
+      "not in use anymore because a newer invention exists",
+      "having small technical problems",
+      "able to work with other devices"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "According to the Active Vocabulary section, an 'appliance' is ________.",
+    "choices": [
+      "any small handheld device",
+      "software used on computers",
+      "something electrical used in the house",
+      "a wearable technology device"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "In the VR article, ASD stands for ________.",
+    "choices": [
+      "Automated Sensor Device",
+      "Autism Spectrum Disorder",
+      "Advanced Smart Display",
+      "Artificial Sensory Detection"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'One of the key issues for many individuals with autism is a hypersensitivity to sights, sounds, smells and ________.' Which word completes the sentence?",
+    "choices": [
+      "colours",
+      "movement",
+      "tastes",
+      "temperatures"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Virtual Reality is a computer-generated simulation of an experience, which is seen in 3D.' VR is described as a ________ simulation.",
+    "choices": [
+      "computer-generated",
+      "digitally enhanced",
+      "manually created",
+      "sensor-based"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Read from the VR article: 'So far, it has had six million views, and the comments certainly indicate that it's having a powerful effect.' What had six million views?",
+    "choices": [
+      "A documentary about self-driving cars",
+      "The National Autistic Society's VR experience video",
+      "Chris Milk's TED talk about VR",
+      "A social media campaign about autism"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Read from the VR article: 'Those people who had been chopping down trees reached for fewer paper napkins.' This experiment shows that VR ________.",
+    "choices": [
+      "makes people feel physically tired",
+      "can subconsciously influence real-world behaviour",
+      "teaches people about environmental science",
+      "improves memory and concentration"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'A major difference between simulated and actual experiences is that we volunteer to put on the VR headset. We can ________ at any time.' Which phrasal verb fits?",
+    "choices": [
+      "break off",
+      "end up",
+      "fit in",
+      "hold down"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "The phrasal verb 'hold down a job' means ________.",
+    "choices": [
+      "to press something firmly",
+      "to keep a job over time",
+      "to feel part of a group at work",
+      "to stop working immediately"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The phrasal verb 'fit in' means ________.",
+    "choices": [
+      "to encounter a problem",
+      "to end up doing something",
+      "to feel accepted as part of a group",
+      "to break off from an activity"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read from 'Our Personal Data': 'It is estimated that seven in ten Internet users are happy to give away personal data while browsing online.' What fraction of users are happy to share their data?",
+    "choices": [
+      "Five in ten",
+      "Six in ten",
+      "Seven in ten",
+      "Eight in ten"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read from 'Our Personal Data': 'Another positive aspect of data tracking is that people can be automatically logged onto a site, rather than having to enter a password.' This is an argument ________ data tracking.",
+    "choices": [
+      "against",
+      "in favour of",
+      "unrelated to",
+      "questioning"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "In the essay 'Our Personal Data', which linker introduces a contrast with a previous idea?",
+    "choices": [
+      "Furthermore",
+      "Nevertheless",
+      "Therefore",
+      "Similarly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Which sentence uses the impersonal passive correctly?",
+    "choices": [
+      "People believe that the telephone was invented by Bell",
+      "It is believed that the telephone was invented by Bell",
+      "The telephone is believing to have been invented by Bell",
+      "It believes that the telephone was invented by Bell"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Choose the correct passive form: 'Studies ________ out which claim it will revolutionise our lives.'",
+    "choices": [
+      "are carrying",
+      "carry",
+      "are being carried",
+      "have carried"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'These are thought to have been the first words ever spoken on a telephone.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a: it + passive + that clause",
+      "Pattern b: subject + passive + to-infinitive",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Active voice with a reporting verb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'It is believed that Alexander became interested in studying sound because both his wife and his mother were deaf.' Which impersonal passive pattern is this?",
+    "choices": [
+      "Pattern c: subject + passive + perfect infinitive",
+      "Pattern a: it + passive + that clause",
+      "Pattern b: subject + passive + to-infinitive",
+      "Active reporting structure"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'He is widely reported to be the inventor of the telephone.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a: it + passive + that clause",
+      "Pattern b: subject + passive + to-infinitive",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Active reporting structure"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "According to the Life Skills section on social media, what should you do if you are being cyberbullied?",
+    "choices": [
+      "Delete your social media accounts immediately",
+      "Tell a teacher or parent and try to block the person",
+      "Reply to the bully directly online",
+      "Change your username and password"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "According to the Life Skills section on social media, studies have shown that spending too much time on social media can affect your ________.",
+    "choices": [
+      "vision",
+      "appetite",
+      "sleep",
+      "memory"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "According to the writing section on for-and-against essays, the conclusion should ________.",
+    "choices": [
+      "introduce new arguments not mentioned before",
+      "only present arguments against the topic",
+      "summarise and give your opinion",
+      "repeat the introduction word for word"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "In the for-and-against essay writing box, 'whereas' is classified as a ________.",
+    "choices": [
+      "conjunction of concession",
+      "adverb of contrast",
+      "preposition of contrast",
+      "conjunction of contrast"
+    ],
+    "correct_answer": "d"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "These young men, who are often ill-equipped themselves and poorly paid, work daily in dangerous conditions to help climbers achieve their goals.\n\nThe underlined relative pronoun 'who' refers to:",
+    "choices": [
+      "ill-equipped",
+      "the young men",
+      "the help of the guides",
+      "dangerous conditions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "I've been trying to persuade people in my community to help an environmental charity by donating just a few coins each week. At first people were not keen, but my persistence has paid off and now a lot of people give me a little money.\n\nWhy does the author keep asking people for donations?",
+    "choices": [
+      "Because they want a lot of money.",
+      "Because they believe small donations can help.",
+      "Because they enjoy talking to people.",
+      "Because they want to stop the charity."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "As far as I'm concerned, social media is the obvious way to get your message across. All you need to do is to pay for a good Internet connection which most people have anyway these days.\n\nThe underlined relative pronoun 'which' refers to:",
+    "choices": [
+      "Internet",
+      "most people",
+      "social media",
+      "good Internet connection"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Last year, I joined a group that wanted to clean up one of the beaches near Aqaba, where I live. I soon realised that volunteering like this helped but didn't solve the problem. The only way is to change tourists' attitudes to litter.\n\nWhat did the author realise about volunteering?",
+    "choices": [
+      "It completely solved the litter problem.",
+      "It helped but didn't solve the problem.",
+      "It made tourists more responsible.",
+      "It was not helpful at all."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The word which means 'an organisation started for a specific purpose, such as research' is:",
+    "choices": [
+      "commission",
+      "foundation",
+      "proceeds",
+      "intern"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "The word which means 'money that is paid to a salesperson for selling something' is:",
+    "choices": [
+      "foundation",
+      "integral",
+      "commission",
+      "proceeds"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The word which means 'a (usually young) person who does a job to get experience of it and to learn' is:",
+    "choices": [
+      "anonymous",
+      "intern",
+      "industrious",
+      "ill-equipped"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "The word which means 'very important to, or an essential part of, something' is:",
+    "choices": [
+      "integral",
+      "industrious",
+      "anonymous",
+      "foundation"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "Use the words to complete the phrase: ________ pipes.",
+    "choices": [
+      "environmental",
+      "natural",
+      "broken",
+      "contaminate"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Use the words to complete the phrase: ________ disasters.",
+    "choices": [
+      "broken",
+      "natural",
+      "environmental",
+      "install"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Use the words to complete the phrase: ________ problems.",
+    "choices": [
+      "natural",
+      "broken",
+      "environmental",
+      "install"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The Jordanian Royal Family helps to move people out of ________.",
+    "choices": [
+      "facilities",
+      "opportunities",
+      "poverty",
+      "environment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The Jordanian Royal Family helps refugees to find ________ as well as with their education, finance and work opportunities.",
+    "choices": [
+      "poverty",
+      "opportunities",
+      "homes",
+      "facilities"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Complete the word building table. The adjective form of the verb 'institutionalise' is:",
+    "choices": [
+      "institution",
+      "institutional",
+      "institutionalising",
+      "institutionalised"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Complete the word building table. The verb form of the noun 'expansion' is:",
+    "choices": [
+      "expansive",
+      "expanding",
+      "expand",
+      "expanse"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Complete the word building table. The adjective form of 'discrimination' is:",
+    "choices": [
+      "discriminate",
+      "discriminatory",
+      "discrimination",
+      "discriminated"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The word 'set out' means:",
+    "choices": [
+      "put in position",
+      "begin a task with a particular aim or goal",
+      "use evidence to show the truth",
+      "take measures to check something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "The word 'set up' means:",
+    "choices": [
+      "begin a task with a particular aim or goal",
+      "use evidence to show the truth",
+      "put in position",
+      "refer to what is being discussed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "The word 'prove' means:",
+    "choices": [
+      "take measures to check something",
+      "use evidence to show the truth",
+      "begin a task with a particular aim or goal",
+      "put in position"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Every day, ________ 10,000 acres of trees are lost.",
+    "choices": [
+      "above",
+      "put in",
+      "over",
+      "intern"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "'Ahmad drinks tea daily.'\nShe said that ________.",
+    "choices": [
+      "Ahmad drinks tea daily.",
+      "Ahmad drunk tea daily.",
+      "Ahmad drank tea daily.",
+      "Ahmad had drunk tea daily."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "'Sami is a doctor.'\nHuda said that ________.",
+    "choices": [
+      "Sami is a doctor.",
+      "Sami was a doctor.",
+      "Sami has been a doctor.",
+      "Sami had been a doctor."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'She doesn't speak English.'\nHe said that ________.",
+    "choices": [
+      "she doesn't speak English.",
+      "she didn't speak English.",
+      "she hadn't spoken English.",
+      "she won't speak English."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "'Muna didn't study well.'\nAli said that ________.",
+    "choices": [
+      "Muna didn't study well.",
+      "Muna hasn't studied well.",
+      "Muna hadn't studied well.",
+      "Muna wouldn't study well."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "'She should go out.'\nHe said that ________.",
+    "choices": [
+      "she should go out.",
+      "she would go out.",
+      "she must go out.",
+      "she could go out."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "'How long have you been studying English?'\nAhmad asked us ________.",
+    "choices": [
+      "how long we had been studying English.",
+      "for how long we had been studying English.",
+      "how long had we been studying English.",
+      "how long we was studying English."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "'Why didn't you attend the party?'\nHe asked me ________.",
+    "choices": [
+      "why I hadn't attended the party.",
+      "why I didn't attend the party.",
+      "the reason why I hadn't attended the party.",
+      "why I don't attend the party."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "'Leave the room.'\nShe told me ________.",
+    "choices": [
+      "leave the room.",
+      "to leave the room.",
+      "leaving the room.",
+      "I leave the room."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "'Don't eat this cake.'\nHis mother told him ________.",
+    "choices": [
+      "to eat the cake.",
+      "not to eat the cake.",
+      "he didn't eat the cake.",
+      "he eats the cake."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Laith: 'You should get more exercise, Omar.'\nLaith ________.",
+    "choices": [
+      "encouraged Omar get more exercise.",
+      "accused Omar to get more exercise.",
+      "encouraged Omar to get more exercise.",
+      "advise Omar to get more exercise."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Nour: 'I hear you've graduated, Samia. Congratulations!'\nNour ________.",
+    "choices": [
+      "congratulated Samia of her graduation.",
+      "advised Samia on her graduation.",
+      "congratulated Samia on her graduation.",
+      "suggested Samia on her graduation."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Hamed: 'I'll always remember you!'\nHamed ________.",
+    "choices": [
+      "promised that he would always remember me.",
+      "insisted that he would always remembering me.",
+      "promised that he will always remembered me.",
+      "encouraged that he always remember me."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "The conductor ________ if he could see our tickets.",
+    "choices": [
+      "asking",
+      "said",
+      "told",
+      "asked"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "The security guard ________ us not to enter the building.",
+    "choices": [
+      "asking",
+      "told",
+      "said",
+      "tell"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "The police praised Imad ________ saving the man's life.",
+    "choices": [
+      "on",
+      "of",
+      "for",
+      "with"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The musician objected ________ playing only his hits at the concert.",
+    "choices": [
+      "that",
+      "to",
+      "be",
+      "above"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Which phrase expresses a COUNTER opinion?",
+    "choices": [
+      "Without a shadow of a doubt, ...",
+      "I'm inclined to think that ...",
+      "It's a good idea in principle, but ...",
+      "It goes without saying that ..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "'I'm really sorry I criticised your idea.'\nRola ________.",
+    "choices": [
+      "insisted for criticising my idea.",
+      "apologised for criticising my idea.",
+      "denied criticising my idea.",
+      "accused criticising my idea."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nYusuf's son, Abbas Yusuf, has continued his father's tradition but in a slightly different way. Every day, when it is getting dark, he calls out to attract the hyenas. Then he picks up some meat and holds it out for them. The animals come up to him and take the meat from his hands.\n\nWhat does Abbas Yusuf do every day?",
+    "choices": [
+      "He hunts the hyenas to keep people safe.",
+      "He calls out to attract hyenas and feeds them meat from his hands.",
+      "He puts food behind the city walls for the hyenas.",
+      "He trains tourists to feed the hyenas safely."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nPeople explain that nobody in Harar has been attacked by a hyena for 200 years, and some people even say they are useful around the city because they help to eat some of the rubbish from the rubbish tips, helping to discourage flies and other insects from breeding diseases.\n\nAccording to the passage, how long has nobody in Harar been attacked by a hyena?",
+    "choices": [
+      "100 years",
+      "150 years",
+      "200 years",
+      "250 years"
+    ],
+    "correct_answer": "c"
+  }
+]

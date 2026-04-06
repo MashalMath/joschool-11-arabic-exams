@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "In the IoT infographic, the SECURITY category gives the example of ________.",
+    "choices": [
+      "smart locks",
+      "animal tracker",
+      "wearable cameras",
+      "facial recognition doors"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "In the IoT infographic, the VEHICLES category gives the example of ________.",
+    "choices": [
+      "smartwatches",
+      "self-driving cars",
+      "animal trackers",
+      "automatic lights"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "In the IoT infographic, the HEALTH category gives the example of ________.",
+    "choices": [
+      "digital fingerprint doors",
+      "self-driving cars",
+      "embedded heart rate and blood pressure sensors",
+      "animal trackers"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "In the passive grammar, which sentence uses the Present Continuous passive correctly?",
+    "choices": [
+      "The invention welcomed by coffee-lovers everywhere",
+      "The invention is being welcomed by coffee-lovers everywhere",
+      "The invention has been welcomed by coffee-lovers everywhere",
+      "The invention was welcomed by coffee-lovers everywhere"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read: 'When Aisha realised she had been followed to her front door, she quickly phoned the police.' This uses which passive tense?",
+    "choices": [
+      "Present Perfect passive",
+      "Past Simple passive",
+      "Past Perfect passive",
+      "Past Continuous passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "In the speaking box for describing trends, which word means a small increase or change?",
+    "choices": [
+      "dramatically",
+      "sharply",
+      "slightly",
+      "steadily"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The number of IoT devices in the Middle East and Africa ________ between 2018 and 2021.",
+    "choices": [
+      "declined sharply",
+      "grew slightly",
+      "stayed the same",
+      "went up dramatically"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "To summarise data in a trend description, which phrase is correct?",
+    "choices": [
+      "The graph is going up and down",
+      "Overall, the trend in sales is upwards",
+      "During the period, nothing happened",
+      "The number stayed and remained"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "The word 'functionality' means ________.",
+    "choices": [
+      "the design of a device's exterior",
+      "everything a piece of software can do",
+      "the ability to connect to other devices",
+      "how long a battery lasts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "According to the Active Vocabulary section, 'dated' and 'old-fashioned' both mean 'not modern', but 'dated' has a ________ connotation.",
+    "choices": [
+      "positive",
+      "neutral",
+      "negative",
+      "technical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which word correctly completes: 'The kitchen drawer is full of handy ________ to slice onions or peel eggs.'?",
+    "choices": [
+      "appliances",
+      "devices",
+      "gadgets",
+      "sensors"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Which word correctly completes: 'We will need a van to move the kitchen ________, such as the freezer and cooker.'?",
+    "choices": [
+      "gadgets",
+      "devices",
+      "wearables",
+      "appliances"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Which word correctly completes: 'The spy's listening ________ was hidden inside a pen.'?",
+    "choices": [
+      "appliance",
+      "gadget",
+      "device",
+      "sensor"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Read from the VR article: 'In order to help people understand what it's like to have autism, could Virtual Reality (VR) help?' The VR experience was developed by ________.",
+    "choices": [
+      "The World Health Organisation",
+      "The National Autistic Society",
+      "Chris Milk's research team",
+      "A technology company in France"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Read: 'According to Chris Milk in his TED talk, Virtual Reality connects humans to other humans in a way which can change people's ________ of each other.'",
+    "choices": [
+      "knowledge",
+      "perceptions",
+      "memories",
+      "decisions"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "The phrasal verb 'eat away at' means ________.",
+    "choices": [
+      "to consume food quickly",
+      "to gradually damage or affect someone internally",
+      "to break off from an activity",
+      "to encounter a difficulty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The phrasal verb 'end up' means ________.",
+    "choices": [
+      "to stop doing something",
+      "to feel part of a group",
+      "to eventually find yourself doing or experiencing something",
+      "to face a difficult situation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The word 'flattering' means ________.",
+    "choices": [
+      "presenting a misleading picture",
+      "presenting an attractive or positive picture of someone",
+      "presenting a realistic and honest picture",
+      "presenting an edited and artificial picture"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "The word 'enhance' means to ________.",
+    "choices": [
+      "damage or reduce quality",
+      "make something worse",
+      "improve or make something better",
+      "copy something exactly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The word 'flaws' means ________.",
+    "choices": [
+      "attractive features",
+      "digital filters",
+      "imperfections or faults",
+      "facial characteristics"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The word 'curate' in the context of social media means to ________.",
+    "choices": [
+      "delete unwanted photos automatically",
+      "organise and manage what you share with the world",
+      "filter photos using a smartphone app",
+      "upload photos to a server immediately"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'He is widely reported to be the inventor of the telephone.' Which pattern of impersonal passive is this?",
+    "choices": [
+      "Pattern a: it + passive + that clause",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Pattern b: subject + passive + to-infinitive",
+      "Active reporting structure"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "In March 1876, Alexander Graham Bell called his assistant ________ and spoke the first words on a telephone.",
+    "choices": [
+      "James Howard",
+      "Thomas Watson",
+      "Antonio Meucci",
+      "Elisha Gray"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read from the Bell article: 'It is estimated that there are more than ________ billion mobile phones in a world that has a population of around 8 billion people.'",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "8.5"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "Read from the Bell article: 'An Italian inventor called ________ was widely reported to have invented a telephone in 1856, 20 years before Alexander.'",
+    "choices": [
+      "Guglielmo Marconi",
+      "Leonardo Fibonacci",
+      "Antonio Meucci",
+      "Elisha Gray"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'It is believed that Alexander became interested in studying sound because both his wife and his mother were ________.'",
+    "choices": [
+      "blind",
+      "deaf",
+      "mute",
+      "ill"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Read from 'Our Personal Data': 'Another positive aspect of data tracking is that people can be automatically ________ onto a site, rather than having to enter a password.'",
+    "choices": [
+      "connected",
+      "logged",
+      "signed",
+      "linked"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "In the for-and-against essay writing section, 'whereas' is classified as a ________.",
+    "choices": [
+      "conjunction of concession",
+      "adverb of contrast",
+      "preposition of contrast",
+      "conjunction of contrast"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "Which linker is classified as a 'preposition of contrast'?",
+    "choices": [
+      "however",
+      "although",
+      "in spite of",
+      "whereas"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "According to the Life Skills section on social media, when you get a friend request from someone you don't know in real life, you should ________.",
+    "choices": [
+      "accept it and monitor their activity",
+      "ask a friend about the person first",
+      "not accept it",
+      "report it to the platform only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Rewrite using Pattern (a): 'Experts expect that more people will own phones in the future.' → It ________ that more people will own phones in the future.",
+    "choices": [
+      "is expected",
+      "expects",
+      "was expecting",
+      "has expected"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "Which sentence correctly uses the passive infinitive?",
+    "choices": [
+      "The company expects to launch their invention next year",
+      "There's one drawback: it needs to be filled with coffee and water first",
+      "The transmitter worn on the body sends messages",
+      "You can switch it on by text message"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Read: 'Nobody likes being told about their bad habits, especially by a computer!' This uses the ________.",
+    "choices": [
+      "passive infinitive",
+      "passive gerund",
+      "present perfect passive",
+      "modal passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "According to the Life Skills text on managing your online image, to 'bury' a negative post you should ________.",
+    "choices": [
+      "delete all your accounts",
+      "add a lot of new positive posts to push it down search results",
+      "report it to the website administrator",
+      "make all your posts private"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'It is going to be shown at the New Inventors show next month.' This uses which passive form?",
+    "choices": [
+      "will future passive",
+      "going to future passive",
+      "present continuous passive",
+      "modal passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'It can be switched on by text message.' This uses which passive form?",
+    "choices": [
+      "Present Simple passive",
+      "Future passive",
+      "Modal passive",
+      "Present Perfect passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "In passive sentences, when we mention the agent (the person or thing doing the action), we use the word ________.",
+    "choices": [
+      "with",
+      "by",
+      "from",
+      "through"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'Fresh Brew was created by a British coffee company.' Why is the agent mentioned in this passive sentence?",
+    "choices": [
+      "It is obvious who created it",
+      "It is unknown who created it",
+      "It is new and important information",
+      "The agent is unimportant"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "According to the Life Skills section on social media, privacy settings should be used to ________.",
+    "choices": [
+      "block all incoming messages",
+      "only allow trusted people to see what you post",
+      "prevent your phone from being tracked",
+      "remove past posts automatically"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "The word 'deceptive' means ________.",
+    "choices": [
+      "honest and transparent",
+      "misleading or giving a false impression",
+      "attractive and well-presented",
+      "natural and unedited"
+    ],
+    "correct_answer": "b"
+  }
+]

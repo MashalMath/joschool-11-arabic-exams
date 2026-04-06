@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'Increasingly, smart devices use a digital fingerprint or facial recognition software rather than a PIN.' A PIN in this context is ________.",
+    "choices": [
+      "a personal identification number used as a security code",
+      "a type of biometric scanner",
+      "a fingerprint identification method",
+      "a smart lock system"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'You'll have several remote devices that are either wearables or actually embedded in your body to alert your doctor to any medical problems.' The purpose of these devices is to ________.",
+    "choices": [
+      "connect you to the internet at all times",
+      "notify your doctor about medical problems",
+      "track your daily exercise routine",
+      "replace hospital visits entirely"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'When we last heard, the mirror was still being developed in a lab in France.' This uses which passive tense?",
+    "choices": [
+      "Past Simple passive",
+      "Past Continuous passive",
+      "Past Perfect passive",
+      "Present Continuous passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'A transmitter is worn on the body.' This is an example of the ________ passive.",
+    "choices": [
+      "Present Continuous",
+      "Present Perfect",
+      "Present Simple",
+      "Future Simple"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "In the passive grammar section, we can use ________ or 'they' to refer to people in general instead of the passive in informal language.",
+    "choices": [
+      "it",
+      "one",
+      "you",
+      "we"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "In the passive letter exercise, choose the correct passive: 'Secondly, the watch clearly ________ before being sent from your factory.' (not/check)",
+    "choices": [
+      "was not checked",
+      "has not been checked",
+      "is not checked",
+      "had not checked"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'There was a dramatic increase in the number of users.' → 'The number of users ________.'",
+    "choices": [
+      "went up dramatically",
+      "increased slightly",
+      "rose steadily",
+      "declined sharply"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "In the trend description, 'There has been a ________ increase in the numbers of IoT devices used globally' — what word replaces 'steady rise'?",
+    "choices": [
+      "slow",
+      "dramatic",
+      "gradual",
+      "sudden"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Which phrase correctly describes a downward trend?",
+    "choices": [
+      "The number of users rose steadily",
+      "Sales went up quite dramatically",
+      "The number decreased sharply",
+      "There has been a steady growth"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "In the article 'Early Adopter or Laggard?', what happens to a new device eventually, even if you are an early adopter?",
+    "choices": [
+      "It improves significantly",
+      "It becomes obsolete",
+      "It gets repaired for free",
+      "It becomes compatible with everything"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "In the vocabulary crossword, the clue 'Small problems or faults that prevent something from working well' matches the word ________.",
+    "choices": [
+      "bugs",
+      "malfunctions",
+      "glitches",
+      "crashes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "In the vocabulary crossword, 'Make a copy of information held on a computer or other device' matches the phrase ________.",
+    "choices": [
+      "upload",
+      "back up",
+      "download",
+      "sync"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read: 'If you switch brands of gaming console, none of your old games will work.' This is an example of a ________ issue.",
+    "choices": [
+      "functionality",
+      "malfunction",
+      "compatibility",
+      "upgrade"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Read from the VR article: 'This is a description of what it might feel like for some people with ASD to go to a shopping centre.' What is ASD?",
+    "choices": [
+      "A type of advanced sensory device",
+      "Autism Spectrum Disorder",
+      "Automated Sensory Detection",
+      "A type of hearing condition"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Read from the VR article: 'Virtual Reality is a computer-generated simulation of an experience, which is seen in 3D, and which can feel almost exactly like really being in that situation.' VR is described as a ________.",
+    "choices": [
+      "computer-generated experience seen in 2D",
+      "computer-generated simulation seen in 3D",
+      "digital recreation seen through screens",
+      "sensor-based physical environment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Read from the VR article: 'So far, it has had six million views.' What had six million views?",
+    "choices": [
+      "A documentary about self-driving cars",
+      "The National Autistic Society's VR autism experience video",
+      "Chris Milk's TED talk",
+      "A social media campaign"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "In the phrasal verbs exercise, 'The noise was too much for her and she finished by running from the room' should be replaced by ________.",
+    "choices": [
+      "broke off",
+      "fitted in",
+      "came up against",
+      "ended up"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "In the phrasal verbs exercise, 'You can't expect to keep a job if you're always late!' should be replaced by ________.",
+    "choices": [
+      "hold down a job",
+      "fit in a job",
+      "go through a job",
+      "take up a job"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'People started taking selfies to manage and curate what they wanted to tell the world about their physical attributes, their personality, their relationships and their hobbies.' What does 'manage and curate' suggest?",
+    "choices": [
+      "People share everything about their lives spontaneously",
+      "People carefully control and select their online self-presentation",
+      "People rely on technology to manage their social lives",
+      "People use social media to manage their professional careers"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'Some people don't want photos of themselves to look like selfies.' Which of these is stated as a FACT (not an opinion) in the selfies section?",
+    "choices": [
+      "Some people don't want photos of themselves to look like selfies",
+      "It's fashionable to employ a local photographer to capture perfect images",
+      "Young people reject most of the photos which they take of themselves",
+      "People who care about their image don't worry how much they spend"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'You can add filters to enhance how you look, remove any flaws or even change the shape or size of your facial features.' Which of these is an example of 'enhancing' a photo?",
+    "choices": [
+      "Posting the photo immediately without editing",
+      "Adding filters to improve your appearance",
+      "Deleting the photo from your phone",
+      "Sharing the photo with only close friends"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "The word 'influential' means ________.",
+    "choices": [
+      "attractive or interesting",
+      "positive and cheerful",
+      "able to change what people do or think",
+      "wanting something that someone else has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "The word 'endless' means ________.",
+    "choices": [
+      "able to change what people think",
+      "attractive or interesting",
+      "in large quantities or for a very long time",
+      "positive and cheerful"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'It was once believed that guided missiles would be used to deliver post.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern b",
+      "Pattern c",
+      "Pattern a",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "In the grammar exercises, 'Over half a million passwords are thought ________ stolen in the hack.'",
+    "choices": [
+      "to be",
+      "to have been",
+      "to being",
+      "being"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "In the grammar exercises, 'It has often been ________ that the world was a simpler place before people had telephones.'",
+    "choices": [
+      "claimed",
+      "remarked",
+      "believed",
+      "expected"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Read from the Bell article: 'Today, it is estimated that there are more phones in the world than people!' This uses which impersonal passive pattern?",
+    "choices": [
+      "Pattern b",
+      "Pattern c",
+      "Pattern a",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "In the for-and-against essay structure, the INTRODUCTION should ________.",
+    "choices": [
+      "give all the arguments in favour and against",
+      "state your opinion clearly from the start",
+      "summarise the topic and outline what will be discussed",
+      "focus only on one side of the argument"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Read from 'Our Personal Data': 'Although most people are careful with data such as online banking details, many actually prefer more personalised marketing.' This sentence shows ________.",
+    "choices": [
+      "that people are careless with all their data",
+      "a contrast between careful behaviour and preference for personalisation",
+      "that all people prefer personalised marketing",
+      "that online banking is dangerous"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'There is no risk of the bathroom ________.' Which grammatical form correctly completes this sentence to mean 'flooding'?",
+    "choices": [
+      "to flood",
+      "flooded",
+      "flooding",
+      "being flooded"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "Read: 'Good cookies make websites more user-friendly. ________, some are designed to steal private information.' (however)",
+    "choices": [
+      "However, some are designed to steal private information",
+      "Although some are designed to steal private information",
+      "Despite some are designed to steal private information",
+      "In spite of some being designed to steal private information"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "According to the Life Skills matching exercise, Tip 3 'The same rules apply online as in real life' is matched with: ________.",
+    "choices": [
+      "Take steps to hide anything negative",
+      "Check your privacy settings regularly",
+      "Ask yourself if you would be comfortable with your grandmother reading it",
+      "Do a search on your name every six months"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "According to the Life Skills section on social media, users often feel others are having a better time because people tend not to post about ________.",
+    "choices": [
+      "work and school activities",
+      "being bored or doing nothing",
+      "negative personal experiences",
+      "ordinary everyday moments"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "According to the Life Skills section on social media, some phones have a setting where you can set a ________ for your social media use.",
+    "choices": [
+      "password",
+      "privacy filter",
+      "time limit",
+      "content block"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In the passive advert exercise, complete: 'Our tech engineers ________ this state-of-the-art device.' (design) — This is active voice.",
+    "choices": [
+      "have been designed",
+      "designed",
+      "were designed",
+      "are designing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In the smart doorbell advert exercise, complete: 'To activate this function, the doorbell needs ________ with one of our smart locks.' (pair)",
+    "choices": [
+      "to pair",
+      "to be paired",
+      "pairing",
+      "being paired"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "In the passive exercises, 'Celebrities' smartphones ________ regularly hacked into.' (past continuous passive)",
+    "choices": [
+      "were being",
+      "had been",
+      "are being",
+      "were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "In the impersonal passive exercises, complete: 'Five people ________ to have been injured in yesterday's accident.' (believe)",
+    "choices": [
+      "are believed",
+      "were believed",
+      "believe",
+      "are believing"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'It is claimed that wi-fi signals are harmless to birds and insects.' Which impersonal passive pattern is this?",
+    "choices": [
+      "Pattern b: subject + passive + to-infinitive",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Pattern a: it + passive + that clause",
+      "Active reporting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "According to the Life Skills section on managing your online image, employers today are very likely to look out for people who are actively ________ with others in their field of work.",
+    "choices": [
+      "competing",
+      "agreeing",
+      "engaging",
+      "connecting"
+    ],
+    "correct_answer": "c"
+  }
+]

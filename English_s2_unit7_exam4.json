@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The documentary 'Chasing Coral' follows a group of divers and scientists as they capture the damage being done to the coral reefs in our seas. What social issue does this documentary touch?",
+    "choices": [
+      "disability awareness and inclusion",
+      "climate change and its impact on the seas",
+      "poverty and homelessness",
+      "age discrimination in the workplace"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The documentary 'A Beautiful Planet' was filmed by astronauts from the International Space Station. What does it show?",
+    "choices": [
+      "How people with disabilities achieve great things",
+      "How charities help poor communities with water",
+      "How humans are changing our planet through industrialisation and clearing our forests",
+      "How coral reefs are being damaged by pollution"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The documentary 'Unconquered: Helen Keller in Her Story' was first made in 1955. What is remarkable about Helen Keller?",
+    "choices": [
+      "She climbed Mount Kilimanjaro at the age of 62.",
+      "She achieved great things despite being deaf and blind.",
+      "She started a charity to help water access in villages.",
+      "She founded a famous bakery in Detroit."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Listen to three people talking about documentary films. Statement: 'The film used a special technique to show what is actually happening.' Is this TRUE or FALSE?",
+    "choices": [
+      "True",
+      "False",
+      "Not Given",
+      "Partly True"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "Listen to three people talking about documentary films. Statement: 'The documentary will help to solve the problems of climate change.' Is this TRUE, FALSE or NOT GIVEN?",
+    "choices": [
+      "True",
+      "False",
+      "Not Given",
+      "Partly True"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Listen to three people talking about documentary films. Statement: 'Helen Keller could not see or hear when she was born.' Is this TRUE or FALSE?",
+    "choices": [
+      "True",
+      "False",
+      "Not Given",
+      "Partly True"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Helen Keller's disability did not stop her from helping other people and even writing books. Is this TRUE or FALSE?",
+    "choices": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot be determined"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "In the article 'Sacked for Being Too Old!', Oxford University introduced a rule that senior staff had to retire:",
+    "choices": [
+      "when they reached the age of 65",
+      "the September before they were 69",
+      "the year they turned 70",
+      "after working for 30 years"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "In the article 'Sacked for Being Too Old!', Professor Ewart was awarded how much compensation?",
+    "choices": [
+      "£10,000",
+      "£20,000",
+      "£30,000",
+      "£40,000"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Under age discrimination laws in the UK, it is ________ to discriminate in any way on the basis of age.",
+    "choices": [
+      "legal",
+      "compulsory",
+      "illegal",
+      "acceptable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "The word 'in fact' refers to:",
+    "choices": [
+      "what is being discussed forward",
+      "the truth of a situation, especially if we didn't expect this",
+      "a general statement about the world",
+      "a personal opinion about facts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The word 'the fact' refers to:",
+    "choices": [
+      "the truth of a situation we didn't expect",
+      "forward to what is being discussed",
+      "backward to what was already discussed",
+      "a surprising statistic"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Which suffix forms nouns? Choose the word that uses the correct suffix to form a noun.",
+    "choices": [
+      "formal (-al)",
+      "comfortable (-able)",
+      "government (-ment)",
+      "shorten (-en)"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Some countries have very high ________ and it is difficult for young people to find a job.",
+    "choices": [
+      "unemployment",
+      "employ",
+      "employee",
+      "employment"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "The Student Union is an ________ that helps students when they go to a Jordanian university.",
+    "choices": [
+      "organising",
+      "organised",
+      "organise",
+      "organisation"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "We will never accept any ________ of individuals.",
+    "choices": [
+      "persecutor",
+      "persecutory",
+      "persecution",
+      "persecute"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Should anybody feel they have suffered ________",
+    "choices": [
+      "victimhood",
+      "victim",
+      "victimization",
+      "victimless"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "An ________ will be carried out and suitable disciplinary action will be taken.",
+    "choices": [
+      "investigation",
+      "investigate",
+      "investigatory",
+      "reinvestigate"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "'We are going to be at the meeting this afternoon.'\nThey said that ________.",
+    "choices": [
+      "they are going to be at the meeting this afternoon.",
+      "they were going to be at the meeting that afternoon.",
+      "they had been going to be at the meeting that afternoon.",
+      "they will be at the meeting this afternoon."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "'Don't block the doors of the building!'\nWe ordered them ________.",
+    "choices": [
+      "not to block the doors of the building.",
+      "not block the doors of the building.",
+      "not to blocked the doors of the building.",
+      "to block the doors of the building."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "'Why can't you listen to what we are saying?'\nHe asked us ________.",
+    "choices": [
+      "why we couldn't listen to what they were saying.",
+      "why we can't listen to what they were saying.",
+      "why couldn't we listen to what they were saying.",
+      "why we couldn't listen to what we were saying."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "They said they had been waiting for hours.\nThey said \"________\"",
+    "choices": [
+      "We wait for hours.",
+      "We have been waiting for hours.",
+      "We are waiting for hours.",
+      "We waited for hours."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "She said she would leave at 5 o'clock.\nShe said \"________\"",
+    "choices": [
+      "I leave at 3 o'clock.",
+      "I will leave at 5 o'clock.",
+      "I left at 5 o'clock.",
+      "I am leaving now."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "He said he had been studying English for three years.\nHe said \"________\"",
+    "choices": [
+      "I study English for three years.",
+      "I have been studying English for three years.",
+      "I studied English for three years.",
+      "I am studying English now."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is a reporting verb pattern: verb + gerund?",
+    "choices": [
+      "offer, promise, refuse",
+      "advise, remind, warn",
+      "admit, deny, suggest",
+      "agree, explain, insist"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is a reporting verb pattern: verb + object + to-infinitive?",
+    "choices": [
+      "offer, promise, refuse",
+      "encourage, remind, warn, persuade",
+      "admit, deny, recommend",
+      "agree, explain, promise"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is a reporting verb pattern: verb + preposition + gerund?",
+    "choices": [
+      "offer, threaten, refuse",
+      "advise, remind, warn",
+      "apologise for, object to",
+      "accuse somebody of, praise somebody for"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Khalil: 'You really must come to the talk next week!'\nKhalil ________.",
+    "choices": [
+      "insisted me coming to the talk the next week.",
+      "insisted me on come to the talk the following week.",
+      "insisted you on come to the talk the following week.",
+      "insisted on me coming to the talk the following week."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "Majeda: 'It's a good idea to arrive early.'\nMajeda ________.",
+    "choices": [
+      "refused me to arrive early.",
+      "regretted me to arrive early.",
+      "advised me to arrive early.",
+      "insisted me to arrived early."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "'I was wrong.'\nMuna ________.",
+    "choices": [
+      "admitted she had been wrong.",
+      "admitted that she had had been wrong.",
+      "admitted that she have been wrong.",
+      "admitted that she has been wrong."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "The teacher: 'I think you copied the essay from the Internet.'\nThe teacher ________.",
+    "choices": [
+      "blamed me of copying the essay from the Internet.",
+      "accused me of copying the essay from the Internet.",
+      "denied me of copying the essay from the Internet.",
+      "praised me of copying the essay from the Internet."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Nasser: 'I'll work hard at university, honestly!'\nNasser ________.",
+    "choices": [
+      "insisted to work hard at university.",
+      "promised to work hard at university.",
+      "denied working hard at university.",
+      "suggested work hard at university."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Rana: 'I didn't take a photo of her!'\nRana ________.",
+    "choices": [
+      "admitted taking a photo of her.",
+      "insisted on taking a photo of her.",
+      "denied taking a photo of her.",
+      "apologised for taking a photo of her."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "I'm inclined to think that social media is important. The function of this phrase is:",
+    "choices": [
+      "challenging somebody else's opinion",
+      "tentative opinion",
+      "counter opinion",
+      "strong opinion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "You're entitled to your opinion, but smoking is harmful. The function of this phrase is:",
+    "choices": [
+      "tentative opinion",
+      "challenging somebody else's opinion",
+      "counter opinion",
+      "strong opinion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Without a shadow of a doubt, learning is important. The function of this phrase is:",
+    "choices": [
+      "tentative opinion",
+      "strong opinion",
+      "less strong opinion",
+      "counter opinion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "It's a good idea in principle, but Math is not the hardest subject. The function of this phrase is:",
+    "choices": [
+      "tentative opinion",
+      "less strong opinion",
+      "counter opinion",
+      "strong opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "As far as I'm concerned, social media is the obvious way to get your message across. The function of this phrase is:",
+    "choices": [
+      "counter opinion",
+      "tentative opinion",
+      "less strong opinion",
+      "strong opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nI've been trying to persuade people in my community to help an environmental charity by donating just a few coins each week. At first people were not keen, but my persistence has paid off and now a lot of people give me a little money – and that is really helping the charity.\n\nWhat does the phrase 'my persistence has paid off' mean?",
+    "choices": [
+      "My persistence has cost a lot of money.",
+      "My persistence has finally produced the desired result.",
+      "My persistence has failed completely.",
+      "My persistence has made people angry."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nWe have encouraged the council to put more litter bins around the beaches as well as signs reminding people not to litter in English and Arabic.\n\nWhat did the author recommend to the council?",
+    "choices": [
+      "To get rid of the litter bins.",
+      "To put signs reminding people to litter in English and Arabic.",
+      "To remove the hotels near the beach.",
+      "To put signs reminding people not to litter in English and Arabic."
+    ],
+    "correct_answer": "d"
+  }
+]

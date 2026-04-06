@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "In the Autumn of 2012, Lisa Ludwinski started her business from her parents' kitchen when she made and sold 40 pies. The reaction to them was so positive that she kept going.\n\nHow did Lisa Ludwinski first start her business?",
+    "choices": [
+      "She opened a bakery with money from a bank loan.",
+      "She made and sold 40 pies from her parents' kitchen.",
+      "She took over an existing bakery in Detroit.",
+      "She started an online food delivery service."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Tracy Warshal was in a queue at a busy shop when the man in front of her realised he'd forgotten his wallet. Tracy paid for the stranger's milk and other items. A month later, the man wanted to donate $10,000 to a cancer charity foundation in her name.\n\nIn which year did this event involving Tracy Warshal take place?",
+    "choices": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "She told reporters, 'I'm just so excited that one small gesture made a huge difference and impact on a lot of people.' (Tracy Warshal)\n\nThe underlined sentence is an example of:",
+    "choices": [
+      "reported speech",
+      "direct speech",
+      "indirect speech",
+      "a reported command"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "The story of Vern Jones is titled 'Moving Mountains'. As a teenager, the sight of Mount Kilimanjaro made Vern desperately want to climb it. After achieving his dream, he founded Kili Summit Club to help the ill-equipped guides who made his dream possible.\n\nWhat does the title 'Moving Mountains' mean in this context?",
+    "choices": [
+      "climbing actual mountains for exercise",
+      "to do everything possible / to achieve your goal",
+      "moving from one mountain area to another",
+      "the physical movement of rocks and boulders"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "The title 'Kindness Is As Easy As A Pie' means:",
+    "choices": [
+      "baking pies is a kind act",
+      "kindness requires expensive ingredients",
+      "being kind is the simplest thing you can do",
+      "sharing food with others is very easy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The title 'The Milk of Human Kindness' means:",
+    "choices": [
+      "giving milk to poor people",
+      "care and sympathy for others",
+      "the importance of dairy products in charity",
+      "helping strangers buy their shopping"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "A university professor, Paul Ewart, has won an age discrimination claim. Under age discrimination laws in the UK, it is illegal to discriminate on the basis of:",
+    "choices": [
+      "race only",
+      "gender only",
+      "age",
+      "nationality only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Professor Ewart said he was previously told he could work until he was ________. The judge agreed and said Oxford had to give him his job back.",
+    "choices": [
+      "65",
+      "67",
+      "69",
+      "71"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Which social issue is about people not having a place to live?",
+    "choices": [
+      "racism",
+      "unemployment",
+      "poverty",
+      "homelessness"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Which social issue refers to treating people unfairly because of their ethnicity?",
+    "choices": [
+      "immigration",
+      "racism",
+      "homelessness",
+      "unemployment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The suffix '-dom' forms nouns. Which of the following uses this suffix?",
+    "choices": [
+      "formal",
+      "freedom",
+      "reliance",
+      "comfortable"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The suffix '-able/ible' forms adjectives. Which of the following uses this suffix?",
+    "choices": [
+      "government",
+      "equality",
+      "comfortable",
+      "clarify"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Keep your argument simple and try not to ________ it.",
+    "choices": [
+      "justifiable",
+      "complicated",
+      "complicate",
+      "justification"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "It is good that men and women get ________ pay in this business.",
+    "choices": [
+      "equality",
+      "equalise",
+      "equal",
+      "equally"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "The university in our city is an important ________.",
+    "choices": [
+      "institutionalise",
+      "institution",
+      "institutional",
+      "institutionalising"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "We think some of the boss's attitudes are ________ as he tends to give men more opportunities than women.",
+    "choices": [
+      "discriminate",
+      "discrimination",
+      "indiscriminate",
+      "discriminatory"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "The school called the boy's parents because his behaviour in class was completely ________.",
+    "choices": [
+      "acceptance",
+      "accept",
+      "unacceptable",
+      "acceptable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "'I didn't know about the meeting yesterday.'\nRani said that ________.",
+    "choices": [
+      "he didn't know about the meeting the day before.",
+      "he hadn't known about the meeting the day before.",
+      "he doesn't know about the meeting yesterday.",
+      "he hadn't know about the meeting yesterday."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "'I met Sami about seven years ago.'\nHe said that ________.",
+    "choices": [
+      "he met Sami about seven years ago.",
+      "he has met Sami about seven years ago.",
+      "he had met Sami about seven years before.",
+      "he meets Sami about seven years before."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "'We don't argue about anything.'\nThey said that ________.",
+    "choices": [
+      "they don't argue about anything.",
+      "they didn't argue about anything.",
+      "they hadn't argued about anything.",
+      "they wouldn't argue about anything."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "'I am working for Maha this week.'\nSami said that ________.",
+    "choices": [
+      "he is working for Maha this week.",
+      "he was working for Maha that week.",
+      "he works for Maha this week.",
+      "he had worked for Maha that week."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Ali said that Hani would come the next day. What did Ali say originally?",
+    "choices": [
+      "'Hani will come tomorrow.'",
+      "'Hani would come the next day.'",
+      "'Hani has come the following day.'",
+      "'Hani came the next day.'"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "Sami said Rana had eaten the apples the day before. What did Sami say originally?",
+    "choices": [
+      "'Rana has eaten the apples the day before.'",
+      "'Rana ate the apples yesterday.'",
+      "'Rana will eat the apples tomorrow.'",
+      "'Rana eats the apples today.'"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "'Please don't make so much noise in the library tomorrow.'\nThe librarian asked us ________.",
+    "choices": [
+      "please make so much noise in the library tomorrow.",
+      "the students please not make so much noise in the library tomorrow.",
+      "to please make so much noise in the library tomorrow.",
+      "not to make so much noise in the library the day after."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "'Call me tomorrow.'\nShe told him ________.",
+    "choices": [
+      "call her the next day.",
+      "to call her the next day.",
+      "calling her the next day.",
+      "he call her the next day."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "'Hand in your homework by tomorrow.'\nThe teacher told us ________.",
+    "choices": [
+      "to hand in your homework by the next day.",
+      "hand in our homework by tomorrow.",
+      "to hand in our homework by the next day.",
+      "to hand in your homework by tomorrow."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Osama: 'Did you tell Ziad about it?'\nOsama wanted to know ________.",
+    "choices": [
+      "if I had told Ziad about it.",
+      "I had told Ziad about that.",
+      "if you had told Ziad about it.",
+      "you had told Ziad about it."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Rashed: 'Are you going to the lecture this afternoon, Osama?'\nRashed asked Osama ________.",
+    "choices": [
+      "if he was going to the lecture that afternoon.",
+      "was he going to the lecture this afternoon.",
+      "if was he going to the lecture that afternoon.",
+      "he was going to the lecture this afternoon."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "'I'll look into this for you, Madam.' Which reported sentence matches this?",
+    "choices": [
+      "She reminded the students that their homework was due next lesson.",
+      "She promised that she would investigate the matter.",
+      "She advised us to get much more exercise.",
+      "She apologised for waking the baby."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "'Don't forget to hand in your essays next lesson.' Which reported sentence matches this?",
+    "choices": [
+      "She promised that she would investigate the matter.",
+      "She agreed to collect her sister from school.",
+      "The teacher reminded the students that their homework was due next lesson.",
+      "The doctor advised us to get much more exercise."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "'You really should walk, run or swim more.' Which reported sentence matches this?",
+    "choices": [
+      "The doctor advised us to get much more exercise.",
+      "She promised that she would investigate the matter.",
+      "Noura apologised for waking the baby.",
+      "Salwa agreed to collect her sister from school."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "'OK, I'll pick her up, Mum.' Which reported sentence matches this?",
+    "choices": [
+      "She reminded the students that their homework was due.",
+      "She apologised for waking the baby.",
+      "Salwa agreed to collect her sister from school.",
+      "The doctor advised her to rest more."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "The correct pronunciation of the underlined letter in the word 'current' is:",
+    "choices": [
+      "/th/",
+      "/d/",
+      "/t/",
+      "/kh/"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "The correct pronunciation of the underlined letter in the word 'occur' is:",
+    "choices": [
+      "/k/",
+      "/ch/",
+      "/kh/",
+      "/g/"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In the word pairs for pronunciation, 'discrimination' and 'discriminatory' have ________ word stress.",
+    "choices": [
+      "the same",
+      "different",
+      "no stress",
+      "equal stress"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In the word pairs for pronunciation, 'enforcement' and 'enforceable' have ________ word stress.",
+    "choices": [
+      "different",
+      "the same",
+      "no stress",
+      "varying stress"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The phrase 'That's debatable, isn't it?' is used to:",
+    "choices": [
+      "express a strong opinion",
+      "express a tentative opinion",
+      "challenge somebody else's opinion",
+      "express a counter opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The phrase 'Frankly, I think it's obvious that...' expresses:",
+    "choices": [
+      "a tentative opinion",
+      "a counter opinion",
+      "a less strong opinion",
+      "a strong opinion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nVern's response was to found Kili Summit Club which raises money to help the guides from the proceeds of mountain gear sales. They receive footwear and equipment to help them with their work, as well as commission from sales, allowing climbers to support them long after their adventure is over.\n\nHow does Kili Summit Club raise money?",
+    "choices": [
+      "From ticket sales for mountain tours",
+      "From donations by mountain climbers",
+      "From the proceeds of mountain gear sales",
+      "From annual membership fees"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nI think this simple solution could help save the lives of people and animals. The hyenas are no longer hungry and everyone is happy. Can we learn from this and hope for something similar with other dangerous animals?\n\nWhat is the writer's main conclusion about the hyena situation in Harar?",
+    "choices": [
+      "Hyenas should be removed from cities immediately.",
+      "The simple solution of feeding hyenas could be applied to other dangerous animals.",
+      "Tourism is the best way to solve the hyena problem.",
+      "The hyenas in Harar are still a danger to people."
+    ],
+    "correct_answer": "b"
+  }
+]

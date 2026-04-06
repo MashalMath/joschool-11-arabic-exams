@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The reporter said that he could see the charity really should make a difference to people's lives.\n\nWhat did the reporter say originally in direct speech?",
+    "choices": [
+      "'I was able to see the charity really should make a difference to people's lives.'",
+      "'I can see the charity really should make a difference to people's lives.'",
+      "'I could see the charity really should make a difference to people's lives.'",
+      "'I had seen the charity really should make a difference to people's lives.'"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The reporter asked how the charity could help these people.\n\nWhat did the reporter ask originally in direct speech?",
+    "choices": [
+      "'So how the charity could help these people?'",
+      "'So how could the charity help these people?'",
+      "'So how can the charity help these people?'",
+      "'So how did the charity help these people?'"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "What usually happens to tenses in reported speech?",
+    "choices": [
+      "The tenses stay the same",
+      "We move the original verb 'one tense back'",
+      "We always use the past perfect tense",
+      "The tenses are chosen randomly"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "In reported speech, 'will' changes to ________.",
+    "choices": [
+      "shall",
+      "can",
+      "would",
+      "could"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "In reported speech, 'can' changes to ________.",
+    "choices": [
+      "may",
+      "could",
+      "would",
+      "shall"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "In reported speech, 'may' changes to ________.",
+    "choices": [
+      "could",
+      "would",
+      "might",
+      "should"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "In reported speech, 'shall' changes to ________.",
+    "choices": [
+      "would",
+      "should",
+      "could",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "In reported speech, 'have to / has to' changes to ________.",
+    "choices": [
+      "must",
+      "should",
+      "had to",
+      "ought to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "In reported speech, the time reference 'tomorrow' changes to ________.",
+    "choices": [
+      "the day before / the previous day",
+      "the following day / the next day",
+      "that day",
+      "the day after that"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "In reported speech, the time reference 'yesterday' changes to ________.",
+    "choices": [
+      "the following day",
+      "the next day",
+      "the day before / the previous day",
+      "that day"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "In reported speech, the time reference 'now' changes to ________.",
+    "choices": [
+      "here",
+      "there",
+      "then",
+      "later"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "In reported speech, the place reference 'here' changes to ________.",
+    "choices": [
+      "now",
+      "then",
+      "there",
+      "that"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "In reported speech, 'next + time' (e.g. next week) changes to ________.",
+    "choices": [
+      "the previous week / the week before",
+      "the following week / the week after",
+      "that week",
+      "this week"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "In reported speech, 'last + time' (e.g. last year) changes to ________.",
+    "choices": [
+      "the following year",
+      "the next year",
+      "that year",
+      "the previous year / the year before"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "In reported speech, 'tonight / today / this evening' changes to ________.",
+    "choices": [
+      "the following night / day / evening",
+      "the previous night / day / evening",
+      "that night / day / evening",
+      "the next night / day / evening"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "'Nihad hasn't spoken to her brother for two weeks.'\nHe said that ________.",
+    "choices": [
+      "Nihad hasn't spoken to her brother for two weeks.",
+      "Nihad hadn't spoken to her brother for two weeks.",
+      "Nihad doesn't speak to her brother for two weeks.",
+      "Nihad didn't speak to her brother for two weeks."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "'I'll phone you.'\nShe told me that ________.",
+    "choices": [
+      "she will phone me.",
+      "she would phone me.",
+      "she has phoned me.",
+      "she phones me."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "'Mum, I was working on my application all evening.'\nNadia told her mum that ________.",
+    "choices": [
+      "she was working on her application all evening.",
+      "she has been working on her application all evening.",
+      "she had been working on her application all evening.",
+      "she worked on her application all evening."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "'Can you show me some shirts?'\nThe customer asked the shopkeeper ________.",
+    "choices": [
+      "to show him some shirts.",
+      "to show you some shirts.",
+      "to showed me some shirts.",
+      "to showes him some shirts."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "'Will you be able to attend the meeting?'\nShe asked him ________.",
+    "choices": [
+      "if he would be able to attend the meeting.",
+      "would he be able to attend the meeting.",
+      "if would he be able to attend the meeting.",
+      "he would be able to attend the meeting."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "The verb 'deny' + gerund is used when the sentence is negative. 'I didn't take the money.' Ali ________.",
+    "choices": [
+      "denied that he took the money.",
+      "denied taking the money.",
+      "denied to take the money.",
+      "denied he takes the money."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "They recommended that she ________ drive.",
+    "choices": [
+      "can",
+      "will",
+      "should",
+      "have to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "He insisted that they ________ the money.",
+    "choices": [
+      "takes",
+      "taking",
+      "take",
+      "will take"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "They recommended that she should drive. The function of this sentence is:",
+    "choices": [
+      "obligation",
+      "provide information",
+      "permission",
+      "possibility"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "The word 'over' when used with numbers means:",
+    "choices": [
+      "higher than (in space)",
+      "more than (with numbers, ages, speeds)",
+      "across (in direction)",
+      "finished (in time)"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "The word 'above' when used in space means:",
+    "choices": [
+      "more than a number",
+      "across from something",
+      "higher than something",
+      "finished or completed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "The word 'test' means:",
+    "choices": [
+      "use evidence to show the truth",
+      "begin a task with a particular aim",
+      "take measures to check something",
+      "put something in position"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Do something today that your future self will thank you ________.",
+    "choices": [
+      "of",
+      "on",
+      "for",
+      "about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "'I'm afraid we need to see the original, not a copy.' Which reporting sentence matches this?",
+    "choices": [
+      "The teacher reminded the students that their homework was due next lesson.",
+      "The doctor advised us to get much more exercise.",
+      "The secretary insisted on Rakan bringing his original birth certificate.",
+      "Salwa agreed to collect her sister from school."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "'Oh, I'm so sorry I woke her up!' Which reporting sentence matches this?",
+    "choices": [
+      "She advised us to leave.",
+      "Noura apologised for waking the baby.",
+      "She insisted on not waking the baby.",
+      "She denied waking the baby."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Businesses are now very aware of the importance of gender ________, and women should have the same pay as men.",
+    "choices": [
+      "racism",
+      "homelessness",
+      "equality",
+      "unemployment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Youth ________ is a problem in many countries, which is why we are training young people in new skills.",
+    "choices": [
+      "poverty",
+      "unemployment",
+      "homelessness",
+      "immigration"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "The phrase 'I'm no expert, but...' is used to express:",
+    "choices": [
+      "a strong opinion",
+      "a counter opinion",
+      "a tentative opinion",
+      "challenging somebody else's opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "The phrase 'I can see where you're coming from, but...' is used to express:",
+    "choices": [
+      "a strong opinion",
+      "a tentative opinion",
+      "a counter opinion",
+      "a less strong opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Noura's opinion on loud music on public transport is that she would like people who play loud music to be:",
+    "choices": [
+      "praised for their music taste",
+      "banned from public transport",
+      "encouraged to play more quietly",
+      "fined a large amount of money"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Samar's opinion on hunting for sport is that:",
+    "choices": [
+      "hunting for sport is acceptable if you eat the animal",
+      "people should decide for themselves about hunting",
+      "any sport which involves inflicting pain on another creature is wrong",
+      "hunting should only be allowed in certain seasons"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "In the article about Harar, a farmer called ________ chose to protect his farm animals by feeding the hyenas each day.",
+    "choices": [
+      "Abbas Yusuf",
+      "Yusuf Salleh",
+      "Vern Jones",
+      "Paul Ewart"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read this passage and answer the question:\n\nClimate change doesn't need to be a problem if all countries work against it. The university is against racism, and will help people of any nationality.\n\nWhich sentence matches 'The university is against racism'?",
+    "choices": [
+      "The university promotes racial discrimination.",
+      "The university will help people of any nationality.",
+      "The university accepts only local students.",
+      "The university focuses only on academic performance."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nBusinesses are now very aware of the importance of gender equality, and women should have the same pay as men. The city is trying to do more about the problem of homelessness, and shelters are available for people who need a bed for the night.\n\nWhat does the city do to help homeless people?",
+    "choices": [
+      "The city gives them money to rent houses.",
+      "The city provides shelters for people who need a bed for the night.",
+      "The city trains them to find jobs.",
+      "The city moves them to other areas."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nWe are hoping to reduce poverty by giving more people better paid jobs. Climate change doesn't need to be a problem if all countries work against it.\n\nHow does the text suggest reducing poverty?",
+    "choices": [
+      "By giving money to poor people directly",
+      "By building more houses",
+      "By giving more people better paid jobs",
+      "By improving healthcare facilities"
+    ],
+    "correct_answer": "c"
+  }
+]

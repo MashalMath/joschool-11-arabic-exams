@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The word 'track' as a verb means to ________.",
+    "choices": [
+      "connect devices to the internet",
+      "monitor or follow the progress or movement of something",
+      "store data in a cloud server",
+      "embed a sensor into the body"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "In the passive voice, when we use it we are focusing more on ________.",
+    "choices": [
+      "the person doing the action",
+      "the time the action happened",
+      "the action itself",
+      "the result of the action"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'It should not be used as protection from wild animals.' This uses which passive form?",
+    "choices": [
+      "Present Simple passive",
+      "Future passive",
+      "Modal passive",
+      "Past Perfect passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'A transmitter is worn on the body and digital messages are sent via the body's electrical field.' Why is the agent not mentioned?",
+    "choices": [
+      "It is unknown who wears it",
+      "It is obvious that a person wears it",
+      "The agent is unimportant",
+      "It is illegal to mention the agent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "In the speaking box for describing trends, the phrase 'In this graph, we can see …' is used to ________.",
+    "choices": [
+      "summarise data",
+      "describe a change over time",
+      "introduce data",
+      "conclude a trend description"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "In the article 'Early Adopter or Laggard?', early adopters tend to be ________.",
+    "choices": [
+      "elderly",
+      "middle-aged professionals",
+      "young",
+      "retired"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The word 'upgrade' means ________.",
+    "choices": [
+      "to store something safely",
+      "to fix a broken device",
+      "to change for something newer or better",
+      "to remove unwanted apps"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "According to the Active Vocabulary section, 'gadgets' and 'devices' tend to be ________ than appliances.",
+    "choices": [
+      "more expensive",
+      "larger",
+      "smaller",
+      "more powerful"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read from the VR article: 'I bump into a friend, but I can't stop to talk to her because it's all so overwhelming. I need to calm down.' This opening paragraph describes a person who is experiencing ________.",
+    "choices": [
+      "excitement in a busy shopping centre",
+      "sensory overload caused by ASD",
+      "boredom in a crowded place",
+      "fear of being robbed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Read from the VR article: 'While people's experiences vary a lot, one of the key issues for many individuals with autism is a hypersensitivity to sights, sounds, smells and tastes, which can make a simple activity, such as going shopping, extremely ________.'",
+    "choices": [
+      "boring",
+      "stressful",
+      "enjoyable",
+      "familiar"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read from the VR article: 'This can make it difficult to fit in with or to keep friends because other people just don't understand the pressure.' 'Keep friends' here means ________.",
+    "choices": [
+      "to make new friends easily",
+      "to maintain existing friendships over time",
+      "to connect with friends online",
+      "to find friends with similar interests"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'In order to help people understand what it's like to have autism, could Virtual Reality (VR) help? Virtual Reality is a computer-generated simulation of an experience, which is seen in 3D.' What does 'simulation' mean here?",
+    "choices": [
+      "A live broadcast of a real event",
+      "An imitation or artificial recreation of an experience",
+      "A digital game or entertainment system",
+      "A medical treatment using technology"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'But for others, they end up having a meltdown — in other words, they get upset or angry.' What does 'meltdown' mean here?",
+    "choices": [
+      "A technical failure of a device",
+      "An emotional breakdown or loss of control",
+      "A physical collapse due to exhaustion",
+      "A medical emergency"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "The phrasal verb 'come up against' means ________.",
+    "choices": [
+      "to approach from behind",
+      "to face or encounter a difficulty or obstacle",
+      "to rise above a problem",
+      "to improve through difficulty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "The phrasal verb 'break off' means ________.",
+    "choices": [
+      "to break a device",
+      "to stop or interrupt an activity",
+      "to start a new activity",
+      "to face a challenge"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Read from the VR article: 'Some people went through the virtual experience of chopping down a tree. Afterwards, the researcher accidentally spilt his drink and those people reached for fewer paper napkins.' What is the conclusion of this experiment?",
+    "choices": [
+      "People became more careless after the VR experience",
+      "VR experiences can subconsciously encourage people to change their real-world behaviour",
+      "People enjoyed the VR tree-chopping experience",
+      "VR makes people more aware of environmental issues consciously"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'We volunteer to put on the VR headset. We can break off at any time and go back to our normal lives, whereas the people whose lives we're experiencing don't have that luxury.' What does this comparison show?",
+    "choices": [
+      "VR is more realistic than real life",
+      "There is a fundamental difference between simulated and actual experiences",
+      "VR headsets are uncomfortable to wear for long periods",
+      "People who use VR feel more empathy automatically"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Read from the VR article comprehension questions: 'Why does the writer start by describing an experience of going shopping?' The correct answer is ________.",
+    "choices": [
+      "to explain exactly why some people suffer from ASD",
+      "to demonstrate why having ASD can cause someone to get upset",
+      "to emphasise the social problems created by large shopping malls",
+      "to introduce the concept of virtual reality"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read from the VR article comprehension questions: 'What attitude towards VR is expressed by the writer in the last paragraph?' The correct answer is ________.",
+    "choices": [
+      "It is completely useless",
+      "It is a passing fashion that will disappear",
+      "It has some value but should be treated with caution",
+      "It is better than real-life experience"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The word 'superficial' means ________.",
+    "choices": [
+      "deep and meaningful",
+      "related only to the surface or appearance",
+      "hidden from others",
+      "extremely detailed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Read from the VR article: 'It can also lead to people with autism having problems at school or with holding down a job, as they may come across as unreliable or bad-tempered.' 'Come across as' means ________.",
+    "choices": [
+      "to encounter a difficulty",
+      "to appear to others in a certain way",
+      "to go through a challenge",
+      "to end up doing something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Read from 'Our Personal Data': 'In spite of these potential benefits, a significant number of people are choosing to use ad-blocking software.' What does this sentence introduce?",
+    "choices": [
+      "An argument in favour of data tracking",
+      "A summary of the essay",
+      "An argument against data tracking despite the benefits mentioned",
+      "A definition of ad-blocking software"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Which linker is classified as a 'conjunction of concession'?",
+    "choices": [
+      "whereas",
+      "despite",
+      "however",
+      "although"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Which linker is classified as an 'adverb of contrast'?",
+    "choices": [
+      "whereas",
+      "even though",
+      "however",
+      "in spite of"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "According to the Life Skills section on social media, social media sites can track the user's ________.",
+    "choices": [
+      "bank details",
+      "location",
+      "passwords",
+      "browsing history"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "According to the Life Skills section on managing your online image, you should do a search on your name every ________ months or so.",
+    "choices": [
+      "two",
+      "three",
+      "six",
+      "twelve"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'Once something is posted, it is never completely gone, because any information posted on the Internet can be archived or saved in a number of different ways.' According to this passage, once something is posted online it ________.",
+    "choices": [
+      "can always be fully deleted",
+      "can never truly disappear completely",
+      "is automatically removed after six months",
+      "is only visible to friends"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Read: 'Basically, you should behave online as you would in real life.' This means that ________.",
+    "choices": [
+      "online rules are stricter than real-life rules",
+      "there are no rules online",
+      "the same rules that apply in real life apply online",
+      "online behaviour cannot be monitored"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct passive form: 'The fridge ________ to reorder food as you use it.'",
+    "choices": [
+      "is designing",
+      "was designed",
+      "will be designed",
+      "has designed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'A good rule of thumb is to ask yourself how you would feel if your grandmother saw what you've shared or posted!' The purpose of this advice is to ________.",
+    "choices": [
+      "make people feel guilty about their posts",
+      "encourage people to share everything with family",
+      "help people think carefully before posting anything online",
+      "remind people to set up privacy controls"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "In the impersonal passive grammar, Pattern (c) uses: subject + passive (be + past participle) + ________.",
+    "choices": [
+      "that clause",
+      "to-infinitive",
+      "perfect infinitive (to have been + past participle)",
+      "gerund"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Rewrite using Pattern (b): 'People say that a scientist called Elisha Gray invented the phone at the same time as Bell.' → A scientist called Elisha Gray ________ to have invented the phone at the same time as Bell.",
+    "choices": [
+      "is believed",
+      "is said",
+      "is expected",
+      "is thought"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Read from the Bell article: 'It has often been remarked that Alexander did not like to have a telephone in his study because it disturbed him from his work!' Why is this surprising?",
+    "choices": [
+      "Because he worked very long hours",
+      "Because he was the inventor of the telephone himself",
+      "Because he had many telephones at home",
+      "Because he needed to make business calls"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read from the Bell article: 'Antonio Meucci was widely reported to have invented a telephone in 1856, 20 years before Alexander.' This means Meucci's invention was in ________.",
+    "choices": [
+      "1836",
+      "1856",
+      "1876",
+      "1896"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "In the essay writing box, which phrase is used to introduce the topic in the essay introduction?",
+    "choices": [
+      "In conclusion, it seems obvious that …",
+      "In spite of these potential benefits …",
+      "These days it is extremely common for companies to …",
+      "Nevertheless, many people feel …"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read from 'Our Personal Data': 'Most people really have very little idea how much data is being given away every time they click, or what that data will be used for.' This is an argument ________ data tracking.",
+    "choices": [
+      "strongly in favour of",
+      "completely unrelated to",
+      "against, because people lack awareness and control",
+      "supporting, because data helps companies improve services"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Choose the correct form: 'Studies ________ out which claim that it will revolutionise our lives.'",
+    "choices": [
+      "carry",
+      "are being carried",
+      "were carrying",
+      "have carried"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "In the passive grammar, 'A transmitter is worn on the body' uses the ________ passive.",
+    "choices": [
+      "Present Continuous",
+      "Present Perfect",
+      "Present Simple",
+      "Future Simple"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "According to the Life Skills section on social media, one of the negative effects of spending too much time on social media is that users think ________.",
+    "choices": [
+      "their phones are being hacked",
+      "they are being followed online",
+      "other people are having a better or more exciting time than they are",
+      "they are missing important news"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read from the Bell article: 'Today, it is estimated that there are more phones in the world than people!' This means the number of phones ________ the number of people.",
+    "choices": [
+      "is less than",
+      "equals",
+      "exceeds",
+      "is unrelated to"
+    ],
+    "correct_answer": "c"
+  }
+]

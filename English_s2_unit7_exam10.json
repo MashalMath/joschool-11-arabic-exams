@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "As a teenager, the sight of Mount Kilimanjaro rising majestically above the Serengeti made Vern Jones desperately want to climb it. Finally in 2014, at the age of 62, Vern finally realised his dream.\n\nVern Jones was accompanied by ________ when he climbed Kilimanjaro in 2014.",
+    "choices": [
+      "his sons and their wives",
+      "his daughters and their husbands",
+      "his brothers and their families",
+      "a group of professional climbers"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Lisa Ludwinski started her business from her parents' kitchen. What followed was an industrious few years — she took a business class, took on an intern, and raised money for her own bakery.\n\nLisa raised money for her own bakery in ________, Michigan.",
+    "choices": [
+      "Chicago",
+      "New York",
+      "Detroit",
+      "Los Angeles"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "In 2015, Tracy Warshal was in a queue at a busy shop when the man in front of her realised he'd forgotten his wallet. Tracy paid for the stranger's milk and other items.\n\nTracy Warshal was in a queue at a busy shop during ________.",
+    "choices": [
+      "the summer season",
+      "the holiday season",
+      "the spring season",
+      "a regular shopping trip"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Last year, I joined a group that wanted to clean up one of the beaches near ________, where I live. It is very popular with tourists who often leave litter there. I used to go to the beach every weekend and pick up the litter, all for free!\n\nNear which Jordanian city did this person join a beach clean-up group?",
+    "choices": [
+      "Amman",
+      "Petra",
+      "Aqaba",
+      "Irbid"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "The documentary 'Unconquered: Helen Keller in Her Story' was first made in ________.",
+    "choices": [
+      "1945",
+      "1950",
+      "1955",
+      "1960"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "The documentary 'A Beautiful Planet' was filmed by ________ from the International Space Station.",
+    "choices": [
+      "scientists",
+      "astronauts",
+      "photographers",
+      "environmentalists"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "In the article 'Sacked for Being Too Old!', Professor Paul Ewart worked at ________ University.",
+    "choices": [
+      "Cambridge",
+      "London",
+      "Manchester",
+      "Oxford"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "The quote at the beginning of Unit 7 is: 'Our lives begin to end the day we become silent about things that ________.'",
+    "choices": [
+      "are difficult",
+      "are true",
+      "matter",
+      "we love"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "In the article about Harar, how long has nobody been attacked by a hyena in the city?",
+    "choices": [
+      "100 years",
+      "150 years",
+      "200 years",
+      "300 years"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The charity in the radio report about water is doing three of the following. Which one is it NOT doing?",
+    "choices": [
+      "providing water filters",
+      "repairing broken pipes",
+      "installing new toilets",
+      "building new houses"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Husam, the charity worker, plans to do the same work at ________ next week.",
+    "choices": [
+      "a school in the area",
+      "the city centre",
+      "another village",
+      "a nearby town"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Husam plans to help another village next week because he thinks it's really important to help ________.",
+    "choices": [
+      "the capital city first",
+      "all the villages in the area",
+      "only the most affected villages",
+      "villages that have requested help"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "The verb 'admit' follows the pattern: verb + ________.",
+    "choices": [
+      "to-infinitive",
+      "object + to-infinitive",
+      "gerund",
+      "object + that clause"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The verb 'encourage' follows the pattern: verb + ________.",
+    "choices": [
+      "that + clause",
+      "gerund",
+      "preposition + gerund",
+      "object + to-infinitive"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "The verb 'apologise for' follows the pattern: verb + ________.",
+    "choices": [
+      "that + clause",
+      "object + to-infinitive",
+      "preposition + gerund",
+      "object + that clause"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "The verb 'accuse somebody of' follows the pattern: verb + ________.",
+    "choices": [
+      "that + clause",
+      "to-infinitive",
+      "gerund",
+      "object + preposition + gerund"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "What does the phrase 'It goes without saying that...' express?",
+    "choices": [
+      "a tentative opinion",
+      "a counter opinion",
+      "a strong opinion",
+      "a less strong opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Which suffix is used to form the verb 'clarify'?",
+    "choices": [
+      "-ate",
+      "-ify",
+      "-en",
+      "-ute"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Which suffix is used to form the adjective 'productive'?",
+    "choices": [
+      "-ful",
+      "-al",
+      "-able",
+      "-ive"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "Which suffix is used to form the adjective 'formal'?",
+    "choices": [
+      "-ive",
+      "-al",
+      "-ful",
+      "-less"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "'I'm really sorry I criticised your idea.' (Rola said this)\nRola ________.",
+    "choices": [
+      "insisted for criticising my idea.",
+      "apologised for criticising my idea.",
+      "denied criticising my idea.",
+      "accused me of criticising my idea."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "'I will help you.' (He said this)\nHe agreed ________.",
+    "choices": [
+      "helping me.",
+      "help me.",
+      "to help me.",
+      "to helped me."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "In reported questions, what is the formula for a YES/NO question?",
+    "choices": [
+      "ask + (object) + wh question + S + V",
+      "tell + object + to Vinf",
+      "ask + (object) + if/whether + S + V",
+      "say + that + S + V"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "In reported questions, what is the formula for a WH-question?",
+    "choices": [
+      "ask + (object) + if/whether + S + V",
+      "tell + object + to Vinf",
+      "say + that + S + V",
+      "ask + (object) + wh question + S + V"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "For affirmative commands in reported speech, the formula is:",
+    "choices": [
+      "tell + object + not + to Vinf",
+      "tell + object + to Vinf",
+      "ask + object + if/whether + S + V",
+      "say + that + S + V"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "For negative commands in reported speech, the formula is:",
+    "choices": [
+      "tell + object + to Vinf",
+      "ask + object + to Vinf",
+      "tell + object + not + to Vinf",
+      "say + that + S + not + V"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "For affirmative requests (with 'Can/Will/Please'), the formula is:",
+    "choices": [
+      "tell + object + not + to Vinf",
+      "tell + object + to Vinf",
+      "asked + object + not + to Vinf",
+      "asked + object + to Vinf"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "'I didn't take a photo of her!' (Rana said this)\nRana ________.",
+    "choices": [
+      "admitted taking a photo of her.",
+      "insisted on taking a photo of her.",
+      "denied taking a photo of her.",
+      "apologised for taking a photo of her."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "'I'll always remember you!' (Hamed said this)\nHamed promised that ________.",
+    "choices": [
+      "he will always remember you.",
+      "he would always remember me.",
+      "he had always remembered me.",
+      "he always remembers me."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "The teachers told us to read about the topic. 'Read about the topic.' The original sentence was a/an:",
+    "choices": [
+      "question",
+      "negative command",
+      "affirmative command",
+      "request with 'please'"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Noura's opinion on hunting is that hunting for sport is cruel, but perhaps it's OK if you eat the animal. Whose opinion on hunting is this?",
+    "choices": [
+      "Rana",
+      "Samar",
+      "Noura",
+      "ItsNoura on the message board"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "ItsNoura added a question to the message board: 'Is there any behaviour you feel is unacceptable today?' She gave the example of:",
+    "choices": [
+      "hunting for sport",
+      "queue jumping",
+      "playing loud music on public transport",
+      "littering on public beaches"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Ranagirl's answer to the message board focused on the topic of:",
+    "choices": [
+      "loud music on public transport",
+      "hunting for sport",
+      "queue jumping",
+      "littering on beaches"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "SamarS's answer to the message board was about:",
+    "choices": [
+      "loud music on public transport",
+      "queue jumping",
+      "the need to protect animals and the cruelty of hunting for sport",
+      "reducing plastic waste in public areas"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "The correct pronunciation of the underlined letter in the word 'poor' is:",
+    "choices": [
+      "/b/",
+      "/f/",
+      "/p/",
+      "/ph/"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "In word stress pairs, 'justify' and 'justifiable' have ________ word stress.",
+    "choices": [
+      "the same",
+      "different",
+      "no",
+      "identical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "In word stress pairs, 'enforcement' and 'enforceable' have ________ word stress.",
+    "choices": [
+      "different",
+      "the same",
+      "no",
+      "irregular"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Read this passage and answer the question:\n\nI've been trying to persuade people in my community to help an environmental charity by donating just a few coins each week. At first people were not keen, but my persistence has paid off and now a lot of people give me a little money – and that is really helping the charity.\n\nSome people say you need a lot of money to help a charity. What does the author of this passage believe instead?",
+    "choices": [
+      "That you need a very large amount of money to help charities",
+      "That determination and a little time are what you really need",
+      "That only young people should donate to charities",
+      "That social media is the best way to help charities"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nAs far as I'm concerned, social media is the obvious way to get your message across. All you need to do is to pay for a good Internet connection which most people have anyway these days. On a more personal level, I let my friends know my views on social networks and I would support a campaign to protect animal rights.\n\nAccording to this passage, what is needed to use social media effectively?",
+    "choices": [
+      "A very expensive computer and fast internet",
+      "A good Internet connection which most people already have",
+      "Special training in social media marketing",
+      "A large number of followers on social networks"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nLast year, I joined a group that wanted to clean up one of the beaches near Aqaba, where I live. It is very popular with tourists who often leave litter there. I used to go to the beach every weekend and pick up the litter, all for free! I soon realised that volunteering like this helped but didn't solve the problem. The only way is to change tourists' attitudes to litter.\n\nWhat does the author of this passage believe is the only real solution to the litter problem?",
+    "choices": [
+      "Banning tourists from visiting the beach",
+      "Charging tourists a fee for visiting",
+      "Hiring professional cleaners every weekend",
+      "Changing tourists' attitudes towards littering"
+    ],
+    "correct_answer": "d"
+  }
+]

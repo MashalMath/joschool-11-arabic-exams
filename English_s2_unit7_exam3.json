@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Vern Jones founded Kili Summit Club which raises money to help the guides from the proceeds of mountain gear sales. They receive footwear and equipment to help them with their work, as well as commission from sales.\n\nWhat do the guides receive from Kili Summit Club?",
+    "choices": [
+      "Free mountain climbing lessons",
+      "Footwear, equipment and commission from sales",
+      "A fixed monthly salary from tourists",
+      "Training to become professional guides"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Lisa Ludwinski started her business from her parents' kitchen when she made and sold 40 pies. She even did a 24-hour fund-raising activity, bringing in $26,593, which allowed her to open Sister Pie.\n\nIn which year did Lisa Ludwinski open Sister Pie bakery?",
+    "choices": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "Lisa Ludwinski started her business in 2012. What followed was an industrious few years. She took a business class, took on an intern and raised money for her own bakery. She even did a 24-hour fund-raising activity.\n\nHow much money did Lisa raise during her 24-hour fund-raising activity?",
+    "choices": [
+      "$24,000",
+      "$26,593",
+      "$29,500",
+      "$30,000"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "In 2015, Tracy Warshal paid for a stranger's milk and other items when he forgot his wallet. They told her that the man, who wished to remain anonymous, wanted to donate $10,000 to the foundation in her name.\n\nHow much money did the anonymous man donate to the charity in Tracy's name?",
+    "choices": [
+      "$1,000",
+      "$5,000",
+      "$10,000",
+      "$15,000"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Tracy Warshal was wearing a T-shirt with the charity's name on it at the shop when she helped the anonymous man. A month later, the man wanted to donate $10,000 to the foundation in her name.\n\nHow was the man able to find Tracy after she helped him?",
+    "choices": [
+      "He found her address in a phone book.",
+      "He asked her colleagues at work.",
+      "She was wearing a T-shirt with the charity's name on it.",
+      "He recognised her from social media."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Read this passage and answer the question:\n\nSome people say you need a lot of money in order to help a charity, and if they don't have this, they do nothing. Having money is important, but in reality all you need is determination and a little time. I've been trying to persuade people in my community to help an environmental charity by donating just a few coins each week.\n\nWhat does this person believe about helping charities?",
+    "choices": [
+      "You need a large amount of money to make a real difference.",
+      "You don't need a lot of money — determination and a little time are enough.",
+      "Social media is the best way to support charities.",
+      "Volunteering is more important than donating money."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Read this passage and answer the question:\n\nAs far as I'm concerned, social media is the obvious way to get your message across. All you need to do is to pay for a good Internet connection which most people have anyway these days. On a more personal level, I let my friends know my views on social networks and I would support a campaign to protect animal rights.\n\nHow does this person use social media?",
+    "choices": [
+      "To raise money directly for animal charities",
+      "To share their views and support campaigns for animal rights",
+      "To organise beach clean-up events",
+      "To persuade people to donate coins each week"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Read this passage and answer the question:\n\nLast year, I joined a group that wanted to clean up one of the beaches near Aqaba, where I live. I used to go to the beach every weekend and pick up the litter, all for free! I soon realised that volunteering like this helped but didn't solve the problem. The only way is to change tourists' attitudes to litter.\n\nWhat did this person realise about volunteering to pick up litter?",
+    "choices": [
+      "It completely solved the problem.",
+      "It was too expensive to continue.",
+      "It helped but did not solve the problem.",
+      "It made tourists more responsible immediately."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Which social problem was NOT included in the fact file about the Jordanian Royal Family?",
+    "choices": [
+      "poverty",
+      "homelessness",
+      "health",
+      "racism"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "To form nouns, which suffix is used in the word 'equality'?",
+    "choices": [
+      "-ment",
+      "-ness",
+      "-ity",
+      "-ance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "To form nouns, which suffix is used in the word 'weakness'?",
+    "choices": [
+      "-ment",
+      "-ness",
+      "-ity",
+      "-dom"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "To form adjectives, which suffix is used in the word 'homeless'?",
+    "choices": [
+      "-ful",
+      "-able",
+      "-al",
+      "-less"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "To form verbs, which suffix is used in the word 'shorten'?",
+    "choices": [
+      "-ate",
+      "-ify",
+      "-en",
+      "-ute"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "This is a good law, but I am not sure it is ________.",
+    "choices": [
+      "enforce",
+      "enforceable",
+      "enforcement",
+      "enforcing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "How can the factory ________ polluting the river like that?",
+    "choices": [
+      "justifiable",
+      "justified",
+      "justification",
+      "justify"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "The factory has grown recently, and has been more successful since the ________.",
+    "choices": [
+      "expanse",
+      "expansion",
+      "expansive",
+      "expand"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "The 'Pie it Forward' system means:",
+    "choices": [
+      "customers pay for future pies they will eat themselves",
+      "customers purchase a coupon kept on the wall for strangers who may not have enough money",
+      "strangers donate pies to the bakery",
+      "the bakery sends pies to charity organisations"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "According to the word building table, the verb form of 'equal' is:",
+    "choices": [
+      "equality",
+      "equalise",
+      "equally",
+      "equalled"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "'Rami took the money.'\nHani said that ________.",
+    "choices": [
+      "Rami takes the money.",
+      "Rami has taken the money.",
+      "Rami had taken the money.",
+      "Rami was taking the money."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "'I enjoy cooking.'\nRami said that ________.",
+    "choices": [
+      "he enjoys cooking.",
+      "he enjoyed cooking.",
+      "he had enjoyed cooking.",
+      "he was enjoying cooking."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "'I am making some bread now.'\nRasha said that ________.",
+    "choices": [
+      "she was making some bread then.",
+      "she is making some bread now.",
+      "she has made some bread.",
+      "she makes some bread now."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "'I'll work in a restaurant when I leave school.'\nSam said that ________.",
+    "choices": [
+      "he will work in a restaurant when he left school.",
+      "he would work in a restaurant when he left school.",
+      "he would work in a restaurant when he leaves school.",
+      "he worked in a restaurant when he had left school."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'I'll give you the exam results tomorrow.'\nMr. Omar told us that ________.",
+    "choices": [
+      "he will give us the exam results tomorrow.",
+      "he would give us the exam results the day after.",
+      "he had given us the exam results the next day.",
+      "he gives us the exam results the following day."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "'Please don't drive so fast on the highway next Friday.'\nThe police officer asked them ________.",
+    "choices": [
+      "that the driver please drive so fast on the highway next Friday.",
+      "that the driver please not drive so fast on the highway next Friday.",
+      "to please drive so fast on the highway the following Friday.",
+      "not to drive so fast on the highway the following Friday."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "'Could you explain this concept again?'\nThe student asked the teacher ________.",
+    "choices": [
+      "to explain this concept again.",
+      "explain that concept again.",
+      "to explained that concept again.",
+      "to explain that concept again."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "'Who told you the news?'\nSalma asked her ________.",
+    "choices": [
+      "who had told her the news.",
+      "who told her the news.",
+      "who she had been told the news.",
+      "the news had been told her."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "He blamed her ________ him.",
+    "choices": [
+      "to ignoring",
+      "for ignoring",
+      "ignored",
+      "ignore"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "He congratulate them ________ the race.",
+    "choices": [
+      "on win",
+      "with winning",
+      "wined",
+      "on winning"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "His boss suggested that he ________ take a holiday.",
+    "choices": [
+      "can",
+      "should",
+      "will",
+      "must"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "'Why don't we have a picking-up-litter day?'\nRashed ________.",
+    "choices": [
+      "suggested having a picking-up-litter day.",
+      "suggested have a picking-up-litter day.",
+      "suggested had a picking-up-litter day.",
+      "suggested has a picking-up-litter day."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "'Ali is so negative.'\nTareq ________.",
+    "choices": [
+      "accuse Ali of being negative.",
+      "accused Ali of be negative.",
+      "accused Ali of being negative.",
+      "accused Ali of is negative."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "But they agreed ________ (let) him continue working until he was 69.",
+    "choices": [
+      "letting",
+      "to let",
+      "let",
+      "had let"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "I'm not surprised the professor criticised them for ________ (sack) him.",
+    "choices": [
+      "to sack",
+      "sacked",
+      "sacking",
+      "have sacked"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Maybe they regretted ________ (agree) that he could work for longer.",
+    "choices": [
+      "to agree",
+      "agreed",
+      "agreeing",
+      "have agreed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "It's a pity someone didn't advise them ________ (not sack) him for being too old.",
+    "choices": [
+      "not sacking",
+      "not to sack",
+      "not sacked",
+      "not to sacking"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "The correct pronunciation of the underlined letter in the word 'talent' is:",
+    "choices": [
+      "/t/",
+      "/th/",
+      "/d/",
+      "/ʧ/"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "The correct pronunciation of the underlined letter in the word 'unpopular' is:",
+    "choices": [
+      "/p/",
+      "/b/",
+      "/ph/",
+      "/f/"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "If you want to attract your reader's attention with a catchy title, you could use alliteration. Which of the following is an example of alliteration?",
+    "choices": [
+      "Can we like the hyena?",
+      "Food for thought",
+      "Happy hyenas help people of Harar",
+      "Is it fair to animals?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nIn the Autumn of 2012, Lisa Ludwinski started her business from her parents' kitchen when she made and sold 40 pies. The reaction to them was so positive that she kept going. What followed was an industrious few years. Lisa took a business class, took on an intern and raised money for her own bakery in Detroit, Michigan.\n\nWhere did Lisa start her business?",
+    "choices": [
+      "In a rented shop in Detroit",
+      "In her own bakery in Michigan",
+      "From her parents' kitchen",
+      "From a small café near her home"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nIn 2015, Tracy Warshal was in the queue at a busy shop during the holiday season when the man in front of her realised he'd forgotten his wallet. Tracy paid for the stranger's milk and other items and, after thanking her and asking her name, he was on his way. She thought no more of it until a month later when she was contacted by colleagues at the cancer charity where she worked.\n\nWhy did Tracy pay for the stranger's items?",
+    "choices": [
+      "She knew the man personally.",
+      "The man forgot his wallet and couldn't pay.",
+      "The shop asked her to help him.",
+      "She worked for the cancer charity and wanted to help."
+    ],
+    "correct_answer": "b"
+  }
+]

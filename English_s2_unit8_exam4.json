@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The word 'embedded' means ________.",
+    "choices": [
+      "connected wirelessly to the internet",
+      "placed or fixed deeply inside something else",
+      "able to track movement",
+      "designed to send alerts"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "In the IoT infographic, a smartwatch is listed as an example of a ________ device that can measure activity and heart rate.",
+    "choices": [
+      "SECURITY",
+      "HEALTH",
+      "WEARABLES",
+      "SMART HOUSE"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'Within a decade or so almost every appliance in your house could be connected.' Which passive tense is 'could be connected'?",
+    "choices": [
+      "Future passive",
+      "Modal passive",
+      "Present Continuous passive",
+      "Past Perfect passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'It has even been referred to as the fourth Industrial Revolution.' Which passive tense is used?",
+    "choices": [
+      "Past Simple passive",
+      "Present Continuous passive",
+      "Present Perfect passive",
+      "Past Perfect passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read: 'Maher realised he had been followed.' The agent is not mentioned because it is ________.",
+    "choices": [
+      "obvious",
+      "unimportant",
+      "unknown",
+      "dangerous to reveal"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'It will show people the consequences of an unhealthy lifestyle.' Rewrite in the passive focusing on PEOPLE: ________.",
+    "choices": [
+      "The consequences will be shown to people",
+      "People will be shown the consequences",
+      "Consequences are shown to the people",
+      "The lifestyle will be shown to people"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "According to the grammar reference, which of the following verbs can also have two objects like 'show'?",
+    "choices": [
+      "run, speak, tell, offer",
+      "hand, offer, pay, promise, send, teach",
+      "give, take, make, keep",
+      "see, hear, feel, smell"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "In the speaking box, which phrase is used to SUMMARISE data at the end of a trend description?",
+    "choices": [
+      "In this graph, we can see …",
+      "The number of … increased …",
+      "Overall, the trend in … is upwards/downwards",
+      "There has been a sharp increase in …"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Read: 'Overall, there has been a steady rise in the number of IoT devices globally, but the technology has grown more rapidly in some areas than others.' The word 'steady' describes growth that is ________.",
+    "choices": [
+      "fast and dramatic",
+      "irregular and unpredictable",
+      "constant and regular over time",
+      "slow and almost invisible"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "In the article 'Early Adopter or Laggard?', what does the article say early adopters are essentially paying for?",
+    "choices": [
+      "Better quality products",
+      "To have a device first",
+      "Faster delivery",
+      "Extended warranty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The word 'state-of-the-art' means ________.",
+    "choices": [
+      "second-hand but functional",
+      "the most modern and advanced",
+      "designed for professional use only",
+      "produced in limited quantities"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The word 'glitches' are described as ________.",
+    "choices": [
+      "physical damage to a device",
+      "outdated features",
+      "small problems that prevent a device from working well",
+      "compatibility issues with other devices"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'People with autism may have a hypersensitivity to sights, sounds, smells and tastes. Some people are able to cope with this kind of sensory overload reasonably well, though the stress might eat away at them inside.' 'Sensory overload' means ________.",
+    "choices": [
+      "a physical injury caused by loud sounds",
+      "being overwhelmed by too many sensory stimuli at once",
+      "a type of VR experience",
+      "a medical treatment for autism"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Read from the VR article: 'People can watch the video using special 3D glasses, which take them more fully into the experience.' The 3D glasses are used to ________.",
+    "choices": [
+      "protect the eyes from the screen",
+      "allow people to interact with virtual objects",
+      "make the VR experience more immersive",
+      "measure the viewer's reactions"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "The phrasal verb 'go through' means ________.",
+    "choices": [
+      "to pass through a door",
+      "to experience something, especially something difficult",
+      "to end up doing something",
+      "to look through something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "The phrasal verb 'calm down' means ________.",
+    "choices": [
+      "to feel more anxious",
+      "to become quiet and relaxed",
+      "to leave a place immediately",
+      "to focus on the present moment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Read from the VR article comprehension: 'The writer cites Chris Milk to illustrate that VR ________.'",
+    "choices": [
+      "can be a way to communicate over distance",
+      "video may actually separate us from people we see onscreen",
+      "has the potential to alter how we interact with each other",
+      "creates perfect simulations of real life"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Read from the VR article comprehension: 'The examples in paragraph 4 indicate that VR can ________.'",
+    "choices": [
+      "easily trick people into doing things",
+      "inspire people to visit new places",
+      "stimulate people's willingness to take action",
+      "replace real-world experiences completely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "The word 'attributes' in the context of describing a person means ________.",
+    "choices": [
+      "personal opinions",
+      "physical or personal characteristics or qualities",
+      "social connections",
+      "digital filters"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The word 'superficial' means ________.",
+    "choices": [
+      "deep and meaningful",
+      "related only to the surface or appearance",
+      "hidden from others",
+      "extremely detailed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Rewrite using Pattern (a): 'Some people have suggested that young people should not have mobile phones.' → It ________ by some people that young people should not have mobile phones.",
+    "choices": [
+      "has been suggested",
+      "was suggested",
+      "is being suggested",
+      "suggests"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Read from the Bell article: 'Although he is most famous for inventing the telephone, he also invented a device that could be used to ________.'",
+    "choices": [
+      "measure blood pressure",
+      "detect icebergs in the sea",
+      "detect hearing problems",
+      "communicate over long distances"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Read from the Bell article: 'Bell also invented an early ________ and a device to detect icebergs in the sea.'",
+    "choices": [
+      "camera",
+      "radio transmitter",
+      "metal detector",
+      "telegraph machine"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "In the essay writing box, 'Another positive aspect of … is …' is a phrase used to ________.",
+    "choices": [
+      "summarise the essay",
+      "introduce the conclusion",
+      "give arguments in favour of the situation",
+      "give arguments against the situation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'In spite of these potential benefits, a significant number of people are choosing to use ad-blocking software.' What is the function of 'In spite of' here?",
+    "choices": [
+      "It adds more information to support benefits",
+      "It introduces a contrasting idea despite the benefits",
+      "It summarises the previous paragraph",
+      "It introduces the conclusion"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Read from 'Our Personal Data': 'In some cases, this is because they find the adverts annoying but it is also because of a desire to avoid being tracked online.' Why do many people use ad-blocking software?",
+    "choices": [
+      "They want faster internet",
+      "They find adverts annoying and want to avoid being tracked",
+      "It improves their search results",
+      "It makes logging in easier"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "According to the Life Skills section on social media, social media can play an important part in your ________.",
+    "choices": [
+      "entertainment only",
+      "financial planning",
+      "education",
+      "physical health"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "According to the Life Skills section on social media, you can never ________ something that has been on the internet.",
+    "choices": [
+      "share",
+      "delete",
+      "find",
+      "copy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "According to the Life Skills section, if you follow someone on social media, make sure they are influencing you in a ________ way.",
+    "choices": [
+      "popular",
+      "entertaining",
+      "positive",
+      "creative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct passive form: 'I regret ________ to buy this phone.' (persuade)",
+    "choices": [
+      "persuading",
+      "to be persuaded",
+      "being persuaded",
+      "to persuade"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Choose the correct passive: 'Young people don't need ________ how to use new devices.' (tell)",
+    "choices": [
+      "to tell",
+      "being told",
+      "telling",
+      "to be told"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct passive: 'By 2035, a chip like this ________ in your wrist.' (could/embed)",
+    "choices": [
+      "could embedded",
+      "could be embedded",
+      "could be embed",
+      "could been embedded"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "The passive gerund is formed with ________.",
+    "choices": [
+      "to be + past participle",
+      "being + past participle",
+      "been + past participle",
+      "be + infinitive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'I would really like to be employed by one of the giant tech companies.' This sentence uses ________.",
+    "choices": [
+      "the passive gerund",
+      "the passive infinitive",
+      "the modal passive",
+      "the present passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read from the VR article: 'While we can experience the sounds and sights of a flood, we don't come up against the same difficulties.' This means that VR ________.",
+    "choices": [
+      "can completely replace real experience",
+      "cannot replicate the full difficulty of real situations",
+      "is better than real experience for learning",
+      "creates false impressions of real problems"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In the Life Skills section on managing your online image, Tip 5 'Check your privacy settings regularly' is matched with extra information: ________.",
+    "choices": [
+      "Remember that posting privately doesn't necessarily protect you",
+      "Ask yourself if your grandmother would be comfortable reading it",
+      "Set up an alert to let you know when someone mentions you online",
+      "Don't share anything belonging to someone else without permission"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'It is commonly believed that education is being revolutionised by MOOCs, as the vast majority are free and qualifications are not required to register for them.' What does this sentence tell us about MOOCs?",
+    "choices": [
+      "They are expensive and require qualifications",
+      "They are mostly free and open to anyone",
+      "They are only available in certain countries",
+      "They are replacing all traditional education"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "In the for-and-against essay ACTIVE WRITING section, it says a good essay needs to introduce different perspectives and critically ________ them.",
+    "choices": [
+      "repeat",
+      "summarise",
+      "evaluate",
+      "copy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'This is clearly far more convenient, even though it is, of course, less secure.' The phrase 'even though' is a ________.",
+    "choices": [
+      "conjunction of contrast",
+      "adverb of contrast",
+      "preposition of contrast",
+      "conjunction of concession"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "According to the Life Skills section on managing your online image, employers today are very likely to look out for people with an ________ online presence.",
+    "choices": [
+      "entertaining",
+      "up-to-date",
+      "private",
+      "anonymous"
+    ],
+    "correct_answer": "b"
+  }
+]

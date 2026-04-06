@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'Sensors, which can monitor your heart rate, could be embedded in your body and alert the doctor if there are any problems.' The word 'sensors' refers to devices that ________.",
+    "choices": [
+      "store large amounts of data",
+      "detect and respond to physical inputs like temperature or movement",
+      "connect devices to the Internet wirelessly",
+      "send text messages automatically"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'A smart fridge that keeps grocery lists is one example of a household appliance.' A 'household appliance' is ________.",
+    "choices": [
+      "a small wearable device",
+      "an electrical device used in the home",
+      "software installed on a smartphone",
+      "a handheld gadget for personal use"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'Once a profile of your lifestyle has been built up…' This uses which passive tense?",
+    "choices": [
+      "Past Simple passive",
+      "Present Continuous passive",
+      "Present Perfect passive",
+      "Past Perfect passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'It is going to be shown at the New Inventors show next month.' This uses which passive form?",
+    "choices": [
+      "will future passive",
+      "going to future passive",
+      "present continuous passive",
+      "modal passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read: 'Anyone who touches it is given an electric shock.' In this passive sentence, the focus is on ________.",
+    "choices": [
+      "the electric shock",
+      "the device",
+      "anyone who touches it",
+      "the manufacturer"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'Within a decade or so almost every appliance in your house could be connected.' 'Could be connected' uses which passive form?",
+    "choices": [
+      "Future passive",
+      "Modal passive",
+      "Present Continuous passive",
+      "Past Perfect passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "In the speaking box, the phrase 'During the period …, it is noticeable that …' is used to ________.",
+    "choices": [
+      "introduce data",
+      "describe a change over time",
+      "summarise data",
+      "compare two sets of data"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "In the article 'Early Adopter or Laggard?', what does the article say early adopters are essentially paying for?",
+    "choices": [
+      "Better quality products",
+      "To have a device first",
+      "Faster delivery",
+      "Extended warranty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "In the vocabulary crossword, the clue 'Not in use anymore because something newer has been invented' matches the word ________.",
+    "choices": [
+      "outdated",
+      "glitch",
+      "obsolete",
+      "dated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "In the vocabulary crossword, the clue 'The ability for one piece of equipment or software to be used with another' matches the word ________.",
+    "choices": [
+      "functionality",
+      "upgrade",
+      "compatibility",
+      "backup"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Which word correctly completes: 'All my games are so ________ now that it probably doesn't matter.'? (The speaker means they are no longer modern.)",
+    "choices": [
+      "obsolete",
+      "dated",
+      "glitched",
+      "outdated"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read from the VR article: 'The lights are too bright. A man is shaking a pot full of coins — I think he's collecting money for charity. It's really loud. I carry on through the shopping centre. I can smell fried food.' The person in this passage is reacting to ________.",
+    "choices": [
+      "excitement in a busy shopping centre",
+      "sensory overload causing anxiety in someone with ASD",
+      "boredom in an ordinary shopping trip",
+      "fear of being robbed in a public place"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'Those people who had been chopping down trees reached for fewer paper napkins, suggesting that their experience had subconsciously encouraged them to stop wasting paper.' The VR tree-chopping experience affected people's behaviour by making them ________.",
+    "choices": [
+      "plant more trees in real life",
+      "use fewer paper napkins",
+      "stop buying wood products",
+      "become more active environmentalists"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "In the phrasal verbs exercise, 'Experiencing something difficult can help you to grow as a person' should be replaced by ________.",
+    "choices": [
+      "fitting in",
+      "holding down",
+      "going through something difficult",
+      "ending up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "In the phrasal verbs exercise, 'He stopped what he was doing to talk to his friend' should be replaced by ________.",
+    "choices": [
+      "fitted in",
+      "broke off",
+      "went through",
+      "came up against"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "In the phrasal verbs exercise, 'Every time she thought about it, the anxiety made her feel very bad' should be replaced by ________.",
+    "choices": [
+      "broke off",
+      "fitted in",
+      "ate away at her",
+      "ended up"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Read from the Bell article: 'In March 1876, the Scottish scientist Alexander Graham Bell called his assistant Thomas Watson and said, Mr Watson, come here, I want to see you.' What nationality was Alexander Graham Bell?",
+    "choices": [
+      "English",
+      "American",
+      "Scottish",
+      "Italian"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'People started taking selfies not just to present a flattering picture of themselves, but also to manage and curate what they wanted to tell the world.' In this sentence, 'flattering' means ________.",
+    "choices": [
+      "deceptive and misleading",
+      "presenting an attractively positive image",
+      "natural and unedited",
+      "artistic and carefully composed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'Appearances can be deceptive. You can add filters to enhance how you look, remove any flaws or even change the shape or size of your facial features.' The word 'features' here refers to ________.",
+    "choices": [
+      "special abilities of a smartphone app",
+      "parts of the face such as nose, eyes or mouth",
+      "digital effects applied to photos",
+      "the overall composition of a photograph"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The word 'influential' means ________.",
+    "choices": [
+      "attractive or interesting",
+      "positive and cheerful",
+      "able to change what people do or think",
+      "wanting something that someone else has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The word 'envious' means ________.",
+    "choices": [
+      "in large quantities or for a long time",
+      "wanting something that someone else has",
+      "positive and cheerful",
+      "attractive and interesting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Rewrite using Pattern (a): 'Experts have estimated that the majority of people own a smartphone.' → It ________ that the majority of people own a smartphone.",
+    "choices": [
+      "is estimated",
+      "was estimated",
+      "has been estimated",
+      "had been estimated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "In the impersonal passive grammar, Pattern (a) uses: it + passive (be + past participle) + ________.",
+    "choices": [
+      "to-infinitive",
+      "perfect infinitive",
+      "that clause",
+      "gerund"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read from the Bell article: 'Alexander Graham Bell is most famous for inventing the telephone. He also invented a device that could be used to detect hearing problems.' What else did Bell invent?",
+    "choices": [
+      "An early television",
+      "A device to detect hearing problems",
+      "The first radio",
+      "An early computer"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'Although he is most famous for inventing the telephone, he also invented a device that could be used to detect hearing problems.' What does 'although' show here?",
+    "choices": [
+      "A result",
+      "A reason",
+      "A contrast or concession",
+      "An additional fact only"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "In the essay writing section, 'In my considered opinion …' is used in the ________.",
+    "choices": [
+      "introduction",
+      "first main body paragraph",
+      "second main body paragraph",
+      "conclusion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Read from 'Our Personal Data': 'Most people really have very little idea how much data is being given away every time they click.' This supports which argument?",
+    "choices": [
+      "Data tracking is beneficial for consumers",
+      "Data tracking is a violation of privacy because people are unaware",
+      "Data tracking is safe because it is well-regulated",
+      "Data tracking is voluntary and transparent"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "In the for-and-against essay, 'even though' is classified as a ________.",
+    "choices": [
+      "conjunction of contrast",
+      "adverb of contrast",
+      "preposition of contrast",
+      "conjunction of concession"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "Read: 'This is clearly far more convenient, even though it is, of course, less secure.' The phrase 'even though' introduces ________.",
+    "choices": [
+      "an additional benefit",
+      "a concession or contrast to the main idea",
+      "a summary of the argument",
+      "a supporting example"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "According to the Life Skills section on social media, the worst kinds of comments make people feel uncomfortable or even ________.",
+    "choices": [
+      "jealous",
+      "threatened",
+      "embarrassed",
+      "confused"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "According to the Life Skills section, what is cyberbullying?",
+    "choices": [
+      "Hacking into someone's computer illegally",
+      "Sharing other people's private photos online",
+      "Making comments that make people feel uncomfortable or threatened",
+      "Creating fake accounts to deceive others"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "In the passive letter exercise, choose the correct form: 'Firstly, it ________ in large amounts of unnecessary plastic packaging.' (wrap)",
+    "choices": [
+      "was wrapping",
+      "was wrapped",
+      "has been wrapping",
+      "is wrapped"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "In the passive letter exercise, choose the correct form: 'Don't you think your products ________ in a more eco-friendly way?' (should/package)",
+    "choices": [
+      "should be packed",
+      "should package",
+      "should be packaged",
+      "should packaging"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "In the passive exercises, complete: 'An insect caused the malfunction.' → 'The malfunction ________ by an insect.'",
+    "choices": [
+      "was caused",
+      "has caused",
+      "is causing",
+      "had caused"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "In the passive exercises, 'Most people are going to use wearables in the near future.' → 'Wearables ________ by most people in the near future.'",
+    "choices": [
+      "are used",
+      "will be used",
+      "are going to be used",
+      "have been used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'In conclusion, it seems obvious that while people remain largely unaware and unable to make informed choices, the ability of companies to collect data should be limited.' What writing technique is used in this conclusion?",
+    "choices": [
+      "Introducing a completely new argument",
+      "Summarising the topic and giving a clear recommendation",
+      "Repeating the introduction word for word",
+      "Asking a rhetorical question"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "In the Life Skills section, Tip 1 'Don't post anything online without thinking about its consequences first' is matched with extra information: ________.",
+    "choices": [
+      "Remember that posting privately doesn't necessarily protect you",
+      "Add new posts to move negative content further down",
+      "Set up an alert to let you know when someone mentions you",
+      "Don't share anything that belongs to anyone else without permission"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 38,
+    "question": "Read: 'It is important to use social media carefully or it can have a negative effect on your life. For example, if you follow someone, make sure they are influencing you in a positive way.' This advice is from ________.",
+    "choices": [
+      "the VR article",
+      "the Early Adopter article",
+      "the Life Skills section on social media",
+      "the Our Personal Data essay"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "According to the Life Skills section, having a positive digital footprint is much ________ than having no digital footprint at all.",
+    "choices": [
+      "harder",
+      "less important",
+      "better",
+      "riskier"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'You should also check your privacy settings as terms and conditions on websites can change, and what was private six months ago might now be more public.' This advice warns that ________.",
+    "choices": [
+      "all websites must ask for your permission to change settings",
+      "privacy settings on websites can change over time without you noticing",
+      "all websites store your data permanently",
+      "social media companies always inform you of privacy changes"
+    ],
+    "correct_answer": "b"
+  }
+]

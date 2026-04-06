@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'Wearables and other smart devices, such as clothing, could be used to track your body's fat and water content.' What are 'wearables'?",
+    "choices": [
+      "Kitchen appliances with internet connection",
+      "Electronic devices that can be worn on the body",
+      "Sensors embedded inside the body",
+      "Software used to detect faces"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Read: 'Some people are concerned that it is easy to hack into a self-driving car, or that there might be a malfunction causing an accident.' What is a 'malfunction'?",
+    "choices": [
+      "A successful safety check",
+      "A fault that prevents something from working correctly",
+      "A type of software update",
+      "A built-in security system"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'Your front door will use facial recognition software to decide if you should be allowed into the house or not.' This sentence uses which passive form?",
+    "choices": [
+      "Past Simple passive",
+      "Present Perfect passive",
+      "Future Simple with modal passive",
+      "Past Continuous passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "In the article 'Early Adopter or Laggard?', what problem might you face when you buy a new device as an early adopter?",
+    "choices": [
+      "The device runs out of battery quickly",
+      "The device is too heavy to carry",
+      "Compatibility issues requiring new adaptors or cables",
+      "The device cannot connect to Wi-Fi"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Which word describes software that is 'not working very well because it's rather old'?",
+    "choices": [
+      "dated",
+      "outdated",
+      "obsolete",
+      "old-fashioned"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which word correctly completes: 'That style of trousers looks really ________ now.'?",
+    "choices": [
+      "outdated",
+      "obsolete",
+      "dated",
+      "old-fashioned"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The phrasal verb 'back up' means ________.",
+    "choices": [
+      "to return to a previous location",
+      "to store a copy of information on a device so it won't be lost",
+      "to support someone in an argument",
+      "to charge a device fully"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Read from the VR article: 'The doors shut with a thud behind me as I walk into the shopping centre. Immediately, there's a buzz of noise. I can hear two or three different types of music being played in various shops.' This first paragraph is written to ________.",
+    "choices": [
+      "describe a pleasant shopping experience",
+      "show how overwhelming everyday situations can be for someone with ASD",
+      "advertise a new shopping centre",
+      "explain how VR works in shopping environments"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Read from the VR article: 'Some people are able to cope with this kind of sensory overload reasonably well, though the stress might eat away at them inside.' What does 'eat away at' mean in this context?",
+    "choices": [
+      "To consume food quickly",
+      "To gradually harm or affect someone internally",
+      "To break off from an activity",
+      "To encounter a difficulty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Read from the VR article: 'It can also lead to people with autism having problems at school or with holding down a job, as they may come across as unreliable or bad-tempered.' 'Come across as' means ________.",
+    "choices": [
+      "to encounter a difficulty",
+      "to appear to others in a certain way",
+      "to go through a challenge",
+      "to end up doing something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read from the VR article: 'Those people who had been chopping down trees reached for fewer paper napkins, suggesting that their experience had subconsciously encouraged them to stop wasting paper.' The word 'subconsciously' means ________.",
+    "choices": [
+      "in a way that is deliberate and planned",
+      "in a way that happens without the person being aware of it",
+      "in a way that is completely obvious",
+      "in a way that is physically felt"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'A major difference between simulated and actual experiences is that we volunteer to put on the VR headset. We can break off at any time.' What does this tell us about VR?",
+    "choices": [
+      "VR is more comfortable than real experience",
+      "Unlike real sufferers, VR users can choose to stop the experience at any time",
+      "VR experiences last much longer than real experiences",
+      "VR users feel less empathy than people who have real experiences"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "In the phrasal verbs exercise, 'Relax — it's going to be OK' should be replaced by ________.",
+    "choices": [
+      "hold down",
+      "fit in",
+      "calm down",
+      "come up against"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "In the phrasal verbs exercise, 'I didn't expect to see you here!' should be replaced by ________.",
+    "choices": [
+      "come up against",
+      "bump into",
+      "go through",
+      "break off"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Read from the VR article: 'VR has also been used to give people the experience of being disabled, or being in a flood.' What is the PURPOSE of these experiences?",
+    "choices": [
+      "To entertain people with exciting virtual experiences",
+      "To help people understand the challenges others face in their real lives",
+      "To test the technical limits of VR equipment",
+      "To replace real emergency training programmes"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "The word 'deceptive' means ________.",
+    "choices": [
+      "honest and transparent",
+      "misleading or giving a false impression",
+      "attractive and well-presented",
+      "natural and unedited"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'People started taking selfies not just to present a flattering picture of themselves, but also to manage and curate what they wanted to tell the world about their physical attributes, their personality, their relationships and their hobbies.' The word 'curate' here means to ________.",
+    "choices": [
+      "delete unwanted photos automatically",
+      "carefully select and organise what you share about yourself",
+      "filter photos using a smartphone app",
+      "upload photos immediately without editing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'On a superficial level, their holiday photos look relaxed and natural, but in reality they've been very carefully planned — and paid for.' What does this passage reveal?",
+    "choices": [
+      "That holiday photos are always natural and genuine",
+      "That social media appearances can be carefully constructed and misleading",
+      "That planning photos is always a good idea",
+      "That photographers always produce natural-looking photos"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'You can add filters to enhance how you look, remove any flaws or even change the shape or size of your facial features.' The word 'flaws' means ________.",
+    "choices": [
+      "attractive features",
+      "digital editing tools",
+      "imperfections or faults in appearance",
+      "facial characteristics"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'In my considered opinion, online learning should be combined with traditional methods.' The phrase 'in my considered opinion' is used in the ________.",
+    "choices": [
+      "introduction",
+      "first body paragraph",
+      "second body paragraph",
+      "conclusion"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Read from the Bell article: 'In March 1876, the Scottish scientist Alexander Graham Bell called his assistant Thomas Watson and said, Mr Watson, come here, I want to see you. These are thought to have been the first words ever spoken on a telephone.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a: it + passive + that clause",
+      "Pattern b: subject + passive + to-infinitive",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Active voice with a reporting verb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Rewrite using Pattern (b): 'Initially, people thought the telephone was only for rich people.' → Initially, the telephone ________ to have been only for rich people.",
+    "choices": [
+      "is thought",
+      "was thought",
+      "has been thought",
+      "thinks"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Rewrite using Pattern (a): 'Experts expect that more people will own phones in the future.' → It ________ that more people will own phones in the future.",
+    "choices": [
+      "is thought",
+      "is believed",
+      "is expected",
+      "is said"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "In the essay writing guide, which phrase is used to introduce arguments AGAINST the topic?",
+    "choices": [
+      "There may be some clear benefits to doing …",
+      "Another positive aspect of … is …",
+      "In spite of these potential benefits, many people …",
+      "In conclusion, it seems obvious that …"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'Although most people are careful with data such as online banking details, many actually prefer more personalised marketing.' The word 'although' is a ________.",
+    "choices": [
+      "conjunction of contrast",
+      "preposition of contrast",
+      "conjunction of concession",
+      "adverb of contrast"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "According to the Life Skills section on social media, social media allows us to belong to groups of people with the same ________.",
+    "choices": [
+      "nationality and language",
+      "age and income",
+      "ideas, hobbies or interests",
+      "education and career"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "According to the Life Skills section, when applying to university or for a job, people might look at your social media ________.",
+    "choices": [
+      "friends list",
+      "profile photo",
+      "history",
+      "follower count"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "In the Life Skills matching exercise, Tip 4 'Do a search on your name every six months or so' is matched with ________.",
+    "choices": [
+      "Remember that posting privately doesn't protect you",
+      "Ask yourself if your grandmother would be comfortable reading it",
+      "Set up an alert to let you know when someone mentions you online",
+      "Don't share anything belonging to someone else without permission"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct passive: 'This device shouldn't ________ by anyone under the age of 16.'",
+    "choices": [
+      "be used",
+      "used",
+      "using",
+      "be using"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "Choose the correct passive: 'The teacher congratulated them on ________ to take part in the science fair.'",
+    "choices": [
+      "to invite",
+      "inviting",
+      "being invited",
+      "to be invited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "In the passive exercises, 'The first real smartphone ________ by a famous company.' (create)",
+    "choices": [
+      "was created",
+      "is created",
+      "created",
+      "has created"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "In the passive exercises, 'This app has ________ by over two million people.' (download)",
+    "choices": [
+      "downloaded",
+      "been downloaded",
+      "been downloading",
+      "downloading"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "In the passive exercises, 'Celebrities' smartphones ________ regularly hacked into.' (past continuous passive)",
+    "choices": [
+      "were being",
+      "had been",
+      "are being",
+      "were"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'Many teens work on their online image. Some of them ________ their image for fun, others feel it is an important part of who they are.' Which word fits?",
+    "choices": [
+      "hide",
+      "feature",
+      "delete",
+      "track"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read: 'Teens use their smart devices to blog, comment, and ________ their ideas.' Which word fits?",
+    "choices": [
+      "hide",
+      "copy",
+      "communicate",
+      "delete"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read from the Bell article: 'Not everybody believes Alexander Graham Bell was the inventor of the telephone.' Which of the following is correct according to the article?",
+    "choices": [
+      "Everyone agrees Bell invented the telephone",
+      "The Italians claim that Antonio Meucci is the true inventor",
+      "The phone was invented by a team of scientists",
+      "Bell refused to take credit for the invention"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read from the Bell article: 'It is estimated that there are more than 8.5 billion mobile phones in a world that has a population of around 8 billion people.' This means ________.",
+    "choices": [
+      "Fewer phones than people exist in the world",
+      "The number of phones equals the number of people",
+      "There are more phones than people in the world",
+      "The number of phones is slightly fewer than people"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Read from 'Our Personal Data': 'In conclusion, it seems obvious that while people remain largely unaware and unable to make informed choices, the ability of companies to collect data should be limited or they should be required to specifically ask for permission.' What is the main recommendation?",
+    "choices": [
+      "Companies should be encouraged to collect more data",
+      "People should be taught more about data privacy",
+      "Companies should be limited in collecting data or required to ask permission first",
+      "Cookies should be banned completely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Basically, you should behave online as you would in real life. Don't make rude comments, don't steal other people's property.' Which Life Skills tip does this represent?",
+    "choices": [
+      "Don't post anything without thinking about consequences",
+      "Take steps to hide anything negative",
+      "The same rules apply online as in real life",
+      "Check your privacy settings regularly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'If you follow someone on social media, make sure they are influencing you in a positive way. If you think this might not be true, you can opt out of content that does not positively affect you.' 'Opt out' means to ________.",
+    "choices": [
+      "choose to stop receiving or participating in something",
+      "report someone to the social media platform",
+      "block someone permanently",
+      "share content with others"
+    ],
+    "correct_answer": "a"
+  }
+]

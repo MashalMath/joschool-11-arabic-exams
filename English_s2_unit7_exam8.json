@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The professor said that others had to wash in rivers because they didn't have clean water in their houses to have a bath or shower.\n\nWhat did the professor say originally in direct speech?",
+    "choices": [
+      "'Others have to wash in rivers because they don't have clean water in their houses to have a bath or shower.'",
+      "'Others had to wash in rivers because they didn't have clean water in their houses to have a bath or shower.'",
+      "'Others should wash in rivers because they haven't clean water in their houses to have a bath or shower.'",
+      "'Others washed in rivers because they wouldn't have clean water in their houses to have a bath or shower.'"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Charity workers installed new drinking taps and a new toilet block in the village last week. The village has not had fresh water for many years, so the changes will make a big difference.\n\nThe journalist said that charity workers ________ new drinking taps and a new toilet block in the village the week before.",
+    "choices": [
+      "installed",
+      "had installed",
+      "have installed",
+      "were installing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Many children now go to school for longer because they don't have to walk long distances to find water. The villager said that many children now go to school for longer because they ________ walk long distances to find water.",
+    "choices": [
+      "don't have to",
+      "didn't have to",
+      "hadn't had to",
+      "wouldn't have to"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "I would like to thank the charity for helping our village. The villager thanked the charity for helping ________ village.",
+    "choices": [
+      "my",
+      "his",
+      "their",
+      "our"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "How soon will it be before all the villages in the area have the same help? (villager's question)\nThe villager asked how soon ________ before all the villages in the area had the same help.",
+    "choices": [
+      "will it be",
+      "would it be",
+      "it will be",
+      "it would be"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "I met a guy at a talk last week. He looked a bit confused, so I asked him ________ I could help him.",
+    "choices": [
+      "that",
+      "why",
+      "if",
+      "which"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "He said that he wanted to know how he ________ get to the lecture theatre.",
+    "choices": [
+      "couldn't",
+      "could",
+      "wants",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "He told me that he ________ to this university before.",
+    "choices": [
+      "wasn't",
+      "hadn't been",
+      "hasn't been",
+      "didn't"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "So I told him that I ________ show him the way.",
+    "choices": [
+      "can",
+      "will",
+      "would",
+      "shall"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "He thanked me and we went ________.",
+    "choices": [
+      "apart",
+      "other",
+      "together",
+      "separately"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Were you at the meeting yesterday? She wanted to know if I ________.",
+    "choices": [
+      "was at the meeting the day before.",
+      "had been at the meeting the day before.",
+      "had been at the meeting yesterday.",
+      "am at the meeting yesterday."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "'What will you be asking for?' (future context)\nShe's just asked us ________.",
+    "choices": [
+      "what we would be asking for.",
+      "what we will been asking for.",
+      "what she would be asking for.",
+      "what we will be asking for."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "'How many people went to the meeting last week?'\nHe asked how many people ________.",
+    "choices": [
+      "go to the meeting last week.",
+      "had gone to the meeting last week.",
+      "had gone to the meeting the week before.",
+      "went to the meeting the week before."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "'How long have you all been preparing the dinner?'\nHe wanted to know how long we had all been preparing the dinner. This is because 'asks' is in the ________ tense, so we may NOT change the verb.",
+    "choices": [
+      "future",
+      "past",
+      "present",
+      "past perfect"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "'Are you hopeful the meeting will be successful?' (She often asks me this)\nShe often asks me ________.",
+    "choices": [
+      "if I was hopeful the meeting will be successful.",
+      "if I am hopeful the meeting would be successful.",
+      "if I am hopeful the meeting will was successful.",
+      "if I am hopeful the meeting will be successful."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "'This conference is amazing.' (She says this)\nShe says that ________.",
+    "choices": [
+      "this conference was amazing.",
+      "this conference is amazing.",
+      "this conference had been amazing.",
+      "this conference will be amazing."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "'The conference has been a great success.' (She says this)\nShe says that the conference ________.",
+    "choices": [
+      "had been a great success.",
+      "was a great success.",
+      "has been a great success.",
+      "is a great success."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "'People are getting really upset about the issue.'\nShe said that people ________ really upset about the issue.",
+    "choices": [
+      "get",
+      "were getting",
+      "are getting",
+      "had got"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Students went to a meeting about climate change yesterday. Alia said that they ________ extremely concerned about the state of the planet.",
+    "choices": [
+      "are",
+      "were",
+      "have been",
+      "has been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Alia said that they ________ decided to join the discussion after hearing about similar meetings taking place around the world the week before.",
+    "choices": [
+      "have",
+      "has",
+      "had",
+      "having"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Noura complained about people playing loud music on public transport. Which of these expresses her opinion?",
+    "choices": [
+      "People should be praised for playing music on transport.",
+      "She would like people who play loud music on public transport to be banned.",
+      "She thinks a ban on loud music would be easy to enforce.",
+      "She has no strong opinion on the matter."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "According to Samar's opinion on queue jumping, she thinks it is:",
+    "choices": [
+      "completely acceptable behaviour",
+      "very annoying, and you should talk to the person to find out why",
+      "fine if you have a very important reason",
+      "something that should be made illegal immediately"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "According to Rana's opinion on hunting for sport, people should:",
+    "choices": [
+      "be fined for hunting",
+      "stop hunting completely",
+      "decide for themselves",
+      "only hunt in designated areas"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "He misjudged how many sandwiches he would need for the family party. The word 'misjudged' means:",
+    "choices": [
+      "judged correctly",
+      "judged before the event",
+      "judged incorrectly",
+      "judged very carefully"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Some students are quite young when they start their studies and can feel ________ in their first weeks.",
+    "choices": [
+      "comfort",
+      "comforted",
+      "comforting",
+      "uncomfortable"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "The Union will be pleased to ________ any doubts students have.",
+    "choices": [
+      "clarify",
+      "clearly",
+      "clarification",
+      "clarified"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 27,
+    "question": "We believe in ________ of speech.",
+    "choices": [
+      "free",
+      "freedom",
+      "freely",
+      "freeing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "The Student Union also helps students enjoy the ________, social and sports activities available to them at university.",
+    "choices": [
+      "entertain",
+      "entertaining",
+      "entertainment",
+      "entertains"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Their ________ beliefs refers to their personal ones.",
+    "choices": [
+      "personify",
+      "person",
+      "personal",
+      "personage"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "He ________ how many sandwiches he would need for the family party and didn't make enough.",
+    "choices": [
+      "judgement",
+      "judge",
+      "misjudged",
+      "prejudge"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following verbs follows the pattern: verb + object + preposition + gerund?",
+    "choices": [
+      "offer, promise, refuse",
+      "accuse somebody of, congratulate somebody on",
+      "apologise for, object to",
+      "admit, deny, recommend"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Which reporting verb follows the pattern: verb + that + clause?",
+    "choices": [
+      "offer",
+      "encourage",
+      "insist on",
+      "admit"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "In the article about Harar, Abbas Yusuf feeds the hyenas every day when it is getting dark. What does he use to feed them?",
+    "choices": [
+      "Dead animals left on the road",
+      "Food thrown over the city walls",
+      "Meat that he holds out from his hands",
+      "Food left in bins near the city"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "According to the article about Harar, besides preventing attacks, how are the hyenas considered useful by some people?",
+    "choices": [
+      "They attract tourists who bring money to the city.",
+      "They help to eat rubbish from the tips, discouraging flies and insects.",
+      "They help to guard the city walls at night.",
+      "They provide meat for the local community."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "In writing an article, what makes the introduction engaging according to the Writing box?",
+    "choices": [
+      "using alliteration in the title",
+      "repeating the title at the end",
+      "asking a rhetorical question or addressing readers directly",
+      "writing very long sentences with many clauses"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The correct pronunciation of the underlined letter in the word 'capital' is:",
+    "choices": [
+      "/t/",
+      "/d/",
+      "/th/",
+      "/kh/"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "In word stress, 'justify' and 'justifiable' have ________ stress pattern.",
+    "choices": [
+      "the same",
+      "different",
+      "no stress",
+      "irregular"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Businesses are now very aware of the importance of gender equality, and women should have the same pay as men. The word which completes: 'Businesses are now very aware of the importance of gender ________, and women should have the same pay as men.' is:",
+    "choices": [
+      "racism",
+      "equality",
+      "homelessness",
+      "poverty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nIn the Autumn of 2012, Lisa Ludwinski started her business from her parents' kitchen when she made and sold 40 pies. The reaction to them was so positive that she kept going. What followed was an industrious few years.\n\nWhat does the word 'industrious' tell us about Lisa's years building her business?",
+    "choices": [
+      "The years were very relaxing and easy.",
+      "She worked very hard during those years.",
+      "The years were full of problems and failures.",
+      "She spent those years travelling and learning."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nIntegral to Lisa's business philosophy is making Sister Pie a part of the community. Due to this, she operates a 'Pie it Forward' system where customers can purchase a coupon. This is then kept on the wall and can be used by strangers, who may not have enough money, to enjoy a slice of the delicious pies.\n\nWho can use the coupons kept on the wall at Sister Pie?",
+    "choices": [
+      "Only regular customers who have purchased them before",
+      "Strangers who may not have enough money",
+      "Only employees of the bakery",
+      "Tourists visiting Detroit for the first time"
+    ],
+    "correct_answer": "b"
+  }
+]

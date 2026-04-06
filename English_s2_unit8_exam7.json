@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "'Facial recognition software' in the IoT vocabulary is software that ________.",
+    "choices": [
+      "tracks your body movements",
+      "recognises a person's identity using their face",
+      "embeds sensors in the body",
+      "connects devices to the internet"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "According to the IoT infographic, lights turning on and off automatically is a feature of a ________.",
+    "choices": [
+      "wearable device",
+      "smart house",
+      "security system",
+      "health sensor"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'Can you imagine how many accidents are going to be caused by computer error when no one is watching the road?' This uses which passive form?",
+    "choices": [
+      "Present passive",
+      "Modal passive",
+      "Future passive with going to",
+      "Past passive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'Music and games could be downloaded in seconds.' This uses which passive form?",
+    "choices": [
+      "Present Simple passive",
+      "Modal passive",
+      "Future passive",
+      "Present Perfect passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "According to the passive grammar section, we usually ________ the passive in informal language.",
+    "choices": [
+      "prefer",
+      "encourage",
+      "avoid",
+      "use more of"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Read: 'The consequences of an unhealthy lifestyle will be shown to people.' In this passive sentence, the focus is on ________.",
+    "choices": [
+      "people",
+      "the consequences",
+      "the lifestyle",
+      "the computer"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "In the trend description speaking box, which word means a rapid or sudden change?",
+    "choices": [
+      "gradually",
+      "slightly",
+      "sharply",
+      "steadily"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Read: 'Overall, there has been a steady rise in the number of IoT devices globally.' The word 'steady' describes growth that is ________.",
+    "choices": [
+      "fast and dramatic",
+      "irregular and unpredictable",
+      "constant and regular over time",
+      "slow and almost invisible"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "The word 'state-of-the-art' means ________.",
+    "choices": [
+      "second-hand but functional",
+      "the most modern and advanced",
+      "designed for professional use only",
+      "produced in limited quantities"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "The word 'glitches' means ________.",
+    "choices": [
+      "physical damage to a device",
+      "outdated features",
+      "small problems that prevent a device from working well",
+      "compatibility issues with other devices"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'Are you still using those outdated old headphones, Maha? There's nothing wrong with them. I'm not the kind of person who has to have the latest model of everything.' The word 'outdated' means ________.",
+    "choices": [
+      "broken and in need of repair",
+      "too expensive for everyday use",
+      "no longer modern or current",
+      "too small to use comfortably"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'You love music so much that it seems a shame not to have headphones that can ________ the bass better.' Which verb fits?",
+    "choices": [
+      "produce",
+      "create",
+      "handle",
+      "improve"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'It can also lead to people with autism having problems at school or with holding down a job, as they may come across as unreliable or bad-tempered.' 'Holding down a job' means ________.",
+    "choices": [
+      "getting promoted at work",
+      "keeping a job over time",
+      "working long hours",
+      "applying for a job"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Read from the VR article: 'The researcher accidentally spilt his drink.' The reason for the inverted commas around 'accidentally' is that ________.",
+    "choices": [
+      "it really was an accident",
+      "it was actually done on purpose as part of the experiment",
+      "the researcher was clumsy",
+      "the drink spilt because of the VR equipment"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Read from the VR article: 'While we can experience the sounds and sights of a flood, we don't ________ the same difficulties.' Which phrasal verb fits?",
+    "choices": [
+      "face up to",
+      "go through",
+      "come up against",
+      "end up with"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "In the phrasal verbs exercise, 'I have never really felt part of the group at school' should be replaced by ________.",
+    "choices": [
+      "ended up",
+      "gone through",
+      "fitted in",
+      "held down"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "In the phrasal verbs exercise, 'If you encounter any problems, let me know' should be replaced by ________.",
+    "choices": [
+      "go through any problems",
+      "come up against any problems",
+      "end up with any problems",
+      "bump into any problems"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'People started taking selfies not just to present a flattering picture of themselves, but also to manage and curate what they wanted to tell the world.' 'Curate' in this context means to ________.",
+    "choices": [
+      "delete all negative photos",
+      "carefully select and organise what you share about yourself",
+      "use filters to improve all photos",
+      "post everything you do online"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'People started using selfie-sticks to make it easier to take photos of themselves in well-known tourist destinations.' Why did people start using selfie-sticks in tourist destinations?",
+    "choices": [
+      "To take photos of other tourists",
+      "To show off about all the places they had been to",
+      "To improve the technical quality of their photos",
+      "To document their travels for future reference"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The word 'upbeat' means ________.",
+    "choices": [
+      "able to influence others",
+      "wanting what others have",
+      "positive and cheerful",
+      "available in large quantities"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The word 'appealing' means ________.",
+    "choices": [
+      "positive and cheerful",
+      "wanting something someone else has",
+      "attractive or interesting",
+      "able to influence others"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Read: 'These are thought to have been the first words ever spoken on a telephone.' Which impersonal passive pattern is this?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Active reporting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "In the passive exercises, 'People say that other scientists invented the telephone.' → 'It ________ that other scientists invented the telephone.'",
+    "choices": [
+      "was said",
+      "is said",
+      "has said",
+      "says"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read: '5G mobile networks are expected to greatly improve Internet connection speeds.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a: it + passive + that clause",
+      "Pattern b: subject + passive + to-infinitive",
+      "Pattern c: subject + passive + perfect infinitive",
+      "Active reporting structure"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'The company is estimated to have sold nearly ten million handsets in the last ten years.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "In the for-and-against essay writing box, the phrases 'It is commonly believed that …' and 'It is argued by some people that …' are used in the ________.",
+    "choices": [
+      "introduction",
+      "first body paragraph (arguments for)",
+      "second body paragraph (arguments against)",
+      "conclusion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Read from 'Our Personal Data': 'In conclusion, it seems obvious that while people remain largely unaware and unable to make informed choices, the ability of companies to collect data should be limited.' What is the main recommendation in this conclusion?",
+    "choices": [
+      "Companies should be encouraged to collect more data",
+      "People should be taught more about data",
+      "The ability of companies to collect data should be limited",
+      "Cookies should be banned completely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "In the essay writing section, 'There may be some clear benefits to doing this' introduces ________.",
+    "choices": [
+      "arguments against",
+      "the conclusion",
+      "arguments in favour",
+      "the introduction"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "In the linkers section, 'despite' is classified as a ________.",
+    "choices": [
+      "conjunction of contrast",
+      "adverb of contrast",
+      "preposition of contrast",
+      "conjunction of concession"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read: 'Many cookies are harmless. Nevertheless, it should be possible to use the sites without accepting them.' The word 'nevertheless' here ________.",
+    "choices": [
+      "agrees with the previous statement",
+      "introduces an unexpected contrast",
+      "explains a reason",
+      "adds more information"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "According to the Life Skills section on social media, which advice is given about accepting friend requests?",
+    "choices": [
+      "Accept requests from anyone who seems friendly",
+      "Only accept requests from people you know in the real world",
+      "Accept requests but limit what they can see",
+      "Ask a trusted adult before accepting any request"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "According to the Life Skills section, the reason you should not always leave location services on is that ________.",
+    "choices": [
+      "it drains your phone battery quickly",
+      "it shares your data with advertisers",
+      "you do not want everyone to know where you are all the time",
+      "it can cause your phone to overheat"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "In the revision exercises, 'It is commonly believed that education is being ________ by MOOCs.'",
+    "choices": [
+      "replaced",
+      "revolutionised",
+      "complicated",
+      "improved"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Read: 'It is claimed that virtual reality experiences are exactly the same as the real thing.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern b",
+      "Pattern c",
+      "Pattern a",
+      "Active reporting"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In the passive exercises, 'Important data is believed to have been lost by at least 20 companies due to the recent computer virus.' Which pattern is used?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read: 'In fact, paper and envelope-based distance-learning courses are rarely found these days, and are considered ________.' Which word fits?",
+    "choices": [
+      "outdated",
+      "popular",
+      "obsolete",
+      "effective"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'Students rarely come up against technical issues provided the device they are using to access their course isn't ________.' Which word fits?",
+    "choices": [
+      "expensive",
+      "new",
+      "outdated",
+      "slow"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "In the passive exercises, 'This sculpture was made ________ electronic waste.' Which preposition fits?",
+    "choices": [
+      "by",
+      "from",
+      "with",
+      "of"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In the passive exercises, 'The original smartwatch was designed ________ the inventor, Steve Mann.'",
+    "choices": [
+      "with",
+      "by",
+      "from",
+      "for"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "According to the Life Skills section on managing your online image, having a positive digital footprint is much ________ than having no digital footprint at all.",
+    "choices": [
+      "harder",
+      "less important",
+      "better",
+      "riskier"
+    ],
+    "correct_answer": "c"
+  }
+]

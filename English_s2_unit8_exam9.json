@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'Machines which gather, store and analyse data and can upload it to the Internet' — this is the definition of ________.",
+    "choices": [
+      "Cloud computing",
+      "Artificial Intelligence",
+      "The Internet of Things",
+      "Facial recognition technology"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "'Smart devices' are described as ________.",
+    "choices": [
+      "devices embedded in the human body",
+      "electronic devices that connect to the internet and can be controlled remotely",
+      "wearable health monitors",
+      "devices that can only be used at home"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Read: 'The company expects their invention to be launched next year.' This uses the ________.",
+    "choices": [
+      "passive gerund",
+      "passive infinitive",
+      "present perfect passive",
+      "modal passive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Read: 'Fresh Brew was created by a British coffee company.' Why is the agent mentioned in this passive sentence?",
+    "choices": [
+      "It is obvious who created it",
+      "It is unknown who created it",
+      "It is new and important information",
+      "The agent is unimportant"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "In the smart doorbell advert, complete: 'Our Smart Doorbell ________ at our factory in Portugal.' (manufacture)",
+    "choices": [
+      "manufactured",
+      "is manufactured",
+      "has manufactured",
+      "manufactures"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "In the smart doorbell advert, complete: 'The on-board camera ________ to see who's at your door.' (can/use)",
+    "choices": [
+      "can be used",
+      "can used",
+      "can be using",
+      "could have been used"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Read: 'In Eastern Europe, the number of devices went up quite dramatically.' Rewrite using Pattern 2: 'There was ________ in the number of devices in Eastern Europe.'",
+    "choices": [
+      "a dramatic decline",
+      "a sharp increase",
+      "a slight rise",
+      "a steady growth"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Which phrase correctly describes a downward trend?",
+    "choices": [
+      "There has been a steady increase",
+      "The number rose gradually",
+      "Sales went up dramatically",
+      "The number of users declined sharply"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "In the article 'Early Adopter or Laggard?', 'backed up' means ________.",
+    "choices": [
+      "upgraded to a newer version",
+      "sent to a cloud server",
+      "stored on a device so it won't be lost",
+      "connected to a network"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "According to the Active Vocabulary section, which pair of words have 'different connotations' even though they both mean 'not modern'?",
+    "choices": [
+      "gadget and device",
+      "dated and old-fashioned",
+      "obsolete and outdated",
+      "sensor and tracker"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'This laptop is nearly ten years old.' Laila describes it as ________.",
+    "choices": [
+      "obsolete",
+      "outdated",
+      "buggy",
+      "old-fashioned"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Read: 'Very few of our new laptops have CD drives as CDs are virtually ________.'",
+    "choices": [
+      "outdated",
+      "obsolete",
+      "dated",
+      "old-fashioned"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'But for others, they end up having a meltdown — in other words, they get upset or angry.' The phrasal verb 'end up' means ________.",
+    "choices": [
+      "to face a problem unexpectedly",
+      "to finally find yourself in a situation or doing something",
+      "to break off from an activity",
+      "to resist a difficult situation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Read from the VR article: 'This can make it difficult to fit in with or to keep friends.' 'Fit in with' means ________.",
+    "choices": [
+      "to insert yourself into a crowd",
+      "to be accepted as part of a group",
+      "to face a challenge directly",
+      "to adjust your behaviour for others"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "According to the VR article, the National Autistic Society's VR experience was designed to help people understand what ________ feels like.",
+    "choices": [
+      "sensory deprivation",
+      "sensory overload",
+      "physical disability",
+      "social isolation"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "In the phrasal verbs exercise, 'I have never really felt part of the group at school' should be replaced with ________.",
+    "choices": [
+      "held down at school",
+      "come up against school",
+      "fitted in at school",
+      "ended up at school"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "The phrasal verb 'bump into' means ________.",
+    "choices": [
+      "to crash into something physically",
+      "to meet someone unexpectedly",
+      "to start a new activity",
+      "to encounter a problem"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'People started taking selfies to manage and curate what they wanted to tell the world about their physical attributes.' The word 'attributes' refers to ________.",
+    "choices": [
+      "photographs taken on holiday",
+      "physical or personal qualities or characteristics",
+      "social media statistics",
+      "digital filters applied to photos"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'Can someone's flaws make them more likeable? Yes, because imperfections can make a person seem more ________ and relatable.'",
+    "choices": [
+      "attractive and perfect",
+      "authentic",
+      "powerful and influential",
+      "popular and well-known"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'On a superficial level, their holiday photos look relaxed and natural, but in reality they've been very carefully planned — and paid for.' What does this passage reveal?",
+    "choices": [
+      "That holiday photos are always natural and genuine",
+      "That social media appearances can be carefully constructed and misleading",
+      "That planning photos is always a good idea",
+      "That photographers always produce natural-looking photos"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Read: 'The more photos like dangerous selfies appear on social media, the more some people are encouraged to do something similarly dangerous themselves.' This means that ________.",
+    "choices": [
+      "dangerous selfies should be reported immediately",
+      "liking or admiring dangerous selfies can encourage others to take similar risks",
+      "dangerous selfies are always removed by social media platforms",
+      "only young people take dangerous selfies"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Complete: 'My piano teacher was very ________ about my progress, which made me feel great.'",
+    "choices": [
+      "influential",
+      "envious",
+      "appealing",
+      "upbeat"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'The designer is known to have been heavily influenced by early computers.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'It is thought that the city's schools will be completely paperless within 50 years.' Which pattern is used?",
+    "choices": [
+      "Pattern c",
+      "Pattern b",
+      "Pattern a",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Read: 'Of the nearly two billion websites believed to exist today, it is estimated that less than ________ million are actually active.'",
+    "choices": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'Social media users are reported to upload ________ million photographs every day.'",
+    "choices": [
+      "50",
+      "75",
+      "95",
+      "100"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Read: 'Rather sadly, it is said that 70% of them are never ________ by anyone.'",
+    "choices": [
+      "liked",
+      "shared",
+      "looked at",
+      "downloaded"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "In the for-and-against essay writing task, students are told to use ________ where possible and include phrases of contrast.",
+    "choices": [
+      "active voice structures",
+      "impersonal passive structures",
+      "direct questions",
+      "reported speech"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Read from 'Our Personal Data': 'Another positive aspect of data tracking is that people can be automatically logged onto a site, rather than having to enter a password.' What does 'automatically logged on' mean?",
+    "choices": [
+      "Having to type your password every time",
+      "Being signed in to a website without manually entering your details",
+      "Creating a new account each visit",
+      "Using face recognition to enter a site"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "In the for-and-against essay ACTIVE WRITING section, it says a good essay should 'introduce different perspectives and critically ________ them'.",
+    "choices": [
+      "repeat",
+      "summarise",
+      "evaluate",
+      "copy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Combine: 'Many cookies are harmless' + 'it should be possible to use sites without accepting them' using 'nevertheless'. Which is correct?",
+    "choices": [
+      "Many cookies are harmless although it should be possible to use sites without accepting them",
+      "Many cookies are harmless. Nevertheless, it should be possible to use sites without accepting them",
+      "Many cookies are harmless. In spite of it should be possible to use sites",
+      "Many cookies are harmless, whereas it should be possible to use sites without them"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "According to the Life Skills section on social media, you tend not to read about people when they are ________ or doing nothing.",
+    "choices": [
+      "sad and unhappy",
+      "bored",
+      "at school",
+      "at work"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "According to the Life Skills text, to protect your privacy on social media, you should only allow ________ to see what you post.",
+    "choices": [
+      "verified accounts",
+      "your friends or fellow students you can trust",
+      "people in your country",
+      "accounts with no profile photos"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "In the revision passive exercise, complete: 'I ________ up by the neighbour's faulty burglar alarm again last night.' (wake)",
+    "choices": [
+      "was woken",
+      "woke",
+      "am woken",
+      "have woken"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "In the revision passive exercise, 'The factory ________ just been automated, so some people have lost their jobs.' Which form is correct?",
+    "choices": [
+      "is",
+      "has",
+      "was",
+      "had"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In the revision USE OF ENGLISH exercise, 'Some people find it difficult to ________ a job.'",
+    "choices": [
+      "hold down",
+      "fit in",
+      "take up",
+      "break off"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "Read: 'If someone else posted something negative about you, you can try contacting the site owner.' This advice is given for when ________.",
+    "choices": [
+      "you want to delete your own posts",
+      "another person has posted something embarrassing about you",
+      "you want to create a new online identity",
+      "your privacy settings have been changed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "In the Life Skills box, Tip 2 'Take steps to hide anything negative' is matched with ________.",
+    "choices": [
+      "Remember that posting privately doesn't protect you",
+      "Set up an alert to let you know when someone mentions you",
+      "Add a lot of new posts to move something you don't want people to see further down search results",
+      "Don't share anything that belongs to someone else without permission"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'Essentially, you are paying more to have your device first and of course, it will eventually become obsolete.' The word 'essentially' means ________.",
+    "choices": [
+      "in a complicated way",
+      "at a basic or fundamental level",
+      "in an unusual or unexpected way",
+      "in a detailed and thorough way"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'New devices often come with compatibility issues, so that you also need to buy new adaptors or cables.' What is a 'compatibility issue'?",
+    "choices": [
+      "A problem with the device's battery life",
+      "A problem that occurs when a new device cannot work with existing equipment",
+      "A fault that prevents a device from switching on",
+      "A software update that must be installed"
+    ],
+    "correct_answer": "b"
+  }
+]

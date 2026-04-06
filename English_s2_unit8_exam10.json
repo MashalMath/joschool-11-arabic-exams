@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read: 'Machines which gather, store and analyse data and can upload it to the Internet.' What is the MAIN function of IoT machines?",
+    "choices": [
+      "To replace human workers in factories",
+      "To gather, store, analyse and upload data to the internet",
+      "To provide entertainment and gaming experiences",
+      "To create virtual reality environments"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Read: '________, which can monitor your heart rate, could be embedded in your body.' Choose from: alert, sensors, track, wearables.",
+    "choices": [
+      "Wearables",
+      "Alert",
+      "Sensors",
+      "Track"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "In the passive exercises, choose the correct form: 'The first real smartphone ________ by a famous company.' (create)",
+    "choices": [
+      "was created",
+      "is created",
+      "created",
+      "has created"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "In the passive exercises, complete: 'Our household appliances are made ________ only the highest quality materials.'",
+    "choices": [
+      "by",
+      "from",
+      "with",
+      "of"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "In the passive exercises, complete: 'A device this simple can be operated ________ a young child.'",
+    "choices": [
+      "with",
+      "for",
+      "from",
+      "by"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "In the USE OF ENGLISH passive exercises, complete: 'I expect the parcel ________ by four o'clock.' (DELIVERED)",
+    "choices": [
+      "to deliver",
+      "to be delivered",
+      "delivering",
+      "to have delivered"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "In the USE OF ENGLISH exercise, complete: 'We ________ not to use our phones during the exam.' (TOLD — passive)",
+    "choices": [
+      "were told",
+      "were saying",
+      "had told",
+      "have been telling"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "According to the speaking box, which phrase introduces data at the START of a trend description?",
+    "choices": [
+      "Overall, the trend in … is upwards",
+      "During the period …, it is noticeable that …",
+      "The graph illustrates …",
+      "There has been a slight increase in …"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "In the article 'Early Adopter or Laggard?', the word 'crashing' refers to a device that ________.",
+    "choices": [
+      "falls from a surface",
+      "is dropped by a user",
+      "suddenly stops working due to a fault",
+      "has a damaged screen"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "In the article 'Early Adopter or Laggard?', 'overheating' means ________.",
+    "choices": [
+      "running out of battery",
+      "becoming too hot during use",
+      "losing internet connection",
+      "displaying error messages"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Read: 'There has been a ________ growth in their number since they appeared early this century.' Which word fits for a fast, significant increase?",
+    "choices": [
+      "gradual",
+      "slight",
+      "steady",
+      "dramatic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Read from the VR article: 'This can make it difficult to fit in with or to keep friends.' 'Keep friends' means ________.",
+    "choices": [
+      "to make new friends easily",
+      "to maintain existing friendships over time",
+      "to connect with friends online",
+      "to find friends with similar interests"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Read from the VR article: 'We can break off at any time and go back to our normal lives, whereas the people whose lives we're experiencing don't have that luxury.' 'Break off' here means ________.",
+    "choices": [
+      "to break a piece of equipment",
+      "to stop or interrupt an activity",
+      "to experience something fully",
+      "to return to a previous experience"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Read: 'VR has also been used to give people the experience of being disabled, or being in a flood. But can these experiences really help us to walk in someone else's shoes?' The idiom 'walk in someone else's shoes' means to ________.",
+    "choices": [
+      "literally wear someone else's footwear",
+      "understand another person's experience or situation",
+      "follow in someone's footsteps professionally",
+      "copy another person's lifestyle"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "In the phrasal verbs exercise, 'If you encounter any problems, let me know' → 'If you ________ any problems, let me know.'",
+    "choices": [
+      "end up with",
+      "fit in with",
+      "come up against",
+      "break off with"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Read from the VR article comprehension: 'Why does the writer start by describing a shopping experience?' The correct answer is ________.",
+    "choices": [
+      "to explain exactly why some people suffer from ASD",
+      "to demonstrate why having ASD can cause someone to get upset",
+      "to emphasise problems created by large shopping malls",
+      "to introduce the concept of virtual reality"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Read: 'People started taking selfies to manage and curate what they wanted to tell the world about their physical attributes, their personality, their relationships and their hobbies.' What does 'manage and curate' suggest?",
+    "choices": [
+      "People share everything about their lives spontaneously",
+      "People carefully control and select their online self-presentation",
+      "People rely on technology to manage their social lives",
+      "People use social media to manage their professional careers"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "Read: 'On a superficial level, their holiday photos look relaxed and natural, but in reality they've been very carefully planned.' What does the word 'superficial' mean here?",
+    "choices": [
+      "relating to deep or meaningful things",
+      "relating only to the surface or outward appearance",
+      "extremely detailed and thorough",
+      "hidden and private"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read: 'You can add filters to enhance how you look, remove any flaws or even change the shape or size of your facial features.' The word 'features' here refers to ________.",
+    "choices": [
+      "special abilities of a smartphone app",
+      "parts of the face such as nose, eyes or mouth",
+      "digital effects applied to photos",
+      "the overall composition of a photograph"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Read: 'People started taking selfies to present a flattering picture of themselves.' A 'flattering' picture ________.",
+    "choices": [
+      "is always realistic and unedited",
+      "shows someone in an attractively positive way",
+      "is taken by a professional photographer",
+      "includes multiple people in the photo"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Complete: 'I find the architecture of the city ________.' (Use the vocabulary extension word meaning 'attractive or interesting'.)",
+    "choices": [
+      "upbeat",
+      "endless",
+      "appealing",
+      "envious"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Complete: 'I ________ of people who learn Maths easily.' (Use the vocabulary extension word meaning 'wanting something someone else has'.)",
+    "choices": [
+      "am upbeat",
+      "am envious",
+      "am influential",
+      "am appealing"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Read: 'Sales of the company's main product were reported to be steady.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Pattern d"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read: 'The Internet is thought to have contained five million terabytes of data in 2010.' Which impersonal passive pattern is used?",
+    "choices": [
+      "Pattern a",
+      "Pattern b",
+      "Pattern c",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Complete: 'The first email is known ________ by a programmer called Ray Tomlinson.' (send)",
+    "choices": [
+      "to send",
+      "to be sent",
+      "to have been sent",
+      "sending"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Read: 'Unfortunately, it is not known what the message was as Tomlinson can't remember!' This uses Pattern ________.",
+    "choices": [
+      "Pattern b",
+      "Pattern c",
+      "Pattern a",
+      "Pattern d"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In the for-and-against essay, a good essay should 'explain how arguments made by others are ________ as well as point out any weaknesses in them.'",
+    "choices": [
+      "outdated and irrelevant",
+      "strong and well-supported",
+      "one-sided and biased",
+      "neutral and unimportant"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Read from 'Our Personal Data': 'In conclusion, it seems obvious that while people remain largely unaware and unable to make informed choices, the ability of companies to collect data should be limited.' What writing technique is used?",
+    "choices": [
+      "Introducing a new argument",
+      "Summarising the topic and giving a clear recommendation",
+      "Repeating the introduction",
+      "Asking a rhetorical question"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Combine: 'There were several cyber attacks last year' + 'most companies have not changed their security systems' using 'in spite of'. Which is correct?",
+    "choices": [
+      "In spite of the several cyber attacks, most companies changed their systems",
+      "In spite of there having been several cyber attacks last year, most companies have not changed their security systems",
+      "In spite of several attacks last year although companies haven't changed systems",
+      "In spite, most companies have not changed their security systems"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "In the essay writing box, which phrase is used in the introduction to 'outline what you are going to discuss'?",
+    "choices": [
+      "In conclusion, it seems obvious that …",
+      "In spite of these potential benefits …",
+      "Some people feel … whereas others …",
+      "Another positive aspect of … is …"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "According to the Life Skills section on social media, one example of using social media for education is ________.",
+    "choices": [
+      "Following celebrities for inspiration",
+      "Doing projects with other students",
+      "Posting creative artwork online",
+      "Watching educational videos"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "According to the Life Skills section, social media sites can track the user's location. You should NOT leave location services on permanently because ________.",
+    "choices": [
+      "it wastes phone battery",
+      "it shares your private data with advertisers",
+      "you do not want everyone to know where you are all the time",
+      "it causes your phone to crash"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "According to the Life Skills section, Tip 1 'Don't post anything online without thinking about its consequences first' is matched with: ________.",
+    "choices": [
+      "Remember that posting privately doesn't necessarily protect you",
+      "Add new posts to push negative content further down",
+      "Set up an alert to let you know when someone mentions you",
+      "Don't share anything that belongs to anyone else without permission"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 34,
+    "question": "In the revision exercises, 'It is expected that self-driving cars ________ the number of traffic accidents.' (reduce)",
+    "choices": [
+      "will reduce",
+      "will be reduced",
+      "are reducing",
+      "reduce"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "In the revision exercises, 'It is claimed that virtual reality experiences ________ the same as the real thing.'",
+    "choices": [
+      "are exactly",
+      "were exactly",
+      "have been exactly",
+      "being exactly"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 36,
+    "question": "In the passive exercises, 'The watch clearly ________ before ________ from your factory.' The correct forms are ________.",
+    "choices": [
+      "was not checked / being sent",
+      "has not checked / to send",
+      "had not been checked / to be sent",
+      "is not checked / being sent"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "In the impersonal passive exercises, complete: 'I ________ to do this in my last job.' (expect — negative)",
+    "choices": [
+      "was never expected",
+      "have never been expected",
+      "never expect",
+      "was never expecting"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "Read from the VR article: 'While we can experience the sounds and sights of a flood, we don't come up against the same difficulties.' What does this contrast show?",
+    "choices": [
+      "VR is completely identical to real experience",
+      "There is still a fundamental gap between VR and actually living through a difficult situation",
+      "VR is better than real experience for learning empathy",
+      "People who use VR feel no empathy at all"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read: 'It is important to have a positive digital footprint.' This advice comes from the ________.",
+    "choices": [
+      "VR article",
+      "Early Adopter article",
+      "Life Skills section on managing your online image",
+      "Our Personal Data essay"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read: 'New devices often come with compatibility issues, so that you also need to buy new adaptors or cables. Being a pioneer also means dealing with any bugs or glitches that the manufacturers didn't or couldn't predict.' This passage is from ________.",
+    "choices": [
+      "the VR article",
+      "the Life Skills section on social media",
+      "the article Early Adopter or Laggard?",
+      "the essay Our Personal Data"
+    ],
+    "correct_answer": "c"
+  }
+]

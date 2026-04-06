@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Vern Jones climbed Mount Kilimanjaro at the age of 62. He was aware that he couldn't have succeeded without the help of the guides — young men who are often ill-equipped and poorly paid, working daily in dangerous conditions. His response was to found Kili Summit Club to raise money and provide resources for them.\n\nWhat does Vern Jones' story teach us about helping others?",
+    "choices": [
+      "That only rich people can help those in need",
+      "That one person's action can make a lasting difference to others",
+      "That mountain climbing is a dangerous sport to avoid",
+      "That charities are not effective in solving poverty"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The sentence 'These young men, who are often ill-equipped themselves and poorly paid, work daily in dangerous conditions to help climbers achieve their goals.' contains:",
+    "choices": [
+      "Only simple sentences",
+      "A dependent clause and an independent clause",
+      "Only independent clauses",
+      "A compound sentence with two main clauses"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "The sentence: 'This is then kept on the wall and can be used by strangers, who may not have enough money, to enjoy a slice of the delicious pies.' is an example of a/an ________ sentence.",
+    "choices": [
+      "simple",
+      "compound",
+      "complex",
+      "fragment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Tracy paid for the stranger's milk and other items and, after thanking her and asking her name, he was on his way.\n\nThis sentence is an example of:",
+    "choices": [
+      "a simple sentence with one clause",
+      "a complex sentence with dependent and independent clauses",
+      "a compound sentence with coordinating conjunctions",
+      "a fragment with no main verb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is a social issue?",
+    "choices": [
+      "learning a new language",
+      "gender equality",
+      "reading books",
+      "watching documentaries"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Which of the following social issues relates to people moving from one country to another?",
+    "choices": [
+      "poverty",
+      "unemployment",
+      "immigration",
+      "racism"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Which Jordanian Royal Family initiative helps promote sustainable development that does not harm the environment?",
+    "choices": [
+      "Moving people out of poverty",
+      "Improving health facilities",
+      "Helping refugees find homes",
+      "Promoting sustainable development"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "What did Lisa take on to help build her business, which was a young person doing a job to get experience and to learn?",
+    "choices": [
+      "a foundation",
+      "an intern",
+      "a commission",
+      "a proceeds"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Lisa received ________ for her 24-hour fund-raising activity, which allowed her to open Sister Pie.",
+    "choices": [
+      "$24,000",
+      "$25,000",
+      "$26,593",
+      "$28,000"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The word 'enforce' belongs to which word class?",
+    "choices": [
+      "noun",
+      "adjective",
+      "verb",
+      "adverb"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "The word 'enforceable' belongs to which word class?",
+    "choices": [
+      "noun",
+      "adjective",
+      "verb",
+      "adverb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "The word 'enforcement' belongs to which word class?",
+    "choices": [
+      "noun",
+      "adjective",
+      "verb",
+      "adverb"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "Equality ________ means that everyone has exactly the same rights.",
+    "choices": [
+      "Equality",
+      "Equal",
+      "Equalize",
+      "Equally"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "Does anyone have any ________ ideas for the surprise party?",
+    "choices": [
+      "bright",
+      "brightened",
+      "brighten",
+      "brightening"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "To find a solution I think we need to look at the problem from a different ________.",
+    "choices": [
+      "angling",
+      "angle",
+      "angled",
+      "angles"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Please ________ your thoughts on what you think went wrong.",
+    "choices": [
+      "sharing",
+      "shared",
+      "share",
+      "shares"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "'My grandmother taught me to cook.'\nRawan said that ________.",
+    "choices": [
+      "her grandmother taught her to cook.",
+      "her grandmother had taught her to cook.",
+      "her grandmother teaches her to cook.",
+      "her grandmother has taught her to cook."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "'I have won two competitions last year.'\nMy brother said that ________.",
+    "choices": [
+      "he had won two competitions the year before.",
+      "he has won two competitions last year.",
+      "he won two competitions last year.",
+      "he wins two competitions the year before."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "'We and a few other friends had a meeting last week.' (They say this)\nThey say ________.",
+    "choices": [
+      "they and a few other friends had a meeting last week.",
+      "we and a few other friends had a meeting last week.",
+      "they and a few other friends have a meeting last week.",
+      "they and a few other friends has a meeting last week."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 20,
+    "question": "'Stop what you are doing right now!'\nShe ordered us ________.",
+    "choices": [
+      "stopped what we were doing right then.",
+      "stop what we were doing right then.",
+      "to stop what we were doing right then.",
+      "not to stop what we were doing right then."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "'It has been a successful day at work today.'\nThey said ________.",
+    "choices": [
+      "it has been a successful day at work today.",
+      "it had been a successful day at work that day.",
+      "it was a successful day at work that day.",
+      "it would be a successful day at work today."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "'Could I ask you a few questions here and now?'\nHe asked ________.",
+    "choices": [
+      "if he could ask me a few questions here and now.",
+      "if he could ask me a few questions there and then.",
+      "could he ask me a few questions there and then.",
+      "if could he ask me a few questions there and then."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'They have been trying to find the answer to the maths problem.'\nShe said ________.",
+    "choices": [
+      "they have been trying to find the answer to the maths problem.",
+      "they had been trying to find the answer to the maths problem.",
+      "they were trying to find the answer to the maths problem.",
+      "they tried to find the answer to the maths problem."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Use the prompts to report: Osama said 'I'm not sure, but I might. Who else will be there?'\nOsama replied that ________.",
+    "choices": [
+      "he wasn't sure, but he will.",
+      "he isn't sure, but he might.",
+      "he wasn't sure, but he might.",
+      "he hasn't been sure, but he might."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Rashed said: 'Salah and Talal will be going.' (Report this)\nRashed told him that ________.",
+    "choices": [
+      "Salah and Talal would be went.",
+      "Salah and Talal would was going.",
+      "Salah and Talal will be going.",
+      "Salah and Talal would be going."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "'The report the newspaper published yesterday has caused a lot of discussion.'\nMr Bager said ________.",
+    "choices": [
+      "the report the newspaper published yesterday has caused a lot of discussion.",
+      "the report the newspaper had published the day before had caused a lot of discussion.",
+      "the report the newspaper has published the day before had caused a lot of discussion.",
+      "the report the newspaper would publish the day after would cause a lot of discussion."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "'Everyone who has taken part in the beach clean-up today will come back next week.'\nWe told the journalists that ________.",
+    "choices": [
+      "everyone who had taken part in the beach clean-up that day would come back the following week.",
+      "everyone who has taken part in the beach clean-up today will come back next week.",
+      "everyone who took part in the beach clean-up that day will come back next week.",
+      "everyone who had taken part in the beach clean-up today will come back the following week."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "'Abeer: It was that man who stole the money!'\nAbeer accused ________.",
+    "choices": [
+      "a man stealing the money.",
+      "the man about stealing the money.",
+      "a man of stealing the money.",
+      "a man for stealing the money."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "'Sorry I hurt you, Ahmad.' (Sami said this)\nSami apologised ________ hurting him.",
+    "choices": [
+      "to",
+      "by",
+      "for",
+      "about"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "'Ok, I cheated during the test.' (She admitted this)\nShe ________.",
+    "choices": [
+      "agreed to cheating during the test.",
+      "admitted cheating during the test.",
+      "refused cheating during the test.",
+      "insisted on cheating during the test."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "The verb 'warn' can be used with two patterns. Which two patterns does 'warn' follow?",
+    "choices": [
+      "verb + that + clause AND verb + object + to-infinitive",
+      "verb + gerund AND verb + preposition + gerund",
+      "verb + to-infinitive AND verb + object + preposition + gerund",
+      "verb + that + clause AND verb + gerund"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 32,
+    "question": "The verb 'promise' can follow which TWO patterns?",
+    "choices": [
+      "verb + object + to-infinitive AND verb + preposition + gerund",
+      "verb + that + clause AND verb + to-infinitive",
+      "verb + gerund AND verb + object + that clause",
+      "verb + object + preposition + gerund AND verb + gerund"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Which of the following phrases expresses a LESS STRONG opinion?",
+    "choices": [
+      "Without a shadow of a doubt, ...",
+      "It goes without saying that ...",
+      "As far as I'm concerned, ...",
+      "Frankly, I think it's obvious that ..."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Which question is used to challenge somebody else's opinion?",
+    "choices": [
+      "'I'm inclined to think that ...'",
+      "'Are you saying that ...?'",
+      "'As far as I'm concerned ...'",
+      "'I'm no expert, but ...'"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "What does the aspiration rule in pronunciation state about sounds /p/, /t/, /k/?",
+    "choices": [
+      "They are always aspirated at the end of a word.",
+      "They are aspirated at the beginning of a stressed syllable before a vowel.",
+      "They are aspirated only when followed by another consonant.",
+      "They are never aspirated in English."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Which word contains an aspirated sound?",
+    "choices": [
+      "clock",
+      "drop",
+      "repair",
+      "vitamins"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "What does the word 'foundation' mean?",
+    "choices": [
+      "money paid to a salesperson for selling something",
+      "the total money received from selling or organising something",
+      "an organisation started for a specific purpose, such as research",
+      "a person who does a job to get experience"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "Read this passage and answer the question:\n\nIn the past, the animals often attacked people living in the city, so the people found a way to deal with them: they cut holes in the city walls and threw food to the hyenas. They realised that the hyenas were no longer hungry because of this, and attacked people less often. Later, a farmer called Yusuf Salleh chose to do the same thing to protect his farm animals against the hyenas: he fed them each day, and it worked!\n\nWhy did Yusuf Salleh start feeding the hyenas?",
+    "choices": [
+      "To attract tourists to his farm",
+      "To protect his farm animals against the hyenas",
+      "To earn money from the hyenas",
+      "To continue a family tradition started by his son"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Read this passage and answer the question:\n\nYusuf's son, Abbas Yusuf, has continued his father's tradition but in a slightly different way. The sight is so amazing that many tourists visit to watch him feed the hyenas (although it is too dangerous for them to participate in the feeding)!\n\nWhy can't tourists participate in feeding the hyenas?",
+    "choices": [
+      "Because the hyenas don't like strangers",
+      "Because it is too expensive",
+      "Because it is too dangerous for them",
+      "Because Abbas Yusuf doesn't allow it"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Read this passage and answer the question:\n\nI've been trying to persuade people in my community to help an environmental charity by donating just a few coins each week. At first people were not keen, but my persistence has paid off and now a lot of people give me a little money.\n\nWhat does the phrase 'persistence has paid off' suggest about the author's experience?",
+    "choices": [
+      "The author received money for being persistent.",
+      "Continuing despite difficulty led to eventual success.",
+      "The persistence made people angry at first.",
+      "The author gave up after the initial rejection."
+    ],
+    "correct_answer": "b"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "number": 1,
+    "question": "For safety reasons, --------- must be stored in sealed containers underground.",
+    "choices": [
+      "soil erosion",
+      "toxic waste",
+      "water scarcity",
+      "climate change"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 2,
+    "question": "Majeda will look after your baby well; she's reliable, responsible and completely ---------.",
+    "choices": [
+      "defensive",
+      "immature",
+      "tough",
+      "trustworthy"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "number": 3,
+    "question": "After losing his job, Kareem had to live ---------, relying on daily wages for food.",
+    "choices": [
+      "sense of belonging",
+      "make ends meet",
+      "hand-to-mouth",
+      "living day-to-day"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 4,
+    "question": "If your new phone doesn't work, you are given the choice of a --------- or a refund.",
+    "choices": [
+      "replace",
+      "replaced",
+      "replacement",
+      "replaceable"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 5,
+    "question": "This year, I won't be able to buy a present for my daughter in her birthday. It's ---------.",
+    "choices": [
+      "topical",
+      "heartwarming",
+      "balanced",
+      "heartbreaking"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "number": 6,
+    "question": "If you became a digital nomad, which of your --------- would you miss the most?",
+    "choices": [
+      "vehicle emissions",
+      "densely populated",
+      "co-working space",
+      "home comforts"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "number": 7,
+    "question": "The leads behind the TV are all ---------.",
+    "choices": [
+      "cramped",
+      "shattered",
+      "tangled",
+      "shrunk"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 8,
+    "question": "All people are ---------, deserving the same rights as each other.",
+    "choices": [
+      "equal",
+      "equlise",
+      "equality",
+      "equally"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 9,
+    "question": "Does anyone have any --------- ideas for Maha's surprise family party?",
+    "choices": [
+      "share",
+      "bright",
+      "prove",
+      "angle"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 10,
+    "question": "--------- means not in use any more because a newer invention exists.",
+    "choices": [
+      "Obsolete",
+      "Malfunction",
+      "Functionality",
+      "Coincidence"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 11,
+    "question": "The telephone is very large and ---------, with a wire connecting it to the wall.",
+    "choices": [
+      "ill-equipped",
+      "old-fashioned",
+      "medium-sized",
+      "well-off"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 12,
+    "question": "The --------- of injury or even death is very high for base-jumping wing-suit flyers.",
+    "choices": [
+      "chance",
+      "luck",
+      "risk",
+      "opportunity"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 13,
+    "question": "Although Salma was ten years older, she looked --------- the same age as me.",
+    "choices": [
+      "ups and downs",
+      "there and then",
+      "more or less",
+      "sooner or later"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 14,
+    "question": "By the end of the century, more people --------- in the country than in cities.",
+    "choices": [
+      "will be living",
+      "live",
+      "had been living",
+      "are living"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 15,
+    "question": "The monthly sale --------- at 10 a.m.",
+    "choices": [
+      "starts",
+      "would start",
+      "started",
+      "start"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 16,
+    "question": "At our old house I --------- a lot of time with my friends.",
+    "choices": [
+      "use to spend",
+      "wouldn't spend",
+      "used to spend",
+      "don't use to spend"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 17,
+    "question": "The land--------- the house is built is extremely picturesque.",
+    "choices": [
+      "where",
+      "which",
+      "who",
+      "that"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 18,
+    "question": "The scientist was interested in birds. He --------- bird migration for years.",
+    "choices": [
+      "was studied",
+      "had been studying",
+      "had been studied",
+      "have been studying"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 19,
+    "question": "The tickets had scarcely gone on sale when they were sold out. The correct negative inversion of the above sentence is ---------",
+    "choices": [
+      "Scarcely had the tickets gone on sale when they were sold out.",
+      "Scarcely gone the tickets had on sale when they were sold out.",
+      "Scarcely the tickets on sale had gone when they were sold out.",
+      "Scarcely had gone the tickets on sale when they were sold out."
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 20,
+    "question": "I live near --------- River Thames which flows through --------- London.",
+    "choices": [
+      "Ø / the",
+      "the / Ø",
+      "the / the",
+      "Ø / Ø"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 21,
+    "question": "The police managed to find the child in time. The underlined verb in the above sentence is used to indicate ---------.",
+    "choices": [
+      "ability",
+      "advice",
+      "prohibition",
+      "possibility"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 22,
+    "question": "'Why are you leaving early?' The correct reported speech form of the question above is ---------",
+    "choices": [
+      "Khalid asked us why we are leaving early.",
+      "Khalid asked us why were we leaving early?",
+      "Khalid asked us why are we leaving early?",
+      "Khalid asked us why we were leaving early."
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "number": 23,
+    "question": "The students apologised --------- not listening to the teacher.",
+    "choices": [
+      "to",
+      "on",
+      "for",
+      "of"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "number": 24,
+    "question": "I would really like --------- by one of the giant tech companies.",
+    "choices": [
+      "had been employed",
+      "be employed",
+      "have been employed",
+      "to be employed"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "number": 25,
+    "question": "Some people have suggested that children should not have mobile phones. The sentence that has the correct impersonal passive form of the one above is ---------",
+    "choices": [
+      "It has been suggested by some people that children should not have mobile phones.",
+      "It has suggested that children should not have mobile phones.",
+      "It had been suggested that children should not have mobile phones.",
+      "It had suggested that children should not have mobile phones."
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 26,
+    "question": "If only we --------- where you were, we'd come to get you.",
+    "choices": [
+      "had known",
+      "would know",
+      "knew",
+      "have had known"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "number": 27,
+    "question": "Ali could have given Fadi a lift into town. This sentence means ---------",
+    "choices": [
+      "Fadi did get a lift into town from Ali.",
+      "Fadi didn't get a lift into town from Ali.",
+      "Fadi doesn't get a lift into town from Ali.",
+      "Fadi gets a lift into town from Ali."
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "number": 28,
+    "question": "The letter (i) in the word (extinct) is pronounced the same as in the word ---------.",
+    "choices": [
+      "lead",
+      "seen",
+      "habitat",
+      "species"
+    ],
+    "correct_answer": "C"
+  }
+]

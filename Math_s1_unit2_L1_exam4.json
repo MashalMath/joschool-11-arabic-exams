@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقات الزاويتين المتتامتين",
+    "question": "قيمة $\\cos\\left(\\dfrac{\\pi}{2} - \\theta\\right)$ تساوي:",
+    "choices": [
+      "$\\cos\\theta$",
+      "$-\\sin\\theta$",
+      "$-\\cos\\theta$",
+      "$\\sin\\theta$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\sin\\theta$",
+    "explanation": "من متطابقات الزاويتين المتتامتين:\n$$\\cos\\left(\\frac{\\pi}{2} - \\theta\\right) = \\sin\\theta$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات فيثاغورس الأساسية",
+    "question": "قيمة $\\sin^2\\theta + \\cos^2\\theta$ تساوي:",
+    "choices": [
+      "$0$",
+      "$1$",
+      "$2$",
+      "$\\sin\\theta\\cos\\theta$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$1$",
+    "explanation": "هذه هي المتطابقة المثلثية الأساسية المشتقة من دائرة الوحدة:\n$$x^2 + y^2 = 1 \\Rightarrow \\cos^2\\theta + \\sin^2\\theta = 1$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات المقلوب",
+    "question": "قيمة $\\cot\\theta \\times \\tan\\theta$ تساوي:",
+    "choices": [
+      "$1$",
+      "$0$",
+      "$\\tan^2\\theta$",
+      "$\\cot^2\\theta$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1$",
+    "explanation": "بتطبيق $\\cot\\theta = \\dfrac{1}{\\tan\\theta}$:\n$$\\cot\\theta \\times \\tan\\theta = \\frac{1}{\\tan\\theta} \\times \\tan\\theta = 1$$"
+  },
+  {
+    "number": 4,
+    "topic": "إيجاد قيمة اقتران مثلثي - الربع الثاني",
+    "question": "إذا كان $\\cos\\theta = -\\dfrac{3}{5}$ و$\\dfrac{\\pi}{2} < \\theta < \\pi$، فقيمة $\\csc\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{5}{3}$",
+      "$-\\dfrac{5}{3}$",
+      "$\\dfrac{5}{4}$",
+      "$-\\dfrac{5}{4}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{5}{4}$",
+    "explanation": "$$\\sin^2\\theta = 1 - \\frac{9}{25} = \\frac{16}{25}$$\nفي الربع الثاني: $\\sin\\theta = \\dfrac{4}{5}$\n$$\\csc\\theta = \\frac{1}{\\sin\\theta} = \\frac{5}{4}$$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط المقادير المثلثية",
+    "question": "المقدار $\\sin x(\\csc x - \\sin x)$ يساوي:",
+    "choices": [
+      "$\\sin^2 x$",
+      "$\\cos^2 x$",
+      "$1$",
+      "$0$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\cos^2 x$",
+    "explanation": "$$\\sin x(\\csc x - \\sin x) = \\sin x\\csc x - \\sin^2 x = 1 - \\sin^2 x = \\cos^2 x$$"
+  },
+  {
+    "number": 6,
+    "topic": "تبسيط - الزاويتين المتتامتين وفيثاغورس",
+    "question": "المقدار $\\dfrac{\\cos\\left(\\dfrac{\\pi}{2}-x\\right)}{\\sin x}$ يساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$\\tan x$",
+      "$1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$1$",
+    "explanation": "بتطبيق متطابقة الزاويتين المتتامتين: $\\cos\\left(\\dfrac{\\pi}{2}-x\\right) = \\sin x$\n$$\\frac{\\sin x}{\\sin x} = 1$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقات المجموع والفرق - نتائج عامة",
+    "question": "المقدار $\\sin(A-B) + \\sin(A+B)$ يساوي:",
+    "choices": [
+      "$2\\cos A\\sin B$",
+      "$2\\sin A\\sin B$",
+      "$2\\sin A\\cos B$",
+      "$0$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$2\\sin A\\cos B$",
+    "explanation": "$$\\sin(A-B) = \\sin A\\cos B - \\cos A\\sin B$$\n$$\\sin(A+B) = \\sin A\\cos B + \\cos A\\sin B$$\n$$\\text{المجموع} = 2\\sin A\\cos B$$"
+  },
+  {
+    "number": 8,
+    "topic": "متطابقة جيب الفرق - قيمة دقيقة",
+    "question": "قيمة $\\sin 80°\\cos 20° - \\cos 80°\\sin 20°$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{1}{2}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\sqrt{3}}{2}$",
+    "explanation": "بتطبيق متطابقة جيب الفرق $\\sin(a-b) = \\sin a\\cos b - \\cos a\\sin b$:\n$$\\sin 80°\\cos 20° - \\cos 80°\\sin 20° = \\sin(80°-20°) = \\sin 60° = \\frac{\\sqrt{3}}{2}$$"
+  },
+  {
+    "number": 9,
+    "topic": "تبسيط تعبيرات كسرية مثلثية متقدمة",
+    "question": "المقدار $\\dfrac{\\sin x}{1+\\cos x} + \\dfrac{1+\\cos x}{\\sin x}$ يساوي:",
+    "choices": [
+      "$\\csc x$",
+      "$2\\csc x$",
+      "$2\\sec x$",
+      "$\\sec x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2\\csc x$",
+    "explanation": "بتوحيد المقامات:\n$$\\frac{\\sin^2 x + (1+\\cos x)^2}{\\sin x(1+\\cos x)} = \\frac{\\sin^2 x + 1 + 2\\cos x + \\cos^2 x}{\\sin x(1+\\cos x)}$$\n$$= \\frac{2 + 2\\cos x}{\\sin x(1+\\cos x)} = \\frac{2(1+\\cos x)}{\\sin x(1+\\cos x)} = \\frac{2}{\\sin x} = 2\\csc x$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقة جيب الفرق وتوسيع التعبيرات",
+    "question": "التوسيع الصحيح لـ $\\sin\\left(x - \\dfrac{\\pi}{4}\\right)$ هو:",
+    "choices": [
+      "$\\dfrac{\\sqrt{2}}{2}(\\sin x+\\cos x)$",
+      "$\\dfrac{\\sqrt{2}}{2}(\\cos x-\\sin x)$",
+      "$\\sin x-\\cos x$",
+      "$\\dfrac{\\sqrt{2}}{2}(\\sin x-\\cos x)$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\sqrt{2}}{2}(\\sin x - \\cos x)$",
+    "explanation": "بتطبيق متطابقة جيب الفرق:\n$$\\sin\\left(x-\\frac{\\pi}{4}\\right) = \\sin x\\cos\\frac{\\pi}{4} - \\cos x\\sin\\frac{\\pi}{4}$$\n$$= \\sin x\\cdot\\frac{\\sqrt{2}}{2} - \\cos x\\cdot\\frac{\\sqrt{2}}{2} = \\frac{\\sqrt{2}}{2}(\\sin x - \\cos x)$$"
+  }
+]

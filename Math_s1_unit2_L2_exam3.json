@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقة ضعف الزاوية - صيغة cos2θ",
+    "question": "قيمة $\\cos 2\\theta$ إذا كان $\\sin\\theta = \\dfrac{1}{2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}$",
+      "$-\\dfrac{1}{2}$",
+      "$\\dfrac{1}{4}$",
+      "$\\dfrac{\\sqrt{3}}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{1}{2}$",
+    "explanation": "بتطبيق $\\cos 2\\theta = 1-2\\sin^2\\theta$:\n$$\\cos 2\\theta = 1-2\\left(\\frac{1}{2}\\right)^2 = 1-2\\cdot\\frac{1}{4} = 1-\\frac{1}{2} = \\frac{1}{2}$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات تقليص القوة",
+    "question": "المقدار $\\cos^2 x$ بداللة القوة الأولى لجيب التمام يساوي:",
+    "choices": [
+      "$\\cos 2x$",
+      "$\\dfrac{1-\\cos 2x}{2}$",
+      "$\\dfrac{1+\\cos 2x}{2}$",
+      "$\\dfrac{1+\\cos x}{2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1+\\cos 2x}{2}$",
+    "explanation": "من متطابقة تقليص القوة:\n$$\\cos^2 x = \\frac{1+\\cos 2x}{2}$$\nتُستنتج من $\\cos 2x = 2\\cos^2 x - 1$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقة ضعف الزاوية - الظل",
+    "question": "قيمة $\\tan 2\\theta$ إذا كان $\\tan\\theta = 2$ تساوي:",
+    "choices": [
+      "$\\dfrac{4}{3}$",
+      "$-\\dfrac{3}{4}$",
+      "$\\dfrac{4}{5}$",
+      "$-\\dfrac{4}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\dfrac{4}{3}$",
+    "explanation": "$$\\tan 2\\theta = \\frac{2\\tan\\theta}{1-\\tan^2\\theta} = \\frac{2(2)}{1-(2)^2} = \\frac{4}{1-4} = \\frac{4}{-3} = -\\frac{4}{3}$$"
+  },
+  {
+    "number": 4,
+    "topic": "متطابقات نصف الزاوية - الربع والإشارة",
+    "question": "إذا كان $\\cos x = -\\dfrac{3}{5}$ و $\\pi < x < \\dfrac{3\\pi}{2}$، فقيمة $\\cos\\dfrac{x}{2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{5}}{5}$",
+      "$-\\dfrac{\\sqrt{5}}{5}$",
+      "$\\dfrac{2\\sqrt{5}}{5}$",
+      "$-\\dfrac{2\\sqrt{5}}{5}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\dfrac{\\sqrt{5}}{5}$",
+    "explanation": "بما أن $\\pi < x < \\dfrac{3\\pi}{2}$ فإن $\\dfrac{\\pi}{2} < \\dfrac{x}{2} < \\dfrac{3\\pi}{4}$ (الربع الثاني)، لذا $\\cos\\dfrac{x}{2} < 0$:\n$$\\cos\\frac{x}{2} = -\\sqrt{\\frac{1+\\cos x}{2}} = -\\sqrt{\\frac{1-\\frac{3}{5}}{2}} = -\\sqrt{\\frac{2/5}{2}} = -\\sqrt{\\frac{1}{5}} = -\\frac{\\sqrt{5}}{5}$$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط باستعمال ضعف الزاوية",
+    "question": "المقدار $2\\sin x\\cos x$ يساوي:",
+    "choices": [
+      "$\\sin 2x$",
+      "$\\cos 2x$",
+      "$\\tan 2x$",
+      "$\\sin^2 x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sin 2x$",
+    "explanation": "من متطابقة ضعف الزاوية مباشرةً:\n$$\\sin 2x = 2\\sin x\\cos x$$\nإذن $2\\sin x\\cos x = \\sin 2x$"
+  },
+  {
+    "number": 6,
+    "topic": "متطابقات تحويل الضرب إلى مجموع",
+    "question": "المقدار $\\cos 2x \\cos 4x$ بصورة مجموع أو فرق يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sin 2x - \\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\sin 2x + \\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\cos 2x+\\dfrac{1}{2}\\cos 6x$",
+      "$\\dfrac{1}{2}\\cos 6x-\\dfrac{1}{2}\\cos 2x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{2}\\cos 2x + \\dfrac{1}{2}\\cos 6x$",
+    "explanation": "$$\\cos 2x\\cos 4x = \\frac{1}{2}[\\cos(2x-4x)+\\cos(2x+4x)] = \\frac{1}{2}[\\cos(-2x)+\\cos 6x] = \\frac{1}{2}\\cos 2x+\\frac{1}{2}\\cos 6x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقات تحويل المجموع إلى ضرب",
+    "question": "المقدار $\\sin x + \\sin 3x$ بصورة ضرب يساوي:",
+    "choices": [
+      "$2\\sin x\\cos 2x$",
+      "$2\\sin 2x\\cos x$",
+      "$2\\cos 2x\\cos x$",
+      "$2\\sin 2x\\sin x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2\\sin 2x \\cos x$",
+    "explanation": "بتطبيق $\\sin\\alpha+\\sin\\beta = 2\\sin\\dfrac{\\alpha+\\beta}{2}\\cos\\dfrac{\\alpha-\\beta}{2}$:\n$$\\sin x+\\sin 3x = 2\\sin\\left(\\frac{x+3x}{2}\\right)\\cos\\left(\\frac{x-3x}{2}\\right) = 2\\sin 2x\\cos(-x) = 2\\sin 2x\\cos x$$"
+  },
+  {
+    "number": 8,
+    "topic": "متطابقات نصف الزاوية - الظل",
+    "question": "إذا كان $\\cos x = -\\dfrac{3}{5}$ و $\\pi < x < \\dfrac{3\\pi}{2}$، فقيمة $\\tan\\dfrac{x}{2}$ تساوي:",
+    "choices": [
+      "$2$",
+      "$-4$",
+      "$4$",
+      "$-2$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-2$",
+    "explanation": "بما أن $\\dfrac{x}{2}$ في الربع الثاني: $\\tan\\dfrac{x}{2} < 0$\n$$\\tan\\frac{x}{2} = -\\sqrt{\\frac{1-\\cos x}{1+\\cos x}} = -\\sqrt{\\frac{1-(-\\frac{3}{5})}{1+(-\\frac{3}{5})}} = -\\sqrt{\\frac{8/5}{2/5}} = -\\sqrt{4} = -2$$"
+  },
+  {
+    "number": 9,
+    "topic": "إثبات متطابقة بمتطابقات ضعف الزاوية",
+    "question": "المقدار $\\dfrac{\\cos 2x}{\\cos^2 x}$ يساوي:",
+    "choices": [
+      "$1-\\tan^2 x$",
+      "$2\\cos^2 x-1$",
+      "$1+\\tan^2 x$",
+      "$\\tan^2 x-1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1 - \\tan^2 x$",
+    "explanation": "بتطبيق $\\cos 2x = \\cos^2 x - \\sin^2 x$:\n$$\\frac{\\cos 2x}{\\cos^2 x} = \\frac{\\cos^2 x-\\sin^2 x}{\\cos^2 x} = 1-\\frac{\\sin^2 x}{\\cos^2 x} = 1-\\tan^2 x$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقات تقليص القوة - sin⁴x",
+    "question": "المقدار $\\sin^4 x$ بداللة القوة الأولى لجيب التمام يساوي:",
+    "choices": [
+      "$\\dfrac{1}{8}(1-\\cos 4x)$",
+      "$\\dfrac{1}{4}(1-\\cos 2x)^2$",
+      "$\\dfrac{3}{8}-\\dfrac{1}{2}\\cos 2x+\\dfrac{1}{8}\\cos 4x$",
+      "$\\dfrac{1}{4}\\sin^2 2x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{3}{8} - \\dfrac{1}{2}\\cos 2x + \\dfrac{1}{8}\\cos 4x$",
+    "explanation": "$$\\sin^4 x = \\left(\\frac{1-\\cos 2x}{2}\\right)^2 = \\frac{1-2\\cos 2x+\\cos^2 2x}{4}$$\n$$= \\frac{1-2\\cos 2x+\\frac{1+\\cos 4x}{2}}{4} = \\frac{3}{8}-\\frac{1}{2}\\cos 2x+\\frac{1}{8}\\cos 4x$$\nإذن الخيار (c) هو الصحيح"
+  }
+]

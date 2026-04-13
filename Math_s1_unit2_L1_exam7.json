@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقات فيثاغورس - صورة مشتقة",
+    "question": "المقدار $\\dfrac{1}{1+\\tan^2\\theta}$ يساوي:",
+    "choices": [
+      "$\\sin^2\\theta$",
+      "$1$",
+      "$\\cos^2\\theta$",
+      "$\\csc^2\\theta$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\cos^2\\theta$",
+    "explanation": "من متطابقة فيثاغورس $1 + \\tan^2\\theta = \\sec^2\\theta$:\n$$\\frac{1}{1+\\tan^2\\theta} = \\frac{1}{\\sec^2\\theta} = \\cos^2\\theta$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات الزاويتين المتتامتين - قاطع",
+    "question": "قيمة $\\sec\\left(\\dfrac{\\pi}{2} - x\\right)$ تساوي:",
+    "choices": [
+      "$\\csc x$",
+      "$\\sec x$",
+      "$\\cot x$",
+      "$\\tan x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\csc x$",
+    "explanation": "من متطابقات الزاويتين المتتامتين:\n$$\\sin\\left(\\frac{\\pi}{2}-x\\right) = \\cos x$$\n$$\\sec\\left(\\frac{\\pi}{2}-x\\right) = \\frac{1}{\\cos\\left(\\frac{\\pi}{2}-x\\right)} = \\frac{1}{\\sin x} = \\csc x$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات الزاوية السالبة - الظل",
+    "question": "قيمة $\\tan\\left(-\\dfrac{\\pi}{6}\\right)$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{3}}{3}$",
+      "$-\\dfrac{\\sqrt{3}}{3}$",
+      "$-\\sqrt{3}$",
+      "$\\sqrt{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\dfrac{\\sqrt{3}}{3}$",
+    "explanation": "بتطبيق $\\tan(-\\theta) = -\\tan\\theta$:\n$$\\tan\\left(-\\frac{\\pi}{6}\\right) = -\\tan\\left(\\frac{\\pi}{6}\\right) = -\\frac{1}{\\sqrt{3}} = -\\frac{\\sqrt{3}}{3}$$"
+  },
+  {
+    "number": 4,
+    "topic": "إيجاد قيمة اقتران مثلثي - الربع الثالث",
+    "question": "إذا كان $\\tan\\theta = \\dfrac{4}{3}$ و$\\pi < \\theta < \\dfrac{3\\pi}{2}$، فقيمة $\\sin\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{4}{5}$",
+      "$-\\dfrac{3}{5}$",
+      "$\\dfrac{3}{5}$",
+      "$-\\dfrac{4}{5}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\dfrac{4}{5}$",
+    "explanation": "$\\sec^2\\theta = 1 + \\tan^2\\theta = 1 + \\dfrac{16}{9} = \\dfrac{25}{9}$\nفي الربع الثالث: $\\sec\\theta = -\\dfrac{5}{3}$، $\\cos\\theta = -\\dfrac{3}{5}$\n$$\\sin\\theta = \\tan\\theta \\cdot \\cos\\theta = \\frac{4}{3} \\cdot \\left(-\\frac{3}{5}\\right) = -\\frac{4}{5}$$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات فيثاغورس - الصورة المشتقة",
+    "question": "المقدار $\\csc^2 x - 1$ يساوي:",
+    "choices": [
+      "$\\cot^2 x$",
+      "$\\tan^2 x$",
+      "$1$",
+      "$0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\cot^2 x$",
+    "explanation": "من متطابقة فيثاغورس $1 + \\cot^2 x = \\csc^2 x$:\n$$\\csc^2 x - 1 = \\cot^2 x$$"
+  },
+  {
+    "number": 6,
+    "topic": "تبسيط تعبيرات مثلثية - دمج متطابقات",
+    "question": "المقدار $\\sin x + \\dfrac{\\cos x}{\\tan x}$ يساوي:",
+    "choices": [
+      "$\\sec x$",
+      "$1$",
+      "$\\csc x$",
+      "$\\tan x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\csc x$",
+    "explanation": "$$\\sin x + \\frac{\\cos x}{\\tan x} = \\sin x + \\frac{\\cos x}{\\frac{\\sin x}{\\cos x}} = \\sin x + \\frac{\\cos^2 x}{\\sin x}$$\n$$= \\frac{\\sin^2 x + \\cos^2 x}{\\sin x} = \\frac{1}{\\sin x} = \\csc x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقة جيب التمام للفرق - قيمة دقيقة",
+    "question": "قيمة $\\cos\\left(\\dfrac{\\pi}{3} - \\dfrac{\\pi}{6}\\right)$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}$",
+      "$0$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$\\dfrac{\\sqrt{3}}{2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\sqrt{3}}{2}$",
+    "explanation": "$$\\cos\\left(\\frac{\\pi}{3}-\\frac{\\pi}{6}\\right) = \\cos\\left(\\frac{\\pi}{6}\\right) = \\frac{\\sqrt{3}}{2}$$\nأو بالمتطابقة:\n$$\\cos\\frac{\\pi}{3}\\cos\\frac{\\pi}{6} + \\sin\\frac{\\pi}{3}\\sin\\frac{\\pi}{6} = \\frac{1}{2}\\cdot\\frac{\\sqrt{3}}{2}+\\frac{\\sqrt{3}}{2}\\cdot\\frac{1}{2} = \\frac{\\sqrt{3}}{2}$$"
+  },
+  {
+    "number": 8,
+    "topic": "تبسيط تعبيرات كسرية مثلثية",
+    "question": "المقدار $\\dfrac{1}{1-\\sin x} - \\dfrac{1}{1+\\sin x}$ يساوي:",
+    "choices": [
+      "$2\\sin x$",
+      "$2\\tan x\\sec x$",
+      "$2\\cot x\\csc x$",
+      "$2\\sec x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2\\tan x\\sec x$",
+    "explanation": "$$\\frac{(1+\\sin x)-(1-\\sin x)}{(1-\\sin x)(1+\\sin x)} = \\frac{2\\sin x}{1-\\sin^2 x} = \\frac{2\\sin x}{\\cos^2 x}$$\n$$= 2\\cdot\\frac{\\sin x}{\\cos x}\\cdot\\frac{1}{\\cos x} = 2\\tan x\\sec x$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقة جيب المجموع والفرق - نتيجة عامة",
+    "question": "المقدار $\\sin(a+b)\\sin(a-b)$ يساوي:",
+    "choices": [
+      "$\\sin^2 a - \\sin^2 b$",
+      "$\\cos^2 a - \\cos^2 b$",
+      "$\\sin^2 a + \\sin^2 b$",
+      "$1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sin^2 a - \\sin^2 b$",
+    "explanation": "$$\\sin(a+b)\\sin(a-b) = (\\sin a\\cos b+\\cos a\\sin b)(\\sin a\\cos b-\\cos a\\sin b)$$\n$$= \\sin^2 a\\cos^2 b - \\cos^2 a\\sin^2 b$$\n$$= \\sin^2 a(1-\\sin^2 b) - (1-\\sin^2 a)\\sin^2 b = \\sin^2 a - \\sin^2 b$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقة الظل للمجموع - إثبات تكافؤ",
+    "question": "المقدار $\\dfrac{1+\\tan x}{1-\\tan x}$ يساوي:",
+    "choices": [
+      "$\\tan\\left(x-\\dfrac{\\pi}{4}\\right)$",
+      "$\\cot\\left(\\dfrac{\\pi}{4}+x\\right)$",
+      "$\\tan\\left(\\dfrac{\\pi}{4}+x\\right)$",
+      "$\\tan\\left(\\dfrac{\\pi}{4}-x\\right)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\tan\\left(\\dfrac{\\pi}{4}+x\\right)$",
+    "explanation": "بتطبيق متطابقة الظل للمجموع:\n$$\\tan\\left(\\frac{\\pi}{4}+x\\right) = \\frac{\\tan\\frac{\\pi}{4}+\\tan x}{1-\\tan\\frac{\\pi}{4}\\tan x} = \\frac{1+\\tan x}{1-\\tan x}$$\nهذا يطابق المقدار المعطى تماماً"
+  }
+]

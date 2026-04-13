@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المتطابقات النسبية",
+    "question": "المقدار $\\tan\\theta \\cdot \\cos\\theta$ يساوي:",
+    "choices": [
+      "$\\cos\\theta$",
+      "$1$",
+      "$\\sin\\theta$",
+      "$\\tan\\theta$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\sin\\theta$",
+    "explanation": "بتطبيق $\\tan\\theta = \\dfrac{\\sin\\theta}{\\cos\\theta}$:\n$$\\tan\\theta \\cdot \\cos\\theta = \\frac{\\sin\\theta}{\\cos\\theta} \\cdot \\cos\\theta = \\sin\\theta$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات فيثاغورس - الصورة الثالثة",
+    "question": "قيمة $\\cot^2\\theta + 1$ تساوي:",
+    "choices": [
+      "$\\csc^2\\theta$",
+      "$\\sec^2\\theta$",
+      "$1$",
+      "$\\tan^2\\theta$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\csc^2\\theta$",
+    "explanation": "من متطابقات فيثاغورس الثلاث:\n$$1 + \\cot^2\\theta = \\csc^2\\theta$$\nإذن $\\cot^2\\theta + 1 = \\csc^2\\theta$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات الزاوية السالبة - الظل",
+    "question": "قيمة $\\tan(-x)$ تساوي:",
+    "choices": [
+      "$\\tan x$",
+      "$\\cot x$",
+      "$-\\cot x$",
+      "$-\\tan x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\tan x$",
+    "explanation": "من متطابقات الزاوية السالبة:\n$$\\sin(-x) = -\\sin x \\quad \\text{و} \\quad \\cos(-x) = \\cos x$$\n$$\\tan(-x) = \\frac{\\sin(-x)}{\\cos(-x)} = \\frac{-\\sin x}{\\cos x} = -\\tan x$$"
+  },
+  {
+    "number": 4,
+    "topic": "إيجاد قيمة اقتران مثلثي - الربع الثالث",
+    "question": "إذا كان $\\csc\\theta = -\\dfrac{5}{3}$ و$\\pi < \\theta < \\dfrac{3\\pi}{2}$، فقيمة $\\tan\\theta$ تساوي:",
+    "choices": [
+      "$-\\dfrac{3}{4}$",
+      "$\\dfrac{3}{4}$",
+      "$\\dfrac{4}{3}$",
+      "$-\\dfrac{4}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{3}{4}$",
+    "explanation": "$\\sin\\theta = \\dfrac{1}{\\csc\\theta} = -\\dfrac{3}{5}$\n$$\\cos^2\\theta = 1 - \\frac{9}{25} = \\frac{16}{25}$$\nفي الربع الثالث: $\\cos\\theta = -\\dfrac{4}{5}$\n$$\\tan\\theta = \\frac{-3/5}{-4/5} = \\frac{3}{4}$$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط المقادير المثلثية",
+    "question": "المقدار $\\dfrac{\\sin x \\cos x}{\\sin^2 x}$ يساوي:",
+    "choices": [
+      "$\\cot x$",
+      "$\\tan x$",
+      "$\\cos x$",
+      "$\\sin x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\cot x$",
+    "explanation": "$$\\frac{\\sin x \\cos x}{\\sin^2 x} = \\frac{\\cos x}{\\sin x} = \\cot x$$"
+  },
+  {
+    "number": 6,
+    "topic": "تبسيط المقادير المثلثية - فيثاغورس",
+    "question": "المقدار $\\dfrac{1 - \\cos^2 x}{\\sin x}$ يساوي:",
+    "choices": [
+      "$\\cos x$",
+      "$1$",
+      "$\\sin x$",
+      "$\\tan x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\sin x$",
+    "explanation": "بتطبيق متطابقة فيثاغورس $1 - \\cos^2 x = \\sin^2 x$:\n$$\\frac{1 - \\cos^2 x}{\\sin x} = \\frac{\\sin^2 x}{\\sin x} = \\sin x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقة الظل للمجموع - قيمة دقيقة",
+    "question": "قيمة $\\tan\\left(\\dfrac{\\pi}{4} + \\dfrac{\\pi}{6}\\right)$ تساوي:",
+    "choices": [
+      "$2-\\sqrt{3}$",
+      "$2+\\sqrt{3}$",
+      "$\\sqrt{3}$",
+      "$1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2+\\sqrt{3}$",
+    "explanation": "بتطبيق متطابقة الظل للمجموع:\n$$\\tan\\left(\\frac{\\pi}{4}+\\frac{\\pi}{6}\\right) = \\frac{\\tan\\frac{\\pi}{4}+\\tan\\frac{\\pi}{6}}{1-\\tan\\frac{\\pi}{4}\\tan\\frac{\\pi}{6}} = \\frac{1+\\frac{1}{\\sqrt{3}}}{1-\\frac{1}{\\sqrt{3}}} = \\frac{\\sqrt{3}+1}{\\sqrt{3}-1}$$\n$$= \\frac{(\\sqrt{3}+1)^2}{3-1} = \\frac{4+2\\sqrt{3}}{2} = 2+\\sqrt{3}$$"
+  },
+  {
+    "number": 8,
+    "topic": "متطابقات فيثاغورس - تبسيط",
+    "question": "المقدار $\\sec^2 x - 1$ يساوي:",
+    "choices": [
+      "$1$",
+      "$\\cos^2 x$",
+      "$\\sin^2 x$",
+      "$\\tan^2 x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\tan^2 x$",
+    "explanation": "من متطابقة فيثاغورس $\\sec^2 x = 1 + \\tan^2 x$:\n$$\\sec^2 x - 1 = \\tan^2 x$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقة جيب التمام للمجموع - قيمة دقيقة",
+    "question": "قيمة $\\cos 20°\\cos 40° - \\sin 20°\\sin 40°$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}$",
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{1}{2}$",
+    "explanation": "بتطبيق متطابقة جيب التمام للمجموع $\\cos(a+b) = \\cos a\\cos b - \\sin a\\sin b$:\n$$\\cos 20°\\cos 40° - \\sin 20°\\sin 40° = \\cos(20°+40°) = \\cos 60° = \\frac{1}{2}$$"
+  },
+  {
+    "number": 10,
+    "topic": "تبسيط تعبيرات مثلثية متقدمة",
+    "question": "المقدار $\\sin x \\tan x + \\cos x$ يساوي:",
+    "choices": [
+      "$1$",
+      "$\\sin x$",
+      "$\\sec x$",
+      "$\\csc x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\sec x$",
+    "explanation": "$$\\sin x \\tan x + \\cos x = \\sin x \\cdot \\frac{\\sin x}{\\cos x} + \\cos x = \\frac{\\sin^2 x}{\\cos x} + \\frac{\\cos^2 x}{\\cos x} = \\frac{\\sin^2 x + \\cos^2 x}{\\cos x} = \\frac{1}{\\cos x} = \\sec x$$"
+  }
+]

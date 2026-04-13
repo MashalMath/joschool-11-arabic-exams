@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقة ضعف الزاوية - جيب",
+    "question": "قيمة $\\sin 2\\theta$ إذا كان $\\sin\\theta = \\dfrac{5}{13}$ و $\\cos\\theta = \\dfrac{12}{13}$ تساوي:",
+    "choices": [
+      "$\\dfrac{119}{169}$",
+      "$\\dfrac{5}{13}$",
+      "$\\dfrac{60}{169}$",
+      "$\\dfrac{120}{169}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{120}{169}$",
+    "explanation": "بتطبيق متطابقة ضعف الزاوية للجيب:\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta$$\n$$\\sin 2\\theta = 2\\left(\\frac{5}{13}\\right)\\left(\frac{12}{13}\\right) = \\frac{120}{169}$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقة ضعف الزاوية - جيب التمام (ثلاث صيغ)",
+    "question": "أيٌّ من الصيغ الآتية لا تساوي $\\cos 2\\theta$؟",
+    "choices": [
+      "$2\\cos^2\\theta - 1$",
+      "$\\cos^2\\theta + \\sin^2\\theta$",
+      "$1 - 2\\sin^2\\theta$",
+      "$\\cos^2\\theta - \\sin^2\\theta$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\cos^2\\theta + \\sin^2\\theta$",
+    "explanation": "$\\cos^2\\theta + \\sin^2\\theta = 1$ (متطابقة فيثاغورس) وهي ليست $\\cos 2\\theta$ عموماً\n\nالصيغ الصحيحة لـ $\\cos 2\\theta$ هي:\n- $\\cos^2\\theta - \\sin^2\\theta$\n- $2\\cos^2\\theta - 1$\n- $1 - 2\\sin^2\\theta$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات نصف الزاوية - جيب التمام",
+    "question": "قيمة $\\cos 22.5°$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sqrt{2+\\sqrt{2}}$",
+      "$\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$\\dfrac{1}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{1}{2}\\sqrt{2+\\sqrt{2}}$",
+    "explanation": "بما أن $22.5° = \\dfrac{45°}{2}$ في الربع الأول (إشارة موجبة):\n$$\\cos 22.5° = \\sqrt{\\frac{1+\\cos 45°}{2}} = \\sqrt{\\frac{1+\\frac{\\sqrt{2}}{2}}{2}} = \\sqrt{\\frac{2+\\sqrt{2}}{4}} = \\frac{1}{2}\\sqrt{2+\\sqrt{2}}$$"
+  },
+  {
+    "number": 4,
+    "topic": "متطابقات تحويل الضرب إلى مجموع - coscos",
+    "question": "المقدار $\\cos 4x \\cos 2x$ بصورة مجموع أو فرق يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sin 2x+\\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\cos 2x-\\dfrac{1}{2}\\cos 6x$",
+      "$\\dfrac{1}{2}\\sin 6x-\\dfrac{1}{2}\\sin 2x$",
+      "$\\dfrac{1}{2}\\cos 2x+\\dfrac{1}{2}\\cos 6x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{2}\\cos 2x + \\dfrac{1}{2}\\cos 6x$",
+    "explanation": "بتطبيق $\\cos\\alpha\\cos\\beta = \\dfrac{1}{2}[\\cos(\\alpha-\\beta)+\\cos(\\alpha+\\beta)]$:\n$$\\cos 4x\\cos 2x = \\frac{1}{2}[\\cos(4x-2x)+\\cos(4x+2x)] = \\frac{1}{2}\\cos 2x + \\frac{1}{2}\\cos 6x$$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات نصف الزاوية - تحديد الإشارة",
+    "question": "إذا كان $\\cos x = -\\dfrac{3}{5}$ و $\\pi < x < \\dfrac{3\\pi}{2}$، فإن $\\sin\\dfrac{x}{2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{2\\sqrt{5}}{5}$",
+      "$-\\dfrac{\\sqrt{5}}{5}$",
+      "$\\dfrac{\\sqrt{5}}{5}$",
+      "$-\\dfrac{2\\sqrt{5}}{5}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{\\sqrt{5}}{5}$",
+    "explanation": "بما أن $\\pi < x < \\dfrac{3\\pi}{2}$، فإن $\\dfrac{\\pi}{2} < \\dfrac{x}{2} < \\dfrac{3\\pi}{4}$ (الربع الثاني)، لذا $\\sin\\dfrac{x}{2} > 0$:\n$$\\sin\\frac{x}{2} = \\sqrt{\\frac{1-\\cos x}{2}} = \\sqrt{\\frac{1-(-\\frac{3}{5})}{2}} = \\sqrt{\\frac{8/5}{2}} = \\sqrt{\\frac{4}{5}} = \\frac{2}{\\sqrt{5}} = \\frac{2\\sqrt{5}}{5}$$\n(ملاحظة: الخيار الصحيح هو القيمة الموجبة)"
+  },
+  {
+    "number": 6,
+    "topic": "تبسيط باستعمال متطابقات ضعف الزاوية",
+    "question": "المقدار $\\dfrac{\\sin 2x}{2\\cos x}$ يساوي:",
+    "choices": [
+      "$\\cos x$",
+      "$\\sin x$",
+      "$\\tan x$",
+      "$2\\sin x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sin x$",
+    "explanation": "بتطبيق $\\sin 2x = 2\\sin x\\cos x$:\n$$\\frac{\\sin 2x}{2\\cos x} = \\frac{2\\sin x\\cos x}{2\\cos x} = \\sin x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقات تحويل الضرب إلى مجموع - sincos",
+    "question": "المقدار $\\sin 7x \\cos x$ بصورة مجموع أو فرق يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sin 6x-\\dfrac{1}{2}\\sin 8x$",
+      "$\\dfrac{1}{2}\\cos 6x+\\dfrac{1}{2}\\cos 8x$",
+      "$\\dfrac{1}{2}\\sin 8x-\\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\sin 6x+\\dfrac{1}{2}\\sin 8x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{2}\\sin 6x + \\dfrac{1}{2}\\sin 8x$",
+    "explanation": "بتطبيق $\\sin\\alpha\\cos\\beta = \\dfrac{1}{2}[\\sin(\\alpha-\\beta)+\\sin(\\alpha+\\beta)]$:\n$$\\sin 7x\\cos x = \\frac{1}{2}[\\sin(7x-x)+\\sin(7x+x)] = \\frac{1}{2}\\sin 6x+\\frac{1}{2}\\sin 8x$$"
+  },
+  {
+    "number": 8,
+    "topic": "متطابقات تحويل المجموع إلى ضرب",
+    "question": "المقدار $\\cos 9x - \\cos 2x$ بصورة ضرب يساوي:",
+    "choices": [
+      "$-2\\sin\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$",
+      "$2\\cos\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "$2\\sin\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "$-2\\cos\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-2\\sin\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$",
+    "explanation": "بتطبيق $\\cos\\alpha-\\cos\\beta = -2\\sin\\dfrac{\\alpha+\\beta}{2}\\sin\\dfrac{\\alpha-\\beta}{2}$:\n$$\\cos 9x-\\cos 2x = -2\\sin\\left(\\frac{9x+2x}{2}\\right)\\sin\\left(\\frac{9x-2x}{2}\\right) = -2\\sin\\frac{11x}{2}\\sin\\frac{7x}{2}$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقات ضعف الزاوية - إيجاد tan2θ",
+    "question": "إذا كان $\\sin\\theta = \\dfrac{3}{5}$ و $\\cos\\theta = -\\dfrac{4}{5}$ (الربع الثاني)، فقيمة $\\tan 2\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{7}{24}$",
+      "$\\dfrac{24}{7}$",
+      "$-$$\\dfrac{24}{7}$",
+      "$-\\dfrac{7}{24}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\dfrac{24}{7}$",
+    "explanation": "$\\tan\\theta = \\dfrac{3/5}{-4/5} = -\\dfrac{3}{4}$\n$$\\tan 2\\theta = \\frac{2\\cdot(-\\frac{3}{4})}{1-(-\\frac{3}{4})^2} = \\frac{-\\frac{3}{2}}{1-\\frac{9}{16}} = \\frac{-\\frac{3}{2}}{\\frac{7}{16}} = -\\frac{24}{7}$$"
+  },
+  {
+    "number": 10,
+    "topic": "تبسيط بمتطابقات تقليص القوة",
+    "question": "المقدار $\\cos^2 x - \\sin^2 x$ يساوي:",
+    "choices": [
+      "$\\sin 2x$",
+      "$\\cos 2x$",
+      "$1-\\cos 2x$",
+      "$2\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\cos 2x$",
+    "explanation": "من متطابقة ضعف الزاوية مباشرةً:\n$$\\cos 2x = \\cos^2 x - \\sin^2 x$$"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقات المقلوب - الظل",
+    "question": "قيمة $\\dfrac{1}{\\cot\\theta}$ تساوي:",
+    "choices": [
+      "$\\csc\\theta$",
+      "$\\tan\\theta$",
+      "$\\cos\\theta$",
+      "$\\sin\\theta$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\tan\\theta$",
+    "explanation": "من متطابقة المقلوب $\\cot\\theta = \\dfrac{1}{\\tan\\theta}$:\n$$\\frac{1}{\\cot\\theta} = \\tan\\theta$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات الزاويتين المتتامتين - قاطع التمام",
+    "question": "قيمة $\\csc\\left(\\dfrac{\\pi}{2} - x\\right)$ تساوي:",
+    "choices": [
+      "$\\csc x$",
+      "$\\sin x$",
+      "$-\\sec x$",
+      "$\\sec x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\sec x$",
+    "explanation": "من متطابقات الزاويتين المتتامتين:\n$$\\cos\\left(\\frac{\\pi}{2}-x\\right) = \\sin x$$\n$$\\csc\\left(\\frac{\\pi}{2}-x\\right) = \\frac{1}{\\sin\\left(\\frac{\\pi}{2}-x\\right)} = \\frac{1}{\\cos x} = \\sec x$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات الزاوية السالبة",
+    "question": "قيمة $\\sin(-x)$ تساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$-\\sin x$",
+      "$\\csc x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\sin x$",
+    "explanation": "من متطابقات الزاوية السالبة: الجيب اقتران فردي:\n$$\\sin(-x) = -\\sin x$$"
+  },
+  {
+    "number": 4,
+    "topic": "إيجاد قيمة اقتران مثلثي - الربع الرابع",
+    "question": "إذا كان $\\cos\\theta = \\dfrac{5}{13}$ و$\\dfrac{3\\pi}{2} < \\theta < 2\\pi$، فقيمة $\\sin\\theta$ تساوي:",
+    "choices": [
+      "$-\\dfrac{12}{13}$",
+      "$\\dfrac{12}{13}$",
+      "$-\\dfrac{5}{12}$",
+      "$\\dfrac{5}{12}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\dfrac{12}{13}$",
+    "explanation": "$$\\sin^2\\theta = 1 - \\frac{25}{169} = \\frac{144}{169}$$\nفي الربع الرابع: $\\sin\\theta < 0$\n$$\\sin\\theta = -\\frac{12}{13}$$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط المقادير المثلثية - دمج ثلاث متطابقات",
+    "question": "المقدار $\\csc x \\cdot \\cos x \\cdot \\tan x$ يساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$\\tan x$",
+      "$1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$1$",
+    "explanation": "$$\\csc x \\cdot \\cos x \\cdot \\tan x = \\frac{1}{\\sin x} \\cdot \\cos x \\cdot \\frac{\\sin x}{\\cos x} = 1$$"
+  },
+  {
+    "number": 6,
+    "topic": "تبسيط المقادير المثلثية - دمج متطابقات",
+    "question": "المقدار $\\dfrac{\\sec x - \\cos x}{\\tan x}$ يساوي:",
+    "choices": [
+      "$\\cos x$",
+      "$\\sin x$",
+      "$1$",
+      "$\\tan x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sin x$",
+    "explanation": "$$\\frac{\\sec x - \\cos x}{\\tan x} = \\frac{\\frac{1}{\\cos x}-\\cos x}{\\frac{\\sin x}{\\cos x}} = \\frac{\\frac{1-\\cos^2 x}{\\cos x}}{\\frac{\\sin x}{\\cos x}} = \\frac{1-\\cos^2 x}{\\sin x} = \\frac{\\sin^2 x}{\\sin x} = \\sin x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقة جيب المجموع - قيمة دقيقة",
+    "question": "قيمة $\\sin 40°\\cos 20° + \\cos 40°\\sin 20°$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{1}{2}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\sqrt{3}}{2}$",
+    "explanation": "بتطبيق متطابقة جيب المجموع $\\sin(a+b) = \\sin a\\cos b + \\cos a\\sin b$:\n$$\\sin 40°\\cos 20° + \\cos 40°\\sin 20° = \\sin(40°+20°) = \\sin 60° = \\frac{\\sqrt{3}}{2}$$"
+  },
+  {
+    "number": 8,
+    "topic": "تبسيط المقادير المثلثية - فيثاغورس والمقلوب",
+    "question": "المقدار $\\dfrac{\\tan^2 x + 1}{\\sec^2 x}$ يساوي:",
+    "choices": [
+      "$\\tan^2 x$",
+      "$\\sec^2 x$",
+      "$1$",
+      "$\\cos^2 x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$1$",
+    "explanation": "من متطابقة فيثاغورس $\\tan^2 x + 1 = \\sec^2 x$:\n$$\\frac{\\tan^2 x + 1}{\\sec^2 x} = \\frac{\\sec^2 x}{\\sec^2 x} = 1$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقة جيب التمام للمجموع - قيمة دقيقة",
+    "question": "قيمة $\\cos 165°$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{6}+\\sqrt{2}}{4}$",
+      "$\\dfrac{\\sqrt{6}-\\sqrt{2}}{4}$",
+      "$-\\dfrac{\\sqrt{6}-\\sqrt{2}}{4}$",
+      "$-\\dfrac{\\sqrt{6}+\\sqrt{2}}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\dfrac{\\sqrt{6}+\\sqrt{2}}{4}$",
+    "explanation": "نكتب $165° = 120° + 45°$:\n$$\\cos 165° = \\cos 120°\\cos 45° - \\sin 120°\\sin 45°$$\n$$= \\left(-\\frac{1}{2}\\right)\\frac{\\sqrt{2}}{2} - \\frac{\\sqrt{3}}{2}\\cdot\\frac{\\sqrt{2}}{2} = -\\frac{\\sqrt{2}}{4} - \\frac{\\sqrt{6}}{4} = -\\frac{\\sqrt{6}+\\sqrt{2}}{4}$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقة جيب المجموع مع $\\pi$",
+    "question": "قيمة $\\sin(x + \\pi)$ تساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\sin x$",
+    "explanation": "بتطبيق متطابقة جيب المجموع:\n$$\\sin(x+\\pi) = \\sin x\\cos\\pi + \\cos x\\sin\\pi = \\sin x(-1) + \\cos x(0) = -\\sin x$$"
+  }
+]

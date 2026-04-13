@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقة ضعف الزاوية - جيب",
+    "question": "إذا كان $\\sin\\theta = \\dfrac{3}{5}$ و $\\cos\\theta = \\dfrac{4}{5}$، فقيمة $\\sin 2\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{24}{25}$",
+      "$\\dfrac{7}{25}$",
+      "$\\dfrac{12}{25}$",
+      "$\\dfrac{16}{25}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{24}{25}$",
+    "explanation": "بتطبيق متطابقة ضعف الزاوية:\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta = 2\\cdot\\frac{3}{5}\\cdot\\frac{4}{5} = \\frac{24}{25}$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقة ضعف الزاوية - جيب التمام",
+    "question": "إذا كان $\\cos\\theta = -\\dfrac{4}{5}$ و $\\dfrac{\\pi}{2} < \\theta < \\pi$، فقيمة $\\cos 2\\theta$ تساوي:",
+    "choices": [
+      "$-\\dfrac{7}{25}$",
+      "$\\dfrac{7}{25}$",
+      "$\\dfrac{24}{25}$",
+      "$-\\dfrac{24}{25}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{7}{25}$",
+    "explanation": "بتطبيق متطابقة ضعف الزاوية:\n$$\\cos 2\\theta = 2\\cos^2\\theta - 1 = 2\\left(-\\frac{4}{5}\\right)^2 - 1 = 2\\cdot\\frac{16}{25}-1 = \\frac{32}{25}-1 = \\frac{7}{25}$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقة ضعف الزاوية - الظل",
+    "question": "قيمة $\\tan 2\\theta$ إذا كان $\\tan\\theta = -\\dfrac{3}{4}$ تساوي:",
+    "choices": [
+      "$\\dfrac{7}{24}$",
+      "$\\dfrac{24}{7}$",
+      "$-\\dfrac{24}{7}$",
+      "$-\\dfrac{7}{24}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\dfrac{24}{7}$",
+    "explanation": "بتطبيق متطابقة الظل لضعف الزاوية:\n$$\\tan 2\\theta = \\frac{2\\tan\\theta}{1-\\tan^2\\theta} = \\frac{2\\cdot(-\\frac{3}{4})}{1-\\frac{9}{16}} = \\frac{-\\frac{3}{2}}{\\frac{7}{16}} = -\\frac{3}{2}\\cdot\\frac{16}{7} = -\\frac{24}{7}$$"
+  },
+  {
+    "number": 4,
+    "topic": "متطابقات تقليص القوة",
+    "question": "المقدار $\\sin^2 x$ بداللة القوة الأولى لجيب التمام يساوي:",
+    "choices": [
+      "$\\dfrac{1+\\cos 2x}{2}$",
+      "$\\dfrac{\\cos 2x - 1}{2}$",
+      "$\\dfrac{1-\\cos x}{2}$",
+      "$\\dfrac{1-\\cos 2x}{2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1-\\cos 2x}{2}$",
+    "explanation": "من متطابقة تقليص القوة:\n$$\\sin^2 x = \\frac{1-\\cos 2x}{2}$$\nتُستنتج من متطابقة ضعف الزاوية $\\cos 2x = 1-2\\sin^2 x$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات نصف الزاوية - جيب",
+    "question": "قيمة $\\sin 22.5°$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sqrt{2+\\sqrt{2}}$",
+      "$\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$\\dfrac{\\sqrt{3}}{2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$",
+    "explanation": "بما أن $22.5° = \\dfrac{45°}{2}$ في الربع الأول (إشارة موجبة):\n$$\\sin 22.5° = \\sqrt{\\frac{1-\\cos 45°}{2}} = \\sqrt{\\frac{1-\\frac{\\sqrt{2}}{2}}{2}} = \\sqrt{\\frac{2-\\sqrt{2}}{4}} = \\frac{1}{2}\\sqrt{2-\\sqrt{2}}$$"
+  },
+  {
+    "number": 6,
+    "topic": "متطابقات تحويل الضرب إلى مجموع",
+    "question": "المقدار $\\sin 3x \\sin 5x$ بصورة مجموع أو فرق يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\cos 2x - \\dfrac{1}{2}\\cos 8x$",
+      "$\\dfrac{1}{2}\\cos 8x - \\dfrac{1}{2}\\cos 2x$",
+      "$\\dfrac{1}{2}\\sin 2x + \\dfrac{1}{2}\\sin 8x$",
+      "$\\cos 4x \\sin x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{1}{2}\\cos 2x - \\dfrac{1}{2}\\cos 8x$",
+    "explanation": "بتطبيق $\\sin\\alpha\\sin\\beta = \\dfrac{1}{2}[\\cos(\\alpha-\\beta)-\\cos(\\alpha+\\beta)]$:\n$$\\sin 3x\\sin 5x = \\frac{1}{2}[\\cos(3x-5x)-\\cos(3x+5x)] = \\frac{1}{2}[\\cos(-2x)-\\cos 8x] = \\frac{1}{2}\\cos 2x-\\frac{1}{2}\\cos 8x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقات تحويل المجموع إلى ضرب",
+    "question": "المقدار $\\sin 5x - \\sin 3x$ بصورة ضرب يساوي:",
+    "choices": [
+      "$2\\sin 4x \\cos x$",
+      "$2\\sin 4x \\cdot \\sin x$",
+      "$2\\cos 4x \\sin x$",
+      "$2\\cos 4x \\cos x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$2\\cos 4x \\sin x$",
+    "explanation": "بتطبيق متطابقة تحويل الفرق إلى ضرب:\n$$\\sin\\alpha - \\sin\\beta = 2\\cos\\frac{\\alpha+\\beta}{2}\\sin\\frac{\\alpha-\\beta}{2}$$\n$$\\sin 5x - \\sin 3x = 2\\cos\\left(\\frac{5x+3x}{2}\\right)\\sin\\left(\\frac{5x-3x}{2}\\right) = 2\\cos 4x\\sin x$$\nإذن الخيار (c) هو الصحيح"
+  },
+  {
+    "number": 8,
+    "topic": "تطبيق متطابقات تقليص القوة - تبسيط",
+    "question": "المقدار $\\sin^2 x \\cos^2 x$ بداللة القوة الأولى لجيب التمام يساوي:",
+    "choices": [
+      "$\\dfrac{1}{4}\\sin^2 2x$",
+      "$\\dfrac{1}{8}(1-\\cos 4x)$",
+      "$\\dfrac{1}{4}(1-\\cos 4x)$",
+      "$\\dfrac{1}{4}\\cos 2x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{8}(1-\\cos 4x)$",
+    "explanation": "$$\\sin^2 x\\cos^2 x = \\frac{1-\\cos 2x}{2}\\cdot\\frac{1+\\cos 2x}{2} = \\frac{1-\\cos^2 2x}{4} = \\frac{1}{4}-\\frac{1}{4}\\cos^2 2x$$\n$$= \\frac{1}{4}-\\frac{1}{4}\\cdot\\frac{1+\\cos 4x}{2} = \\frac{1}{4}-\\frac{1}{8}-\\frac{\\cos 4x}{8} = \\frac{1}{8}-\\frac{\\cos 4x}{8} = \\frac{1}{8}(1-\\cos 4x)$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقات ضعف الزاوية - إيجاد sin2θ وcos2θ معاً",
+    "question": "إذا كان $\\sin\\theta = \\dfrac{5}{13}$ و $0 < \\theta < \\dfrac{\\pi}{2}$، فقيمة $\\sin 2\\theta + \\cos 2\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{239}{169}$",
+      "$\\dfrac{120}{169}$",
+      "$\\dfrac{1}{169}$",
+      "$\\dfrac{119}{169}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{239}{169}$",
+    "explanation": "بما أن $\\sin\\theta = \\dfrac{5}{13}$ و $0 < \\theta < \\dfrac{\\pi}{2}$، فإن $\\cos\\theta = \\dfrac{12}{13}$\n\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta = 2\\cdot\\frac{5}{13}\\cdot\\frac{12}{13} = \\frac{120}{169}$$\n\n$$\\cos 2\\theta = 1 - 2\\sin^2\\theta = 1 - 2\\cdot\\frac{25}{169} = \\frac{119}{169}$$\n\n$$\\sin 2\\theta + \\cos 2\\theta = \\frac{120}{169} + \\frac{119}{169} = \\frac{239}{169}$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقة تحويل المجموع إلى ضرب - التحقق",
+    "question": "المقدار $\\cos 3x + \\cos x$ بصورة ضرب يساوي:",
+    "choices": [
+      "$2\\sin 2x \\cdot \\sin x$",
+      "$2\\sin 2x \\cos x$",
+      "$2\\cos 2x \\sin x$",
+      "$2\\cos 2x \\cos x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2\\cos 2x \\cos x$",
+    "explanation": "بتطبيق $\\cos\\alpha+\\cos\\beta = 2\\cos\\dfrac{\\alpha+\\beta}{2}\\cos\\dfrac{\\alpha-\\beta}{2}$:\n$$\\cos 3x+\\cos x = 2\\cos\\left(\\frac{3x+x}{2}\\right)\\cos\\left(\\frac{3x-x}{2}\\right) = 2\\cos 2x\\cos x$$"
+  }
+]

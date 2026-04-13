@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقات المقلوب",
+    "question": "قيمة $\\csc\\theta \\times \\sin\\theta$ تساوي:",
+    "choices": [
+      "$1$",
+      "$\\sin^2\\theta$",
+      "$0$",
+      "$\\csc^2\\theta$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1$",
+    "explanation": "بتطبيق متطابقة المقلوب $\\csc\\theta = \\dfrac{1}{\\sin\\theta}$:\n$$\\csc\\theta \\times \\sin\\theta = \\frac{1}{\\sin\\theta} \\times \\sin\\theta = 1$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات الزاوية السالبة",
+    "question": "قيمة $\\cos\\left(-\\dfrac{\\pi}{3}\\right)$ تساوي:",
+    "choices": [
+      "$-\\dfrac{1}{2}$",
+      "$\\dfrac{1}{2}$",
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$-\\dfrac{\\sqrt{3}}{2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{2}$",
+    "explanation": "بتطبيق متطابقة الزاوية السالبة $\\cos(-\\theta) = \\cos\\theta$:\n$$\\cos\\left(-\\frac{\\pi}{3}\\right) = \\cos\\left(\\frac{\\pi}{3}\\right) = \\frac{1}{2}$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات الزاويتين المتتامتين والمقلوب",
+    "question": "المقدار $\\sin\\left(\\dfrac{\\pi}{2} - x\\right) \\times \\sec x$ يساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$\\tan x$",
+      "$1$",
+      "$\\cos x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$1$",
+    "explanation": "بتطبيق متطابقة الزاويتين المتتامتين: $\\sin\\left(\\dfrac{\\pi}{2}-x\\right) = \\cos x$\n$$\\cos x \\times \\sec x = \\cos x \\times \\frac{1}{\\cos x} = 1$$"
+  },
+  {
+    "number": 4,
+    "topic": "إيجاد قيمة اقتران مثلثي مع تحديد الربع",
+    "question": "إذا كان $\\cos\\theta = -\\dfrac{4}{5}$ و$\\dfrac{\\pi}{2} < \\theta < \\pi$، فقيمة $\\sin\\theta$ تساوي:",
+    "choices": [
+      "$-\\dfrac{3}{5}$",
+      "$\\dfrac{5}{3}$",
+      "$-\\dfrac{5}{3}$",
+      "$\\dfrac{3}{5}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{3}{5}$",
+    "explanation": "بتطبيق متطابقة فيثاغورس:\n$$\\sin^2\\theta = 1 - \\cos^2\\theta = 1 - \\frac{16}{25} = \\frac{9}{25}$$\n$$\\sin\\theta = \\pm\\frac{3}{5}$$\nفي الربع الثاني: $\\sin\\theta > 0$، إذن $\\sin\\theta = \\dfrac{3}{5}$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط المقادير المثلثية - المتطابقات النسبية",
+    "question": "المقدار $\\cos x \\cdot \\tan x$ يساوي:",
+    "choices": [
+      "$\\cos x$",
+      "$\\sin x$",
+      "$\\tan x$",
+      "$1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sin x$",
+    "explanation": "بتطبيق $\\tan x = \\dfrac{\\sin x}{\\cos x}$:\n$$\\cos x \\cdot \\tan x = \\cos x \\cdot \\frac{\\sin x}{\\cos x} = \\sin x$$"
+  },
+  {
+    "number": 6,
+    "topic": "متطابقات فيثاغورس",
+    "question": "قيمة $\\sec^2\\theta - \\tan^2\\theta$ تساوي:",
+    "choices": [
+      "$1$",
+      "$0$",
+      "$\\sec^2\\theta$",
+      "$\\tan^2\\theta$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1$",
+    "explanation": "من متطابقة فيثاغورس: $1 + \\tan^2\\theta = \\sec^2\\theta$\n$$\\sec^2\\theta - \\tan^2\\theta = 1$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقة جيب المجموع - قيمة دقيقة",
+    "question": "قيمة $\\sin 75°$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{6}-\\sqrt{2}}{4}$",
+      "$\\dfrac{\\sqrt{2}}{2}$",
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{\\sqrt{6}+\\sqrt{2}}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\sqrt{6}+\\sqrt{2}}{4}$",
+    "explanation": "نكتب $75° = 45° + 30°$ ونطبق متطابقة جيب المجموع:\n$$\\sin 75° = \\sin 45°\\cos 30° + \\cos 45°\\sin 30°$$\n$$= \\frac{\\sqrt{2}}{2}\\cdot\\frac{\\sqrt{3}}{2} + \\frac{\\sqrt{2}}{2}\\cdot\\frac{1}{2} = \\frac{\\sqrt{6}+\\sqrt{2}}{4}$$"
+  },
+  {
+    "number": 8,
+    "topic": "تبسيط المقادير المثلثية - فيثاغورس",
+    "question": "المقدار $\\dfrac{\\sin^2 x + \\cos^2 x}{\\cos^2 x}$ يساوي:",
+    "choices": [
+      "$1$",
+      "$\\tan^2 x$",
+      "$\\sec^2 x$",
+      "$\\csc^2 x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\sec^2 x$",
+    "explanation": "بتطبيق متطابقة فيثاغورس $\\sin^2 x + \\cos^2 x = 1$:\n$$\\frac{\\sin^2 x + \\cos^2 x}{\\cos^2 x} = \\frac{1}{\\cos^2 x} = \\sec^2 x$$"
+  },
+  {
+    "number": 9,
+    "topic": "تبسيط تعبيرات مثلثية متقدمة",
+    "question": "المقدار $\\dfrac{(\\sin x + \\cos x)^2 - 1}{\\sin x \\cos x}$ يساوي:",
+    "choices": [
+      "$1$",
+      "$2$",
+      "$\\sin x \\cos x$",
+      "$0$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2$",
+    "explanation": "نوسّع البسط:\n$$(\\sin x + \\cos x)^2 - 1 = \\sin^2 x + 2\\sin x\\cos x + \\cos^2 x - 1 = 2\\sin x\\cos x$$\n$$\\frac{2\\sin x\\cos x}{\\sin x\\cos x} = 2$$"
+  },
+  {
+    "number": 10,
+    "topic": "دمج متطابقات المتتامتين وفيثاغورس",
+    "question": "المقدار $\\dfrac{\\cos\\left(\\dfrac{\\pi}{2}-x\\right)}{\\csc x} + \\cos^2 x$ يساوي:",
+    "choices": [
+      "$1$",
+      "$\\sin x$",
+      "$\\cos x$",
+      "$0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1$",
+    "explanation": "$\\cos\\left(\\dfrac{\\pi}{2}-x\\right) = \\sin x$\n$$\\frac{\\sin x}{\\csc x} + \\cos^2 x = \\sin x \\cdot \\sin x + \\cos^2 x = \\sin^2 x + \\cos^2 x = 1$$"
+  }
+]

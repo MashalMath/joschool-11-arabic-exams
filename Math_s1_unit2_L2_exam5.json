@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "متطابقة ضعف الزاوية - تطبيق مباشر",
+    "question": "قيمة $\\sin 120°$ بتطبيق متطابقة ضعف الزاوية تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{1}{2}$",
+      "$-\\dfrac{\\sqrt{3}}{2}$",
+      "$-\\dfrac{1}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\sqrt{3}}{2}$",
+    "explanation": "$\\sin 120° = \\sin(2\\times 60°) = 2\\sin 60°\\cos 60°$\n$$= 2\\cdot\\frac{\\sqrt{3}}{2}\\cdot\\frac{1}{2} = \\frac{\\sqrt{3}}{2}$$"
+  },
+  {
+    "number": 2,
+    "topic": "متطابقات تقليص القوة - تبسيط",
+    "question": "المقدار $4\\sin^2 x\\cos^2 x$ بدلالة القوة الأولى لجيب التمام يساوي:",
+    "choices": [
+      "$(1-\\cos 4x)$",
+      "$\\dfrac{1}{2}(1-\\cos 4x)$",
+      "$\\dfrac{1}{2}(1+\\cos 4x)$",
+      "$\\dfrac{1}{4}(1-\\cos 4x)$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{2}(1-\\cos 4x)$",
+    "explanation": "$$4\\sin^2 x\\cos^2 x = (2\\sin x\\cos x)^2 = (\\sin 2x)^2 = \\sin^2 2x$$\nوبتقليص القوة لـ $\\sin^2 2x$:\n$$\\sin^2 2x = \\frac{1-\\cos 4x}{2} = \\frac{1}{2}(1-\\cos 4x)$$"
+  },
+  {
+    "number": 3,
+    "topic": "متطابقات نصف الزاوية - جيب",
+    "question": "إذا كان $\\cos\\theta = \\dfrac{4}{5}$ و $0 < \\theta < \\dfrac{\\pi}{2}$، فقيمة $\\sin\\dfrac{\\theta}{2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{10}}{10}$",
+      "$\\dfrac{2\\sqrt{10}}{10}$",
+      "$\\dfrac{1}{\\sqrt{10}}$",
+      "$\\dfrac{\\sqrt{2}}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\sqrt{10}}{10}$",
+    "explanation": "بما أن $\\theta$ في الربع الأول، فإن $\\theta/2$ أيضاً في الربع الأول (الجيب موجب):\n$$\\sin\\frac{\\theta}{2} = \\sqrt{\\frac{1-\\cos\\theta}{2}} = \\sqrt{\\frac{1-4/5}{2}} = \\sqrt{\\frac{1/5}{2}} = \\sqrt{\\frac{1}{10}} = \\frac{1}{\\sqrt{10}} = \\frac{\\sqrt{10}}{10}$$"
+  },
+  {
+    "number": 4,
+    "topic": "متطابقات تحويل الضرب إلى مجموع - sinsin",
+    "question": "المقدار $\\sin x \\sin 5x$ بصورة مجموع أو فرق يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sin 4x - \\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\sin 4x + \\dfrac{1}{2}\\sin 6x$",
+      "$\\dfrac{1}{2}\\cos 4x + \\dfrac{1}{2}\\cos 6x$",
+      "$\\dfrac{1}{2}\\cos 4x-\\dfrac{1}{2}\\cos 6x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{2}\\cos 4x - \\dfrac{1}{2}\\cos 6x$",
+    "explanation": "$$\\sin x\\sin 5x = \\frac{1}{2}[\\cos(x-5x)-\\cos(x+5x)] = \\frac{1}{2}[\\cos(-4x)-\\cos 6x]$$\nبما أن الكوساين دالة زوجية $\\cos(-4x) = \\cos 4x$:\n$$= \\frac{1}{2}\\cos 4x - \\frac{1}{2}\\cos 6x$$"
+  },
+  {
+    "number": 5,
+    "topic": "تبسيط بمتطابقات ضعف الزاوية",
+    "question": "المقدار $\\dfrac{\\tan 2x}{2\\tan x}$ يساوي:",
+    "choices": [
+      "$\\cos 2x$",
+      "$\\sec^2 x$",
+      "$\\dfrac{1}{1-\\tan^2 x}$",
+      "$\\dfrac{1}{\\cos^2 x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{1-\\tan^2 x}$",
+    "explanation": "بتطبيق $\\tan 2x = \\dfrac{2\\tan x}{1-\\tan^2 x}$:\n$$\\frac{\\tan 2x}{2\\tan x} = \\frac{\\frac{2\\tan x}{1-\\tan^2 x}}{2\\tan x} = \\frac{1}{1-\\tan^2 x}$$"
+  },
+  {
+    "number": 6,
+    "topic": "متطابقات تحويل المجموع إلى ضرب",
+    "question": "المقدار $\\cos 2x - \\cos 4x$ بصورة ضرب يساوي:",
+    "choices": [
+      "$-2\\cos 3x \\cdot \\sin x$",
+      "$-2\\sin 3x\\sin x$",
+      "$2\\cos 3x\\cos x$",
+      "$2\\sin 3x\\sin x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2\\sin 3x \\sin x$",
+    "explanation": "بتطبيق $\\cos\\alpha - \\cos\\beta = -2\\sin\\frac{\\alpha+\\beta}{2}\\sin\\frac{\\alpha-\\beta}{2}$:\n$$\\cos 2x - \\cos 4x = -2\\sin 3x\\sin(-x)$$\nوبما أن $\\sin(-x) = -\\sin x$:\n$$= -2\\sin 3x(-\\sin x) = 2\\sin 3x\\sin x$$"
+  },
+  {
+    "number": 7,
+    "topic": "متطابقات نصف الزاوية - جيب التمام",
+    "question": "قيمة $\\cos 112.5°$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}\\sqrt{2+\\sqrt{2}}$",
+      "$-\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$",
+      "$-\\dfrac{1}{2}\\sqrt{2+\\sqrt{2}}$",
+      "$\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\dfrac{1}{2}\\sqrt{2-\\sqrt{2}}$",
+    "explanation": "بما أن $112.5°$ في الربع الثاني (الجتا سالب):\n$$\\cos 112.5° = -\\sqrt{\\frac{1+\\cos 225°}{2}} = -\\sqrt{\\frac{1-\\frac{\\sqrt{2}}{2}}{2}} = -\\sqrt{\\frac{2-\\sqrt{2}}{4}} = -\\frac{1}{2}\\sqrt{2-\\sqrt{2}}$$"
+  },
+  {
+    "number": 8,
+    "topic": "إثبات متطابقة بمتطابقات المجموع والضرب",
+    "question": "المقدار $\\dfrac{\\sin 3x - \\sin x}{\\cos 3x + \\cos x}$ يساوي:",
+    "choices": [
+      "$\\sin x$",
+      "$\\tan x$",
+      "$\\cot x$",
+      "$\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\tan x$",
+    "explanation": "$$\\frac{\\sin 3x-\\sin x}{\\cos 3x+\\cos x} = \\frac{2\\cos\\frac{4x}{2}\\sin\\frac{2x}{2}}{2\\cos\\frac{4x}{2}\\cos\\frac{2x}{2}} = \\frac{\\sin x}{\\cos x} = \\tan x$$"
+  },
+  {
+    "number": 9,
+    "topic": "متطابقات ضعف الزاوية مع الربع",
+    "question": "إذا كان $\\csc\\theta = -\\dfrac{5}{4}$ و $\\pi < \\theta < \\dfrac{3\\pi}{2}$، فقيمة $\\sin 2\\theta$ تساوي:",
+    "choices": [
+      "$\\dfrac{8}{25}$",
+      "$-\\dfrac{8}{25}$",
+      "$\\dfrac{24}{25}$",
+      "$-\\dfrac{24}{25}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{24}{25}$",
+    "explanation": "$\\sin\\theta = -4/5$ (الربع الثالث)، ومن فيثاغورس $\\cos\\theta = -3/5$:\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta = 2(-4/5)(-3/5) = 24/25$$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقات تحويل الضرب إلى مجموع - تطبيق عكسي",
+    "question": "أيٌّ من الخيارات الآتية يساوي $\\dfrac{1}{2}[\\cos 2x + \\cos 8x]$؟",
+    "choices": [
+      "$\\cos 3x\\cos 5x$",
+      "$\\sin 3x\\sin 5x$",
+      "$\\sin 3x\\cos 5x$",
+      "$\\sin 3x \\cdot \\sin 5x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\cos 3x \\cos 5x$",
+    "explanation": "بتطبيق $\\cos\\alpha\\cos\\beta = \\frac{1}{2}[\\cos(\\alpha-\\beta)+\\cos(\\alpha+\\beta)]$:\n$$\\cos 3x\\cos 5x = \\frac{1}{2}[\\cos(-2x)+\\cos 8x] = \\frac{1}{2}[\\cos 2x+\\cos 8x]$$"
+  }
+]

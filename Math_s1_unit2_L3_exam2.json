@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المعادلة المثلثية الأساسية - جيب",
+    "question": "حلول المعادلة $\\sin x = -\\dfrac{\\sqrt{3}}{2}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{4\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{4\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+    "explanation": "الجيب سالب في الربعين الثالث والرابع\n\nالزاوية المرجعية: $\\sin^{-1}\\left(\\dfrac{\\sqrt{3}}{2}\\right) = \\dfrac{\\pi}{3}$\n\nالربع الثالث: $x = \\pi + \\dfrac{\\pi}{3} = \\dfrac{4\\pi}{3}$\n\nالربع الرابع: $x = 2\\pi - \\dfrac{\\pi}{3} = \\dfrac{5\\pi}{3}$"
+  },
+  {
+    "number": 2,
+    "topic": "المعادلة المثلثية الأساسية - جيب التمام",
+    "question": "الحلول العامة للمعادلة $\\cos x = \\dfrac{\\sqrt{3}}{2}$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6} + k\\pi$",
+      "$x = \\dfrac{\\pi}{3} + k\\pi$",
+      "$x = \\dfrac{\\pi}{6} + 2k\\pi$ أو $x = \\dfrac{11\\pi}{6} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{3} + 2k\\pi$ أو $x = \\dfrac{5\\pi}{3} + 2k\\pi$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6} + 2k\\pi$ أو $x = \\dfrac{11\\pi}{6} + 2k\\pi$",
+    "explanation": "جيب التمام موجب في الربعين الأول والرابع\n\nالزاوية المرجعية: $\\cos^{-1}\\left(\\dfrac{\\sqrt{3}}{2}\\right) = \\dfrac{\\pi}{6}$\n\nالربع الأول: $x = \\dfrac{\\pi}{6}$\n\nالربع الرابع: $x = 2\\pi - \\dfrac{\\pi}{6} = \\dfrac{11\\pi}{6}$\n\nالحلول العامة (دورة جيب التمام $= 2\\pi$):\n$$x = \\frac{\\pi}{6} + 2k\\pi \\quad \\text{أو} \\quad x = \\frac{11\\pi}{6} + 2k\\pi$$"
+  },
+  {
+    "number": 3,
+    "topic": "المعادلة المثلثية الأساسية - ظل",
+    "question": "حلول المعادلة $\\tan x = -1$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+    "explanation": "الظل سالب في الربعين الثاني والرابع\n\nالزاوية المرجعية: $\\tan^{-1}(1) = \\dfrac{\\pi}{4}$\n\nالربع الثاني: $x = \\pi - \\dfrac{\\pi}{4} = \\dfrac{3\\pi}{4}$\n\nالربع الرابع: $x = 2\\pi - \\dfrac{\\pi}{4} = \\dfrac{7\\pi}{4}$"
+  },
+  {
+    "number": 4,
+    "topic": "عزل الاقتران المثلثي - معادلة تحوي ثابتاً",
+    "question": "حلول المعادلة $2\\sin x + \\sqrt{3} = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{4\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{4\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+    "explanation": "**عزل الاقتران:**\n$$2\\sin x = -\\sqrt{3}$$\n$$\\sin x = -\\frac{\\sqrt{3}}{2}$$\n\nالجيب سالب في الربعين الثالث والرابع:\n$$x = \\pi + \\frac{\\pi}{3} = \\frac{4\\pi}{3} \\quad \\text{أو} \\quad x = 2\\pi - \\frac{\\pi}{3} = \\frac{5\\pi}{3}$$"
+  },
+  {
+    "number": 5,
+    "topic": "حل معادلة تربيعية بالتحليل",
+    "question": "حلول المعادلة $2\\cos^2 x + \\cos x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2},\\ \\dfrac{3\\pi}{2},\\ \\dfrac{2\\pi}{3},\\ \\dfrac{4\\pi}{3}$",
+    "explanation": "**إخراج العامل المشترك:**\n$$\\cos x(2\\cos x + 1) = 0$$\n\n**الحالة الأولى:** $\\cos x = 0 \\Rightarrow x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$\n\n**الحالة الثانية:** $2\\cos x + 1 = 0 \\Rightarrow \\cos x = -\\dfrac{1}{2}$\n\nجيب التمام سالب في الربعين الثاني والثالث:\n$$x = \\pi - \\frac{\\pi}{3} = \\frac{2\\pi}{3} \\quad \\text{أو} \\quad x = \\pi + \\frac{\\pi}{3} = \\frac{4\\pi}{3}$$"
+  },
+  {
+    "number": 6,
+    "topic": "إخراج العامل المشترك في معادلة",
+    "question": "حلول المعادلة $\\sin x(2\\sin x - 1) = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{\\pi}{2}$",
+      "$x = 0, \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}, 0, \\pi$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, 0, \\pi$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = 0,\\ \\pi,\\ \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6}$",
+    "explanation": "**خاصية الضرب الصفري:**\n\n**الحالة الأولى:** $\\sin x = 0 \\Rightarrow x = 0$ أو $x = \\pi$\n\n**الحالة الثانية:** $2\\sin x - 1 = 0 \\Rightarrow \\sin x = \\dfrac{1}{2}$\n\n$$x = \\frac{\\pi}{6} \\quad \\text{أو} \\quad x = \\frac{5\\pi}{6}$$\n\nجميع الحلول في $[0, 2\\pi)$: $x = 0, \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$"
+  },
+  {
+    "number": 7,
+    "topic": "حل معادلة باستعمال المتطابقات",
+    "question": "حلول المعادلة $\\sin 2x = \\sqrt{3}\\cos 2x$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{2\\pi}{3}, \\dfrac{7\\pi}{6}, \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6},\\ \\dfrac{2\\pi}{3},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{5\\pi}{3}$",
+    "explanation": "**قسمة طرفي المعادلة على $\\cos 2x$** (حيث $\\cos 2x \\neq 0$):\n$$\\tan 2x = \\sqrt{3}$$\n\nالزاوية المرجعية: $\\dfrac{\\pi}{3}$، دورة الظل $= \\pi$\n\n$$2x = \\frac{\\pi}{3} + k\\pi \\Rightarrow x = \\frac{\\pi}{6} + \\frac{k\\pi}{2}$$\n\nفي $[0, 2\\pi)$، نعوض $k=0,1,2,3$:\n$$x = \\frac{\\pi}{6}, \\frac{2\\pi}{3}, \\frac{7\\pi}{6}, \\frac{5\\pi}{3}$$"
+  },
+  {
+    "number": 8,
+    "topic": "معادلة تحوي اقتراناً لضعف الزاوية وعامل مشترك",
+    "question": "حلول المعادلة $\\sin 2x + \\cos x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2},\\ \\dfrac{3\\pi}{2},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+    "explanation": "$$2\\sin x\\cos x + \\cos x = 0$$\n$$\\cos x(2\\sin x + 1) = 0$$\n\n**الحالة الأولى:** $\\cos x = 0 \\Rightarrow x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$\n\n**الحالة الثانية:** $\\sin x = -\\dfrac{1}{2}$\n$$x = \\frac{7\\pi}{6} \\quad \\text{أو} \\quad x = \\frac{11\\pi}{6}$$"
+  },
+  {
+    "number": 9,
+    "topic": "معادلة تحوي اقتراناً لنصف الزاوية",
+    "question": "حلول المعادلة $2\\cos\\dfrac{x}{2} - 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}$",
+      "$x = \\dfrac{2\\pi}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{2\\pi}{3}$",
+    "explanation": "**عزل الاقتران:**\n$$\\cos\\frac{x}{2} = \\frac{1}{2}$$\n\nحلول $\\cos\\theta = \\dfrac{1}{2}$ في $[0, 2\\pi)$: $\\theta = \\dfrac{\\pi}{3}$ أو $\\theta = \\dfrac{5\\pi}{3}$\n\nبما أن $\\theta = \\dfrac{x}{2}$:\n$$\\frac{x}{2} = \\frac{\\pi}{3} \\Rightarrow x = \\frac{2\\pi}{3}$$\n$$\\frac{x}{2} = \\frac{5\\pi}{3} \\Rightarrow x = \\frac{10\\pi}{3} > 2\\pi \\text{ (خارج الفترة)}$$\n\nإذن الحل الوحيد: $x = \\dfrac{2\\pi}{3}$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة مركبة متعددة الخطوات",
+    "question": "حلول المعادلة $\\tan^2 x - 3 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{\\pi}{6}, \\dfrac{4\\pi}{3}, \\dfrac{7\\pi}{6}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{\\pi}{3},\\ \\dfrac{2\\pi}{3},\\ \\dfrac{4\\pi}{3},\\ \\dfrac{5\\pi}{3}$",
+    "explanation": "$$\\tan^2 x = 3 \\Rightarrow \\tan x = \\pm\\sqrt{3}$$\n\n**إذا** $\\tan x = \\sqrt{3}$: $x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{\\pi}{3}+\\pi = \\dfrac{4\\pi}{3}$\n\n**إذا** $\\tan x = -\\sqrt{3}$: $x = \\pi - \\dfrac{\\pi}{3} = \\dfrac{2\\pi}{3}$ أو $x = 2\\pi - \\dfrac{\\pi}{3} = \\dfrac{5\\pi}{3}$\n\nالحلول: $x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$"
+  }
+]

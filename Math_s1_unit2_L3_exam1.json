@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المعادلة المثلثية الأساسية - جيب",
+    "question": "الحلول العامة للمعادلة $\\sin x = \\dfrac{1}{2}$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6} + 2k\\pi$ أو $x = \\dfrac{5\\pi}{6} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{3} + 2k\\pi$ أو $x = \\dfrac{2\\pi}{3} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{6} + k\\pi$",
+      "$x = \\dfrac{5\\pi}{6} + k\\pi$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6} + 2k\\pi$ أو $x = \\dfrac{5\\pi}{6} + 2k\\pi$",
+    "explanation": "الجيب موجب في الربعين الأول والثاني\n\nالزاوية المرجعية: $\\dfrac{\\pi}{6}$\n\nالحل في $[0, 2\\pi)$: $x = \\dfrac{\\pi}{6}$ أو $x = \\pi - \\dfrac{\\pi}{6} = \\dfrac{5\\pi}{6}$\n\nالحلول العامة (دورة الجيب $= 2\\pi$):\n$$x = \\frac{\\pi}{6} + 2k\\pi \\quad \\text{أو} \\quad x = \\frac{5\\pi}{6} + 2k\\pi$$"
+  },
+  {
+    "number": 2,
+    "topic": "المعادلة المثلثية الأساسية - جيب التمام",
+    "question": "حلول المعادلة $\\cos x = -\\dfrac{\\sqrt{2}}{2}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+    "explanation": "جيب التمام سالب في الربعين الثاني والثالث\n\nالزاوية المرجعية: $\\cos^{-1}\\left(\\dfrac{\\sqrt{2}}{2}\\right) = \\dfrac{\\pi}{4}$\n\nالربع الثاني: $x = \\pi - \\dfrac{\\pi}{4} = \\dfrac{3\\pi}{4}$\n\nالربع الثالث: $x = \\pi + \\dfrac{\\pi}{4} = \\dfrac{5\\pi}{4}$"
+  },
+  {
+    "number": 3,
+    "topic": "الحلول العامة للمعادلة - ظل",
+    "question": "الحلول العامة للمعادلة $\\tan x = \\sqrt{3}$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + k\\pi$",
+      "$x = \\dfrac{\\pi}{3} + k\\pi$",
+      "$x = \\dfrac{\\sqrt{3}\\pi}{3} + k\\pi$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{3} + k\\pi$",
+    "explanation": "دورة اقتران الظل $= \\pi$\n\nالزاوية المرجعية: $\\tan^{-1}(\\sqrt{3}) = \\dfrac{\\pi}{3}$\n\nالظل موجب في الربعين الأول والثالث، لذا الحل الوحيد ضمن دورة واحدة هو $\\dfrac{\\pi}{3}$\n\nالحلول العامة:\n$$x = \\frac{\\pi}{3} + k\\pi \\quad \\text{حيث } k \\text{ عدد صحيح}$$"
+  },
+  {
+    "number": 4,
+    "topic": "عزل الاقتران المثلثي أولاً",
+    "question": "حلول المعادلة $3\\sin x - 2 = 5\\sin x - 1$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+    "explanation": "**عزل الاقتران المثلثي:**\n$$3\\sin x - 2 = 5\\sin x - 1$$\n$$-2\\sin x = 1$$\n$$\\sin x = -\\frac{1}{2}$$\n\nالجيب سالب في الربعين الثالث والرابع:\n$$x = \\pi + \\frac{\\pi}{6} = \\frac{7\\pi}{6} \\quad \\text{أو} \\quad x = 2\\pi - \\frac{\\pi}{6} = \\frac{11\\pi}{6}$$"
+  },
+  {
+    "number": 5,
+    "topic": "حل معادلة تربيعية بالتحليل",
+    "question": "حلول المعادلة $2\\sin^2 x - 3\\sin x + 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\pi$",
+      "$x = \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}, \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{11\\pi}{6}, \\dfrac{\\pi}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6},\\ \\dfrac{\\pi}{2}$",
+    "explanation": "**التحليل:**\n$$(2\\sin x - 1)(\\sin x - 1) = 0$$\n\n**الحالة الأولى:** $\\sin x = \\dfrac{1}{2} \\Rightarrow x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$\n\n**الحالة الثانية:** $\\sin x = 1 \\Rightarrow x = \\dfrac{\\pi}{2}$\n\nإذن الحلول: $x = \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6},\\ \\dfrac{\\pi}{2}$"
+  },
+  {
+    "number": 6,
+    "topic": "إخراج العامل المشترك",
+    "question": "عند حل المعادلة $\\cos x \\sin x = 3\\cos x$ في $[0, 2\\pi)$، ما الخطأ الشائع الذي يجب تجنبه؟",
+    "choices": [
+      "إضافة 1 إلى كلا الطرفين",
+      "قسمة كلا الطرفين على $\\cos x$ مباشرةً",
+      "إخراج $\\cos x$ عاملاً مشتركاً",
+      "تطبيق متطابقات فيثاغورس"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "قسمة كلا الطرفين على $\\cos x$ مباشرةً",
+    "explanation": "**الخطأ الشائع:** قسمة طرفي المعادلة على $\\cos x$ مباشرةً؛ لأن ذلك يؤدي إلى فقدان الحلين عندما $\\cos x = 0$\n\n**الطريقة الصحيحة:** إخراج $\\cos x$ عاملاً مشتركاً:\n$$\\cos x(\\sin x - 3) = 0$$\n$$\\cos x = 0 \\Rightarrow x = \\frac{\\pi}{2}, \\frac{3\\pi}{2}$$\n$$\\sin x = 3: \\text{ لا يوجد حل (القيمة العظمى للجيب 1)}$$"
+  },
+  {
+    "number": 7,
+    "topic": "حل معادلة باستعمال متطابقات فيثاغورس",
+    "question": "حلول المعادلة $2\\cos^2 x + 3\\sin x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+    "explanation": "**باستعمال متطابقات فيثاغورس** ($\\cos^2 x = 1 - \\sin^2 x$):\n$$2(1 - \\sin^2 x) + 3\\sin x = 0$$\n$$2 - 2\\sin^2 x + 3\\sin x = 0$$\n$$2\\sin^2 x - 3\\sin x - 2 = 0$$\n$$(2\\sin x + 1)(\\sin x - 2) = 0$$\n\n$\\sin x = -\\dfrac{1}{2}$ (الحل الثاني $\\sin x = 2$ مرفوض)\n\n$$x = \\frac{7\\pi}{6} \\quad \\text{أو} \\quad x = \\frac{11\\pi}{6}$$"
+  },
+  {
+    "number": 8,
+    "topic": "معادلة تحوي اقتراناً لضعف الزاوية",
+    "question": "حلول المعادلة $\\sin 2x - \\cos x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}, \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2},\\ \\dfrac{3\\pi}{2},\\ \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6}$",
+    "explanation": "**باستعمال متطابقة ضعف الزاوية** $\\sin 2x = 2\\sin x\\cos x$:\n$$2\\sin x\\cos x - \\cos x = 0$$\n$$\\cos x(2\\sin x - 1) = 0$$\n\n**الحالة الأولى:** $\\cos x = 0 \\Rightarrow x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$\n\n**الحالة الثانية:** $\\sin x = \\dfrac{1}{2} \\Rightarrow x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$"
+  },
+  {
+    "number": 9,
+    "topic": "معادلة تحوي اقتراناً لنصف الزاوية",
+    "question": "حلول المعادلة $2\\sin\\dfrac{x}{2} - \\sqrt{3} = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\pi$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+    "explanation": "**عزل الاقتران:**\n$$\\sin\\frac{x}{2} = \\frac{\\sqrt{3}}{2}$$\n\nحلول $\\sin\\theta = \\dfrac{\\sqrt{3}}{2}$ في $[0, 2\\pi)$: $\\theta = \\dfrac{\\pi}{3}$ أو $\\theta = \\dfrac{2\\pi}{3}$\n\nبما أن $\\theta = \\dfrac{x}{2}$:\n$$\\frac{x}{2} = \\frac{\\pi}{3} \\Rightarrow x = \\frac{2\\pi}{3}$$\n$$\\frac{x}{2} = \\frac{2\\pi}{3} \\Rightarrow x = \\frac{4\\pi}{3}$$\n\n**التحقق:** كلتا القيمتين ضمن $[0, 2\\pi)$ ✓"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة تتطلب التربيع والتحقق من الحلول الدخيلة",
+    "question": "حلول المعادلة $\\cos x + 1 = \\sin x$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\pi$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = 0$ أو $x = \\dfrac{\\pi}{2}$",
+      "$x = \\pi$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\pi$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2}$ أو $x = \\pi$",
+    "explanation": "**بتربيع الطرفين:**\n$(\\cos x+1)^2 = \\sin^2 x = 1-\\cos^2 x$\n$\\cos^2 x+2\\cos x+1 = 1-\\cos^2 x$\n$2\\cos^2 x+2\\cos x = 0$\n$2\\cos x(\\cos x+1)=0$\n\n$\\cos x=0: x=\\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$ أو $\\cos x=-1: x=\\pi$\n\n**التحقق** (ضروري عند التربيع):\n- $x=\\dfrac{\\pi}{2}$: $0+1=1=1$ ✓\n- $x=\\pi$: $-1+1=0=0$ ✓\n- $x=\\dfrac{3\\pi}{2}$: $0+1=1\\neq-1$ ✗ (دخيل)\n\nالحلول الصحيحة: $x=\\dfrac{\\pi}{2}$ أو $x=\\pi$"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي الطبيعي",
+    "question": "إذا كان $f(x) = e^{x+1} + 1$، فإن $f'(x)$ تساوي:",
+    "choices": [
+      "$e^x$",
+      "$e^{x+1} + 1$",
+      "$e^{x+1}$",
+      "$(x+1)e^x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$e^{x+1}$",
+    "explanation": "بما أن $e^{x+1}$ هو اقتران أسي طبيعي مرفوع لقوة خطية معامل $x$ فيها هو 1، فإن مشتقته تبقى كما هي، والثابت 1 مشتقته صفر"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة اللوغاريتم مع قانون القوة",
+    "question": "مشتقة الاقتران $f(x) = \\ln(x^3)$ هي:",
+    "choices": [
+      "$\\dfrac{3}{x}$",
+      "$\\dfrac{1}{x^3}$",
+      "$3\\ln x$",
+      "$\\dfrac{3}{x^3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{3}{x}$",
+    "explanation": "باستخدام قوانين اللوغاريتمات أولاً: $\\ln(x^3) = 3\\ln x$. عند الاشتقاق: $f'(x) = 3 \\cdot (1/x) = 3/x$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران الجيب وجيب التمام معاً",
+    "question": "مشتقة الاقتران $f(x) = \\sin x + \\cos x$ هي:",
+    "choices": [
+      "$\\sin x - \\cos x$",
+      "$\\cos x + \\sin x$",
+      "$-\\sin x + \\cos x$",
+      "$\\cos x - \\sin x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\cos x - \\sin x$",
+    "explanation": "نشتق كل حد بشكل منفصل: مشتقة $\\sin x$ هي $\\cos x$ ومشتقة $\\cos x$ هي $-\\sin x$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران يجمع اللوغاريتم والأسي",
+    "question": "مشتقة الاقتران $f(x) = \\ln x + e^x$ عند $x = 1$ تساوي:",
+    "choices": [
+      "$1 + e$",
+      "$1 - e$",
+      "$e - 1$",
+      "$e$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1 + e$",
+    "explanation": "$$f'(x) = \\frac{1}{x} + e^x$$\nبالتعويض $x = 1$: $f'(1) = 1/1 + e^1 = 1 + e$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة اقتران يجمع e^x ومضاعف الجيب",
+    "question": "مشتقة الاقتران $y = \\dfrac{1}{2}e^x + 7\\sin x$ هي:",
+    "choices": [
+      "$e^x + 7\\cos x$",
+      "$\\dfrac{1}{2}e^x - 7\\cos x$",
+      "$\\dfrac{1}{2}e^x + 7\\cos x$",
+      "$\\dfrac{1}{2}e^x + 7\\sin x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{2}e^x + 7\\cos x$",
+    "explanation": "باستخدام قواعد الاشتقاق الأساسية:\n$$y' = \\frac{1}{2}(e^x)' + 7(\\sin x)' = \\frac{1}{2}e^x + 7\\cos x$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس عند نقطة على منحنى الاقتران",
+    "question": "ميل المماس لمنحنى $f(x) = \\ln(x^3)$ عند النقطة ذات الإحداثي $x = e$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{e}$",
+      "$\\dfrac{3}{e}$",
+      "$3$",
+      "$\\dfrac{1}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{3}{e}$",
+    "explanation": "المشتقة هي $f'(x) = 3/x$. عند تعويض $x = e$ يصبح الميل: $f'(e) = 3/e$"
+  },
+  {
+    "number": 7,
+    "topic": "الموقع الابتدائي وعودة الجسم لنقطة الأصل",
+    "question": "إذا كان $s(t) = 6t^2 - t^3,\\ t \\geq 0$ موقع جسم بالأمتار، فمتى يعود إلى موقعه الابتدائي؟",
+    "choices": [
+      "$t = 4$",
+      "$t = 2$",
+      "$t = 3$",
+      "$t = 6$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$t = 6$",
+    "explanation": "الموقع الابتدائي $s(0) = 0$. نساوي اقتران الموقع بالصفر: $t^2(6-t) = 0$. الحلول هي $t=0$ (البداية) و $t=6$ (لحظة العودة)"
+  },
+  {
+    "number": 8,
+    "topic": "السرعة المتجهة في مسار مستقيم",
+    "question": "إذا مثّل $s(t) = t^3 - 4t^2 + 5t$ موقع جسم بالأمتار وكان $t \\geq 0$، فسرعته عند $t = 5$ تساوي:",
+    "choices": [
+      "$30$ m/s",
+      "$22$ m/s",
+      "$40$ m/s",
+      "$5$ m/s"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$40$ m/s",
+    "explanation": "اقتران السرعة $v(t) = 3t^2 - 8t + 5$. بالتعويض $t=5$: $v(5) = 3(25) - 40 + 5 = 75 - 40 + 5 = 40$ m/s"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية - التسارع",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 8\\sin t$ بالسنتيمترات. قيمة تسارعه عند $t = \\dfrac{2\\pi}{3}$ تساوي:",
+    "choices": [
+      "$-4\\sqrt{3}$ cm/s²",
+      "$-4$ cm/s²",
+      "$2\\sqrt{3}$ cm/s²",
+      "$\\sqrt{3}$ cm/s²"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-4\\sqrt{3}$ cm/s²",
+    "explanation": "التسارع $a(t) = s''(t) = -8\\sin t$. بالتعويض: $-8 \\cdot \\sin(120^\\circ) = -8 \\cdot (\\sqrt{3}/2) = -4\\sqrt{3}$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة المماس عند نقطة لمنحنى الاقتران الجيبي",
+    "question": "معادلة المماس لمنحنى $f(x) = \\sin x + \\cos x$ عند النقطة $(\\pi, -1)$ هي:",
+    "choices": [
+      "$y = x - \\pi + 1$",
+      "$y = -x + \\pi - 1$",
+      "$y = 2x - \\pi + 1$",
+      "$y = x - \\pi + 2$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$y = -x + \\pi - 1$",
+    "explanation": "الميل $f'(\\pi) = \\cos\\pi - \\sin\\pi = -1$. المعادلة: $y - (-1) = -1(x - \\pi) \\Rightarrow y + 1 = -x + \\pi \\Rightarrow y = -x + \\pi - 1$"
+  }
+]

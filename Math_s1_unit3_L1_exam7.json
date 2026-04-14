@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي والجذر",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\sqrt[3]{x} - 2xe^x}{x}$ بعد تبسيطها هي:",
+    "choices": [
+      "$x^{-2/3} - 2e^x$",
+      "$x^{1/3} - 2e^x$",
+      "$-\\dfrac{2}{3\\sqrt[3]{x^5}} - 2e^x$",
+      "$\\dfrac{1}{3\\sqrt[3]{x^2}} - 2e^x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\dfrac{2}{3\\sqrt[3]{x^5}} - 2e^x$",
+    "explanation": "$$y = \\frac{x^{1/3}}{x} - \\frac{2xe^x}{x} = x^{-2/3} - 2e^x$$\n$$y' = -\\frac{2}{3}x^{-5/3} - 2e^x = -\\frac{2}{3\\sqrt[3]{x^5}} - 2e^x$$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة اللوغاريتم مع قانون القسمة",
+    "question": "مشتقة الاقتران $f(x) = \\ln\\left(\\dfrac{1}{x^3}\\right)$ هي:",
+    "choices": [
+      "$-\\dfrac{3}{x}$",
+      "$\\dfrac{1}{x}$",
+      "$3x$",
+      "$\\dfrac{1}{x^2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\dfrac{3}{x}$",
+    "explanation": "$$\\ln\\left(\\frac{1}{x^3}\\right) = \\ln 1 - \\ln x^3 = -3\\ln x$$\n$$f'(x) = -\\frac{3}{x}$$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران الجيب مع الأسي",
+    "question": "مشتقة الاقتران $f(x) = \\sin x + \\dfrac{1}{2}e^x$ هي:",
+    "choices": [
+      "$\\cos x - \\dfrac{1}{2}e^x$",
+      "$\\cos x + \\dfrac{1}{2}e^x$",
+      "$-\\sin x + \\dfrac{1}{2}e^x$",
+      "$\\cos x + e^x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\cos x + \\dfrac{1}{2}e^x$",
+    "explanation": "$$f'(x) = (\\sin x)' + \\frac{1}{2}(e^x)' = \\cos x + \\frac{1}{2}e^x$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران مركب متعدد الحدود",
+    "question": "مشتقة الاقتران $f(x) = \\ln x^4 - \\pi\\cos x$ هي:",
+    "choices": [
+      "$\\dfrac{4}{x} - \\pi\\sin x$",
+      "$\\dfrac{4x^3}{x^4} + \\pi\\sin x$",
+      "$\\dfrac{4}{x^4} + \\pi\\sin x$",
+      "$\\dfrac{4}{x} + \\pi\\sin x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{4}{x} + \\pi\\sin x$",
+    "explanation": "$$f(x) = 4\\ln x - \\pi\\cos x$$\n$$f'(x) = \\frac{4}{x} - \\pi(-\\sin x) = \\frac{4}{x} + \\pi\\sin x$$"
+  },
+  {
+    "number": 5,
+    "topic": "قيمة مشتقة عند نقطة - اقتران أسي",
+    "question": "قيمة $f'(1)$ للاقتران $f(x) = 2\\ln x + e^x$ تساوي:",
+    "choices": [
+      "$2 + e$",
+      "$1 + e$",
+      "$e$",
+      "$2e$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2 + e$",
+    "explanation": "$$f'(x) = \\frac{2}{x} + e^x$$\n$$f'(1) = \\frac{2}{1} + e^1 = 2 + e$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس - اقتران جيبي وأسي",
+    "question": "معادلة المماس لمنحنى $f(x) = \\sin x + \\dfrac{1}{2}e^x$ عند النقطة $\\left(\\pi,\\ \\dfrac{1}{2}e^{\\pi}\\right)$ هي:",
+    "choices": [
+      "$y = \\left(\\dfrac{e^{\\pi}}{2}+1\\right)x - \\pi + \\dfrac{e^{\\pi}}{2}$",
+      "$y = e^{\\pi}x - \\pi$",
+      "$y = \\left(\\dfrac{e^{\\pi}}{2}-1\\right)(x-\\pi) + \\dfrac{e^{\\pi}}{2}$",
+      "$y = \\dfrac{e^{\\pi}}{2}(x-\\pi)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y = \\left(\\dfrac{e^{\\pi}}{2}-1\\right)(x-\\pi) + \\dfrac{e^{\\pi}}{2}$",
+    "explanation": "ميل المماس:\n$$f'(x) = \\cos x + \\frac{1}{2}e^x$$\n$$f'(\\pi) = \\cos\\pi + \\frac{e^{\\pi}}{2} = -1 + \\frac{e^{\\pi}}{2} = \\frac{e^{\\pi}}{2} - 1$$\n\nمعادلة المماس:\n$$y - \\frac{e^{\\pi}}{2} = \\left(\\frac{e^{\\pi}}{2}-1\\right)(x-\\pi)$$"
+  },
+  {
+    "number": 7,
+    "topic": "السرعة والتسارع في مسار مستقيم",
+    "question": "إذا مثّل $s(t) = t^3 - 4t^2 + 5t$ موقع جسم، فسرعته عند $t = 1$ تساوي:",
+    "choices": [
+      "$3$ m/s",
+      "$5$ m/s",
+      "$1$ m/s",
+      "$0$ m/s"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$0$ m/s",
+    "explanation": "$$v(t) = 3t^2 - 8t + 5$$\n$$v(1) = 3(1) - 8(1) + 5 = 3 - 8 + 5 = 0 \\text{ m/s}$$\n\nالخيار (d) هو الصحيح"
+  },
+  {
+    "number": 8,
+    "topic": "الحركة التوافقية - الموقع والسرعة في لحظة",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 4\\cos t$ بالأمتار. تسارعه عند $t = \\dfrac{\\pi}{4}$ يساوي:",
+    "choices": [
+      "$4\\sqrt{2}$ m/s²",
+      "$-2\\sqrt{2}$ m/s²",
+      "$-\\sqrt{2}$ m/s²",
+      "$2$ m/s²"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-2\\sqrt{2}$ m/s²",
+    "explanation": "$$a(t) = s''(t) = -4\\cos t$$\n$$a\\left(\\frac{\\pi}{4}\\right) = -4\\cos\\frac{\\pi}{4} = -4 \\cdot \\frac{\\sqrt{2}}{2} = -2\\sqrt{2} \\text{ m/s}^2$$"
+  },
+  {
+    "number": 9,
+    "topic": "علاقة التسارع بالموقع في الحركة التوافقية",
+    "question": "جسم موقعه $s(t) = 5\\cos t$. العلاقة بين تسارع الجسم وموقعه هي:",
+    "choices": [
+      "$a(t) = -s(t)$",
+      "$a(t) = \\frac{1}{2}s(t)$",
+      "$a(t) = 2s(t)$",
+      "$a(t) = -\\dfrac{1}{2}s(t)$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$a(t) = -s(t)$",
+    "explanation": "$$v(t) = -5\\sin t$$\n$$a(t) = -5\\cos t = -s(t)$$\n\nهذه خاصية جوهرية للحركة التوافقية البسيطة: التسارع معكوس الموقع"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة العمودي على المماس - تطبيق متقدم",
+    "question": "معادلة العمودي على المماس لمنحنى $f(x) = \\ln(x^4)$ عند النقطة $(1, 0)$ هي:",
+    "choices": [
+      "$y = 4x - 4$",
+      "$y = \\dfrac{1}{4}x$",
+      "$y = -\\dfrac{1}{4}x + \\dfrac{1}{4}$",
+      "$y = -\\dfrac{1}{4}(x-1)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y = -\\dfrac{1}{4}x + \\dfrac{1}{4}$",
+    "explanation": "ميل المماس: $f'(1) = 4$\n\nميل العمودي: $-\\dfrac{1}{4}$\n\n$$y - 0 = -\\frac{1}{4}(x-1)$$\n$$y = -\\frac{1}{4}x + \\frac{1}{4}$$"
+  }
+]

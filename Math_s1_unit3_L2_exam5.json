@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الضرب - لوغاريتمي وجيب التمام",
+    "question": "مشتقة الاقتران $f(x) = \\ln x\\cos x$ هي:",
+    "choices": [
+      "$\\dfrac{\\cos x}{x}-\\ln x\\sin x$",
+      "$\\dfrac{1}{x}\\cos x$",
+      "$\\dfrac{\\cos x}{x}+\\ln x\\sin x$",
+      "$\\ln x(-\\sin x)$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\cos x}{x} - \\ln x\\sin x$",
+    "explanation": "$f'(x) = \\ln x(-\\sin x)+\\cos x\\cdot\\dfrac{1}{x} = \\dfrac{\\cos x}{x}-\\ln x\\sin x$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة القسمة - لوغاريتمي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\ln x}{x+1}$ هي:",
+    "choices": [
+      "$\\dfrac{\\ln x}{(x+1)^2}$",
+      "$\\dfrac{x+1}{x(x+1)^2}$",
+      "$\\dfrac{x+1-x\\ln x}{x(x+1)^2}$",
+      "$\\dfrac{\\ln x+1}{(x+1)^2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{x+1-x\\ln x}{x(x+1)^2}$",
+    "explanation": "$f'(x)=\\dfrac{(x+1)\\cdot\\frac{1}{x}-\\ln x}{(x+1)^2}=\\dfrac{\\frac{x+1}{x}-\\ln x}{(x+1)^2}=\\dfrac{x+1-x\\ln x}{x(x+1)^2}$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة ضرب - قاطع وظل",
+    "question": "مشتقة الاقتران $f(x) = \\sec x\\tan x$ هي:",
+    "choices": [
+      "$\\sec^2 x\\tan x$",
+      "$\\sec x\\tan^2 x+\\sec^3 x$",
+      "$2\\sec x\\tan x$",
+      "$\\sec x\\tan x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sec x\\tan^2 x + \\sec^3 x$",
+    "explanation": "$f'(x) = \\sec x\\cdot\\sec^2 x+\\tan x\\cdot\\sec x\\tan x = \\sec^3 x+\\sec x\\tan^2 x$"
+  },
+  {
+    "number": 4,
+    "topic": "قيم معطاة - مجموع مشتقات",
+    "question": "إذا كان $f(0)=5,\\ f'(0)=-3,\\ g(0)=-1,\\ g'(0)=2$، فقيمة $(fg)'(0)+\\left(\\dfrac{f}{g}\\right)'(0)$ تساوي:",
+    "choices": [
+      "$13$",
+      "$20$",
+      "$-7$",
+      "$6$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$6$",
+    "explanation": "$(fg)'(0)=5(2)+(-1)(-3)=13$\n$\\left(\\dfrac{f}{g}\\right)'(0)=\\dfrac{(-1)(-3)-5(2)}{1}=-7$\n\nالمجموع: $13+(-7)=6$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة المقلوب - أسي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{1}{e^x+\\sqrt{x}}$ هي:",
+    "choices": [
+      "$\\dfrac{e^x+\\frac{1}{2\\sqrt{x}}}{(e^x+\\sqrt{x})^2}$",
+      "$\\dfrac{1}{e^x}$",
+      "$\\dfrac{-(e^x+\\frac{1}{2\\sqrt{x}})}{(e^x+\\sqrt{x})^2}$",
+      "$\\dfrac{-1}{e^x+\\sqrt{x}}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-(e^x+\\frac{1}{2\\sqrt{x}})}{(e^x+\\sqrt{x})^2}$",
+    "explanation": "$f'(x)=\\dfrac{-(e^x+\\sqrt{x})'}{(e^x+\\sqrt{x})^2}=\\dfrac{-(e^x+\\frac{1}{2\\sqrt{x}})}{(e^x+\\sqrt{x})^2}$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة ضرب عند نقطة",
+    "question": "مشتقة الاقتران $f(x) = e^x\\cos x+\\sin x$ عند $x=0$ تساوي:",
+    "choices": [
+      "$2$",
+      "$1$",
+      "$0$",
+      "$3$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2$",
+    "explanation": "$f'(x)=e^x(\\cos x-\\sin x)+\\cos x$\n$f'(0)=1(1-0)+1=1+1=2$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة القسمة - مثلثي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\cos x}{1+\\sin x}$ هي:",
+    "choices": [
+      "$\\dfrac{\\sin x}{(1+\\sin x)^2}$",
+      "$\\dfrac{1}{\\sin x}$",
+      "$\\dfrac{-(1+\\sin x)}{\\cos x}$",
+      "$\\dfrac{-1}{1+\\sin x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-1}{1+\\sin x}$",
+    "explanation": "$f'(x)=\\dfrac{(1+\\sin x)(-\\sin x)-\\cos x(\\cos x)}{(1+\\sin x)^2}=\\dfrac{-\\sin x-1}{(1+\\sin x)^2}=\\dfrac{-1}{1+\\sin x}$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثالثة لكثير الحدود",
+    "question": "المشتقة الثالثة للاقتران $f(x) = x^3$ هي:",
+    "choices": [
+      "$6x$",
+      "$6$",
+      "$3x^2$",
+      "$0$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$6$",
+    "explanation": "$f'=3x^2,\\ f''=6x,\\ f'''=6$ (ثابت)"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية - جيب",
+    "question": "المشتقة الثانية للاقتران $f(x) = x\\sin x$ هي:",
+    "choices": [
+      "$\\sin x+x\\cos x$",
+      "$x\\cos x$",
+      "$2\\cos x-x\\sin x$",
+      "$-x\\sin x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$2\\cos x - x\\sin x$",
+    "explanation": "$f'=\\sin x+x\\cos x$\n$f''=\\cos x+\\cos x-x\\sin x=2\\cos x-x\\sin x$"
+  },
+  {
+    "number": 10,
+    "topic": "ميل المماس باستعمال مشتقة الضرب",
+    "question": "ميل المماس لمنحنى $f(x) = e^x\\cos x$ عند $x=0$ يساوي:",
+    "choices": [
+      "$0$",
+      "$-3$",
+      "$2$",
+      "$1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$1$",
+    "explanation": "$f'(x)=e^x(\\cos x-\\sin x)$\n$f'(0)=e^0(1-0)=1$"
+  }
+]

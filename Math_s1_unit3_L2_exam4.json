@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الضرب - مثلثي ومتعدد الحدود",
+    "question": "مشتقة الاقتران $f(x) = (x^2+1)\\cos x$ هي:",
+    "choices": [
+      "$2x\\cos x$",
+      "$(x^2+1)\\sin x$",
+      "$2x\\cos x+\\sin x$",
+      "$2x\\cos x-(x^2+1)\\sin x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2x\\cos x - (x^2+1)\\sin x$",
+    "explanation": "$f'(x)=(x^2+1)(-\\sin x)+2x\\cos x = 2x\\cos x-(x^2+1)\\sin x$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة القسمة - كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{x^3}{2x-1}$ هي:",
+    "choices": [
+      "$\\dfrac{3x^2}{2}$",
+      "$\\dfrac{x^2(4x-3)}{(2x-1)^2}$",
+      "$\\dfrac{3x^2(2x-1)}{(2x-1)^2}$",
+      "$\\dfrac{4x^3-x^2}{(2x-1)^2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{x^2(4x-3)}{(2x-1)^2}$",
+    "explanation": "$f'(x)=\\dfrac{(2x-1)(3x^2)-x^3(2)}{(2x-1)^2}=\\dfrac{6x^3-3x^2-2x^3}{(2x-1)^2}=\\dfrac{x^2(4x-3)}{(2x-1)^2}$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة الاقتران المثلثي - الظل التمام",
+    "question": "مشتقة الاقتران $f(x) = \\cot x$ هي:",
+    "choices": [
+      "$-\\csc^2 x$",
+      "$\\sec^2 x$",
+      "$\\cot x$",
+      "$\\tan^2 x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\csc^2 x$",
+    "explanation": "$\\dfrac{d}{dx}\\left(\\dfrac{\\cos x}{\\sin x}\\right) = \\dfrac{-\\sin^2 x-\\cos^2 x}{\\sin^2 x} = \\dfrac{-1}{\\sin^2 x} = -\\csc^2 x$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة الضرب - أسي وظل",
+    "question": "مشتقة الاقتران $f(x) = e^x\\tan x$ هي:",
+    "choices": [
+      "$e^x\\sec^2 x$",
+      "$e^x\\tan x$",
+      "$e^x(\\tan x+\\sec^2 x)$",
+      "$e^x(\\sec^2 x-\\tan x)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$e^x(\\tan x + \\sec^2 x)$",
+    "explanation": "$f'(x) = e^x(\\tan x)'+\\tan x(e^x)' = e^x\\sec^2 x+e^x\\tan x = e^x(\\tan x+\\sec^2 x)$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة القسمة - أسي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\sin x+\\cos x}{e^x}$ هي:",
+    "choices": [
+      "$\\dfrac{-2\\sin x}{e^x}$",
+      "$\\dfrac{-(\\sin x+\\cos x)}{e^x}$",
+      "$\\dfrac{\\cos x-\\sin x}{e^x}$",
+      "$\\dfrac{2\\cos x}{e^x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-2\\sin x}{e^x}$",
+    "explanation": "$f'(x)=\\dfrac{e^x(\\cos x-\\sin x)-(\\sin x+\\cos x)e^x}{e^{2x}}=\\dfrac{-2\\sin x}{e^x}$\nإذن الخيار (a) هو الصحيح"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة المقلوب - أسي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{1}{e^x}$ هي:",
+    "choices": [
+      "$e^x$",
+      "$\\dfrac{-1}{e^x}$",
+      "$\\dfrac{-1}{e^{2x}}$",
+      "$xe^x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-1}{e^x}$",
+    "explanation": "$f'(x) = \\dfrac{-(e^x)'}{(e^x)^2} = \\dfrac{-e^x}{e^{2x}} = \\dfrac{-1}{e^x}$\nإذن الخيار (b) هو الصحيح"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة الضرب - كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = x\\cot x$ هي:",
+    "choices": [
+      "$x\\csc^2 x$",
+      "$\\cot x$",
+      "$\\cot x-x\\csc^2 x$",
+      "$1-x\\csc^2 x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\cot x - x\\csc^2 x$",
+    "explanation": "$f'(x) = x(-\\csc^2 x)+\\cot x(1) = \\cot x-x\\csc^2 x$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية - تطبيق",
+    "question": "المشتقة الثانية للاقتران $f(x) = xe^x$ عند $x=0$ تساوي:",
+    "choices": [
+      "$1$",
+      "$0$",
+      "$3$",
+      "$2$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2$",
+    "explanation": "$f''(x)=(x+2)e^x$\n$f''(0)=2e^0=2$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية لاقتران أسي",
+    "question": "المشتقة الثانية للاقتران $f(x) = xe^x$ هي:",
+    "choices": [
+      "$(x+1)e^x$",
+      "$(x+2)e^x$",
+      "$xe^x$",
+      "$(x+3)e^x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$(x+2)e^x$",
+    "explanation": "$f'(x)=(x+1)e^x$\n$f''(x)=(x+1)e^x+e^x=(x+2)e^x$"
+  },
+  {
+    "number": 10,
+    "topic": "مشتقة الاقتران المثلثي - دورية جيب التمام",
+    "question": "المشتقة $f^{(4)}(x)$ للاقتران $f(x)=\\cos x$ هي:",
+    "choices": [
+      "$\\sin x\\cos x$",
+      "$2\\cos x$",
+      "$\\tan x$",
+      "$\\cos x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\cos x$",
+    "explanation": "$f^{(1)}=-\\sin x,\\ f^{(2)}=-\\cos x,\\ f^{(3)}=\\sin x,\\ f^{(4)}=\\cos x$\n\nدورة مشتقات الجيب التمام طولها 4"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المعادلة المثلثية الأساسية - جيب",
+    "question": "حلول المعادلة $\\sin x = \\dfrac{\\sqrt{3}}{2}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{3\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+    "explanation": "الجيب موجب في الربعين الأول والثاني. الزاوية المرجعية هي $\\pi/3$. الحلول هي $x = \\pi/3$ و $x = \\pi - \\pi/3 = 2\\pi/3$."
+  },
+  {
+    "number": 2,
+    "topic": "المعادلة المثلثية الأساسية - جيب التمام",
+    "question": "حلول المعادلة $\\cos x = -\\dfrac{1}{2}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{7\\pi}{6}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+    "explanation": "جيب التمام سالب في الربعين الثاني والثالث. الزاوية المرجعية هي $\\pi/3$. الحلول هي $x = \\pi - \\pi/3 = 2\\pi/3$ و $x = \\pi + \\pi/3 = 4\\pi/3$."
+  },
+  {
+    "number": 3,
+    "topic": "الحلول العامة - الظل",
+    "question": "الحلول العامة للمعادلة $\\tan x = 1$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4} + k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + 2k\\pi$ أو $x = \\dfrac{5\\pi}{4} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + k\\dfrac{\\pi}{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{4} + k\\pi$",
+    "explanation": "دورة الظل هي $\\pi$. الزاوية المرجعية هي $\\pi/4$. الحل العام هو $x = \\pi/4 + k\\pi$ حيث $k$ عدد صحيح."
+  },
+  {
+    "number": 4,
+    "topic": "عزل الاقتران المثلثي أولاً",
+    "question": "حلول المعادلة $3\\sqrt{2}\\cos x + 2 = -1$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+    "explanation": "بعزل الكوساين نحصل على $\\cos x = -3/(3\\sqrt{2}) = -1/\\sqrt{2}$. جيب التمام سالب في الربعين الثاني والثالث، والزاوية المرجعية $\\pi/4$."
+  },
+  {
+    "number": 5,
+    "topic": "حل معادلة تربيعية بالتحليل - زوايا مشهورة",
+    "question": "حلول المعادلة $2\\sin^2 x - 5\\sin x + 2 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{7\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{6}$ فقط"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+    "explanation": "بالتحليل: $(2\\sin x - 1)(\\sin x - 2) = 0$. إما $\\sin x = 1/2$ (تعطي $\\pi/6, 5\\pi/6$) أو $\\sin x = 2$ (مرفوض)."
+  },
+  {
+    "number": 6,
+    "topic": "إخراج العامل المشترك في معادلة",
+    "question": "حلول المعادلة $\\tan^2 x\\cos x = \\tan^2 x$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = 0$ أو $x = \\pi$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = 0$ أو $x = \\pi$",
+    "explanation": "بإخراج عامل مشترك: $\\tan^2 x(\\cos x - 1) = 0$. إما $\\tan x = 0$ (تعطي $0, \\pi$) أو $\\cos x = 1$ (تعطي $0$). الحلول النهائية هي $0, \\pi$."
+  },
+  {
+    "number": 7,
+    "topic": "معادلة باستعمال متطابقات",
+    "question": "حلول المعادلة $\\sec^2 x - 2\\sec x - 3 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\pi$ فقط",
+      "$x \\approx 1.23,\\ 5.05,\\ \\pi$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x \\approx 1.23,\\ 5.05,\\ \\pi$",
+    "explanation": "بالتحليل: $(\\sec x - 3)(\\sec x + 1) = 0$. $\\sec x = 3$ تعطي حلين تقريبيين بالآلة الحاسبة، و$\\sec x = -1$ تعطي $\\pi$."
+  },
+  {
+    "number": 8,
+    "topic": "خطوات الحل الجبري",
+    "question": "أيٌّ من الخيارات التالية يمثل الخطوة الأولى الصحيحة لحل $\\cos x\\sin x = 3\\cos x$؟",
+    "choices": [
+      "قسمة كلا الطرفين على $\\cos x$ مباشرة",
+      "قسمة كلا الطرفين على $\\sin x$",
+      "ضرب كلا الطرفين في 2 لتطبيق ضعف الزاوية",
+      "إعادة كتابة المعادلة $\\cos x(\\sin x - 3) = 0$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "إعادة كتابة المعادلة $\\cos x(\\sin x - 3) = 0$",
+    "explanation": "يجب عدم القسمة على المتغير تجنباً لفقدان الحلول. الطريقة الصحيحة هي التصفير وإخراج العامل المشترك."
+  },
+  {
+    "number": 9,
+    "topic": "معادلة تحوي اقتران ضعف الزاوية",
+    "question": "حلول المعادلة $\\cos 2x = -\\dfrac{1}{2}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{\\pi}{3},\\ \\dfrac{2\\pi}{3},\\ \\dfrac{4\\pi}{3},\\ \\dfrac{5\\pi}{3}$",
+    "explanation": "نبحث عن حلول $2x$ في $[0, 4\\pi)$. القيم هي $2\\pi/3, 4\\pi/3, 8\\pi/3, 10\\pi/3$. وبالقسمة على 2 نحصل على الحلول الأربعة."
+  },
+  {
+    "number": 10,
+    "topic": "معادلة تحوي اقتران نصف الزاوية",
+    "question": "حلول المعادلة $2\\cos\\dfrac{x}{2} - 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{2\\pi}{3}$ فقط"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{2\\pi}{3}$ فقط",
+    "explanation": "$\\cos(x/2) = 1/2$. الزاوية التي جيب تمامها $1/2$ هي $\\pi/3$ أو $5\\pi/3$. بالضرب في 2 نحصل على $x = 2\\pi/3$ (مقبول) و $x = 10\\pi/3$ (مرفوض لأنه خارج الفترة)."
+  }
+]

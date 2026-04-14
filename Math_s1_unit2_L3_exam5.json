@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المعادلة المثلثية الأساسية - جيب",
+    "question": "حلول المعادلة $\\sin x = 1$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{2}$",
+      "$x = 0$ أو $x = \\pi$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = 0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2}$",
+    "explanation": "القيمة العظمى للجيب هي 1، وتتحقق مرة واحدة فقط في كل دورة عند:\n$$x = \\frac{\\pi}{2}$$\nالجيب لا يساوي 1 عند الزوايا المحورية الأخرى مثل $0, \\pi, \\dfrac{3\\pi}{2}$."
+  },
+  {
+    "number": 2,
+    "topic": "المعادلة المثلثية الأساسية - جيب التمام",
+    "question": "الحلول العامة للمعادلة $\\cos x = -1$ هي:",
+    "choices": [
+      "$x = 2k\\pi$",
+      "$x = \\dfrac{\\pi}{2} + k\\pi$",
+      "$x = (2k+1)\\pi$",
+      "$x = k\\pi$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = (2k+1)\\pi$",
+    "explanation": "جيب التمام يساوي $-1$ عند الزاوية $\\pi$ ومضاعفاتها الفردية.\nالحل العام هو: $x = \\pi + 2k\\pi$، وبإخراج $\\pi$ عاملاً مشتركاً تصبح الصيغة: \n$$x = (2k+1)\\pi \\quad \\text{حيث } k \\text{ عدد صحيح}$$"
+  },
+  {
+    "number": 3,
+    "topic": "حل معادلة باستعمال الآلة الحاسبة",
+    "question": "الحلول العامة للمعادلة $\\tan x = -2$ هي:",
+    "choices": [
+      "$x \\approx 1.11 + 2k\\pi$",
+      "$x \\approx -1.11 + k\\pi$",
+      "$x \\approx 2.03 + k\\pi$",
+      "$x \\approx 1.11 + k\\pi$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x \\approx -1.11 + k\\pi$",
+    "explanation": "$$x = \\tan^{-1}(-2) \\approx -1.11 \\text{ راديان}$$\nبما أن دورة الظل هي $\\pi$، فإن الحل العام هو: $x \\approx -1.11 + k\\pi$.\n**لإيجاد الحلول في الفترة $[0, 2\\pi)$:**\n- عندما $k=1$: $x \\approx -1.11 + 3.14 = 2.03$\n- عندما $k=2$: $x \\approx -1.11 + 6.28 = 5.17$\nالحلول ضمن الدورة الأولى هي: $\{2.03, 5.17\}$."
+  },
+  {
+    "number": 4,
+    "topic": "عزل الاقتران المثلثي - معادلة بمتغيرين",
+    "question": "حلول المعادلة $5\\sin x = 3\\sin x + \\sqrt{3}$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{3\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{2\\pi}{3}$",
+    "explanation": "بتجميع الحدود المتشابهة: $2\\sin x = \\sqrt{3} \\Rightarrow \\sin x = \\frac{\\sqrt{3}}{2}$.\nالجيب موجب في الربعين الأول والثاني، والزاوية المرجعية هي $\\pi/3$."
+  },
+  {
+    "number": 5,
+    "topic": "حل معادلة تربيعية بالتحليل",
+    "question": "حلول المعادلة $2\\cos^2 x - 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{4},\\ \\dfrac{3\\pi}{4},\\ \\dfrac{5\\pi}{4},\\ \\dfrac{7\\pi}{4}$",
+    "explanation": "$\\cos^2 x = 1/2 \\Rightarrow \\cos x = \\pm \\frac{1}{\\sqrt{2}}$.\nبما أن القيمة موجبة وسالبة، نأخذ الزاوية المرجعية $\\pi/4$ في جميع الأرباع الأربعة."
+  },
+  {
+    "number": 6,
+    "topic": "إخراج العامل المشترك مع متطابقات",
+    "question": "حلول المعادلة $\\sin x + 2\\sin x\\cos x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = 0, \\pi, \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$",
+      "$x = 0, \\pi, \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}$",
+      "$x = 0, \\pi, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = 0,\\ \\pi,\\ \\dfrac{2\\pi}{3},\\ \\dfrac{4\\pi}{3}$",
+    "explanation": "بإخراج عامل مشترك: $\\sin x(1 + 2\\cos x) = 0$.\n- $\\sin x = 0 \\Rightarrow x = 0, \\pi$\n- $\\cos x = -1/2 \\Rightarrow x = 2\\pi/3, 4\\pi/3$."
+  },
+  {
+    "number": 7,
+    "topic": "معادلة باستعمال المتطابقات والتحليل",
+    "question": "حلول المعادلة $\\csc^2 x = \\cot x + 3$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x \\approx 0.46, 2.68, \\dfrac{3\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{3\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x \\approx 0.46, \\pi+0.46, \\dfrac{3\\pi}{4}, \\dfrac{7\\pi}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x \\approx 0.46,\\ \\pi+0.46,\\ \\dfrac{3\\pi}{4},\\ \\dfrac{7\\pi}{4}$",
+    "explanation": "باستعمال المتطابقة $\\csc^2 x = 1 + \\cot^2 x$ نحصل على: $\\cot^2 x - \\cot x - 2 = 0$.\nبالتحليل: $(\\cot x - 2)(\\cot x + 1) = 0$.\nالحلول ناتجة من $\\tan x = 1/2$ و $\\tan x = -1$."
+  },
+  {
+    "number": 8,
+    "topic": "معادلة تحوي ضعف الزاوية",
+    "question": "حلول المعادلة $2\\sin x\\cos x = \\sin x$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = 0, \\pi$ فقط",
+      "$x = 0, \\pi, \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = 0,\\ \\pi,\\ \\dfrac{\\pi}{3},\\ \\dfrac{5\\pi}{3}$",
+    "explanation": "بالتصفير والتحليل: $\\sin x(2\\cos x - 1) = 0$.\n- $\\sin x = 0 \\Rightarrow x = 0, \\pi$\n- $\\cos x = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$."
+  },
+  {
+    "number": 9,
+    "topic": "معادلة تحوي ضعف الزاوية - تكرار الدورة",
+    "question": "حلول المعادلة $2\\cos 2x - 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}$ أو $x = \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+    "explanation": "$\\cos 2x = 1/2$. بما أن الزاوية هي $2x$، نبحث عن الحلول في دورة مضاعفة $[0, 4\\pi)$:\n$2x = \\pi/3, 5\\pi/3, 7\\pi/3, 11\\pi/3$.\nبقسمة جميع النواتج على 2 نحصل على الحلول الأربعة."
+  },
+  {
+    "number": 10,
+    "topic": "معادلة تتطلب التربيع والتحقق",
+    "question": "عند حل المعادلة $\\cos x - \\sin x = 1$ في $[0, 2\\pi)$ بطريقة التربيع، أيٌّ من الحلول التالية قد يكون دخيلاً ويجب التحقق منه؟",
+    "choices": [
+      "$x = 0$ فقط",
+      "$x = \\dfrac{3\\pi}{2}$ فقط",
+      "$x = \\pi$ فقط",
+      "$x = \\dfrac{\\pi}{2}$ فقط"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2}$ فقط",
+    "explanation": "بتربيع الطرفين والحل تظهر القيم $\{0, \\pi/2, \\pi, 3\\pi/2\}$.\nبالتعويض في المعادلة الأصلية: $\\cos(\\pi/2) - \\sin(\\pi/2) = 0 - 1 = -1 \\neq 1$.\nلذا $x = \\pi/2$ هو حل دخيل يجب استبعاده."
+  }
+]

@@ -11,7 +11,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$\\dfrac{120}{169}$",
-    "explanation": "بتطبيق متطابقة ضعف الزاوية للجيب:\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta$$\n$$\\sin 2\\theta = 2\\left(\\frac{5}{13}\\right)\\left(\frac{12}{13}\\right) = \\frac{120}{169}$$"
+    "explanation": "بتطبيق متطابقة ضعف الزاوية للجيب:\n$$\\sin 2\\theta = 2\\sin\\theta\\cos\\theta$$\n$$\\sin 2\\theta = 2\\left(\\frac{5}{13}\\right)\\left(\\frac{12}{13}\\right) = \\frac{120}{169}$$"
   },
   {
     "number": 2,
@@ -65,9 +65,9 @@
       "$\\dfrac{\\sqrt{5}}{5}$",
       "$-\\dfrac{2\\sqrt{5}}{5}$"
     ],
-    "correct_answer": "c",
-    "final_answer_text": "$\\dfrac{\\sqrt{5}}{5}$",
-    "explanation": "بما أن $\\pi < x < \\dfrac{3\\pi}{2}$، فإن $\\dfrac{\\pi}{2} < \\dfrac{x}{2} < \\dfrac{3\\pi}{4}$ (الربع الثاني)، لذا $\\sin\\dfrac{x}{2} > 0$:\n$$\\sin\\frac{x}{2} = \\sqrt{\\frac{1-\\cos x}{2}} = \\sqrt{\\frac{1-(-\\frac{3}{5})}{2}} = \\sqrt{\\frac{8/5}{2}} = \\sqrt{\\frac{4}{5}} = \\frac{2}{\\sqrt{5}} = \\frac{2\\sqrt{5}}{5}$$\n(ملاحظة: الخيار الصحيح هو القيمة الموجبة)"
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{2\\sqrt{5}}{5}$",
+    "explanation": "بما أن $\\pi < x < \\dfrac{3\\pi}{2}$، فإن $\\dfrac{\\pi}{2} < \\dfrac{x}{2} < \\dfrac{3\\pi}{4}$ (الربع الثاني)، لذا $\\sin\\dfrac{x}{2} > 0$:\n$$\\sin\\frac{x}{2} = \\sqrt{\\frac{1-\\cos x}{2}} = \\sqrt{\\frac{1-(-\\frac{3}{5})}{2}} = \\sqrt{\\frac{8/5}{2}} = \\sqrt{\\frac{4}{5}} = \\frac{2}{\\sqrt{5}} = \\frac{2\\sqrt{5}}{5}$$"
   },
   {
     "number": 6,
@@ -103,8 +103,8 @@
     "question": "المقدار $\\cos 9x - \\cos 2x$ بصورة ضرب يساوي:",
     "choices": [
       "$-2\\sin\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$",
-      "$2\\cos\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
-      "$2\\sin\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "2\\cos\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "2\\sin\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
       "$-2\\cos\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$"
     ],
     "correct_answer": "a",
@@ -118,8 +118,8 @@
     "choices": [
       "$\\dfrac{7}{24}$",
       "$\\dfrac{24}{7}$",
-      "$-$$\\dfrac{24}{7}$",
-      "$-\\dfrac{7}{24}$"
+      "$-\\dfrac{24}{7}$",
+      "$-$$\\dfrac{7}{24}$"
     ],
     "correct_answer": "c",
     "final_answer_text": "$-\\dfrac{24}{7}$",

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي الطبيعي مع ثابت مضاعف",
+    "question": "مشتقة الاقتران $f(x) = 5e^x + 3$ هي:",
+    "choices": [
+      "$5e^x + 3$",
+      "$5xe^{x-1}$",
+      "$5e^x + 1$",
+      "$5e^x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$5e^x$",
+    "explanation": "$$f'(x) = 5(e^x)' + 0 = 5e^x$$\n(مشتقة الثابت $3$ تساوي صفراً)"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة اللوغاريتم مع قانون الضرب",
+    "question": "مشتقة الاقتران $f(x) = \\ln(e^x \\cdot x^2)$ هي:",
+    "choices": [
+      "$\\dfrac{2}{x} + e^x$",
+      "$1 + \\dfrac{2}{x}$",
+      "$\\dfrac{2}{x^2} + 1$",
+      "$2\\ln x + x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$1 + \\dfrac{2}{x}$",
+    "explanation": "بقانون الضرب: $\\ln(e^x \\cdot x^2) = \\ln e^x + \\ln x^2 = x + 2\\ln x$\n$$f'(x) = 1 + \\frac{2}{x}$$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران جيب التمام مع مضاعف",
+    "question": "مشتقة الاقتران $y = 4\\cos x - e^x$ هي:",
+    "choices": [
+      "$-4\\sin x - e^x$",
+      "$4\\sin x + e^x$",
+      "$-4\\cos x - e^x$",
+      "$4e^x - 4\\sin x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-4\\sin x - e^x$",
+    "explanation": "$$\\frac{dy}{dx} = 4(\\cos x)' - (e^x)' = 4(-\\sin x) - e^x = -4\\sin x - e^x$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران مركب مع اللوغاريتم والجيب",
+    "question": "مشتقة الاقتران $f(x) = \\ln x^4 - \\pi\\cos x$ هي:",
+    "choices": [
+      "$\\dfrac{4}{x^4} - \\pi\\sin x$",
+      "$4\\ln x + \\pi\\sin x$",
+      "$\\dfrac{4}{x} + \\pi\\sin x$",
+      "$\\dfrac{1}{4x} + \\pi\\sin x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{4}{x} + \\pi\\sin x$",
+    "explanation": "$$f(x) = 4\\ln x - \\pi\\cos x$$\n$$f'(x) = \\frac{4}{x} - \\pi(-\\sin x) = \\frac{4}{x} + \\pi\\sin x$$\nإذن الخيار (c) هو الصحيح"
+  },
+  {
+    "number": 5,
+    "topic": "قيمة مشتقة عند نقطة معينة",
+    "question": "قيمة $f'(0)$ للاقتران $f(x) = e^x + \\sin x$ هي:",
+    "choices": [
+      "$0$",
+      "$2$",
+      "$-4\\cos x - e^x$",
+      "$1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2$",
+    "explanation": "$$f'(x) = e^x + \\cos x$$\n$$f'(0) = e^0 + \\cos 0 = 1 + 1 = 2$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة العمودي على المماس - اقتران جيبي",
+    "question": "معادلة العمودي على المماس لمنحنى $f(x) = \\sin x + \\cos x$ عند النقطة $(\\pi, -1)$ هي:",
+    "choices": [
+      "$y = -x + \\pi - 1$",
+      "$y = \\pi - x - 1$",
+      "$y = x - \\pi$",
+      "$y = x - \\pi - 1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$y = x - \\pi - 1$",
+    "explanation": "ميل المماس عند $x=\\pi$: $f'(\\pi) = \\cos\\pi - \\sin\\pi = -1$\n\nميل العمودي: $1$\n\nمعادلة العمودي:\n$$y - (-1) = 1(x - \\pi)$$\n$$y = x - \\pi - 1$$"
+  },
+  {
+    "number": 7,
+    "topic": "السرعة المتجهة في مسار مستقيم",
+    "question": "إذا مثّل $s(t) = t^3 - 4t^2 + 5t$ موقع جسم، فتسارعه عند $t = 5$ يساوي:",
+    "choices": [
+      "$30$ m/s²",
+      "$18$ m/s²",
+      "$22$ m/s²",
+      "$14$ m/s²"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$22$ m/s²",
+    "explanation": "$$v(t) = 3t^2 - 8t + 5$$\n$$a(t) = v'(t) = 6t - 8$$\n$$a(5) = 6(5) - 8 = 30 - 8 = 22 \\text{ m/s}^2$$"
+  },
+  {
+    "number": 8,
+    "topic": "السكون اللحظي في مسار مستقيم",
+    "question": "الجسم ذو الاقتران $s(t) = t^3 - 4t^2 + 5t,\\ t \\geq 0$ يكون في سكون لحظي عند:",
+    "choices": [
+      "$t = 1$ و $t = \\dfrac{5}{3}$",
+      "$t = 0$ و $t = 5$",
+      "$t = 2$ و $t = 4$",
+      "$t = 1$ و $t = 3$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$t = 1$ و $t = \\dfrac{5}{3}$",
+    "explanation": "$$v(t) = 3t^2 - 8t + 5 = 0$$\n$$(3t-5)(t-1) = 0$$\n$$t = 1 \\quad \\text{أو} \\quad t = \\frac{5}{3}$$"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية - وصف الحركة",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 7\\sin t$ بالأمتار. اقتران تسارعه هو:",
+    "choices": [
+      "$a(t) = 7\\cos t$",
+      "$a(t) = -7\\sin t$",
+      "$a(t) = -5\\sin t$",
+      "$a(t) = 5\\cos t$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$a(t) = -7\\sin t$",
+    "explanation": "$$v(t) = s'(t) = 7\\cos t$$\n$$a(t) = v'(t) = -7\\sin t$$\n\nلاحظ أن $a(t) = -s(t)$ وهذه خاصية الحركة التوافقية البسيطة"
+  },
+  {
+    "number": 10,
+    "topic": "مشتقة اقتران مركب مع اللوغاريتم",
+    "question": "إذا كان $f(x) = \\ln(kx)$ حيث $k$ عدد حقيقي موجب، فإن $f'(x)$ تساوي:",
+    "choices": [
+      "$\\dfrac{k}{x}$",
+      "$\\dfrac{1}{kx}$",
+      "$k$",
+      "$\\dfrac{1}{x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{x}$",
+    "explanation": "بقانون الضرب: $\\ln(kx) = \\ln k + \\ln x$\n$$f'(x) = 0 + \\frac{1}{x} = \\frac{1}{x}$$\n\n($\\ln k$ ثابت مشتقته صفر)"
+  }
+]

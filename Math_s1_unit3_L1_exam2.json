@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي الطبيعي مع ثابت",
+    "question": "مشتقة الاقتران $f(x) = e^x + e$ هي:",
+    "choices": [
+      "$e^x + e$",
+      "$e^x$",
+      "$e^{x+1}$",
+      "$xe^{x-1}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$e^x$",
+    "explanation": "$e$ هو ثابت، وليس $e^x$\n$$f'(x) = (e^x)' + 0 = e^x$$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة الاقتران اللوغاريتمي مع قانون القسمة",
+    "question": "مشتقة الاقتران $f(x) = \\ln\\left(\\dfrac{x}{e}\\right)$ هي:",
+    "choices": [
+      "$\\dfrac{1}{x} - 1$",
+      "$\\dfrac{1}{x} + 1$",
+      "$\\dfrac{1}{x}$",
+      "$\\dfrac{e}{x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{x}$",
+    "explanation": "بتطبيق قانون القسمة في اللوغاريتمات:\n$$\\ln\\left(\\frac{x}{e}\\right) = \\ln x - \\ln e = \\ln x - 1$$\n$$f'(x) = \\frac{1}{x} - 0 = \\frac{1}{x}$$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران الجيب",
+    "question": "مشتقة الاقتران $f(x) = 3\\sin x + 4$ هي:",
+    "choices": [
+      "$3\\cos x$",
+      "$3\\sin x$",
+      "$\\cos(3x)$",
+      "$3x\\cos x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$3\\cos x$",
+    "explanation": "$$f'(x) = 3(\\sin x)' + 0 = 3\\cos x$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران يجمع الجيب والأسي",
+    "question": "مشتقة الاقتران $f(x) = 2\\sin x - e^x$ هي:",
+    "choices": [
+      "$2\\cos x + e^x$",
+      "$2\\sin x - e^x$",
+      "$2\\cos x + e^{2x}$",
+      "$2\\cos x - e^x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2\\cos x - e^x$",
+    "explanation": "$$f'(x) = 2(\\sin x)' - (e^x)' = 2\\cos x - e^x$$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة اقتران يجمع e^x وجيب التمام",
+    "question": "مشتقة الاقتران $f(x) = 5e^x + 3\\cos x$ هي:",
+    "choices": [
+      "$5e^x + 3\\sin x$",
+      "$5e^x - 3\\sin x$",
+      "$5xe^{x-1} - 3\\sin x$",
+      "$5e^x - 3\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$5e^x - 3\\sin x$",
+    "explanation": "$$f'(x) = 5(e^x)' + 3(\\cos x)' = 5e^x + 3(-\\sin x) = 5e^x - 3\\sin x$$"
+  },
+  {
+    "number": 6,
+    "topic": "إيجاد قيمة x عندما يكون المماس أفقياً",
+    "question": "قيمة $x$ التي يكون عندها المماس أفقياً لمنحنى الاقتران $f(x) = e^x - 2x$ هي:",
+    "choices": [
+      "$x = \\ln 2$",
+      "$x = 0$",
+      "$x = 2$",
+      "$x = e^2$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\ln 2$",
+    "explanation": "المماس أفقي عندما $f'(x) = 0$:\n$$f'(x) = e^x - 2 = 0$$\n$$e^x = 2 \\Rightarrow x = \\ln 2$$\nإذن الخيار (a) هو الصحيح"
+  },
+  {
+    "number": 7,
+    "topic": "التسارع في مسار مستقيم",
+    "question": "إذا كان $s(t) = 6t^2 - t^3$ موقع جسم بالأمتار، فتسارعه عند $t = 2$ يساوي:",
+    "choices": [
+      "$12$ m/s²",
+      "$24$ m/s²",
+      "$6$ m/s²",
+      "$0$ m/s²"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$0$ m/s²",
+    "explanation": "$$v(t) = 12t - 3t^2$$\n$$a(t) = v'(t) = 12 - 6t$$\n$$a(2) = 12 - 6(2) = 0 \\text{ m/s}^2$$"
+  },
+  {
+    "number": 8,
+    "topic": "اتجاه الحركة في مسار مستقيم",
+    "question": "إذا مثّل $s(t) = 6t^2 - t^3$ موقع جسم، ففي أي اتجاه يتحرك عند $t = 5$؟",
+    "choices": [
+      "الاتجاه الموجب",
+      "سكون لحظي",
+      "الاتجاه السالب",
+      "السرعة تتزايد"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "الاتجاه السالب",
+    "explanation": "$$v(t) = 12t - 3t^2$$\n$$v(5) = 12(5) - 3(25) = 60 - 75 = -15 < 0$$\n\nبما أن $v(5) < 0$، فالجسم يتحرك في **الاتجاه السالب** → الخيار (c)"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية - اقتران السرعة والتسارع",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 5\\cos t$. اقتران سرعته هو:",
+    "choices": [
+      "$v(t) = 7\\cos t$",
+      "$v(t) = -5\\sin t$",
+      "$v(t) = -5\\cos t$",
+      "$v(t) = 7\\sin t$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$v(t) = -5\\sin t$",
+    "explanation": "$$v(t) = s'(t) = (5\\cos t)' = -5\\sin t$$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة العمودي على المماس",
+    "question": "معادلة العمودي على المماس لمنحنى $f(x) = \\ln\\left(\\dfrac{x}{e}\\right)$ عند النقطة $(1, -1)$ هي:",
+    "choices": [
+      "$y = x - 2$",
+      "$y = -x + 2$",
+      "$y = x - 1$",
+      "$y = -x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$y = -x$",
+    "explanation": "ميل المماس عند $(1,-1)$: $f'(1) = 1$\n\nميل العمودي: $-1$\n\nمعادلة العمودي:\n$$y - (-1) = -1(x-1)$$\n$$y = -x$$\n\nإذن الخيار (d) هو الصحيح"
+  }
+]

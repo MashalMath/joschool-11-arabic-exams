@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي",
+    "question": "إذا كان $f(x) = e^x - x^2$، فإن $f'(x)$ تساوي:",
+    "choices": [
+      "$e^x - 2x$",
+      "$e^x + 2x$",
+      "$xe^{x-1} - 2x$",
+      "$e^x - x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$e^x - 2x$",
+    "explanation": "$$f'(x) = (e^x)' - (x^2)' = e^x - 2x$$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة الاقتران اللوغاريتمي مع التبسيط",
+    "question": "مشتقة الاقتران $f(x) = \\ln\\left(\\dfrac{10}{x^2}\\right)$ هي:",
+    "choices": [
+      "$\\dfrac{1}{10x^2}$",
+      "$\\dfrac{10}{x^2}$",
+      "$-\\dfrac{2}{x}$",
+      "$\\dfrac{x}{2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\dfrac{2}{x}$",
+    "explanation": "بقانون القسمة: $\\ln\\left(\\dfrac{10}{x^2}\\right) = \\ln 10 - \\ln x^2 = \\ln 10 - 2\\ln x$\n$$f'(x) = 0 - \\frac{2}{x} = -\\frac{2}{x}$$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران الجيب",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\sin x}{2} + 3\\cos x$ هي:",
+    "choices": [
+      "$\\dfrac{\\cos x}{2} + 3\\sin x$",
+      "$\\dfrac{\\cos x}{2} - 3\\sin x$",
+      "$-\\dfrac{\\sin x}{2} - 3\\cos x$",
+      "$\\dfrac{\\sin x}{2} + 3\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{\\cos x}{2} - 3\\sin x$",
+    "explanation": "$$f'(x) = \\frac{1}{2}(\\sin x)' + 3(\\cos x)' = \\frac{\\cos x}{2} + 3(-\\sin x) = \\frac{\\cos x}{2} - 3\\sin x$$"
+  },
+  {
+    "number": 4,
+    "topic": "قيمة مشتقة عند نقطة معينة - اقتران مركب",
+    "question": "قيمة $f'(\\pi)$ للاقتران $f(x) = \\sin x + \\dfrac{1}{2}e^x$ هي:",
+    "choices": [
+      "$\\dfrac{e^{\\pi}}{2} + 1$",
+      "$1 - \\dfrac{e^{\\pi}}{2}$",
+      "$-1 - e^{\\pi}$",
+      "$\\dfrac{e^{\\pi}}{2} - 1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{e^{\\pi}}{2} - 1$",
+    "explanation": "$$f'(x) = \\cos x + \\frac{1}{2}e^x$$\n$$f'(\\pi) = \\cos\\pi + \\frac{1}{2}e^{\\pi} = -1 + \\frac{1}{2}e^{\\pi} = \\frac{1}{2}e^{\\pi} - 1$$"
+  },
+  {
+    "number": 5,
+    "topic": "معادلة المماس لمنحنى اقتران لوغاريتمي",
+    "question": "ميل المماس لمنحنى $f(x) = \\ln(x^4)$ عند النقطة $(1, 0)$ يساوي:",
+    "choices": [
+      "$1$",
+      "$\\dfrac{1}{4}$",
+      "$4$",
+      "$0$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$4$",
+    "explanation": "$$f'(x) = \\frac{4}{x}$$\n$$f'(1) = \\frac{4}{1} = 4$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس عند نقطة - اقتران لوغاريتمي",
+    "question": "معادلة المماس لمنحنى $f(x) = \\ln(x^4)$ عند النقطة $(1, 0)$ هي:",
+    "choices": [
+      "$y = 4x - 4$",
+      "$y = 4x + 4$",
+      "$y = x - 1$",
+      "$y = \\dfrac{1}{4}x - 1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$y = 4x - 4$",
+    "explanation": "الميل: $f'(1) = 4$، النقطة $(1, 0)$:\n$$y - 0 = 4(x - 1)$$\n$$y = 4x - 4$$"
+  },
+  {
+    "number": 7,
+    "topic": "الموقع الابتدائي للجسم",
+    "question": "إذا مثّل الاقتران $s(t) = e^t - 4t,\\ t \\geq 0$ موقع جسم بالأمتار، فموقعه الابتدائي هو:",
+    "choices": [
+      "$s = 0$",
+      "$s = 4$",
+      "$s = e$",
+      "$s = 1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$s = 1$",
+    "explanation": "الموقع الابتدائي عند $t = 0$:\n$$s(0) = e^0 - 4(0) = 1 - 0 = 1 \\text{ متر}$$"
+  },
+  {
+    "number": 8,
+    "topic": "السكون اللحظي - اقتران أسي",
+    "question": "الجسم ذو الاقتران $s(t) = e^t - 4t$ يكون في حالة سكون لحظي عند:",
+    "choices": [
+      "$t = e$",
+      "$t = \\ln 4$",
+      "$t = 4$",
+      "$t = 4e$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$t = \\ln 4$",
+    "explanation": "$$v(t) = s'(t) = e^t - 4 = 0$$\n$$e^t = 4 \\Rightarrow t = \\ln 4$$"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية - سرعة وتسارع عند لحظة",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 4\\cos t$. سرعته عند $t = \\dfrac{\\pi}{4}$ تساوي:",
+    "choices": [
+      "$\\sqrt{2}$ m/s",
+      "$\\sqrt{8}$ m/s",
+      "$-2\\sqrt{2}$ m/s",
+      "$-4$ m/s"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-2\\sqrt{2}$ m/s",
+    "explanation": "$$v(t) = s'(t) = -4\\sin t$$\n$$v\\left(\\frac{\\pi}{4}\\right) = -4\\sin\\left(\\frac{\\pi}{4}\\right) = -4 \\cdot \\frac{\\sqrt{2}}{2} = -2\\sqrt{2} \\text{ m/s}$$"
+  },
+  {
+    "number": 10,
+    "topic": "مشتقة اقتران مركب متعدد الخطوات",
+    "question": "مشتقة الاقتران $f(x) = \\ln(x^2 e^x)$ هي:",
+    "choices": [
+      "$\\dfrac{2}{x} + 1$",
+      "$\\dfrac{1}{x^2 e^x}$",
+      "$\\dfrac{2}{x} + e^x$",
+      "$\\dfrac{2}{x} - 1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{2}{x} + 1$",
+    "explanation": "بقانون الضرب: $\\ln(x^2 e^x) = \\ln x^2 + \\ln e^x = 2\\ln x + x$\n$$f'(x) = \\frac{2}{x} + 1$$"
+  }
+]

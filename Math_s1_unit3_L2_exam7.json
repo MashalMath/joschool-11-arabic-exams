@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الضرب - قانون الصحيح",
+    "question": "أيٌّ من الآتية يمثل المشتقة الصحيحة للاقتران $f(x) = x^3\\sin x+x^2\\cos x$؟",
+    "choices": [
+      "$(3x^2+2x)(\\sin x+\\cos x)$",
+      "$3x^2\\sin x+2x\\cos x$",
+      "$3x^2\\sin x+x^3\\cos x+2x\\cos x-x^2\\sin x$",
+      "$x^3\\cos x-x^2\\sin x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$3x^2\\sin x + x^3\\cos x + 2x\\cos x - x^2\\sin x$",
+    "explanation": "$(x^3\\sin x)'=3x^2\\sin x+x^3\\cos x$\n$(x^2\\cos x)'=2x\\cos x-x^2\\sin x$\n$f'(x)=3x^2\\sin x+x^3\\cos x+2x\\cos x-x^2\\sin x$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة القسمة - من الحياة",
+    "question": "إذا كان عدد سكان مدينة $P(t)=\\dfrac{500t^2}{2t+9}$، فمعدل التغير عند $t=3$ يساوي:",
+    "choices": [
+      "$120$",
+      "$140$",
+      "$160$",
+      "$180$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$160$",
+    "explanation": "$P'(t)=\\dfrac{(2t+9)(1000t)-500t^2(2)}{(2t+9)^2}=\\dfrac{1000t^2+9000t}{(2t+9)^2}$\n$P'(3)=\\dfrac{36000}{225}=160$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران مثلثي - فرق",
+    "question": "مشتقة الاقتران $f(x) = \\tan x-\\csc x$ هي:",
+    "choices": [
+      "$\\sec^2 x-\\csc x\\cot x$",
+      "$\\sec^2 x+\\csc x\\cot x$",
+      "$\\cot x+\\csc x$",
+      "$\\sec^2 x+\\cot x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sec^2 x + \\csc x\\cot x$",
+    "explanation": "$f'(x)=\\sec^2 x-(-\\csc x\\cot x)=\\sec^2 x+\\csc x\\cot x$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة الضرب - أسي وظل عند نقطة",
+    "question": "مشتقة الاقتران $f(x) = e^x(\\tan x-x)$ عند $x=0$ تساوي:",
+    "choices": [
+      "$-3$",
+      "$1$",
+      "$2$",
+      "$0$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$0$",
+    "explanation": "$f'(x)=e^x(\\sec^2 x-1)+(\\tan x-x)e^x$\n$f'(0)=1[1-1+0-0]=0$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة المقلوب - ثابت",
+    "question": "إذا كان $f(x) = \\dfrac{c}{\\sin x}$ حيث $c$ ثابت، فإن $f'(x)$ تساوي:",
+    "choices": [
+      "$\\dfrac{-c\\cos x}{\\sin^2 x}$",
+      "$\\dfrac{c\\cos x}{\\sin x}$",
+      "$\\dfrac{c}{\\cos x}$",
+      "$\\dfrac{c}{\\sin^2 x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-c\\cos x}{\\sin^2 x}$",
+    "explanation": "$f'(x)=\\dfrac{-c(\\sin x)'}{\\sin^2 x}=\\dfrac{-c\\cos x}{\\sin^2 x}$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة القسمة - لوغاريتمي",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{\\ln x}{x^2}$ هي:",
+    "choices": [
+      "$\\dfrac{2\\ln x-1}{x^3}$",
+      "$\\dfrac{\\ln x+1}{x^3}$",
+      "$\\dfrac{1-2\\ln x}{x^3}$",
+      "$\\dfrac{3\\ln x}{x^3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1-2\\ln x}{x^3}$",
+    "explanation": "$f'(x)=\\dfrac{x^2\\cdot\\frac{1}{x}-\\ln x\\cdot 2x}{x^4}=\\dfrac{x-2x\\ln x}{x^4}=\\dfrac{1-2\\ln x}{x^3}$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة القسمة - قاطع",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{1+\\sec x}{1-\\sec x}$ هي:",
+    "choices": [
+      "$\\dfrac{\\sec x\\tan x}{(1-\\sec x)^2}$",
+      "$\\dfrac{\\sec^2 x}{(1-\\sec x)^2}$",
+      "$\\dfrac{\\tan x}{(1-\\sec x)^2}$",
+      "$\\dfrac{2\\sec x\\tan x}{(1-\\sec x)^2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{2\\sec x\\tan x}{(1-\\sec x)^2}$",
+    "explanation": "$f'(x)=\\dfrac{(1-\\sec x)\\sec x\\tan x-(1+\\sec x)(-\\sec x\\tan x)}{(1-\\sec x)^2} = \\dfrac{\\sec x\\tan x(1-\\sec x+1+\\sec x)}{(1-\\sec x)^2} = \\dfrac{2\\sec x\\tan x}{(1-\\sec x)^2}$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية - جيب وجيب التمام",
+    "question": "المشتقة الثانية للاقتران $f(x) = \\sin x-\\cos x$ هي:",
+    "choices": [
+      "$\\cos x+\\sin x$",
+      "$\\cos x-\\sin x$",
+      "$-(\\sin x+\\cos x)$",
+      "$\\sin x+\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\cos x - \\sin x$",
+    "explanation": "$f'(x)=\\cos x+\\sin x$\n$f''(x)=-\\sin x+\\cos x=\\cos x-\\sin x$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة العليا - نمط",
+    "question": "المشتقة الثالثة للاقتران $f(x) = xe^x$ تساوي:",
+    "choices": [
+      "$(x+3)e^x$",
+      "$(x+2)e^x$",
+      "$xe^x$",
+      "$(x+1)e^x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$(x+3)e^x$",
+    "explanation": "$f^{(1)}=(x+1)e^x, \\ f^{(2)}=(x+2)e^x, \\ f^{(3)}=(x+3)e^x$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة المماس - مشتقة القسمة",
+    "question": "ميل المماس لمنحنى $f(x) = \\dfrac{\\cos x}{e^x}$ عند $x=0$ يساوي:",
+    "choices": [
+      "$0$",
+      "$2$",
+      "$-1$",
+      "$3$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-1$",
+    "explanation": "$f'(x)=\\dfrac{-(\\sin x+\\cos x)}{e^x}$\n$f'(0)=\\dfrac{-(0+1)}{1}=-1$"
+  }
+]

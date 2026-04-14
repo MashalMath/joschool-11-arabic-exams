@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي مع الجذر",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt{x} + e^x$ هي:",
+    "choices": [
+      "$\\dfrac{1}{\\sqrt{x}} + e^x$",
+      "$\\dfrac{1}{2\\sqrt{x}} + e^x$",
+      "$\\dfrac{1}{2\\sqrt{x}} - e^x$",
+      "$\\dfrac{\\sqrt{x}}{2} + e^x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{2\\sqrt{x}} + e^x$",
+    "explanation": "$$f'(x) = (x^{1/2})' + (e^x)' = \\frac{1}{2}x^{-1/2} + e^x = \\frac{1}{2\\sqrt{x}} + e^x$$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة اللوغاريتم - تحديد الخطأ الشائع",
+    "question": "أيٌّ من الآتية يمثل المشتقة الصحيحة للاقتران $f(x) = \\ln(x^2)$؟",
+    "choices": [
+      "$2x$",
+      "$\\dfrac{1}{x^2}$",
+      "$\\dfrac{2x}{x^2}$",
+      "$\\dfrac{2}{x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{2}{x}$",
+    "explanation": "الطريقة الصحيحة:\n$$\\ln(x^2) = 2\\ln x$$\n$$f'(x) = \\frac{2}{x}$$\n\n**الخطأ الشائع:** $\\dfrac{2x}{x^2}$ يبدو مختلفاً عن $\\dfrac{2}{x}$ لكنهما متساويان - كلاهما صحيح"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران جيب التمام مع الجذر",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt{x} - 4e^x$ هي:",
+    "choices": [
+      "$\\dfrac{1}{2\\sqrt{x}} + 4e^x$",
+      "$\\dfrac{1}{\\sqrt{x}} - 4e^x$",
+      "$\\dfrac{1}{2\\sqrt{x}} - 4e^x$",
+      "$x^{-1/2} - 4e^x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{2\\sqrt{x}} - 4e^x$",
+    "explanation": "$$f'(x) = \\frac{1}{2}x^{-1/2} - 4e^x = \\frac{1}{2\\sqrt{x}} - 4e^x$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران بسط على مقام",
+    "question": "مشتقة الاقتران $y = \\dfrac{\\sqrt[3]{x} - 2xe^x}{x}$ بعد التبسيط هي:",
+    "choices": [
+      "$-\\dfrac{2}{3\\sqrt[3]{x^5}} - 2e^x$",
+      "$\\dfrac{1}{3x^{2/3}} - 2e^x$",
+      "$\\dfrac{2}{3x^{5/3}} - 2e^x$",
+      "$x^{-2/3} - 2e^x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\dfrac{2}{3\\sqrt[3]{x^5}} - 2e^x$",
+    "explanation": "$$y = \\frac{x^{1/3}}{x} - \\frac{2xe^x}{x} = x^{-2/3} - 2e^x$$\n$$\\frac{dy}{dx} = -\\frac{2}{3}x^{-5/3} - 2e^x = -\\frac{2}{3\\sqrt[3]{x^5}} - 2e^x$$"
+  },
+  {
+    "number": 5,
+    "topic": "قيمة مشتقة عند نقطة للاقتران الجيبي",
+    "question": "قيمة $f'\\left(\\dfrac{\\pi}{2}\\right)$ للاقتران $f(x) = 3\\sin x + e^x$ تساوي:",
+    "choices": [
+      "$e^{\\pi/2} + 1$",
+      "$3 + e^{\\pi/2}$",
+      "$e^{\\pi/2}$",
+      "$e^{\\pi/2} - 1$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$e^{\\pi/2}$",
+    "explanation": "$$f'(x) = 3\\cos x + e^x$$\n$$f'\\left(\\frac{\\pi}{2}\\right) = 3\\cos\\frac{\\pi}{2} + e^{\\pi/2} = 3(0) + e^{\\pi/2} = e^{\\pi/2}$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس لمنحنى اقتران أسي",
+    "question": "إذا كان $f(x) = e^x$، فمعادلة المماس لمنحناه عند النقطة $(0, 1)$ هي:",
+    "choices": [
+      "$y = x$",
+      "$y = x + 1$",
+      "$y = e^x$",
+      "$y = 2x + 1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$y = x + 1$",
+    "explanation": "ميل المماس: $f'(x) = e^x$، عند $x = 0$: $f'(0) = e^0 = 1$\n\nمعادلة المماس:\n$$y - 1 = 1(x - 0)$$\n$$y = x + 1$$"
+  },
+  {
+    "number": 7,
+    "topic": "السرعة في مسار مستقيم - اقتران أسي",
+    "question": "إذا مثّل $s(t) = e^t - 4t$ موقع جسم، فالتسارع عند سكونه اللحظي يساوي:",
+    "choices": [
+      "$4$",
+      "$\\ln 4$",
+      "$1$",
+      "$e^{\\ln 4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4$",
+    "explanation": "السكون اللحظي عند $t = \\ln 4$\n\n$$a(t) = s''(t) = e^t$$\n$$a(\\ln 4) = e^{\\ln 4} = 4 \\text{ m/s}^2$$"
+  },
+  {
+    "number": 8,
+    "topic": "الاتجاه في مسار مستقيم - اقتران أسي",
+    "question": "في أي اتجاه يتحرك الجسم ذو الاقتران $s(t) = e^t - 4t$ عند $t = 0$؟",
+    "choices": [
+      "الاتجاه الموجب",
+      "سكون لحظي",
+      "الاتجاه السالب",
+      "لا يمكن التحديد"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "الاتجاه السالب",
+    "explanation": "$$v(t) = e^t - 4$$\n$$v(0) = e^0 - 4 = 1 - 4 = -3 < 0$$\n\nبما أن $v(0) < 0$، فالجسم يتحرك في **الاتجاه السالب**"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية - وصف حركة الجسم",
+    "question": "جسم معلق بزنبرك موقعه $s(t) = 4\\cos t$ بالأمتار. ما أكبر قيمة للسرعة القياسية يمكن أن يبلغها؟",
+    "choices": [
+      "$4\\pi$ m/s",
+      "$2$ m/s",
+      "$8$ m/s",
+      "$4$ m/s"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$4$ m/s",
+    "explanation": "$$v(t) = -4\\sin t$$\n\nأكبر قيمة مطلقة لـ $\\sin t$ هي $1$، لذا:\n$$|v(t)|_{\\max} = |-4\\sin t|_{\\max} = 4 \\text{ m/s}$$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة العمودي على المماس - اقتران أسي",
+    "question": "معادلة العمودي على المماس لمنحنى $f(x) = e^x$ عند النقطة $(0, 1)$ هي:",
+    "choices": [
+      "$y = x + 2$",
+      "$y = -x + 1$",
+      "$y = x - 1$",
+      "$y = -x + 3$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$y = -x + 1$",
+    "explanation": "ميل المماس عند $(0,1)$: $f'(0) = 1$\n\nميل العمودي: $-1$\n\n$$y - 1 = -1(x - 0)$$\n$$y = -x + 1$$"
+  }
+]

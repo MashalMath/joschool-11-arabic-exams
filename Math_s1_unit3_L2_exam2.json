@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الضرب - لوغاريتمي",
+    "question": "مشتقة الاقتران $f(x) = x\\ln x$ هي:",
+    "choices": [
+      "$\\ln x$",
+      "$\\ln x + 1$",
+      "$x + \\ln x$",
+      "$\\dfrac{1}{x}+\\ln x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\ln x + 1$",
+    "explanation": "$f'(x) = x\\cdot\\dfrac{1}{x}+\\ln x\\cdot 1 = 1+\\ln x = \\ln x+1$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة القسمة - كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{x+1}{2x+1}$ هي:",
+    "choices": [
+      "$\\dfrac{1}{2x+1}$",
+      "$\\dfrac{2}{(2x+1)^2}$",
+      "$\\dfrac{-1}{(2x+1)^2}$",
+      "$\\dfrac{x}{(2x+1)^2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-1}{(2x+1)^2}$",
+    "explanation": "$f'(x) = \\dfrac{(2x+1)(1)-(x+1)(2)}{(2x+1)^2} = \\dfrac{2x+1-2x-2}{(2x+1)^2} = \\dfrac{-1}{(2x+1)^2}$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة الاقتران المثلثي - القاطع",
+    "question": "مشتقة الاقتران $f(x) = \\sec x$ هي:",
+    "choices": [
+      "$\\sec x\\tan x$",
+      "$\\csc x\\cot x$",
+      "$\\tan^2 x$",
+      "$\\sec x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sec x\\tan x$",
+    "explanation": "$\\dfrac{d}{dx}(\\sec x) = \\dfrac{d}{dx}\\left(\\dfrac{1}{\\cos x}\\right) = \\dfrac{\\sin x}{\\cos^2 x} = \\sec x\\tan x$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة الضرب - جيب التمام",
+    "question": "مشتقة الاقتران $f(x) = x^2\\sin x$ هي:",
+    "choices": [
+      "$x^2\\cos x$",
+      "$2x\\sin x$",
+      "$2x\\sin x+x^2\\cos x$",
+      "$x^2\\cos x+2x\\sin x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x^2\\cos x + 2x\\sin x$",
+    "explanation": "$f'(x) = x^2(\\sin x)'+\\sin x(x^2)' = x^2\\cos x+2x\\sin x$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة القسمة - تطبيق حياتي",
+    "question": "درجة حرارة مريض $T(t) = \\dfrac{4t}{1+t^2}+98.6$. قيمة $T'(2)$ تساوي:",
+    "choices": [
+      "$0.36$",
+      "$0.12$",
+      "$-0.48$",
+      "$-0.24$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-0.48$",
+    "explanation": "$T'(t) = \\dfrac{4-4t^2}{(1+t^2)^2}$\n\n$T'(2) = \\dfrac{4-16}{25} = \\dfrac{-12}{25} = -0.48$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة المقلوب - كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = \\dfrac{1}{x^2+x}$ هي:",
+    "choices": [
+      "$\\dfrac{2x+1}{(x^2+x)^2}$",
+      "$\\dfrac{-(2x+1)}{(x^2+x)^2}$",
+      "$\\dfrac{1}{2x+1}$",
+      "$\\dfrac{2}{(x^2+x)^2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-(2x+1)}{(x^2+x)^2}$",
+    "explanation": "$f'(x) = \\dfrac{-(x^2+x)'}{(x^2+x)^2} = \\dfrac{-(2x+1)}{(x^2+x)^2}$"
+  },
+  {
+    "number": 7,
+    "topic": "قيم معطاة - مشتقة القسمة",
+    "question": "إذا كان $f(0)=5,\\ f'(0)=-3,\\ g(0)=-1,\\ g'(0)=2$، فقيمة $\\left(\\dfrac{f}{g}\\right)'(0)$ تساوي:",
+    "choices": [
+      "$10$",
+      "$3$",
+      "$13$",
+      "$-7$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-7$",
+    "explanation": "$\\left(\\dfrac{f}{g}\\right)'(0) = \\dfrac{g(0)f'(0)-f(0)g'(0)}{(g(0))^2} = \\dfrac{(-1)(-3)-5(2)}{1} = 3-10 = -7$"
+  },
+  {
+    "number": 8,
+    "topic": "مشتقة الضرب - جيب وجيب التمام",
+    "question": "مشتقة الاقتران $f(x) = \\sin x\\cos x$ هي:",
+    "choices": [
+      "$\\cos 2x$",
+      "$\\sin 2x$",
+      "$1-2\\sin^2 x$",
+      "$\\sin x-\\cos x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\cos 2x$",
+    "explanation": "$f'(x) = \\sin x(-\\sin x)+\\cos x(\\cos x) = \\cos^2 x-\\sin^2 x = \\cos 2x$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية - لوغاريتمي",
+    "question": "المشتقة الثانية للاقتران $f(x) = \\dfrac{\\ln x}{x}$ هي:",
+    "choices": [
+      "$\\dfrac{1-\\ln x}{x^3}$",
+      "$\\dfrac{\\ln x-1}{x^3}$",
+      "$\\dfrac{2\\ln x-3}{x^3}$",
+      "$\\dfrac{3-2\\ln x}{x^3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{2\\ln x-3}{x^3}$",
+    "explanation": "$f'(x) = \\dfrac{1-\\ln x}{x^2}$\n\n$f''(x) = \\dfrac{x^2\\cdot\\frac{-1}{x}-(1-\\ln x)\\cdot 2x}{x^4} = \\dfrac{-x-2x(1-\\ln x)}{x^4} = \\dfrac{-1-2+2\\ln x}{x^3} = \\dfrac{2\\ln x-3}{x^3}$"
+  },
+  {
+    "number": 10,
+    "topic": "المشتقة الثالثة - أسي",
+    "question": "المشتقة الثالثة للاقتران $f(x) = xe^x$ هي:",
+    "choices": [
+      "$(x+1)e^x$",
+      "$(x+3)e^x$",
+      "$(x+2)e^x$",
+      "$(x+4)e^x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$(x+3)e^x$",
+    "explanation": "$f'(x)=(x+1)e^x$\n$f''(x)=(x+2)e^x$\n$f'''(x)=(x+3)e^x$"
+  }
+]

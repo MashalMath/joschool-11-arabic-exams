@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "المعادلة المثلثية الأساسية - الظل",
+    "question": "حلول المعادلة $\\cot x + 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{5\\pi}{4}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
+    "explanation": "$$\\cot x = -1 \\Rightarrow \\tan x = -1$$\nالظل سالب في الربعين الثاني والرابع. الزاوية المرجعية هي $\\pi/4$.\nالحلول هي: $x = \\pi - \\pi/4 = 3\\pi/4$ و $x = 2\\pi - \\pi/4 = 7\\pi/4$."
+  },
+  {
+    "number": 2,
+    "topic": "الحلول العامة - الجيب",
+    "question": "الحلول العامة للمعادلة $\\sin x = \\dfrac{\\sqrt{2}}{2}$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{4} + k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + k\\pi$ أو $x = \\dfrac{3\\pi}{4} + k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + 2k\\pi$",
+      "$x = \\dfrac{\\pi}{4} + 2k\\pi$ أو $x = \\dfrac{3\\pi}{4} + 2k\\pi$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{4} + 2k\\pi$ أو $x = \\dfrac{3\\pi}{4} + 2k\\pi$",
+    "explanation": "الجيب موجب في الربعين الأول والثاني، والزاوية المرجعية هي $\\pi/4$. بما أن دورة الجيب هي $2\\pi$، نضيف $2k\\pi$ لكل حل أساسي."
+  },
+  {
+    "number": 3,
+    "topic": "عزل الاقتران المثلثي",
+    "question": "حلول المعادلة $\\sec^2 x - 2 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{7\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{4},\\ \\dfrac{3\\pi}{4},\\ \\dfrac{5\\pi}{4},\\ \\dfrac{7\\pi}{4}$",
+    "explanation": "$$\\sec^2 x = 2 \\Rightarrow \\cos^2 x = 1/2 \\Rightarrow \\cos x = \\pm 1/\\sqrt{2}$$\nبما أن الكوساين موجب وسالب، نأخذ الزاوية المرجعية $\\pi/4$ في الأرباع الأربعة."
+  },
+  {
+    "number": 4,
+    "topic": "عزل الاقتران - قاطع التمام",
+    "question": "حلول المعادلة $\\csc^2 x - 4 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}, \\dfrac{5\\pi}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+    "explanation": "$$\\csc^2 x = 4 \\Rightarrow \\sin^2 x = 1/4 \\Rightarrow \\sin x = \\pm 1/2$$\nالزاوية المرجعية هي $\\pi/6$ في الأرباع الأربعة."
+  },
+  {
+    "number": 5,
+    "topic": "حل معادلة تربيعية بالتحليل",
+    "question": "حلول المعادلة $\\cos^2 x - \\sin^2 x + \\sin x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = 0, \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$",
+      "$x = \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{2},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+    "explanation": "باستبدال $\\cos^2 x$ بـ $1-\\sin^2 x$: $$1-2\\sin^2 x+\\sin x = 0 \\Rightarrow 2\\sin^2 x-\\sin x-1 = 0$$\nبالتحليل: $(2\\sin x+1)(\\sin x-1)=0$. الحلول هي $\\sin x=1$ و $\\sin x=-1/2$."
+  },
+  {
+    "number": 6,
+    "topic": "إخراج العامل المشترك والتطبيق",
+    "question": "حلول المعادلة $\\sin 2x - \\sin x = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = 0, \\pi, \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}, \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$",
+      "$x = 0, \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = 0,\\ \\pi,\\ \\dfrac{\\pi}{3},\\ \\dfrac{5\\pi}{3}$",
+    "explanation": "$$2\\sin x\\cos x - \\sin x = 0 \\Rightarrow \\sin x(2\\cos x - 1) = 0$$\nإما $\\sin x = 0$ (تعطي $0, \\pi$) أو $\\cos x = 1/2$ (تعطي $\\pi/3, 5\\pi/3$)."
+  },
+  {
+    "number": 7,
+    "topic": "معادلة باستعمال متطابقات فيثاغورس",
+    "question": "حلول المعادلة $2\\cos^2 x + \\sin x = 1$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}, \\pi$",
+      "$x = \\dfrac{\\pi}{2},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+      "$x = \\pi, \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = \\dfrac{\\pi}{2},\\ \\dfrac{7\\pi}{6},\\ \\dfrac{11\\pi}{6}$",
+    "explanation": "بعد التعويض والتحليل: $2\\sin^2 x-\\sin x-1 = 0 \\Rightarrow (2\\sin x+1)(\\sin x-1)=0$.\nالحلول من $\\sin x=1$ و $\\sin x=-1/2$."
+  },
+  {
+    "number": 8,
+    "topic": "معادلة تحوي ضعف الزاوية",
+    "question": "حلول المعادلة $\\sin 2x = 3\\cos 2x$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x \\approx 0.62, 2.19, 3.76, 5.34$",
+      "$x \\approx 0.52, 2.09, 3.67, 5.24$",
+      "$x = \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{6}, \\dfrac{4\\pi}{3}, \\dfrac{11\\pi}{6}$",
+      "$x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x \\approx 0.62,\\ 2.19,\\ 3.76,\\ 5.34$",
+    "explanation": "$$\\tan 2x = 3 \\Rightarrow 2x \\approx 1.25 + k\\pi \\Rightarrow x \\approx 0.62 + k\\pi/2$$\nبالتعويض عن $k=0,1,2,3$ نحصل على أربعة حلول في الفترة المطلوبة."
+  },
+  {
+    "number": 9,
+    "topic": "معادلة تحوي نصف الزاوية",
+    "question": "حلول المعادلة $2\\sin^2\\dfrac{x}{2} - 3\\cos\\dfrac{x}{2} = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{\\pi}{3}$ أو $x = \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{2\\pi}{3}$ أو $x = \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$",
+      "$x = \\dfrac{2\\pi}{3}$ فقط"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x = \\dfrac{2\\pi}{3}$ فقط",
+    "explanation": "بفرض $\\theta = x/2$: $2(1-\\cos^2\\theta)-3\\cos\\theta=0 \\Rightarrow (2\\cos\\theta-1)(\\cos\\theta+2)=0$.\nإذن $\\cos\\theta=1/2 \\Rightarrow \\theta=\\pi/3 \\Rightarrow x=2\\pi/3$."
+  },
+  {
+    "number": 10,
+    "topic": "معادلة متعددة الخطوات - التجميع",
+    "question": "حلول المعادلة $4\\sin x\\cos x + 2\\sin x - 2\\cos x - 1 = 0$ في الفترة $[0, 2\\pi)$ هي:",
+    "choices": [
+      "$x = \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}, \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{\\pi}{6}, \\dfrac{7\\pi}{6}, \\dfrac{\\pi}{3}, \\dfrac{4\\pi}{3}$",
+      "$x = \\dfrac{7\\pi}{6}, \\dfrac{11\\pi}{6}, \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$x = \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6},\\ \\dfrac{2\\pi}{3},\\ \\dfrac{4\\pi}{3}$",
+    "explanation": "بالتجميع: $2\\sin x(2\\cos x+1) - (2\\cos x+1) = 0 \\Rightarrow (2\\sin x-1)(2\\cos x+1) = 0$.\nالحلول من $\\sin x = 1/2$ (الربع 1، 2) و $\\cos x = -1/2$ (الربع 2، 3)."
+  }
+]

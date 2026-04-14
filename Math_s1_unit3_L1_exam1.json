@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مشتقة الاقتران الأسي الطبيعي",
+    "question": "مشتقة الاقتران $f(x) = 3e^x$ هي:",
+    "choices": [
+      "$3e^x$",
+      "$e^x$",
+      "$3xe^{x-1}$",
+      "$3e^{x-1}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$3e^x$",
+    "explanation": "بتطبيق قاعدتي مشتقة مضاعفات الاقتران ومشتقة الاقتران الأسي الطبيعي:\n$$f'(x) = 3 \\cdot (e^x)' = 3e^x$$"
+  },
+  {
+    "number": 2,
+    "topic": "مشتقة الاقتران اللوغاريتمي الطبيعي مع قانون القوة",
+    "question": "مشتقة الاقتران $f(x) = \\ln(x^4)$ هي:",
+    "choices": [
+      "$4x^3$",
+      "$\\dfrac{4}{x}$",
+      "$\\dfrac{1}{x^4}$",
+      "$4\\ln x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{4}{x}$",
+    "explanation": "بتطبيق قانون القوة في اللوغاريتمات أولاً:\n$$\\ln(x^4) = 4\\ln x$$\nثم المشتقة:\n$$f'(x) = 4 \\cdot \\frac{1}{x} = \\frac{4}{x}$$"
+  },
+  {
+    "number": 3,
+    "topic": "مشتقة اقتران جيب التمام",
+    "question": "مشتقة الاقتران $f(x) = \\cos x - 5$ هي:",
+    "choices": [
+      "$-\\cos x$",
+      "$\\tan x$",
+      "$-\\sin x$",
+      "$0$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\sin x$",
+    "explanation": "بتطبيق قاعدة مشتقة اقتران جيب التمام:\n$$f'(x) = (\\cos x)' - 0 = -\\sin x$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة اقتران يجمع e^x وكثير الحدود",
+    "question": "مشتقة الاقتران $f(x) = x^2 + e^x$ هي:",
+    "choices": [
+      "$2x + xe^{x-1}$",
+      "$x^2 + e^x$",
+      "$2xe^x$",
+      "$2x + e^x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2x + e^x$",
+    "explanation": "بتطبيق قواعد مشتقة اقتران القوة والمجموع والاقتران الأسي الطبيعي:\n$$f'(x) = (x^2)' + (e^x)' = 2x + e^x$$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة اقتران يجمع e^x والجيب وجيب التمام",
+    "question": "مشتقة الاقتران $y = \\dfrac{1}{2}e^x - 7\\cos x$ هي:",
+    "choices": [
+      "$\\dfrac{1}{2}e^x - 7\\sin x$",
+      "$\\dfrac{1}{2}e^x + 7\\sin x$",
+      "$e^x + 7\\sin x$",
+      "$e^x - 7\\sin x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{2}e^x + 7\\sin x$",
+    "explanation": "$$\\frac{dy}{dx} = \\frac{1}{2}(e^x)' - 7(\\cos x)' = \\frac{1}{2}e^x - 7(-\\sin x) = \\frac{1}{2}e^x + 7\\sin x$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس لمنحنى الاقتران اللوغاريتمي",
+    "question": "معادلة المماس لمنحنى الاقتران $f(x) = \\ln\\left(\\dfrac{x}{e}\\right)$ عند النقطة $(1, -1)$ هي:",
+    "choices": [
+      "$y = x - 2$",
+      "$y = x + 2$",
+      "$y = 2x - 1$",
+      "$y = -x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$y = x - 2$",
+    "explanation": "**الخطوة 1:** نبسط: $\\ln\\left(\\dfrac{x}{e}\\right) = \\ln x - \\ln e = \\ln x - 1$\n\n**الخطوة 2:** $f'(x) = \\dfrac{1}{x}$، وميل المماس عند $x=1$: $f'(1) = 1$\n\n**الخطوة 3:** معادلة المماس:\n$$y - (-1) = 1(x-1) \\Rightarrow y = x - 2$$"
+  },
+  {
+    "number": 7,
+    "topic": "السرعة المتجهة والتسارع - مسار مستقيم",
+    "question": "إذا مثّل الاقتران $s(t) = 6t^2 - t^3$ موقع جسم بالأمتار، فسرعته عندما $t = 2$ ثانية تساوي:",
+    "choices": [
+      "$0$ m/s",
+      "$24$ m/s",
+      "$6$ m/s",
+      "$12$ m/s"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$12$ m/s",
+    "explanation": "اقتران السرعة:\n$$v(t) = s'(t) = 12t - 3t^2$$\n\nعند $t = 2$:\n$$v(2) = 12(2) - 3(2)^2 = 24 - 12 = 12 \\text{ m/s}$$"
+  },
+  {
+    "number": 8,
+    "topic": "لحظات السكون الحظي - مسار مستقيم",
+    "question": "إذا مثّل الاقتران $s(t) = 6t^2 - t^3,\\ t \\geq 0$ موقع جسم، فالجسم يكون في حالة سكون لحظي عند:",
+    "choices": [
+      "$t = 2$ و $t = 6$",
+      "$t = 3$ و $t = 4$",
+      "$t = 0$ و $t = 4$",
+      "$t = 0$ و $t = 6$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$t = 0$ و $t = 4$",
+    "explanation": "$$v(t) = 12t - 3t^2 = 3t(4-t) = 0$$\n$$t = 0 \\quad \\text{أو} \\quad t = 4$$"
+  },
+  {
+    "number": 9,
+    "topic": "الحركة التوافقية البسيطة - موقع وسرعة وتسارع",
+    "question": "جسم معلق بزنبرك، موقعه $s(t) = 8\\sin t$ بالسنتيمترات. قيمة سرعته عند $t = \\dfrac{2\\pi}{3}$ هي:",
+    "choices": [
+      "$4\\sqrt{3}$ cm/s",
+      "$-4$ cm/s",
+      "$8\\cos t$ cm/s",
+      "$4\\cos\\frac{2\\pi}{3}$ cm/s"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-4$ cm/s",
+    "explanation": "اقتران السرعة:\n$$v(t) = s'(t) = 8\\cos t$$\n\nعند $t = \\dfrac{2\\pi}{3}$:\n$$v\\left(\\frac{2\\pi}{3}\\right) = 8\\cos\\left(\\frac{2\\pi}{3}\\right) = 8\\cdot\\left(-\\frac{1}{2}\\right) = -4 \\text{ cm/s}$$"
+  },
+  {
+    "number": 10,
+    "topic": "مشتقة اقتران معقد - قانون الضرب في اللوغاريتمات",
+    "question": "مشتقة الاقتران $f(x) = \\ln(xe^x) + \\ln(7x)$ هي:",
+    "choices": [
+      "$\\dfrac{2}{x} + 1$",
+      "$\\dfrac{1}{x} + 1$",
+      "$\\dfrac{2}{x} - 1$",
+      "$\\dfrac{3}{x} + 1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{2}{x} + 1$",
+    "explanation": "نطبق قانون الضرب:\n$$f(x) = \\ln x + \\ln e^x + \\ln 7 + \\ln x = 2\\ln x + x + \\ln 7$$\n\n$$f'(x) = \\frac{2}{x} + 1$$"
+  }
+]

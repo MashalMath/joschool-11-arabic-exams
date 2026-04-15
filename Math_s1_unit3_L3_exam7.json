@@ -2,16 +2,16 @@
   {
     "number": 1,
     "topic": "قاعدة السلسلة - مشتقة مركب مثلثي",
-    "question": "مشتقة الاقتران $f(x) = \tan^2(x^3)$ هي:",
+    "question": "مشتقة الاقتران $f(x) = \\tan^2(x^3)$ هي:",
     "choices": [
-      "$6x^2\tan(x^3)\sec^2(x^3)$",
-      "$2x^2\tan(x^3)\sec^2(x^3)$",
-      "$3x^2\tan^2(x^3)$",
-      "$6x\tan(x^3)\sec^2(x^3)$"
+      "$6x^2\\tan(x^3)\\sec^2(x^3)$",
+      "$2x^2\\tan(x^3)\\sec^2(x^3)$",
+      "$3x^2\\tan^2(x^3)$",
+      "$6x\\tan(x^3)\\sec^2(x^3)$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "$6x^2\tan(x^3)\sec^2(x^3)$",
-    "explanation": "باستخدام قاعدة السلسلة:\n$$f'=2\tan(x^3) \times \sec^2(x^3) \times 3x^2 = 6x^2\tan(x^3)\sec^2(x^3)$$"
+    "final_answer_text": "$6x^2\\tan(x^3)\\sec^2(x^3)$",
+    "explanation": "باستخدام قاعدة السلسلة:\n$$f'=2\\tan(x^3) \\times \\sec^2(x^3) \\times 3x^2 = 6x^2\\tan(x^3)\\sec^2(x^3)$$"
   },
   {
     "number": 2,

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - لوغاريتم من ظل",
+    "question": "مشتقة الاقتران $f(x) = \\ln(\\tan x)$ هي:",
+    "choices": [
+      "$\\cot x$",
+      "$\\sec x$",
+      "$\\tan x$",
+      "$\\dfrac{\\sec^2 x}{\\tan x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\sec^2 x}{\\tan x}$",
+    "explanation": "$g(x)=\\tan x$، $g'(x)=\\sec^2 x$:\n$$f'=\\frac{\\sec^2 x}{\\tan x}$$"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة السلسلة - الأسي مع مربع سالب",
+    "question": "مشتقة الاقتران $f(x) = e^{-x^2}$ هي:",
+    "choices": [
+      "$e^{-x^2}$",
+      "$-2xe^{-x^2}$",
+      "$xe^{-x^2}$",
+      "$-e^{-x^2+1}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-2xe^{-x^2}$",
+    "explanation": "$g(x)=-x^2$، $g'(x)=-2x$:\n$$f'=e^{-x^2}\\times(-2x)=-2xe^{-x^2}$$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة السلسلة - الجيب مع لوغاريتم",
+    "question": "مشتقة الاقتران $f(x) = \\sin(\\ln x)$ هي:",
+    "choices": [
+      "$\\dfrac{\\cos(\\ln x)}{x}$",
+      "$\\dfrac{\\sin(\\ln x)}{x}$",
+      "$x\\cos(\\ln x)$",
+      "$\\dfrac{1}{\\cos(\\ln x)}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\cos(\\ln x)}{x}$",
+    "explanation": "$g(x)=\\ln x$، $g'(x)=\\dfrac{1}{x}$:\n$$f'=\\cos(\\ln x)\\times\\frac{1}{x}=\\frac{\\cos(\\ln x)}{x}$$"
+  },
+  {
+    "number": 4,
+    "topic": "قاعدة سلسلة القوة - كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = (x^2+8x)^{1/5}$ هي:",
+    "choices": [
+      "$\\dfrac{1}{5}(x^2+8x)^{-4/5}$",
+      "$\\dfrac{x+4}{5(x^2+8x)^{4/5}}$",
+      "$\\dfrac{2x+8}{5(x^2+8x)^{4/5}}$",
+      "$\\dfrac{x+4}{(x^2+8x)^{4/5}}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{2x+8}{5(x^2+8x)^{4/5}}$",
+    "explanation": "$g'=2x+8$:\n$$f'=\\frac{1}{5}(x^2+8x)^{-4/5}\\times(2x+8)=\\frac{2x+8}{5(x^2+8x)^{4/5}}$$"
+  },
+  {
+    "number": 5,
+    "topic": "قاعدة سلسلة القوة - مكعب جيب التمام",
+    "question": "مشتقة الاقتران $f(x) = \\cos^3 x$ هي:",
+    "choices": [
+      "$3\\cos^2 x$",
+      "$-3\\cos^2 x\\sin x$",
+      "$3\\sin^2 x\\cos x$",
+      "$-3\\cos x$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-3\\cos^2 x\\sin x$",
+    "explanation": "$(\\cos x)^3$:\n$$f'=3(\\cos x)^2\\times(-\\sin x)=-3\\cos^2 x\\sin x$$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة $a^{g(x)}$ - جيب",
+    "question": "مشتقة الاقتران $f(x) = 2^{\\sin x}$ هي:",
+    "choices": [
+      "$(\\ln 2)\\cdot 2^{\\sin x}$",
+      "$\\cos x\\cdot 2^{\\sin x}$",
+      "$\\dfrac{\\cos x}{\\ln 2}\\cdot 2^{\\sin x}$",
+      "$(\\ln 2)\\cos x\\cdot 2^{\\sin x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$(\\ln 2)\\cos x\\cdot 2^{\\sin x}$",
+    "explanation": "$g(x)=\\sin x$، $g'(x)=\\cos x$:\n$$f'=(\\ln 2)\\cdot 2^{\\sin x}\\times\\cos x=(\\ln 2)\\cos x\\cdot 2^{\\sin x}$$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة $\\log_{10} x$",
+    "question": "مشتقة الاقتران $f(x) = \\log(x)$ هي ($\\log$ أساسه 10):",
+    "choices": [
+      "$\\dfrac{1}{x}$",
+      "$\\dfrac{10}{x}$",
+      "$\\dfrac{1}{x\\ln 10}$",
+      "$\\dfrac{\\ln 10}{x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1}{x\\ln 10}$",
+    "explanation": "$$f'=\\frac{1}{\\ln 10}\\times\\frac{1}{x}=\\frac{1}{x\\ln 10}$$"
+  },
+  {
+    "number": 8,
+    "topic": "قاعدة السلسلة - تطبيق المتكرر $A'(5)$",
+    "question": "إذا كان $A(x)=f(g(x))$، وكان $f'(-2)=4,\\ g(5)=-2,\\ g'(5)=6$، فقيمة $A'(5)$ هي:",
+    "choices": [
+      "$24$",
+      "$18$",
+      "$12$",
+      "$8$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$24$",
+    "explanation": "$$A'(5)=f'(g(5))\\cdot g'(5)=f'(-2)\\times 6=4\\times 6=24$$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثالثة باستعمال قاعدة السلسلة",
+    "question": "المشتقة الثالثة للاقتران $f(x) = \\sin(\\pi x)$ هي:",
+    "choices": [
+      "$\\pi^2\\sin(\\pi x)$",
+      "$-\\pi^3\\cos(\\pi x)$",
+      "$\\pi^3\\sin(\\pi x)$",
+      "$\\pi^2\\cos(\\pi x)$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\pi^3\\cos(\\pi x)$",
+    "explanation": "$f'=\\pi\\cos(\\pi x)$\n$f''=-\\pi^2\\sin(\\pi x)$\n$f'''=-\\pi^3\\cos(\\pi x)$"
+  },
+  {
+    "number": 10,
+    "topic": "المعادلة الوسيطية - ميل المماس",
+    "question": "إذا كانت $x=\\dfrac{t}{2},\\ y=t^2-4$، فميل المماس عند $t=-1$ يساوي:",
+    "choices": [
+      "$2$",
+      "$8$",
+      "$1$",
+      "$-4$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-4$",
+    "explanation": "$\\dfrac{dx}{dt}=\\dfrac{1}{2}$، $\\dfrac{dy}{dt}=2t$\n$\\dfrac{dy}{dx}=\\dfrac{2t}{1/2}=4t$\nعند $t=-1$: $4(-1)=-4$"
+  }
+]

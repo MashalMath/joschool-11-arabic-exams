@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "معدل تغير مساحة المربع",
+    "question": "مربع يزداد طول ضلعه بمعدل $3\\text{ cm/s}$، ما معدل تغير مساحته عندما يكون طول ضلعه $5\\text{ cm}$؟",
+    "choices": [
+      "$15\\text{ cm}^2\\text{/s}$",
+      "$30\\text{ cm}^2\\text{/s}$",
+      "$25\\text{ cm}^2\\text{/s}$",
+      "$9\\text{ cm}^2\\text{/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$30\\text{ cm}^2\\text{/s}$",
+    "explanation": "المساحة $A = x^2$. بالاشتقاق: $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$. بالتعويض عن $x=5$ و $\\frac{dx}{dt}=3$: نجد $\\frac{dA}{dt} = 2(5)(3) = 30\\text{ cm}^2\\text{/s}$"
+  },
+  {
+    "number": 2,
+    "topic": "معدل تغير محيط الدائرة",
+    "question": "نصف قطر دائرة يتناقص بمعدل $1.5\\text{ cm/s}$، ما معدل تغير محيطها؟",
+    "choices": [
+      "$3\\pi\\text{ cm/s}$",
+      "$-3\\pi\\text{ cm/s}$",
+      "$1.5\\pi\\text{ cm/s}$",
+      "$-1.5\\pi\\text{ cm/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-3\\pi\\text{ cm/s}$",
+    "explanation": "$C = 2\\pi r \\Rightarrow \\frac{dC}{dt} = 2\\pi \\frac{dr}{dt}$. بما أنه يتناقص: $\\frac{dr}{dt} = -1.5$. إذن: $\\frac{dC}{dt} = 2\\pi(-1.5) = -3\\pi\\text{ cm/s}$"
+  },
+  {
+    "number": 3,
+    "topic": "معدل تغير مساحة الدائرة",
+    "question": "مساحة دائرة تزداد بمعدل $10\\pi\\text{ cm}^2\\text{/s}$، ما معدل تغير نصف قطرها عندما يكون $r = 5\\text{ cm}$؟",
+    "choices": [
+      "$2\\text{ cm/s}$",
+      "$1\\text{ cm/s}$",
+      "$\\pi\\text{ cm/s}$",
+      "$5\\text{ cm/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$1\\text{ cm/s}$",
+    "explanation": "$A = \\pi r^2 \\Rightarrow \\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. بالتعويض: $10\\pi = 2\\pi(5) \\frac{dr}{dt} \\Rightarrow 10\\pi = 10\\pi \\frac{dr}{dt} \\Rightarrow \\frac{dr}{dt} = 1\\text{ cm/s}$"
+  },
+  {
+    "number": 4,
+    "topic": "معدل تغير حجم الكرة",
+    "question": "بالون كروي يزداد نصف قطره بمعدل $0.5\\text{ cm/s}$، ما معدل تغير حجمه عندما $r = 4\\text{ cm}$؟",
+    "choices": [
+      "$8\\pi\\text{ cm}^3\\text{/s}$",
+      "$16\\pi\\text{ cm}^3\\text{/s}$",
+      "$32\\pi\\text{ cm}^3\\text{/s}$",
+      "$4\\pi\\text{ cm}^3\\text{/s}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$32\\pi\\text{ cm}^3\\text{/s}$",
+    "explanation": "$V = \\frac{4}{3}\\pi r^3 \\Rightarrow \\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$. بالتعويض: $\\frac{dV}{dt} = 4\\pi(16)(0.5) = 32\\pi\\text{ cm}^3\\text{/s}$"
+  },
+  {
+    "number": 5,
+    "topic": "معدل تغير المسافة بين سيارتين",
+    "question": "سيارة A تتجه غرباً بسرعة $90\\text{ km/h}$ وسيارة B جنوباً بسرعة $120\\text{ km/h}$ نحو تقاطع. عندما تكون A على بعد $0.4\\text{ km}$ و B على بعد $0.3\\text{ km}$ من التقاطع، ما معدل تغير المسافة بينهما؟",
+    "choices": [
+      "$-150\\text{ km/h}$",
+      "$-144\\text{ km/h}$",
+      "$-156\\text{ km/h}$",
+      "$144\\text{ km/h}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-144\\text{ km/h}$",
+    "explanation": "$z^2 = x^2 + y^2$. اللحظة المطلوبة $z = 0.5$. بالاشتقاق: $2z\\frac{dz}{dt} = 2x\\frac{dx}{dt} + 2y\\frac{dy}{dt}$. بالتعويض: $0.5\\frac{dz}{dt} = 0.4(-90) + 0.3(-120) = -72$. إذن $\\frac{dz}{dt} = -72 / 0.5 = -144\\text{ km/h}$"
+  },
+  {
+    "number": 6,
+    "topic": "معدل تغير زاوية الارتفاع",
+    "question": "صاروخ ينطلق رأسياً بسرعة $200\\text{ ft/s}$، وكاميرا تبعد $1000\\text{ ft}$ عن المنصة. ما معدل تغير زاوية الارتفاع عندما يكون الارتفاع $1000\\text{ ft}$؟",
+    "choices": [
+      "$\\frac{1}{10}\\text{ rad/s}$",
+      "$\\frac{1}{20}\\text{ rad/s}$",
+      "$\\frac{1}{5}\\text{ rad/s}$",
+      "$\\frac{1}{100}\\text{ rad/s}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{1}{10}\\text{ rad/s}$",
+    "explanation": "$\\tan\\theta = \\frac{s}{1000}$. بالاشتقاق: $\\sec^2\\theta \\frac{d\\theta}{dt} = \\frac{1}{1000} \\frac{ds}{dt}$. عند $s=1000$ تكون $\\sec^2\\theta=2$. إذن $2\\frac{d\\theta}{dt} = \\frac{200}{1000} = 0.2 \\Rightarrow \\frac{d\\theta}{dt} = 0.1$"
+  },
+  {
+    "number": 7,
+    "topic": "معدل تغير الارتفاع (مخروط)",
+    "question": "خزان مخروطي (رأسه لأسفل) ارتفاعه $10\\text{ m}$ ونصف قطره $4\\text{ m}$. يُصب فيه الماء بمعدل $2\\text{ m}^3\\text{/min}$. ما معدل ارتفاع الماء عندما $h=5\\text{ m}$؟",
+    "choices": [
+      "$\\frac{5}{8\\pi}\\text{ m/min}$",
+      "$\\frac{1}{2\\pi}\\text{ m/min}$",
+      "$\\frac{5}{16\\pi}\\text{ m/min}$",
+      "$\\frac{1}{4\\pi}\\text{ m/min}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{1}{2\\pi}\\text{ m/min}$",
+    "explanation": "من التشابه $r = 0.4h$. الحجم $V = \\frac{4\\pi h^3}{75}$. بالاشتقاق: $\\frac{dV}{dt} = \\frac{4\\pi h^2}{25} \\frac{dh}{dt}$. بالتعويض: $2 = \\frac{4\\pi(25)}{25} \\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = \\frac{1}{2\\pi}\\text{ m/min}$"
+  },
+  {
+    "number": 8,
+    "topic": "سرعة بقعة الضوء",
+    "question": "مصباح يدور بسرعة $\\omega = 3\\pi\\text{ rad/min}$ ويبعد $6\\text{ m}$ عن جدار. ما سرعة تحرك بقعة الضوء على الجدار عندما $\\tan\\theta = 1$؟",
+    "choices": [
+      "$36\\pi\\text{ m/min}$",
+      "$72\\pi\\text{ m/min}$",
+      "$18\\pi\\text{ m/min}$",
+      "$54\\pi\\text{ m/min}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$36\\pi\\text{ m/min}$",
+    "explanation": "$x = 6\\tan\\theta \\Rightarrow \\frac{dx}{dt} = 6\\sec^2\\theta \\frac{d\\theta}{dt}$. عند $\\tan\\theta=1$ تكون $\\sec^2\\theta=2$. بالتعويض: $6(2)(3\\pi) = 36\\pi\\text{ m/min}$"
+  },
+  {
+    "number": 9,
+    "topic": "المساحة الجانبية (أسطوانة)",
+    "question": "خزان أسطواني ($r=3\\text{ m}$ ثابت). يرتفع الماء بمعدل $\\frac{1}{\\pi}\\text{ m/min}$. ما معدل تغير المساحة الجانبية للسائل؟",
+    "choices": [
+      "$2\\text{ m}^2\\text{/min}$",
+      "$6\\text{ m}^2\\text{/min}$",
+      "$3\\text{ m}^2\\text{/min}$",
+      "$\\frac{6}{\\pi}\\text{ m}^2\\text{/min}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$6\\text{ m}^2\\text{/min}$",
+    "explanation": "$S = 2\\pi r h$. بما أن $r=3$ ثابت: $\\frac{dS}{dt} = 2\\pi(3)(\\frac{1}{\\pi}) = 6\\text{ m}^2\\text{/min}$"
+  },
+  {
+    "number": 10,
+    "topic": "كومة الرمل المخروطية",
+    "question": "يسقط الرمل بمعدل $5\\text{ m}^3\\text{/min}$ مكوناً كومة مخروطية (الارتفاع $h$ يساوي دائماً $r$). ما معدل تغير الارتفاع عندما $h=2\\text{ m}$؟",
+    "choices": [
+      "$\\frac{5}{4\\pi}\\text{ m/min}$",
+      "$\\frac{5}{8\\pi}\\text{ m/min}$",
+      "$\\frac{5}{16\\pi}\\text{ m/min}$",
+      "$\\frac{5}{2\\pi}\\text{ m/min}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{5}{4\\pi}\\text{ m/min}$",
+    "explanation": "$V = \\frac{1}{3}\\pi h^3 \\Rightarrow \\frac{dV}{dt} = \\pi h^2 \\frac{dh}{dt}$. بالتعويض: $5 = \\pi(2^2) \\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = \\frac{5}{4\\pi}\\text{ m/min}$"
+  }
+]

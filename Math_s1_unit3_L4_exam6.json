@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الاشتقاق الضمني الأساسي",
+    "question": "إذا كانت $x^2y^3=8$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{-2y}{3x}$",
+      "$\\dfrac{2x}{3y}$",
+      "$\\dfrac{3x}{2y}$",
+      "$\\dfrac{-3y}{2x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-2y}{3x}$",
+    "explanation": "$$2xy^3+3x^2y^2\\dfrac{dy}{dx}=0 \\Rightarrow 3x^2y^2\\dfrac{dy}{dx}=-2xy^3 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{-2y}{3x}$$"
+  },
+  {
+    "number": 2,
+    "topic": "الاشتقاق الضمني - مثلثي مركب مربع",
+    "question": "إذا كانت $(\\sin\\pi x+\\cos\\pi y)^2=2$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\cos\\pi y}{\\sin\\pi x}$",
+      "$\\dfrac{\\sin\\pi x}{\\cos\\pi y}$",
+      "$\\dfrac{\\cos\\pi x}{\\cos\\pi y}$",
+      "$\\dfrac{\\cos\\pi x}{\\sin\\pi y}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\cos\\pi x}{\\sin\\pi y}$",
+    "explanation": "$$2(\\sin\\pi x+\\cos\\pi y)(\\pi\\cos\\pi x-\\pi\\sin\\pi y\\dfrac{dy}{dx})=0$$\nبما أن المقدار المرفوع للقوة لا يساوي صفراً:\n$$\\pi\\cos\\pi x = \\pi\\sin\\pi y\\dfrac{dy}{dx} \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{\\cos\\pi x}{\\sin\\pi y}$$"
+  },
+  {
+    "number": 3,
+    "topic": "قيمة $\\dfrac{dy}{dx}$ عند نقطة",
+    "question": "إذا كانت $y^3+2x^2=11y$، فقيمة $\\dfrac{dy}{dx}$ عند $y=1$ تساوي:",
+    "choices": [
+      "$\\dfrac{-4x}{3y^2-11}$",
+      "$\\dfrac{4x}{11}$",
+      "$\\dfrac{x}{2}$",
+      "$\\dfrac{-x}{4}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{x}{2}$",
+    "explanation": "$$3y^2\\dfrac{dy}{dx}+4x=11\\dfrac{dy}{dx} \\Rightarrow \\dfrac{dy}{dx}(3y^2-11)=-4x$$\nعند $y=1$: $\\dfrac{dy}{dx}(3-11)=-4x \\Rightarrow -8\\dfrac{dy}{dx}=-4x \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{x}{2}$$"
+  },
+  {
+    "number": 4,
+    "topic": "ميل المماس",
+    "question": "ميل المماس لمنحنى $x^2+y^2=100$ عند $(6,8)$ يساوي:",
+    "choices": [
+      "$\\dfrac{-3}{4}$",
+      "$\\dfrac{3}{8}$",
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{-4}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-3}{4}$",
+    "explanation": "$$2x+2y\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{-x}{y}$$\nعند $(6,8)$: $m=\\dfrac{-6}{8}=\\dfrac{-3}{4}$$"
+  },
+  {
+    "number": 5,
+    "topic": "الاشتقاق الضمني مع أسي - قيمة",
+    "question": "قيمة $\\dfrac{dy}{dx}$ لمنحنى $e^{2x}\\ln y=x+y-2$ عند $(1,1)$ تساوي:",
+    "choices": [
+      "$e^2$",
+      "$\\dfrac{2}{e^2}$",
+      "$e^2-1$",
+      "$\\dfrac{1}{e^2-1}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{e^2-1}$",
+    "explanation": "باشتقاق الطرفين: $$2e^{2x}\\ln y + e^{2x}\\cdot\\dfrac{1}{y}\\dfrac{dy}{dx} = 1 + \\dfrac{dy}{dx}$$\nعند $(1,1)$، وبما أن $\\ln(1)=0$: $$0 + e^2(1)\\dfrac{dy}{dx} = 1 + \\dfrac{dy}{dx} \\Rightarrow \\dfrac{dy}{dx}(e^2-1)=1 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{1}{e^2-1}$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة مماس للمنحنى",
+    "question": "معادلة المماس لمنحنى $y^2=x$ عند النقطة $(9,3)$ هي:",
+    "choices": [
+      "$y=\\dfrac{1}{6}x+\\dfrac{3}{2}$",
+      "$y=6x-51$",
+      "$y=\\dfrac{-1}{6}x+\\dfrac{5}{2}$",
+      "$y=\\dfrac{1}{3}x+1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$y=\\dfrac{1}{6}x+\\dfrac{3}{2}$",
+    "explanation": "$$2y\\dfrac{dy}{dx}=1 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{1}{2y}$$\nعند $(9,3)$: $m=\\dfrac{1}{6}$\nالمعادلة: $y-3=\\dfrac{1}{6}(x-9) \\Rightarrow y=\\dfrac{1}{6}x-\\dfrac{3}{2}+3 \\Rightarrow y=\\dfrac{1}{6}x+\\dfrac{3}{2}$$"
+  },
+  {
+    "number": 7,
+    "topic": "الاشتقاق الضمني - إثبات",
+    "question": "لإثبات أن $\\dfrac{d}{dx}(\\ln x)=\\dfrac{1}{x}$ بالاشتقاق الضمني، نكتب $y=\\ln x$ على الشكل:",
+    "choices": [
+      "$e^y=x$ ثم نشتق الطرفين",
+      "$\\ln y=x$ ثم نشتق الطرفين",
+      "$e^x=y$ ثم نعكس",
+      "$y^2=x$ ثم نشتق"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$e^y=x$ ثم نشتق الطرفين",
+    "explanation": "بتحويل العلاقة للصورة الأسية: $e^y=x$. باشتقاق الطرفين ضمنياً: $$e^y\\dfrac{dy}{dx}=1 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{1}{e^y}$$\nبما أن $e^y=x$، فإن $\\dfrac{dy}{dx}=\\dfrac{1}{x}$$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية عند نقطة",
+    "question": "إذا كانت $x^2+y^2=25$، فقيمة $\\dfrac{d^2y}{dx^2}$ عند $(3,4)$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{64}$",
+      "$\\dfrac{-5}{8}$",
+      "$\\dfrac{-25}{64}$",
+      "$\\dfrac{5}{64}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-25}{64}$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{-x}{y} \\Rightarrow \\dfrac{d^2y}{dx^2}=\\dfrac{-(x^2+y^2)}{y^3}$$\nبما أن $x^2+y^2=25$، فإن $\\dfrac{d^2y}{dx^2}=\\dfrac{-25}{y^3}$\nعند $(3,4)$: $\\dfrac{-25}{4^3}=\\dfrac{-25}{64}$$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية للمعادلة الوسيطية",
+    "question": "للمعادلة الوسيطية $x=3t^2+1,\\ y=t^3-2t^2$، قيمة $\\dfrac{d^2y}{dx^2}$ عند $t=2$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{12}$",
+      "$\\dfrac{1}{6}$",
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{1}{24}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1}{24}$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{3t^2-4t}{6t} = \\dfrac{3t-4}{6} = \\dfrac{t}{2}-\\dfrac{2}{3}$$\n$$\\dfrac{d^2y}{dx^2} = \\dfrac{d/dt(dy/dx)}{dx/dt} = \\dfrac{1/2}{6t} = \\dfrac{1}{12t}$$\nعند $t=2$: $\\dfrac{1}{24}$$"
+  },
+  {
+    "number": 10,
+    "topic": "ميل المماس - قطع زائد",
+    "question": "ميل المماس لمنحنى $x^2-y^2=7$ عند النقطة $(4,3)$ يساوي:",
+    "choices": [
+      "$\\dfrac{3}{4}$",
+      "$\\dfrac{4}{3}$",
+      "$\\dfrac{-4}{3}$",
+      "$\\dfrac{1}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{4}{3}$",
+    "explanation": "$$2x-2y\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{x}{y}$$\nعند $(4,3)$: $m=\\dfrac{4}{3}$$"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - جيب التمام مركب",
+    "question": "مشتقة الاقتران $f(x) = \\cos(x^2-3x-4)$ هي:",
+    "choices": [
+      "$\\sin(x^2-3x-4)$",
+      "$(2x-3)\\cos(x^2-3x-4)$",
+      "$-(2x-3)\\sin(x^2-3x-4)$",
+      "$\\cos(x^2-3x-4)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-(2x-3)\\sin(x^2-3x-4)$",
+    "explanation": "$g(x)=x^2-3x-4$، $g'(x)=2x-3$:\n$$f'=-\\sin(x^2-3x-4)\\times(2x-3)=-(2x-3)\\sin(x^2-3x-4)$$"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة السلسلة - الأسي مع معامل",
+    "question": "مشتقة الاقتران $f(x) = 50e^{2x-10}$ هي:",
+    "choices": [
+      "$100e^{2x-10}$",
+      "$50e^{2x}$",
+      "$e^{2x-10}$",
+      "$100xe^{2x-11}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$100e^{2x-10}$",
+    "explanation": "$g(x)=2x-10$، $g'(x)=2$:\n$$f'=50\\times e^{2x-10}\\times 2=100e^{2x-10}$$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة السلسلة - الظل",
+    "question": "مشتقة الاقتران $f(x) = \\tan(3x^2)$ هي:",
+    "choices": [
+      "$3x\\sec^2(3x^2)$",
+      "$\\sec^2(3x^2)$",
+      "$6x\\tan(3x^2)$",
+      "$6x\\sec^2(3x^2)$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$6x\\sec^2(3x^2)$",
+    "explanation": "$g(x)=3x^2$، $g'(x)=6x$:\n$$f'=\\sec^2(3x^2)\\times 6x=6x\\sec^2(3x^2)$$"
+  },
+  {
+    "number": 4,
+    "topic": "قاعدة سلسلة القوة - كسري",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt[3]{(x^2-1)^2}$ هي:",
+    "choices": [
+      "$\\dfrac{2(x^2-1)^{1/3}}{3}$",
+      "$\\dfrac{4x}{3\\sqrt[3]{x^2-1}}$",
+      "$\\dfrac{2x}{3(x^2-1)^{2/3}}$",
+      "$\\dfrac{(x^2-1)^{1/3}}{x}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{4x}{3\\sqrt[3]{x^2-1}}$",
+    "explanation": "$f=(x^2-1)^{2/3}$، $g'=2x$:\n$$f'=\\frac{2}{3}(x^2-1)^{-1/3}\\times 2x=\\frac{4x}{3\\sqrt[3]{x^2-1}}$$"
+  },
+  {
+    "number": 5,
+    "topic": "قاعدة سلسلة القوة - لوغاريتم",
+    "question": "مشتقة الاقتران $f(x) = (\\ln x)^5$ هي:",
+    "choices": [
+      "$\\dfrac{5(\\ln x)^4}{x}$",
+      "$\\dfrac{5(\\ln x)^4}{x^5}$",
+      "$5(\\ln x)^4$",
+      "$\\dfrac{(\\ln x)^4}{5x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{5(\\ln x)^4}{x}$",
+    "explanation": "$g(x)=\\ln x$، $g'(x)=\\dfrac{1}{x}$:\n$$f'=5(\\ln x)^4\\times\\frac{1}{x}=\\frac{5(\\ln x)^4}{x}$$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة $a^{g(x)}$ - أس ضعفي",
+    "question": "مشتقة الاقتران $f(x) = 3^{2x}$ هي:",
+    "choices": [
+      "$3^{2x}$",
+      "$(\\ln 3)\\cdot 3^{2x}$",
+      "$(2\\ln 3)\\cdot 3^{2x}$",
+      "$2x\\cdot 3^{2x-1}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$(2\\ln 3)\\cdot 3^{2x}$",
+    "explanation": "$g(x)=2x$، $g'(x)=2$:\n$$f'=(\\ln 3)\\cdot 3^{2x}\\times 2=(2\\ln 3)\\cdot 3^{2x}$$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة $\\log_a g(x)$",
+    "question": "مشتقة الاقتران $f(x) = \\log_8(x^2+3x)$ هي:",
+    "choices": [
+      "$\\dfrac{1}{(x^2+3x)\\ln 8}$",
+      "$\\dfrac{2x+3}{(x^2+3x)\\ln 8}$",
+      "$\\dfrac{x^2+3x}{(2x+3)\\ln 8}$",
+      "$\\dfrac{2x+3}{x^2+3x}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{2x+3}{(x^2+3x)\\ln 8}$",
+    "explanation": "$g(x)=x^2+3x$، $g'(x)=2x+3$:\n$$f'=\\frac{2x+3}{(\\ln 8)(x^2+3x)}$$"
+  },
+  {
+    "number": 8,
+    "topic": "قاعدة السلسلة مع قاعدة القسمة",
+    "question": "ميل المماس لمنحنى $f(x)=\\left(\\dfrac{3x-1}{x^2+3}\\right)^2$ عند $x=0$ يساوي:",
+    "choices": [
+      "$\\dfrac{2}{9}$",
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{-1}{9}$",
+      "$\\dfrac{-2}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-2}{3}$",
+    "explanation": "عند $x=0$: $\\dfrac{3(0)-1}{0+3}=\\dfrac{-1}{3}$\n$f'(0)=2\\left(\\dfrac{-1}{3}\\right)\\times\\dfrac{(3)(3)-0}{9}=\\dfrac{-2}{3}\\times 1=\\dfrac{-2}{3}$"
+  },
+  {
+    "number": 9,
+    "topic": "قاعدة السلسلة - $A'(5)$",
+    "question": "إذا كان $A(x)=f(g(x))$، وكان $f'(-2)=4,\\ g(5)=-2,\\ g'(5)=6$، فقيمة $A'(5)$ هي:",
+    "choices": [
+      "$12$",
+      "$24$",
+      "$18$",
+      "$8$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$24$",
+    "explanation": "$$A'(5)=f'(g(5))\\cdot g'(5)=f'(-2)\\times 6=4\\times 6=24$$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة مماس المعادلة الوسيطية",
+    "question": "معادلة مماس منحنى $x=\\sec t,\\ y=\\tan t$ عند $t=\\dfrac{\\pi}{4}$ هي:",
+    "choices": [
+      "$y=\\sqrt{2}x+2$",
+      "$y=x$",
+      "$y=\\sqrt{2}x-1$",
+      "$y=\\sqrt{2}x+1$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y=\\sqrt{2}x-1$",
+    "explanation": "الميل=$\\csc t$، عند $\\pi/4$: ميل$=\\sqrt{2}$\nنقطة: $x=\\sqrt{2}$، $y=1$\n$y-1=\\sqrt{2}(x-\\sqrt{2})=\\sqrt{2}x-2$\n$y=\\sqrt{2}x-1$"
+  }
+]

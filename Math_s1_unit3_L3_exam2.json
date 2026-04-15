@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - الجيب",
+    "question": "مشتقة الاقتران $f(x) = \\sin(3x^2)$ هي:",
+    "choices": [
+      "$\\cos(3x^2)$",
+      "$6x\\cos(3x^2)$",
+      "$3x\\cos(3x^2)$",
+      "$6\\cos(3x^2)$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$6x\\cos(3x^2)$",
+    "explanation": "$g(x)=3x^2$، $g'(x)=6x$:\n$$f'=\\cos(3x^2)\\times 6x=6x\\cos(3x^2)$$"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة السلسلة - الأسي الطبيعي",
+    "question": "مشتقة الاقتران $f(x) = e^{x+x^2}$ هي:",
+    "choices": [
+      "$(1+x)e^{x+x^2}$",
+      "$(x+2)e^{x+x^2}$",
+      "$(1+2x)e^{x+x^2}$",
+      "$(2+x)e^{x^2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$(1+2x)e^{x+x^2}$",
+    "explanation": "$g(x)=x+x^2$، $g'(x)=1+2x$:\n$$f'=e^{x+x^2}\\times(1+2x)=(1+2x)e^{x+x^2}$$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة السلسلة - اللوغاريتم الطبيعي",
+    "question": "مشتقة الاقتران $f(x) = \\ln(\\cos x)$ هي:",
+    "choices": [
+      "$-\\tan x$",
+      "$\\dfrac{1}{\\cos x}$",
+      "$\\dfrac{\\cos x}{\\sin x}$",
+      "$\\dfrac{\\sin x}{\\cos^2 x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\tan x$",
+    "explanation": "$g(x)=\\cos x$، $g'(x)=-\\sin x$:\n$$f'=\\frac{-\\sin x}{\\cos x}=-\\tan x$$"
+  },
+  {
+    "number": 4,
+    "topic": "قاعدة سلسلة القوة - ظل",
+    "question": "مشتقة الاقتران $f(x) = \\tan^4 x$ هي:",
+    "choices": [
+      "$4\\tan^3 x$",
+      "$4\\tan^3 x\\sec x$",
+      "$\\sec^4 x$",
+      "$4\\tan^3 x\\sec^2 x$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$4\\tan^3 x\\sec^2 x$",
+    "explanation": "$f=(\\tan x)^4$:\n$$f'=4(\\tan x)^3\\times\\sec^2 x=4\\tan^3 x\\sec^2 x$$"
+  },
+  {
+    "number": 5,
+    "topic": "قاعدة سلسلة القوة - جذر جيب التمام",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt{\\cos x}$ هي:",
+    "choices": [
+      "$\\dfrac{1}{2\\sqrt{\\cos x}}$",
+      "$\\dfrac{1}{2\\sqrt{\\sin x}}$",
+      "$\\dfrac{-\\sin x}{2\\sqrt{\\cos x}}$",
+      "$\\dfrac{\\sin x}{2\\sqrt{\\sin x}}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-\\sin x}{2\\sqrt{\\cos x}}$",
+    "explanation": "$(\\cos x)^{1/2}$:\n$$f'=\\frac{1}{2}(\\cos x)^{-1/2}\\times(-\\sin x)=\\frac{-\\sin x}{2\\sqrt{\\cos x}}$$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة $a^{g(x)}$",
+    "question": "مشتقة الاقتران $f(x) = 6^{x^2}$ هي:",
+    "choices": [
+      "$x^2\\cdot 6^{x^2-1}$",
+      "$(2x\\ln 6)\\cdot 6^{x^2}$",
+      "$(x^2\\ln 6)\\cdot 6^{x^2}$",
+      "$(2\\ln 6)\\cdot 6^{x^2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$(2x\\ln 6)\\cdot 6^{x^2}$",
+    "explanation": "$g(x)=x^2$، $g'(x)=2x$:\n$$f'=(\\ln 6)\\cdot 6^{x^2}\\times 2x=(2x\\ln 6)\\cdot 6^{x^2}$$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة $\\log_a g(x)$ - أساس 10",
+    "question": "مشتقة الاقتران $f(x) = \\log(\\cos x)$ هي ($\\log$ أساسه 10):",
+    "choices": [
+      "$\\dfrac{1}{\\cos x\\ln 10}$",
+      "$\\dfrac{\\cot x}{\\ln 10}$",
+      "$\\dfrac{\\sin x}{\\cos x\\ln 10}$",
+      "$\\dfrac{-\\tan x}{\\ln 10}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-\\tan x}{\\ln 10}$",
+    "explanation": "$$f'=\\frac{-\\sin x}{(\\ln 10)\\cos x}=\\frac{-\\tan x}{\\ln 10}$$"
+  },
+  {
+    "number": 8,
+    "topic": "قاعدة السلسلة مع قاعدة الضرب",
+    "question": "مشتقة الاقتران $f(x) = e^{-0.2x}\\sin 4x$ هي:",
+    "choices": [
+      "$4e^{-0.2x}\\cos 4x-0.2e^{-0.2x}\\sin 4x$",
+      "$4e^{-0.2x}\\cos 4x+0.2e^{-0.2x}\\sin 4x$",
+      "$e^{-0.2x}\\cos 4x+0.2e^{-0.2x}\\sin 4x$",
+      "$4e^{-0.2x}\\cos 4x$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4e^{-0.2x}\\cos 4x-0.2e^{-0.2x}\\sin 4x$",
+    "explanation": "قاعدة الضرب:\n$f'=e^{-0.2x}(4\\cos 4x)+\\sin 4x(-0.2e^{-0.2x})$\n$=4e^{-0.2x}\\cos 4x-0.2e^{-0.2x}\\sin 4x$"
+  },
+  {
+    "number": 9,
+    "topic": "قاعدة السلسلة المتكررة - مربع الجيب",
+    "question": "مشتقة الاقتران $f(x) = \\sin^2(3x)$ هي:",
+    "choices": [
+      "$2\\sin(3x)$",
+      "$6\\sin(3x)$",
+      "$3\\sin(6x)$",
+      "$6\\sin(6x)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$3\\sin(6x)$",
+    "explanation": "$(\\sin 3x)^2$:\n$f'=2\\sin(3x)\\times 3\\cos(3x)=6\\sin(3x)\\cos(3x)=3\\sin(6x)$"
+  },
+  {
+    "number": 10,
+    "topic": "مشتقة المعادلة الوسيطية",
+    "question": "إذا كانت $x=2\\sin t,\\ y=3\\cos t$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{3\\sin t}{2\\cos t}$",
+      "$\\dfrac{-3\\tan t}{2}$",
+      "$\\dfrac{2\\cos t}{3\\sin t}$",
+      "$\\dfrac{3\\cos t}{2\\sin t}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-3\\tan t}{2}$",
+    "explanation": "$\\dfrac{dx}{dt}=2\\cos t$، $\\dfrac{dy}{dt}=-3\\sin t$\n$$\\dfrac{dy}{dx}=\\frac{-3\\sin t}{2\\cos t}=\\frac{-3\\tan t}{2}$$"
+  }
+]

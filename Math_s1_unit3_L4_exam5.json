@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الاشتقاق الضمني الأساسي",
+    "question": "إذا كانت $\\dfrac{1}{x^2}+\\dfrac{1}{y^2}=\\dfrac{1}{10}$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y^3}{x^3}$",
+      "$\\dfrac{x^3}{y}$",
+      "$\\dfrac{x}{y^3}$",
+      "$\\dfrac{y}{x^3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{y^3}{x^3}$",
+    "explanation": "$$-\\dfrac{2}{x^3}-\\dfrac{2}{y^3}\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{y^3}{x^3}$$"
+  },
+  {
+    "number": 2,
+    "topic": "الاشتقاق الضمني مع لوغاريتم مركب",
+    "question": "إذا كانت $x^2+y^2=\\ln(x+y)^2$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{x(x+y)-1}{1-y(x+y)}$",
+      "$\\dfrac{x}{y}$",
+      "$\\dfrac{1-x(x+y)}{y(x+y)-1}$",
+      "$\\dfrac{x+y}{1+x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{1-x(x+y)}{y(x+y)-1}$",
+    "explanation": "$$\\ln(x+y)^2=2\\ln(x+y)$$\n$$2x+2y\\dfrac{dy}{dx}=\\dfrac{2}{x+y}\\left(1+\\dfrac{dy}{dx}\\right)$$\n$$(2y-\\dfrac{2}{x+y})\\dfrac{dy}{dx}=\\dfrac{2}{x+y}-2x$$\n$$\\dfrac{dy}{dx}=\\dfrac{1-x(x+y)}{y(x+y)-1}$$"
+  },
+  {
+    "number": 3,
+    "topic": "الاشتقاق الضمني مع الظل",
+    "question": "إذا كانت $\\tan(x-y)=2xy^3+1$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sec^2(x-y)}{2y^3}$",
+      "$\\dfrac{\\sec^2(x-y)-2y^3}{6xy^2+\\sec^2(x-y)}$",
+      "$\\dfrac{2y^3}{\\sec^2(x-y)}$",
+      "$\\dfrac{\\sec^2(x-y)+2y^3}{6xy^2+\\sec^2(x-y)}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{\\sec^2(x-y)-2y^3}{6xy^2+\\sec^2(x-y)}$",
+    "explanation": "$$\\sec^2(x-y)(1-\\dfrac{dy}{dx})=2y^3+6xy^2\\dfrac{dy}{dx}$$\n$$(6xy^2+\\sec^2(x-y))\\dfrac{dy}{dx}=\\sec^2(x-y)-2y^3$$\n$$\\dfrac{dy}{dx}=\\dfrac{\\sec^2(x-y)-2y^3}{6xy^2+\\sec^2(x-y)}$$"
+  },
+  {
+    "number": 4,
+    "topic": "ميل المماس (دائرة)",
+    "question": "ميل المماس لمنحنى $x^2+y^2=25$ عند نقطة إحداثيها $x=3$، $y=-4$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{x}{y}$",
+      "$\\dfrac{-4}{3}$",
+      "$\\dfrac{3}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{3}{4}$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{-x}{y}$$\nعند $(3,-4)$: $m=\\dfrac{-3}{-4}=\\dfrac{3}{4}$$"
+  },
+  {
+    "number": 5,
+    "topic": "الاشتقاق الضمني - أسي وضرب",
+    "question": "إذا كانت $xy+e^y=e$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y}{x-e^y}$",
+      "$\\dfrac{e^y}{x}$",
+      "$\\dfrac{-y}{x+e^y}$",
+      "$\\dfrac{y}{e^y-x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-y}{x+e^y}$",
+    "explanation": "$$y+x\\dfrac{dy}{dx}+e^y\\dfrac{dy}{dx}=0$$\n$$(x+e^y)\\dfrac{dy}{dx}=-y$$\n$$\\dfrac{dy}{dx}=\\dfrac{-y}{x+e^y}$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس",
+    "question": "معادلة المماس لمنحنى $x^3+y^3=6xy$ عند $(3,3)$ هي:",
+    "choices": [
+      "$y=-x+6$",
+      "$y=x-3$",
+      "$y=2x-3$",
+      "$y=x-6$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$y=-x+6$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{6y-3x^2}{3y^2-6x}=\\dfrac{2y-x^2}{y^2-2x}$$\nعند $(3,3)$: $m=\\dfrac{6-9}{9-6}=-1$\n$y-3=-1(x-3) \\Rightarrow y=-x+6$"
+  },
+  {
+    "number": 7,
+    "topic": "الاشتقاق الضمني - قطع زائد",
+    "question": "إذا كانت $x^2-y^2=1$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y}{x}$",
+      "$\\dfrac{x}{2y}$",
+      "$\\dfrac{y}{2x}$",
+      "$\\dfrac{x}{y}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{x}{y}$",
+    "explanation": "$$2x-2y\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{x}{y}$$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية للعلاقة الضمنية",
+    "question": "إذا كانت $x^2-y^2=1$، فإن $\\dfrac{d^2y}{dx^2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{y}$",
+      "$\\dfrac{-1}{y^3}$",
+      "$\\dfrac{x^2+y^2}{y^3}$",
+      "$\\dfrac{2x}{y^2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-1}{y^3}$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{x}{y}$$\n$$\\dfrac{d^2y}{dx^2}=\\dfrac{y-x(dy/dx)}{y^2}=\\dfrac{y-x(x/y)}{y^2}=\\dfrac{y^2-x^2}{y^3}$$\nبما أن $x^2-y^2=1$ فإن $y^2-x^2=-1$، إذن: $\\dfrac{-1}{y^3}$$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية للمعادلة الوسيطية",
+    "question": "للمعادلة الوسيطية $x=t^3+3t^2,\\ y=t^4-8t^2$، قيمة $\\dfrac{d^2y}{dx^2}$ عند $t=1$ تساوي:",
+    "choices": [
+      "$\\dfrac{1}{27}$",
+      "$\\dfrac{-4}{9}$",
+      "$\\dfrac{4}{27}$",
+      "$\\dfrac{-1}{9}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{4}{27}$",
+    "explanation": "$$\\dfrac{dy}{dx}=\\dfrac{4(t-2)}{3}$$\n$$\\dfrac{d^2y}{dx^2}=\\dfrac{d/dt(dy/dx)}{dx/dt} = \\dfrac{4/3}{3t^2+6t}$$\nعند $t=1$: $\\dfrac{4/3}{9}=\\dfrac{4}{27}$$"
+  },
+  {
+    "number": 10,
+    "topic": "الاشتقاق الضمني - مثلثي مركب",
+    "question": "إذا كانت $x=\\sec(1/y)$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y^2}{x\\sqrt{x^2-1}}$",
+      "$\\dfrac{-y^2}{x\\sqrt{x^2-1}}$",
+      "$\\dfrac{1}{x\\sqrt{x^2-1}}$",
+      "$\\dfrac{-1}{x\\sqrt{x^2-1}}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-y^2}{x\\sqrt{x^2-1}}$",
+    "explanation": "$$1=\\sec(1/y)\\tan(1/y)\\cdot\\dfrac{-1}{y^2}\\dfrac{dy}{dx}$$\n$$\\dfrac{dy}{dx}=\\dfrac{-y^2}{\\sec(1/y)\\tan(1/y)}$$\nبما أن $\\sec(1/y)=x$ فإن $\\tan(1/y)=\\sqrt{x^2-1}$، إذن: $\\dfrac{-y^2}{x\\sqrt{x^2-1}}$$$"
+  }
+]

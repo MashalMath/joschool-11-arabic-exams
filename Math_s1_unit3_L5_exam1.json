@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "معدل تغير مساحة المربع",
+    "question": "مربع يزداد طول ضلعه بمعدل $3\\text{ cm/s}$، ما معدل تغير مساحته عندما يكون طول ضلعه $5\\text{ cm}$؟",
+    "choices": [
+      "$15\\text{ cm}^2\\text{/s}$",
+      "$30\\text{ cm}^2\\text{/s}$",
+      "$25\\text{ cm}^2\\text{/s}$",
+      "$9\\text{ cm}^2\\text{/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$30\\text{ cm}^2\\text{/s}$",
+    "explanation": "مساحة المربع $A = x^2$. بالاشتقاق بالنسبة للزمن: $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$. بالتعويض عن $x=5$ و $\\frac{dx}{dt}=3$: نجد أن $\\frac{dA}{dt} = 2(5)(3) = 30\\text{ cm}^2\\text{/s}$"
+  },
+  {
+    "number": 2,
+    "topic": "معدل تغير محيط الدائرة",
+    "question": "دائرة يزداد نصف قطرها بمعدل ثابت $2\\text{ cm/s}$، ما معدل تغير محيطها؟",
+    "choices": [
+      "$2\\pi\\text{ cm/s}$",
+      "$4\\pi\\text{ cm/s}$",
+      "$\\pi\\text{ cm/s}$",
+      "$8\\pi\\text{ cm/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$4\\pi\\text{ cm/s}$",
+    "explanation": "المحيط $C = 2\\pi r$. بالاشتقاق: $\\frac{dC}{dt} = 2\\pi \\frac{dr}{dt}$. بالتعويض عن $\\frac{dr}{dt} = 2$: نجد أن $\\frac{dC}{dt} = 2\\pi(2) = 4\\pi\\text{ cm/s}$"
+  },
+  {
+    "number": 3,
+    "topic": "معدل تغير مساحة الدائرة",
+    "question": "إذا كان نصف قطر دائرة يزداد بمعدل $4\\text{ cm/s}$، فما معدل تغير مساحتها عندما يكون نصف قطرها $3\\text{ cm}$؟",
+    "choices": [
+      "$12\\pi\\text{ cm}^2\\text{/s}$",
+      "$24\\pi\\text{ cm}^2\\text{/s}$",
+      "$16\\pi\\text{ cm}^2\\text{/s}$",
+      "$8\\pi\\text{ cm}^2\\text{/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$24\\pi\\text{ cm}^2\\text{/s}$",
+    "explanation": "المساحة $A = \\pi r^2$. بالاشتقاق: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. بالتعويض عن $r=3$ و $\\frac{dr}{dt}=4$: نجد أن $\\frac{dA}{dt} = 2\\pi(3)(4) = 24\\pi\\text{ cm}^2\\text{/s}$"
+  },
+  {
+    "number": 4,
+    "topic": "معدل تغير حجم الكرة",
+    "question": "تُنفخ كرة هوائية فيزداد حجمها بمعدل $100\\text{ cm}^3\\text{/s}$، ما معدل تغير نصف قطرها عندما يكون $r = 5\\text{ cm}$؟",
+    "choices": [
+      "$\\frac{1}{\\pi}\\text{ cm/s}$",
+      "$\\frac{2}{\\pi}\\text{ cm/s}$",
+      "$\\frac{1}{2\\pi}\\text{ cm/s}$",
+      "$\\frac{4}{\\pi}\\text{ cm/s}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{1}{\\pi}\\text{ cm/s}$",
+    "explanation": "الحجم $V = \\frac{4}{3}\\pi r^3$. بالاشتقاق: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$. بالتعويض: $100 = 4\\pi(5^2)\\frac{dr}{dt} \\Rightarrow 100 = 100\\pi\\frac{dr}{dt}$. إذن $\\frac{dr}{dt} = \\frac{1}{\\pi}\\text{ cm/s}$"
+  },
+  {
+    "number": 5,
+    "topic": "معدل تغير المسافة (فيثاغورس)",
+    "question": "تتحرك سيارة A شرقاً بسرعة $60\\text{ km/h}$ وسيارة B شمالاً بسرعة $80\\text{ km/h}$ من نقطة واحدة. ما معدل تغير المسافة بينهما بعد ساعة؟",
+    "choices": [
+      "$100\\text{ km/h}$",
+      "$120\\text{ km/h}$",
+      "$140\\text{ km/h}$",
+      "$160\\text{ km/h}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$100\\text{ km/h}$",
+    "explanation": "بعد ساعة: $x=60, y=80, z=100$. العلاقة $z^2 = x^2 + y^2$. بالاشتقاق: $2z\\frac{dz}{dt} = 2x\\frac{dx}{dt} + 2y\\frac{dy}{dt}$. بالتعويض: $200\\frac{dz}{dt} = 2(60)(60) + 2(80)(80) = 20000$. إذن $\\frac{dz}{dt} = 100\\text{ km/h}$"
+  },
+  {
+    "number": 6,
+    "topic": "معدل تغير زاوية الارتفاع",
+    "question": "صاروخ ينطلق رأسياً وموقعه $s = 100t^2\\text{ ft}$. كاميرا تبعد $500\\text{ ft}$ عن منصة الإطلاق. ما معدل تغير زاوية الارتفاع عندما $t = 2$؟",
+    "choices": [
+      "$\\frac{400}{500^2 + 400^2}\\text{ rad/s}$",
+      "$\\frac{500 \\times 400}{500^2 + 400^2}\\text{ rad/s}$",
+      "$\\frac{200}{500^2 + 400^2}\\text{ rad/s}$",
+      "$\\frac{500}{400}\\text{ rad/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{500 \\times 400}{500^2 + 400^2}\\text{ rad/s}$",
+    "explanation": "عند $t=2$: $s=400$ و $\\frac{ds}{dt}=200t=400$. العلاقة $\\tan\\theta = \\frac{s}{500}$. بالاشتقاق: $\\sec^2\\theta \\frac{d\\theta}{dt} = \\frac{1}{500}\\frac{ds}{dt}$. بما أن $\\sec^2\\theta = \\frac{500^2+400^2}{500^2}$. إذن $\\frac{d\\theta}{dt} = \\frac{1}{500}(400) \\times \\frac{500^2}{500^2+400^2} = \\frac{500 \\times 400}{500^2+400^2}$"
+  },
+  {
+    "number": 7,
+    "topic": "معدل تغير ارتفاع الماء (مخروط)",
+    "question": "خزان مخروطي (رأسه لأسفل) ارتفاعه $6\\text{ m}$ ونصف قطره $2\\text{ m}$. يتسرب منه الماء بمعدل $\\frac{1}{6}\\text{ m}^3\\text{/min}$. ما معدل تغير ارتفاع الماء عندما $h=3\\text{ m}$؟",
+    "choices": [
+      "$-\\frac{1}{3\\pi}\\text{ m/min}$",
+      "$-\\frac{1}{6\\pi}\\text{ m/min}$",
+      "$-\\frac{2}{\\pi}\\text{ m/min}$",
+      "$-\\frac{1}{9\\pi}\\text{ m/min}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\frac{1}{6\\pi}\\text{ m/min}$",
+    "explanation": "من التشابه $r = h/3$. الحجم $V = \\frac{\\pi h^3}{27}$. بالاشتقاق: $\\frac{dV}{dt} = \\frac{\\pi h^2}{9}\\frac{dh}{dt}$. بالتعويض $\\frac{dV}{dt} = -1/6$ و $h=3$: $-1/6 = \\pi\\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = -1/6\\pi$"
+  },
+  {
+    "number": 8,
+    "topic": "السرعة الزاوية",
+    "question": "مصباح يدور حول نفسه بمعدل $2$ دورة في الدقيقة. ما السرعة الزاوية للمصباح بالراديان؟",
+    "choices": [
+      "$2\\pi\\text{ rad/min}$",
+      "$4\\pi\\text{ rad/min}$",
+      "$\\pi\\text{ rad/min}$",
+      "$8\\pi\\text{ rad/min}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$4\\pi\\text{ rad/min}$",
+    "explanation": "الدورة الواحدة هي $2\\pi$ راديان. إذن $2$ دورة تعادل $2 \\times 2\\pi = 4\\pi\\text{ rad/min}$"
+  },
+  {
+    "number": 9,
+    "topic": "معدل الارتفاع في أسطوانة",
+    "question": "خزان أسطواني قطر قاعدته $4\\text{ m}$. يُملأ بالماء بمعدل $2\\text{ m}^3\\text{/min}$. ما معدل ارتفاع منسوب الماء؟",
+    "choices": [
+      "$\\frac{1}{2\\pi}\\text{ m/min}$",
+      "$\\frac{1}{4\\pi}\\text{ m/min}$",
+      "$\\frac{2}{\\pi}\\text{ m/min}$",
+      "$\\frac{\\pi}{2}\\text{ m/min}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{1}{2\\pi}\\text{ m/min}$",
+    "explanation": "نصف القطر ثابت $r=2$. الحجم $V = \\pi r^2 h = 4\\pi h$. بالاشتقاق: $\\frac{dV}{dt} = 4\\pi\\frac{dh}{dt}$. بالتعويض $2 = 4\\pi\\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = \\frac{1}{2\\pi}$"
+  },
+  {
+    "number": 10,
+    "topic": "معدل تغير مساحة المستطيل",
+    "question": "مستطيل طوله يزداد بمعدل $3\\text{ cm/s}$ وعرضه يتناقص بمعدل $2\\text{ cm/s}$. إذا كان الطول $10$ والعرض $6$، ما معدل تغير المساحة؟",
+    "choices": [
+      "$2\\text{ cm}^2\\text{/s}$",
+      "$-2\\text{ cm}^2\\text{/s}$",
+      "$18\\text{ cm}^2\\text{/s}$",
+      "$-20\\text{ cm}^2\\text{/s}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-2\\text{ cm}^2\\text{/s}$",
+    "explanation": "المساحة $A = L \\times W$. بالاشتقاق: $\\frac{dA}{dt} = L\\frac{dW}{dt} + W\\frac{dL}{dt}$. بالتعويض: $\\frac{dA}{dt} = 10(-2) + 6(3) = -20 + 18 = -2\\text{ cm}^2\\text{/s}$"
+  }
+]

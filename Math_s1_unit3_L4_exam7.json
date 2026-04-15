@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الاشتقاق الضمني - حد مركب",
+    "question": "إذا كانت $x^2y+y^2x=5$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{2xy+y^2}{x^2+2xy}$",
+      "$\\dfrac{x+y}{x^2}$",
+      "$\\dfrac{-(2xy+y^2)}{x^2+2xy}$",
+      "$\\dfrac{x^2+y^2}{2xy}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-(2xy+y^2)}{x^2+2xy}$",
+    "explanation": "$$2xy+x^2\\dfrac{dy}{dx}+y^2+2xy\\dfrac{dy}{dx}=0$$\n$$(x^2+2xy)\\dfrac{dy}{dx}=-(2xy+y^2)$$\n$$\\dfrac{dy}{dx}=\\dfrac{-(2xy+y^2)}{x^2+2xy}$$"
+  },
+  {
+    "number": 2,
+    "topic": "الاشتقاق الضمني - جيب مختلف",
+    "question": "إذا كانت $x+y=\\sin(x-y)$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\cos(x-y)-1}{\\cos(x-y)+1}$",
+      "$\\dfrac{\\sin(x-y)}{2}$",
+      "$\\dfrac{1-\\cos(x-y)}{1+\\cos(x-y)}$",
+      "$\\dfrac{\\cos(x-y)}{\\sin(x-y)}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{\\cos(x-y)-1}{\\cos(x-y)+1}$",
+    "explanation": "$$1+\\dfrac{dy}{dx}=\\cos(x-y)(1-\\dfrac{dy}{dx})$$\n$$(1+\\cos(x-y))\\dfrac{dy}{dx}=\\cos(x-y)-1$$\n$$\\dfrac{dy}{dx}=\\dfrac{\\cos(x-y)-1}{\\cos(x-y)+1}$$"
+  },
+  {
+    "number": 3,
+    "topic": "تقييم الميل عند نقطة",
+    "question": "قيمة $\\dfrac{dy}{dx}$ لمنحنى $x^3+y^3-3xy=17$ عند $(2,3)$ تساوي:",
+    "choices": [
+      "$2$",
+      "$\\dfrac{-1}{7}$",
+      "$3$",
+      "$-7$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-1}{7}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{y-x^2}{y^2-x}$\n\nعند $(2,3)$: $m=\\dfrac{3-4}{9-2}=\\dfrac{-1}{7}$"
+  },
+  {
+    "number": 4,
+    "topic": "ميل المماس - قطع ناقص",
+    "question": "ميل المماس لمنحنى $x^2-y^2=9$ عند $(5,4)$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{5}$",
+      "$\\dfrac{-1}{4}$",
+      "$-1$",
+      "$\\dfrac{5}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{5}{4}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{x}{y}$\n\nعند $(5,4)$: $m=\\dfrac{5}{4}$"
+  },
+  {
+    "number": 5,
+    "topic": "الاشتقاق الضمني - قاعدة الضرب",
+    "question": "إذا كانت $2y^2+2xy-1=0$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{-y}{2y+x}$",
+      "$\\dfrac{y}{2y-x}$",
+      "$\\dfrac{2y}{x}$",
+      "$\\dfrac{-x}{4y+2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-y}{2y+x}$",
+    "explanation": "$$4y\\dfrac{dy}{dx}+2y+2x\\dfrac{dy}{dx}=0$$\n$$(4y+2x)\\dfrac{dy}{dx}=-2y$$\n$$\\dfrac{dy}{dx}=\\dfrac{-y}{2y+x}$$"
+  },
+  {
+    "number": 6,
+    "topic": "معادلة المماس",
+    "question": "معادلة المماس لمنحنى $x^2+xy+y^2=13$ عند $(2,3)$ هي:",
+    "choices": [
+      "$y=x+1$",
+      "$y=-x+5$",
+      "$y=\\dfrac{-7}{8}x+\\dfrac{19}{4}$",
+      "$y=\\dfrac{7}{8}x-1$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y=\\dfrac{-7}{8}x+\\dfrac{19}{4}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{-(2x+y)}{x+2y}$\n\nعند $(2,3)$: $m=\\dfrac{-7}{8}$\n\n$y-3=\\dfrac{-7}{8}(x-2) \\Rightarrow y=\\dfrac{-7}{8}x+\\dfrac{7}{4}+3=\\dfrac{-7}{8}x+\\dfrac{19}{4}$"
+  },
+  {
+    "number": 7,
+    "topic": "الاشتقاق الضمني - أسي مع جذر",
+    "question": "إذا كانت $\\sqrt{x}+\\sqrt{y}=5$، فقيمة $\\dfrac{dy}{dx}$ عند $(9,4)$ تساوي:",
+    "choices": [
+      "$\\dfrac{-4}{9}$",
+      "$\\dfrac{-2}{3}$",
+      "$\\dfrac{3}{2}$",
+      "$\\dfrac{-2}{9}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-2}{3}$",
+    "explanation": "$\\dfrac{dy}{dx}=-\\dfrac{\\sqrt{y}}{\\sqrt{x}}$\n\nعند $(9,4)$: $m=-\\dfrac{\\sqrt{4}}{\\sqrt{9}}=-\\dfrac{2}{3}$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية للعلاقة الضمنية",
+    "question": "إذا كانت $x^2+y^2=25$، فإن $\\dfrac{d^2y}{dx^2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{-x^2}{y^3}$",
+      "$\\dfrac{-x}{y^2}$",
+      "$\\dfrac{25}{y^2}$",
+      "$\\dfrac{-25}{y^3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-25}{y^3}$",
+    "explanation": "$\\dfrac{d^2y}{dx^2}=\\dfrac{-(x^2+y^2)}{y^3}=\\dfrac{-25}{y^3}$\nإذن الخيار (d)"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية للمعادلة الوسيطية",
+    "question": "للمعادلة الوسيطية $x=\\sin t,\\ y=\\cos t$، قيمة $\\dfrac{d^2y}{dx^2}$ عند $t=\\dfrac{\\pi}{4}$ تساوي:",
+    "choices": [
+      "$-2\\sqrt{2}$",
+      "$2$",
+      "$-1$",
+      "$\\sqrt{2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-2\\sqrt{2}$",
+    "explanation": "$\\dfrac{dy}{dx}=-\\tan t$\n\n$\\dfrac{d^2y}{dx^2}=-\\sec^3 t$\n\nعند $t=\\dfrac{\\pi}{4}$: $-(\\sqrt{2})^3=-2\\sqrt{2}$"
+  },
+  {
+    "number": 10,
+    "topic": "الاشتقاق الضمني - إثبات المشتقة الثانية",
+    "question": "إذا كانت $x^2-y^2=1$، فإن $\\dfrac{d^2y}{dx^2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{x^2}{y^3}$",
+      "$\\dfrac{x^2+y^2}{y^3}$",
+      "$\\dfrac{-1}{y^3}$",
+      "$\\dfrac{x^2-y^2}{y^3}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-1}{y^3}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{x}{y}$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{y^2-x^2}{y^3}=\\dfrac{-(x^2-y^2)}{y^3}=\\dfrac{-1}{y^3}$"
+  }
+]

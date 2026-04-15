@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - جيب من لوغاريتم",
+    "question": "مشتقة الاقتران $f(x) = \\sin(\\ln x)$ هي:",
+    "choices": [
+      "$\\cos(\\ln x)$",
+      "$\\dfrac{\\cos(\\ln x)}{x}$",
+      "$x\\cos(\\ln x)$",
+      "$\\dfrac{\\sin(\\ln x)}{x}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{\\cos(\\ln x)}{x}$",
+    "explanation": "$g(x)=\\ln x$، $g'(x)=\\dfrac{1}{x}$:\n$$f'=\\cos(\\ln x)\\times\\frac{1}{x}=\\frac{\\cos(\\ln x)}{x}$$"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة الضرب مع قاعدة السلسلة",
+    "question": "مشتقة الاقتران $f(x) = 10x^2e^{-x^2}$ هي:",
+    "choices": [
+      "$20xe^{-x^2}$",
+      "$10x(2+x)e^{-x^2}$",
+      "$-20x^3e^{-x^2}$",
+      "$20x(1-x^2)e^{-x^2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$20x(1-x^2)e^{-x^2}$",
+    "explanation": "بقاعدة الضرب:\n$f'=10[2x\\cdot e^{-x^2}+x^2\\cdot(-2x)e^{-x^2}]$\n$=10e^{-x^2}[2x-2x^3]=20x(1-x^2)e^{-x^2}$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة السلسلة المتكررة - ثلاث طبقات",
+    "question": "مشتقة الاقتران $f(x)=\\sin^2(7x^3+6x-1)$ هي:",
+    "choices": [
+      "$2\\sin(7x^3+6x-1)$",
+      "$2(21x^2+6)\\sin(7x^3+6x-1)$",
+      "$(42x^2+12)\\sin(7x^3+6x-1)\\cos(7x^3+6x-1)$",
+      "$(21x^2+6)\\sin(7x^3+6x-1)\\cos(7x^3+6x-1)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$(42x^2+12)\\sin(7x^3+6x-1)\\cos(7x^3+6x-1)$",
+    "explanation": "$(\\sin u)^2$ حيث $u=7x^3+6x-1$:\n$f'=2\\sin u\\cdot(\\cos u)\\cdot(21x^2+6)=(42x^2+12)\\sin u\\cos u$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة $a^{g(x)}$ - أس سالب",
+    "question": "مشتقة الاقتران $f(x) = 2^{-x}$ هي:",
+    "choices": [
+      "$\\dfrac{-(\\ln 2)}{2^x}$",
+      "$\\dfrac{1}{2^x\\ln 2}$",
+      "$2^{-x}\\ln 2$",
+      "$x\\cdot 2^{-x-1}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-(\\ln 2)}{2^x}$",
+    "explanation": "$g(x)=-x$، $g'(x)=-1$:\n$$f'=(\\ln 2)\\cdot 2^{-x}\\times(-1)=-\\frac{\\ln 2}{2^x}$$"
+  },
+  {
+    "number": 5,
+    "topic": "مشتقة $\\log_3 g(x)$ - مركب",
+    "question": "مشتقة الاقتران $f(x)=\\log_3(1+x\\ln x)$ هي:",
+    "choices": [
+      "$\\dfrac{\\ln x}{(1+x\\ln x)\\ln 3}$",
+      "$\\dfrac{x+1}{(1+x\\ln x)\\ln 3}$",
+      "$\\dfrac{1}{(1+\\ln x)\\ln 3}$",
+      "$\\dfrac{1+\\ln x}{(1+x\\ln x)\\ln 3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{1+\\ln x}{(1+x\\ln x)\\ln 3}$",
+    "explanation": "$g=1+x\\ln x$، $g'=\\ln x+1=1+\\ln x$:\n$$f'=\\frac{1+\\ln x}{(\\ln 3)(1+x\\ln x)}$$"
+  },
+  {
+    "number": 6,
+    "topic": "قاعدة السلسلة - ميل المماس",
+    "question": "ميل المماس لمنحنى $f(x)=4e^{-0.5x^2}$ عند $x=-2$ يساوي:",
+    "choices": [
+      "$e^{-2}$",
+      "$8e^{-2}$",
+      "$4e^{-1}$",
+      "$4e^{-2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$8e^{-2}$",
+    "explanation": "$f'(x)=4\\cdot e^{-0.5x^2}\\times(-x)=-4xe^{-0.5x^2}$\n$f'(-2)=-4(-2)e^{-0.5(4)}=8e^{-2}$"
+  },
+  {
+    "number": 7,
+    "topic": "تطبيق - زنبرك",
+    "question": "موقع كرة زنبرك $s(t)=0.1\\sin(2.4t)$. سرعتها عند $t=0$ هي:",
+    "choices": [
+      "$0.24$ سم/ث",
+      "$0.1$ سم/ث",
+      "$2.4$ سم/ث",
+      "$0$ سم/ث"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$0.24$ سم/ث",
+    "explanation": "$v(t)=s'(t)=0.24\\cos(2.4t)$\n$v(0)=0.24\\cos(0)=0.24$ سم/ث"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الخامسة باستعمال قاعدة السلسلة",
+    "question": "المشتقة الخامسة للاقتران $f(x)=\\cos(2x+1)$ هي:",
+    "choices": [
+      "$32\\cos(2x+1)$",
+      "$16\\sin(2x+1)$",
+      "$-32\\sin(2x+1)$",
+      "$-16\\cos(2x+1)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-32\\sin(2x+1)$",
+    "explanation": "$f^{(1)}=-2\\sin(2x+1)$\n$f^{(2)}=-4\\cos(2x+1)$\n$f^{(3)}=8\\sin(2x+1)$\n$f^{(4)}=16\\cos(2x+1)$\n$f^{(5)}=-32\\sin(2x+1)$"
+  },
+  {
+    "number": 9,
+    "topic": "المعادلة الوسيطية - قيمة محددة",
+    "question": "إذا كانت $x=3\\cos t,\\ y=2\\sin 2t$، فميل المماس عند $t=\\dfrac{\\pi}{6}$ يساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{3}}{3}$",
+      "$\\dfrac{2}{3}$",
+      "$\\dfrac{4\\sqrt{3}}{3}$",
+      "$\\dfrac{-4}{3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-4}{3}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{4\\cos 2t}{-3\\sin t}$\nعند $t=\\pi/6$:\n$$=\\frac{4\\cos(\\pi/3)}{-3\\sin(\\pi/6)}=\\frac{4(1/2)}{-3(1/2)}=\\frac{2}{-3/2}=\\frac{-4}{3}$$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة مماس المعادلة الوسيطية",
+    "question": "معادلة مماس منحنى $x=2\\sin t,\\ y=3\\cos t$ عند $t=\\dfrac{\\pi}{4}$ هي:",
+    "choices": [
+      "$3y+2x=6\\sqrt{2}$",
+      "$2y+3x=6\\sqrt{2}$",
+      "$y+x=\\sqrt{2}$",
+      "$3y+2x=5\\sqrt{2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2y+3x=6\\sqrt{2}$",
+    "explanation": "الميل=$\\dfrac{-3\\tan t}{2}$، عند $\\pi/4$: ميل$=-\\dfrac{3}{2}$\nنقطة: $x=\\sqrt{2}$، $y=\\dfrac{3}{\\sqrt{2}}$\n$y-\\dfrac{3}{\\sqrt{2}}=-\\dfrac{3}{2}(x-\\sqrt{2})$\n$2y-3\\sqrt{2}=-3x+3\\sqrt{2}$\n$2y+3x=6\\sqrt{2}$"
+  }
+]

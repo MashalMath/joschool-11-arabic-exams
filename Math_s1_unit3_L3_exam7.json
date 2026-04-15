@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - عدد الطبقات",
+    "question": "الاقتران $f(x)=\\tan^4(\\sec(\\cos x))$ يتطلب لإيجاد مشتقته كم طبقة من طبقات قاعدة السلسلة؟",
+    "choices": [
+      "طبقتان",
+      "ثلاث طبقات",
+      "أربع طبقات",
+      "طبقة واحدة"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "أربع طبقات",
+    "explanation": "1. $()^4$ → قاعدة القوة\n2. $\\tan()$ → اقتران الظل\n3. $\\sec()$ → اقتران القاطع\n4. $\\cos x$ → اقتران جيب التمام\n\nالمجموع: **4 طبقات**"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة السلسلة - أسي وجيب ضعفي",
+    "question": "مشتقة الاقتران $f(x) = e^{\\sin 2x}$ هي:",
+    "choices": [
+      "$2e^{\\sin 2x}\\cos 2x$",
+      "$e^{\\sin 2x}\\cos 2x$",
+      "$e^{2\\cos 2x}$",
+      "$2\\cos(2x)\\cdot e^{\\sin 2x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2e^{\\sin 2x}\\cos 2x$",
+    "explanation": "$(e^{\\sin 2x})'=e^{\\sin 2x}\\times(\\sin 2x)'=e^{\\sin 2x}\\times 2\\cos 2x=2e^{\\sin 2x}\\cos 2x$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة سلسلة القوة - جذر جيب",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt{\\sin x}$ هي:",
+    "choices": [
+      "$\\dfrac{\\sin x}{2\\cos x}$",
+      "$\\dfrac{\\cos x}{2\\sqrt{\\sin x}}$",
+      "$\\dfrac{\\sqrt{\\cos x}}{2}$",
+      "$\\dfrac{1}{2\\sqrt{\\sin x}}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{\\cos x}{2\\sqrt{\\sin x}}$",
+    "explanation": "$(\\sin x)^{1/2}$:\n$$f'=\\frac{1}{2}(\\sin x)^{-1/2}\\times\\cos x=\\frac{\\cos x}{2\\sqrt{\\sin x}}$$"
+  },
+  {
+    "number": 4,
+    "topic": "مشتقة $\\pi^{\\pi x}$",
+    "question": "مشتقة الاقتران $f(x) = \\pi^{\\pi x}$ هي:",
+    "choices": [
+      "$(\\ln\\pi)\\cdot\\pi^{\\pi x}$",
+      "$\\pi\\cdot\\pi^{\\pi x}$",
+      "$x\\cdot\\pi^{\\pi x-1}$",
+      "$(\\pi\\ln\\pi)\\cdot\\pi^{\\pi x}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$(\\pi\\ln\\pi)\\cdot\\pi^{\\pi x}$",
+    "explanation": "$g(x)=\\pi x$، $g'(x)=\\pi$:\n$$f'=(\\ln\\pi)\\cdot\\pi^{\\pi x}\\times\\pi=(\\pi\\ln\\pi)\\cdot\\pi^{\\pi x}$$"
+  },
+  {
+    "number": 5,
+    "topic": "قاعدة الضرب مع قاعدة السلسلة",
+    "question": "مشتقة الاقتران $f(x) = x^2\\tan\\dfrac{1}{x}$ هي:",
+    "choices": [
+      "$2x\\tan\\dfrac{1}{x}-\\sec^2\\dfrac{1}{x}$",
+      "$2x\\tan\\dfrac{1}{x}+\\sec^2\\dfrac{1}{x}$",
+      "$x^2\\sec^2\\dfrac{1}{x}$",
+      "$2x\\sec^2\\dfrac{1}{x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2x\\tan\\dfrac{1}{x}-\\sec^2\\dfrac{1}{x}$",
+    "explanation": "قاعدة الضرب:\n$f'=2x\\tan\\dfrac{1}{x}+x^2\\sec^2\\dfrac{1}{x}\\times\\dfrac{-1}{x^2}$\n$=2x\\tan\\dfrac{1}{x}-\\sec^2\\dfrac{1}{x}$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة $\\log(\\sec x)$",
+    "question": "مشتقة الاقتران $f(x) = \\log(\\sec x)$ هي ($\\log$ أساسه 10):",
+    "choices": [
+      "$\\dfrac{\\sec x\\tan x}{\\ln 10}$",
+      "$\\dfrac{\\cos x}{\\ln 10}$",
+      "$\\dfrac{\\tan x}{\\ln 10}$",
+      "$\\dfrac{1}{\\sec x\\ln 10}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{\\tan x}{\\ln 10}$",
+    "explanation": "$$f'=\\frac{(\\sec x)'}{(\\ln 10)\\sec x}=\\frac{\\sec x\\tan x}{(\\ln 10)\\sec x}=\\frac{\\tan x}{\\ln 10}$$"
+  },
+  {
+    "number": 7,
+    "topic": "قاعدة السلسلة - $A'(1)$",
+    "question": "إذا كان $A(x)=f(g(x))$، وكان $f'(5)=3,\\ g(1)=5,\\ g'(1)=4$، فقيمة $A'(1)$ هي:",
+    "choices": [
+      "$15$",
+      "$20$",
+      "$7$",
+      "$12$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$12$",
+    "explanation": "$$A'(1)=f'(g(1))\\cdot g'(1)=f'(5)\\times 4=3\\times 4=12$$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية باستعمال قاعدة السلسلة",
+    "question": "المشتقة الثانية للاقتران $f(x) = \\cos(x^2)$ هي:",
+    "choices": [
+      "$2\\sin(x^2)$",
+      "$-2\\sin(x^2)-4x^2\\cos(x^2)$",
+      "$4x^2\\sin(x^2)$",
+      "$-4x\\sin(x^2)$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-2\\sin(x^2)-4x^2\\cos(x^2)$",
+    "explanation": "$f'=-2x\\sin(x^2)$\n$f''=-2\\sin(x^2)+(-2x)\\cos(x^2)\\times 2x$\n$=-2\\sin(x^2)-4x^2\\cos(x^2)$"
+  },
+  {
+    "number": 9,
+    "topic": "المعادلة الوسيطية - ميل عند نقطة",
+    "question": "إذا كانت $x=3\\cos t,\\ y=2\\sin 2t$، فميل المماس عند $t=\\dfrac{\\pi}{6}$ يساوي:",
+    "choices": [
+      "$\\dfrac{-4}{3}$",
+      "$\\dfrac{2}{3}$",
+      "$\\dfrac{4\\sqrt{3}}{3}$",
+      "$\\dfrac{1}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-4}{3}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{4\\cos 2t}{-3\\sin t}$\nعند $t=\\pi/6$:\n$$=\\frac{4(1/2)}{-3(1/2)}=\\frac{2}{-3/2}=\\frac{-4}{3}$$"
+  },
+  {
+    "number": 10,
+    "topic": "معادلة مماس المعادلة الوسيطية",
+    "question": "معادلة مماس منحنى $x=t+2,\\ y=t^2-1$ عند $t=-1$ هي:",
+    "choices": [
+      "$y=x-3$",
+      "$y=2x-1$",
+      "$y=-2x+2$",
+      "$y=-2x+4$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y=-2x+2$",
+    "explanation": "الميل$=2t$، عند $t=-1$: ميل$=-2$\nنقطة: $x=1$، $y=0$\n$y-0=-2(x-1)\\Rightarrow y=-2x+2$"
+  }
+]

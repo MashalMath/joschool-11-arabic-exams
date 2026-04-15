@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الاشتقاق الضمني الأساسي",
+    "question": "إذا كانت $x^2 + y^2 = 4$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{-x}{y}$",
+      "$\\dfrac{x}{2y}$",
+      "$\\dfrac{2x}{y}$",
+      "$\\dfrac{y}{x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-x}{y}$",
+    "explanation": "باشتقاق الطرفين:\n$$2x + 2y\\dfrac{dy}{dx} = 0 \\Rightarrow \\dfrac{dy}{dx} = \\dfrac{-x}{y}$$"
+  },
+  {
+    "number": 2,
+    "topic": "الاشتقاق الضمني مع جيب وجيب تمام",
+    "question": "إذا كانت $\\sin x + \\cos y = 2x - 3y$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{2+\\cos x}{3+\\sin y}$",
+      "$\\dfrac{2-\\cos x}{3-\\sin y}$",
+      "$\\dfrac{\\cos x}{\\sin y}$",
+      "$\\dfrac{\\sin x-2}{\\cos y-3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{2-\\cos x}{3-\\sin y}$",
+    "explanation": "$$\\cos x - \\sin y\\dfrac{dy}{dx} = 2 - 3\\dfrac{dy}{dx}$$\n$$(3-\\sin y)\\dfrac{dy}{dx} = 2-\\cos x$$\n$$\\dfrac{dy}{dx} = \\dfrac{2-\\cos x}{3-\\sin y}$$"
+  },
+  {
+    "number": 3,
+    "topic": "الاشتقاق الضمني مع قاعدة الضرب",
+    "question": "إذا كانت $2xy - y^3 = 1$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y}{x-3y^2}$",
+      "$\\dfrac{2y}{3y^2-2x}$",
+      "$\\dfrac{-2y}{2x-3y^2}$",
+      "$\\dfrac{2x}{3y^2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-2y}{2x-3y^2}$",
+    "explanation": "$$2y + 2x\\dfrac{dy}{dx} - 3y^2\\dfrac{dy}{dx} = 0$$\n$$(2x-3y^2)\\dfrac{dy}{dx} = -2y$$\n$$\\dfrac{dy}{dx} = \\dfrac{-2y}{2x-3y^2}$$"
+  },
+  {
+    "number": 4,
+    "topic": "ميل المماس لدائرة",
+    "question": "ميل المماس لمنحنى $x^2 + y^2 = 25$ عند النقطة $(3, -4)$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{4}$",
+      "$\\dfrac{x}{y}$",
+      "$\\dfrac{-4}{3}$",
+      "$\\dfrac{3}{4}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{3}{4}$",
+    "explanation": "$\\dfrac{dy}{dx} = \\dfrac{-x}{y}$\n\nعند $(3,-4)$:\n$$m = \\dfrac{-3}{-4} = \\dfrac{3}{4}$$"
+  },
+  {
+    "number": 5,
+    "topic": "الاشتقاق الضمني مع قاعدة القسمة",
+    "question": "إذا كانت $y^2 = \\dfrac{x-1}{x+1}$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{3}{y(x+1)^2}$",
+      "$\\dfrac{1}{y(x+1)^2}$",
+      "$\\dfrac{y}{(x+1)^2}$",
+      "$\\dfrac{2y}{(x+1)^2}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{y(x+1)^2}$",
+    "explanation": "$$2y\\dfrac{dy}{dx} = \\dfrac{(x+1)-(x-1)}{(x+1)^2} = \\dfrac{2}{(x+1)^2}$$\n$$\\dfrac{dy}{dx} = \\dfrac{1}{y(x+1)^2}$$"
+  },
+  {
+    "number": 6,
+    "topic": "الاشتقاق الضمني مع الأسي",
+    "question": "إذا كانت $e^x y = xe^y$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{e^y - ye^x}{e^x - xe^y}$",
+      "$\\dfrac{ye^x+e^y}{xe^y+e^x}$",
+      "$\\dfrac{e^y}{e^x}$",
+      "$\\dfrac{ye^x}{xe^y}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{e^y - ye^x}{e^x - xe^y}$",
+    "explanation": "$$e^x y + e^x\\dfrac{dy}{dx} = e^y + xe^y\\dfrac{dy}{dx}$$\n$$(e^x-xe^y)\\dfrac{dy}{dx} = e^y-ye^x$$\n$$\\dfrac{dy}{dx} = \\dfrac{e^y-ye^x}{e^x-xe^y}$$"
+  },
+  {
+    "number": 7,
+    "topic": "معادلة المماس للعلاقة الضمنية",
+    "question": "معادلة المماس لمنحنى $x^2 - xy + y^2 = 7$ عند النقطة $(-1, 2)$ هي:",
+    "choices": [
+      "$y = \\dfrac{4}{5}x + \\dfrac{6}{5}$",
+      "$y = \\dfrac{5}{4}x + 3$",
+      "$y = \\dfrac{-4}{5}x + 2$",
+      "$y = \\dfrac{4}{5}x + \\dfrac{14}{5}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$y = \\dfrac{4}{5}x + \\dfrac{14}{5}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{y-2x}{2y-x}$\n\nعند $(-1,2)$: $m=\\dfrac{2+2}{4+1}=\\dfrac{4}{5}$\n\n$y-2=\\dfrac{4}{5}(x+1) \\Rightarrow y=\\dfrac{4}{5}x+\\dfrac{14}{5}$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية للعلاقة الضمنية",
+    "question": "إذا كانت $2x^3 - 3y^2 = 8$، فإن $\\dfrac{d^2y}{dx^2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{x^4+2xy^2}{y^3}$",
+      "$\\dfrac{2xy}{y^2}$",
+      "$\\dfrac{2xy^2-x^4}{y^3}$",
+      "$\\dfrac{x^2}{y^2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{2xy^2-x^4}{y^3}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{x^2}{y}$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{2xy-x^2\\cdot\\frac{x^2}{y}}{y^2}=\\dfrac{2xy^2-x^4}{y^3}$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية للمعادلة الوسيطية",
+    "question": "للمعادلة الوسيطية $x = \\sin t,\\ y = \\cos t$، قيمة $\\dfrac{d^2y}{dx^2}$ عند $t = \\dfrac{\\pi}{4}$ تساوي:",
+    "choices": [
+      "$1$",
+      "$\\sqrt{2}$",
+      "$-2$",
+      "$-2\\sqrt{2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-2\\sqrt{2}$",
+    "explanation": "$\\dfrac{dy}{dx}=-\\tan t$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{-\\sec^2 t}{\\cos t}=-\\sec^3 t$\n\nعند $t=\\dfrac{\\pi}{4}$: $-(\\sqrt{2})^3=-2\\sqrt{2}$"
+  },
+  {
+    "number": 10,
+    "topic": "ميل المماس عند نقطة محددة",
+    "question": "ميل المماس لمنحنى $x^2 y = 4(2-y)$ عند النقطة $(2, 1)$ يساوي:",
+    "choices": [
+      "$\\dfrac{-1}{2}$",
+      "$\\dfrac{1}{4}$",
+      "$\\dfrac{-1}{8}$",
+      "$\\dfrac{3}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-1}{2}$",
+    "explanation": "$(x^2+4)\\dfrac{dy}{dx}=-2xy$\n\nعند $(2,1)$: $m=\\dfrac{-4}{8}=\\dfrac{-1}{2}$"
+  }
+]

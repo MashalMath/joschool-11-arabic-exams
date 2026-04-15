@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الاشتقاق الضمني الأساسي",
+    "question": "إذا كانت $x^2 - 2y^2 = 4$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{2y}{x}$",
+      "$\\dfrac{x}{2y}$",
+      "$\\dfrac{x}{y}$",
+      "$\\dfrac{4y}{x}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{x}{2y}$",
+    "explanation": "$$2x-4y\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{x}{2y}$$"
+  },
+  {
+    "number": 2,
+    "topic": "الاشتقاق الضمني مع مثلثي",
+    "question": "إذا كانت $\\sin x - 3\\cos y = y$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sin x}{3+\\cos y}$",
+      "$\\dfrac{3\\sin x}{\\cos y}$",
+      "$\\dfrac{\\cos x}{1-3\\sin y}$",
+      "$\\dfrac{\\sin x}{1+3\\cos y}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{\\cos x}{1-3\\sin y}$",
+    "explanation": "$$\\cos x+3\\sin y\\dfrac{dy}{dx}=\\dfrac{dy}{dx}$$\n$$\\cos x=\\dfrac{dy}{dx}(1-3\\sin y)$$\n$$\\dfrac{dy}{dx}=\\dfrac{\\cos x}{1-3\\sin y}$$"
+  },
+  {
+    "number": 3,
+    "topic": "الاشتقاق الضمني مع قاعدة الضرب",
+    "question": "إذا كانت $3xy^2 + y^3 = 8$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{-y}{2x+y}$",
+      "$\\dfrac{y}{2x-y}$",
+      "$\\dfrac{3y^2}{6xy+3y^2}$",
+      "$\\dfrac{y^2}{xy+y^2}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{-y}{2x+y}$",
+    "explanation": "$$3y^2+6xy\\dfrac{dy}{dx}+3y^2\\dfrac{dy}{dx}=0$$\n$$3y^2=-3y(2x+y)\\dfrac{dy}{dx}$$\n$$\\dfrac{dy}{dx}=\\dfrac{-y}{2x+y}$$"
+  },
+  {
+    "number": 4,
+    "topic": "ميل المماس",
+    "question": "ميل المماس لمنحنى $x^2+y^2=13$ عند النقطة $(3, 2)$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{2}$",
+      "$\\dfrac{-2}{3}$",
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{-3}{2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{-3}{2}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{-x}{y}$\n\nعند $(3,2)$: $m=\\dfrac{-3}{2}$"
+  },
+  {
+    "number": 5,
+    "topic": "الاشتقاق الضمني مع جذر",
+    "question": "إذا كانت $\\sqrt{x}+\\sqrt{y}=5$، فإن $\\dfrac{dy}{dx}$ تساوي:",
+    "choices": [
+      "$\\dfrac{\\sqrt{x}}{\\sqrt{y}}$",
+      "$\\dfrac{1}{\\sqrt{xy}}$",
+      "$\\dfrac{-\\sqrt{y}}{\\sqrt{x}}$",
+      "$\\dfrac{-y}{2x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{-\\sqrt{y}}{\\sqrt{x}}$",
+    "explanation": "$$\\dfrac{1}{2\\sqrt{x}}+\\dfrac{1}{2\\sqrt{y}}\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=-\\dfrac{\\sqrt{y}}{\\sqrt{x}}$$"
+  },
+  {
+    "number": 6,
+    "topic": "ميل المماس عند نقطة (أسي - لوغاريتمي)",
+    "question": "قيمة $\\dfrac{dy}{dx}$ لمنحنى $e^{2x}\\ln y = x+y-2$ عند $(1,1)$ تساوي:",
+    "choices": [
+      "$e^2$",
+      "$\\dfrac{1}{e^2-1}$",
+      "$\\dfrac{2}{e^2}$",
+      "$e^2-1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{1}{e^2-1}$",
+    "explanation": "$$2e^{2x}\\ln y+\\dfrac{e^{2x}}{y}\\dfrac{dy}{dx}=1+\\dfrac{dy}{dx}$$\nعند $(1,1)$: $e^2\\dfrac{dy}{dx}=1+\\dfrac{dy}{dx}$\n$$(e^2-1)\\dfrac{dy}{dx}=1 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{1}{e^2-1}$$"
+  },
+  {
+    "number": 7,
+    "topic": "معادلة المماس",
+    "question": "معادلة المماس لمنحنى $x+y-1=\\ln(x^2+y^2)$ عند $(1,0)$ هي:",
+    "choices": [
+      "$y=2x-2$",
+      "$y=x+1$",
+      "$y=2x-1$",
+      "$y=x-1$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$y=x-1$",
+    "explanation": "$$1+\\dfrac{dy}{dx}=\\dfrac{2x+2y\\dfrac{dy}{dx}}{x^2+y^2}$$\nعند $(1,0)$: $1+\\dfrac{dy}{dx}=2 \\Rightarrow \\dfrac{dy}{dx}=1$\n\n$y-0=1(x-1) \\Rightarrow y=x-1$"
+  },
+  {
+    "number": 8,
+    "topic": "المشتقة الثانية للعلاقة الضمنية",
+    "question": "إذا كانت $4y^3 = 6x^2+1$، فإن $\\dfrac{d^2y}{dx^2}$ تساوي:",
+    "choices": [
+      "$\\dfrac{y^3-2x^2}{y^5}$",
+      "$\\dfrac{2x^2-y^3}{y^5}$",
+      "$\\dfrac{y}{x^2}$",
+      "$\\dfrac{x}{y^4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\dfrac{y^3-2x^2}{y^5}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{x}{y^2}$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{y^2-x\\cdot 2y\\cdot\\frac{x}{y^2}}{y^4}=\\dfrac{y^3-2x^2}{y^5}$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثانية للمعادلة الوسيطية",
+    "question": "للمعادلة الوسيطية $x = e^{-t},\\ y = t^3+t+1$، قيمة $\\dfrac{d^2y}{dx^2}$ عند $t=0$ تساوي:",
+    "choices": [
+      "$3$",
+      "$2$",
+      "$1$",
+      "$0$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$1$",
+    "explanation": "$\\dfrac{dy}{dx}=-(3t^2+1)e^t$\n\n$\\dfrac{d}{dt}\\left(\\dfrac{dy}{dx}\\right)=-(3t^2+6t+1)e^t$\n\n$\\dfrac{d^2y}{dx^2}=(3t^2+6t+1)e^{2t}$\n\nعند $t=0$: $1$"
+  },
+  {
+    "number": 10,
+    "topic": "ميل المماس (جذر تكعيبي)",
+    "question": "ميل المماس لمنحنى $\\sqrt[3]{x^2}+\\sqrt[3]{y^2}=5$ عند $(8,1)$ يساوي:",
+    "choices": [
+      "$\\dfrac{1}{4}$",
+      "$\\dfrac{-1}{2}$",
+      "$\\dfrac{3}{4}$",
+      "$-2$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\dfrac{-1}{2}$",
+    "explanation": "$$\\dfrac{2}{3}x^{-1/3}+\\dfrac{2}{3}y^{-1/3}\\dfrac{dy}{dx}=0$$\n$$\\dfrac{dy}{dx}=-(y/x)^{1/3}$$\nعند $(8,1)$: $-(1/8)^{1/3}=-\\dfrac{1}{2}$"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "قاعدة السلسلة - الجيب مع ثابت π",
+    "question": "مشتقة الاقتران $f(x) = \\sin(\\pi x)$ هي:",
+    "choices": [
+      "$\\pi\\cos(\\pi x)$",
+      "$\\cos(\\pi x)$",
+      "$\\pi\\sin(\\pi x)$",
+      "$x\\cos(\\pi x)$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\pi\\cos(\\pi x)$",
+    "explanation": "$g(x)=\\pi x$، $g'(x)=\\pi$:\n$$f'=\\cos(\\pi x)\\times\\pi=\\pi\\cos(\\pi x)$$"
+  },
+  {
+    "number": 2,
+    "topic": "قاعدة السلسلة - طبقتان: أسي وجيب",
+    "question": "مشتقة الاقتران $f(x) = e^{\\sin 2x}$ هي:",
+    "choices": [
+      "$e^{\\sin 2x}\\cos 2x$",
+      "$e^{\\sin 2x}$",
+      "$2e^{\\sin 2x}\\cos 2x$",
+      "$e^{2\\cos 2x}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$2e^{\\sin 2x}\\cos 2x$",
+    "explanation": "**طبقة 1:** $(e^{\\sin 2x})'=e^{\\sin 2x}\\times(\\sin 2x)'$\n**طبقة 2:** $(\\sin 2x)'=2\\cos 2x$\n$$f'=2e^{\\sin 2x}\\cos 2x$$"
+  },
+  {
+    "number": 3,
+    "topic": "قاعدة سلسلة القوة - أس سالب",
+    "question": "مشتقة الاقتران $f(x) = (x^2+1)^{-3}$ هي:",
+    "choices": [
+      "$(x^2+1)^{-4}$",
+      "$-6x(x^2+1)^{-4}$",
+      "$6(x^2+1)^{-4}$",
+      "$-3(x^2+1)^{-4}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-6x(x^2+1)^{-4}$",
+    "explanation": "$g'=2x$، $n=-3$:\n$$f'=-3(x^2+1)^{-4}\\times 2x=-6x(x^2+1)^{-4}$$"
+  },
+  {
+    "number": 4,
+    "topic": "قاعدة السلسلة - لوغاريتم كسر أسي",
+    "question": "مشتقة الاقتران $f(x)=\\ln\\left(\\dfrac{1+e^x}{1-e^x}\\right)$ تساوي:",
+    "choices": [
+      "$\\dfrac{e^x}{1+e^x}$",
+      "$\\dfrac{2}{1-e^x}$",
+      "$\\dfrac{2}{1+e^x}$",
+      "$\\dfrac{2e^x}{1-e^{2x}}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{2e^x}{1-e^{2x}}$",
+    "explanation": "$f=\\ln(1+e^x)-\\ln(1-e^x)$:\n$$f'=\\frac{e^x}{1+e^x}+\\frac{e^x}{1-e^x}=e^x\\cdot\\frac{2}{1-e^{2x}}=\\frac{2e^x}{1-e^{2x}}$$"
+  },
+  {
+    "number": 5,
+    "topic": "قاعدة سلسلة القوة - جذر كثير حدود",
+    "question": "مشتقة الاقتران $f(x) = \\sqrt{x^2+8x}$ هي:",
+    "choices": [
+      "$\\dfrac{2x+8}{\\sqrt{x^2+8x}}$",
+      "$\\dfrac{1}{2\\sqrt{x^2+8x}}$",
+      "$\\dfrac{x+4}{\\sqrt{x^2+8x}}$",
+      "$\\dfrac{2}{\\sqrt{x^2+8x}}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\dfrac{x+4}{\\sqrt{x^2+8x}}$",
+    "explanation": "$g'=2x+8$:\n$$f'=\\frac{2x+8}{2\\sqrt{x^2+8x}}=\\frac{x+4}{\\sqrt{x^2+8x}}$$"
+  },
+  {
+    "number": 6,
+    "topic": "مشتقة $a^{g(x)}$ - مجموع",
+    "question": "مشتقة الاقتران $f(x) = e^{3x}+2^{3x}$ هي:",
+    "choices": [
+      "$3e^{3x}+(3\\ln 2)\\cdot 2^{3x}$",
+      "$3e^{3x}+3\\cdot 2^{3x}$",
+      "$e^{3x}+(\\ln 2)\\cdot 2^{3x}$",
+      "$3e^{3x}+(\\ln 2)\\cdot 2^{3x}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$3e^{3x}+(3\\ln 2)\\cdot 2^{3x}$",
+    "explanation": "$(e^{3x})'=3e^{3x}$\n$(2^{3x})'=(\\ln 2)\\cdot 2^{3x}\\times 3=(3\\ln 2)\\cdot 2^{3x}$\n$$f'=3e^{3x}+(3\\ln 2)\\cdot 2^{3x}$$"
+  },
+  {
+    "number": 7,
+    "topic": "مشتقة $\\log_3 g(x)$ - جيب",
+    "question": "مشتقة الاقتران $f(x) = \\log_3(\\sin x)$ هي:",
+    "choices": [
+      "$\\dfrac{1}{\\sin x\\ln 3}$",
+      "$\\dfrac{\\cos x}{\\sin x}$",
+      "$\\dfrac{\\cos x}{\\ln 3}$",
+      "$\\dfrac{\\cot x}{\\ln 3}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\dfrac{\\cot x}{\\ln 3}$",
+    "explanation": "$$f'=\\frac{\\cos x}{(\\ln 3)\\sin x}=\\frac{\\cot x}{\\ln 3}$$"
+  },
+  {
+    "number": 8,
+    "topic": "تطبيق - نمو بكتيري",
+    "question": "اقتران عدد خلايا بكتيرية $A(t)=Ne^{0.1t}$. معدل النمو بعد 3 ساعات هو:",
+    "choices": [
+      "$0.3Ne^{0.3}$",
+      "$0.1Ne^{0.3}$",
+      "$Ne^{0.3}$",
+      "$0.1Ne^{0.1}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$0.1Ne^{0.3}$",
+    "explanation": "$A'(t)=N\\times 0.1\\times e^{0.1t}=0.1Ne^{0.1t}$\n$A'(3)=0.1Ne^{0.3}$"
+  },
+  {
+    "number": 9,
+    "topic": "المشتقة الثالثة باستعمال قاعدة السلسلة",
+    "question": "المشتقة الثالثة للاقتران $f(x) = \\sin(\\pi x)$ هي:",
+    "choices": [
+      "$\\pi^2\\sin(\\pi x)$",
+      "$\\pi^3\\sin(\\pi x)$",
+      "$-\\pi^3\\cos(\\pi x)$",
+      "$-\\pi^2\\cos(\\pi x)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\pi^3\\cos(\\pi x)$",
+    "explanation": "$f'=\\pi\\cos(\\pi x)$\n$f''=-\\pi^2\\sin(\\pi x)$\n$f'''=-\\pi^3\\cos(\\pi x)$"
+  },
+  {
+    "number": 10,
+    "topic": "المعادلة الوسيطية - ميل المماس",
+    "question": "إذا كانت $x=t-\\sin t,\\ y=1-\\cos t$، فميل المماس عند $t=\\dfrac{\\pi}{3}$ يساوي:",
+    "choices": [
+      "$\\sqrt{3}$",
+      "$\\dfrac{\\sqrt{3}}{2}$",
+      "$\\dfrac{1}{2}$",
+      "$1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sqrt{3}$",
+    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{\\sin t}{1-\\cos t}$\nعند $t=\\pi/3$:\n$$=\\frac{\\sqrt{3}/2}{1-1/2}=\\frac{\\sqrt{3}/2}{1/2}=\\sqrt{3}$$"
+  }
+]

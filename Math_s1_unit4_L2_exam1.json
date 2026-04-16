@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "جمع الأعداد المركبة",
+    "question": "ما ناتج: $(3 + 5i) + (-7 + 2i)$",
+    "choices": [
+      "$-4 + 7i$",
+      "$4 + 7i$",
+      "$-4 - 7i$",
+      "$10 + 3i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-4 + 7i$",
+    "explanation": "نجمع الأجزاء الحقيقية: $3 + (-7) = -4$ ونجمع الأجزاء التخيلية: $5 + 2 = 7$ فالناتج هو $-4 + 7i$"
+  },
+  {
+    "number": 2,
+    "topic": "طرح الأعداد المركبة",
+    "question": "ما ناتج: $(10 - 3i) - (4 + 6i)$",
+    "choices": [
+      "$6 - 9i$",
+      "$14 - 9i$",
+      "$6 + 3i$",
+      "$14 + 3i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$6 - 9i$",
+    "explanation": "نطرح الأجزاء الحقيقية: $10 - 4 = 6$ ونطرح الأجزاء التخيلية: $-3 - 6 = -9$ فالناتج هو $6 - 9i$"
+  },
+  {
+    "number": 3,
+    "topic": "ضرب الأعداد المركبة",
+    "question": "ما ناتج: $3i(2 + 5i)$ بالصورة القياسية",
+    "choices": [
+      "$-15 + 6i$",
+      "$6i + 15i^2$",
+      "$15 + 6i$",
+      "$-15 - 6i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-15 + 6i$",
+    "explanation": "$3i(2 + 5i) = 6i + 15i^2 = 6i + 15(-1) = -15 + 6i$"
+  },
+  {
+    "number": 4,
+    "topic": "ضرب الأعداد المركبة",
+    "question": "ما ناتج: $(2 + 3i)(4 - i)$ بالصورة القياسية",
+    "choices": [
+      "$11 + 10i$",
+      "$8 - 3i$",
+      "$5 + 10i$",
+      "$11 - 10i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$11 + 10i$",
+    "explanation": "$(2+3i)(4-i) = 8 - 2i + 12i - 3i^2 = 8 + 10i - 3(-1) = 11 + 10i$"
+  },
+  {
+    "number": 5,
+    "topic": "ضرب عدد مركب في مرافقه",
+    "question": "ما ناتج ضرب العدد المركب $(3 + 4i)$ في مرافقه",
+    "choices": [
+      "$25$",
+      "$7$",
+      "$-7$",
+      "$25i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$25$",
+    "explanation": "$(3+4i)(3-4i) = 3^2 + 4^2 = 9 + 16 = 25$ وهو دائماً عدد حقيقي"
+  },
+  {
+    "number": 6,
+    "topic": "قسمة الأعداد المركبة",
+    "question": "ما ناتج: $\\frac{5 + i}{2 - i}$ بالصورة القياسية",
+    "choices": [
+      "$\\frac{9}{5} + \\frac{7}{5}i$",
+      "$\\frac{9}{5} - \\frac{7}{5}i$",
+      "$2 + i$",
+      "$\\frac{11}{5} + \\frac{7}{5}i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{9}{5} + \\frac{7}{5}i$",
+    "explanation": "نضرب البسط والمقام في مرافق المقام $(2+i)$ فينتج $\\frac{10+5i+2i-1}{4+1} = \\frac{9+7i}{5}$"
+  },
+  {
+    "number": 7,
+    "topic": "الضرب بالصورة المثلثية",
+    "question": "إذا كان $z_1 = 3(\\cos\\frac{\\pi}{4} + i\\sin\\frac{\\pi}{4})$ و $z_2 = 2(\\cos\\frac{\\pi}{4} + i\\sin\\frac{\\pi}{4})$، فما ناتج $z_1 z_2$",
+    "choices": [
+      "$6(\\cos\\frac{\\pi}{2} + i\\sin\\frac{\\pi}{2})$",
+      "$6(\\cos\\frac{\\pi}{4} + i\\sin\\frac{\\pi}{4})$",
+      "$5(\\cos\\frac{\\pi}{2} + i\\sin\\frac{\\pi}{2})$",
+      "$6(\\cos\\frac{\\pi}{8} + i\\sin\\frac{\\pi}{8})$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$6(\\cos\\frac{\\pi}{2} + i\\sin\\frac{\\pi}{2})$",
+    "explanation": "نضرب المقاييس: $3 \\times 2 = 6$ ونجمع السعات: $\\pi/4 + \\pi/4 = \\pi/2$"
+  },
+  {
+    "number": 8,
+    "topic": "القسمة بالصورة المثلثية",
+    "question": "إذا كان $z_1 = 8(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3})$ و $z_2 = 2(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$، فما ناتج $\\frac{z_1}{z_2}$",
+    "choices": [
+      "$4(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+      "$16(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+      "$4(\\cos\\frac{\\pi}{2} + i\\sin\\frac{\\pi}{2})$",
+      "$6(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+    "explanation": "نقسم المقاييس: $8/2 = 4$ ونطرح السعات: $\\pi/3 - \\pi/6 = \\pi/6$"
+  },
+  {
+    "number": 9,
+    "topic": "الجذر التربيعي للعدد المركب",
+    "question": "ما الجذران التربيعيان للعدد المركب $z = -3 + 4i$",
+    "choices": [
+      "$1 + 2i$ و $-1 - 2i$",
+      "$2 + i$ و $-2 - i$",
+      "$1 - 2i$ و $-1 + 2i$",
+      "$2 - i$ و $-2 + i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1 + 2i$ و $-1 - 2i$",
+    "explanation": "بفرض أن $\\sqrt{z} = x + iy$، فإن حل المنظومة $x^2 - y^2 = -3$ و $2xy = 4$ يعطي القيم $(x=1, y=2)$ و $(x=-1, y=-2)$، ومنها الجذور $1 + 2i$ و $-1 - 2i$"
+  },
+  {
+    "number": 10,
+    "topic": "عدد الجذور المركبة",
+    "question": "ما عدد الجذور المركبة لمعادلة كثير الحدود $z^4 - 3z^2 + z^3 + 7 = 0$",
+    "choices": [
+      "$4$",
+      "$3$",
+      "$2$",
+      "$5$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4$",
+    "explanation": "عدد الجذور المركبة (بما فيها الحقيقية) لأي كثير حدود يساوي درجته وهي هنا الدرجة الرابعة"
+  }
+]

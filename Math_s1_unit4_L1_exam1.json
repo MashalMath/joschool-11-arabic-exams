@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الوحدة التخيلية والجذر الرئيس",
+    "question": "قيمة $\\sqrt{-25}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$5i$",
+      "$-5i$",
+      "$5$",
+      "$25i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$5i$",
+    "explanation": "$\\sqrt{-25} = \\sqrt{-1 \\times 25} = \\sqrt{-1} \\times \\sqrt{25} = i \\times 5 = 5i$"
+  },
+  {
+    "number": 2,
+    "topic": "الوحدة التخيلية والجذر الرئيس",
+    "question": "قيمة $\\sqrt{-48}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$4i\\sqrt{3}$",
+      "$4\\sqrt{3}$",
+      "$-4i\\sqrt{3}$",
+      "$48i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4i\\sqrt{3}$",
+    "explanation": "$\\sqrt{-48} = \\sqrt{-1 \\times 16 \\times 3} = \\sqrt{-1} \\times \\sqrt{16} \\times \\sqrt{3} = i \\times 4 \\times \\sqrt{3} = 4i\\sqrt{3}$"
+  },
+  {
+    "number": 3,
+    "topic": "قوى الوحدة التخيلية",
+    "question": "قيمة $i^{20}$ تساوي",
+    "choices": [
+      "$1$",
+      "$-1$",
+      "$i$",
+      "$-i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$1$",
+    "explanation": "$i^{20} = (i^4)^5 = (1)^5 = 1$ أو لأن الأس 20 يقبل القسمة على 4 بدون باقٍ"
+  },
+  {
+    "number": 4,
+    "topic": "ضرب الأعداد التخيلية",
+    "question": "ناتج $\\sqrt{-5} \\times \\sqrt{-20}$ يساوي",
+    "choices": [
+      "$-10$",
+      "$10$",
+      "$10i$",
+      "$-10i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-10$",
+    "explanation": "$\\sqrt{-5} \\times \\sqrt{-20} = (i\\sqrt{5})(i\\sqrt{20}) = i^2\\sqrt{100} = (-1)(10) = -10$"
+  },
+  {
+    "number": 5,
+    "topic": "الصورة القياسية",
+    "question": "الجزء الحقيقي والجزء التخيلي للعدد $z = -7 + 3i$ على الترتيب هما",
+    "choices": [
+      "$-7$ و $3$",
+      "$7$ و $3$",
+      "$-7$ و $3i$",
+      "$3$ و $-7$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-7$ و $3$",
+    "explanation": "الجزء الحقيقي هو الثابت $a = -7$ والجزء التخيلي هو معامل $i$ وهو $b = 3$"
+  },
+  {
+    "number": 6,
+    "topic": "خاصية المساواة",
+    "question": "إذا كان $(3x - 1) + i(2y + 4) = 8 + 6i$، فإن قيمتي $x$ و $y$ هما",
+    "choices": [
+      "$x=3, y=1$",
+      "$x=1, y=3$",
+      "$x=3, y=-1$",
+      "$x=-1, y=3$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x=3, y=1$",
+    "explanation": "الحقيقي: $3x-1=8 \\Rightarrow x=3$. التخيلي: $2y+4=6 \\Rightarrow 2y=2 \\Rightarrow y=1$"
+  },
+  {
+    "number": 7,
+    "topic": "مرافق العدد المركب",
+    "question": "مرافق العدد المركب $z = -4 + 9i$ هو",
+    "choices": [
+      "$-4 - 9i$",
+      "$4 - 9i$",
+      "$4 + 9i$",
+      "$-4 + 9i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-4 - 9i$",
+    "explanation": "المرافق يكون بتغيير إشارة الجزء التخيلي فقط $\\bar{z} = a - bi$"
+  },
+  {
+    "number": 8,
+    "topic": "مقياس العدد المركب",
+    "question": "مقياس العدد المركب $z = 5 - 12i$ يساوي",
+    "choices": [
+      "$13$",
+      "$17$",
+      "$7$",
+      "$\\sqrt{119}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$13$",
+    "explanation": "$|z| = \\sqrt{5^2 + (-12)^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$"
+  },
+  {
+    "number": 9,
+    "topic": "سعة العدد المركب",
+    "question": "إذا كان $z = -\\sqrt{3} + i$ يقع في الربع الثاني، فإن $Arg(z)$ تساوي",
+    "choices": [
+      "$\\frac{5\\pi}{6}$",
+      "$\\frac{\\pi}{6}$",
+      "$-\\frac{5\\pi}{6}$",
+      "$\\frac{\\pi}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{5\\pi}{6}$",
+    "explanation": "الزاوية في الربع الثاني: $Arg(z) = \\pi - \\tan^{-1}(\\frac{1}{\\sqrt{3}}) = \\pi - \\frac{\\pi}{6} = \\frac{5\\pi}{6}$"
+  },
+  {
+    "number": 10,
+    "topic": "الصورة المثلثية",
+    "question": "الصورة المثلثية للعدد المركب $z = \\sqrt{3} + i$ هي",
+    "choices": [
+      "$2(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+      "$2(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3})$",
+      "$\\sqrt{3}(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+      "$2(\\cos\\frac{\\pi}{6} - i\\sin\\frac{\\pi}{6})$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6})$",
+    "explanation": "$r=2$ والزاوية في الربع الأول هي $\\pi/6$. الصورة المثلثية هي $r(\\cos\\theta + i\\sin\\theta)$"
+  }
+]

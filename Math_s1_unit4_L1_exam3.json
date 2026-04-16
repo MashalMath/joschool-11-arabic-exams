@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "تعريف الوحدة التخيلية",
+    "question": "تعريف الوحدة التخيلية $i$ هو",
+    "choices": [
+      "$i^2 = -1$",
+      "$i = 1$",
+      "$i^2 = 1$",
+      "$i = -1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$i^2 = -1$",
+    "explanation": "الوحدة التخيلية $i$ عُرِّفت بحيث تُحقق المعادلة $i^2 = -1$ وهي الجذر الرئيس للعدد $-1$"
+  },
+  {
+    "number": 2,
+    "topic": "الجذر الرئيس للعدد السالب",
+    "question": "قيمة $\\sqrt{-\\frac{32}{9}}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$\\frac{4i\\sqrt{2}}{3}$",
+      "$\\frac{4\\sqrt{2}}{3}$",
+      "$\\frac{-4i\\sqrt{2}}{3}$",
+      "$\\frac{4i}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{4i\\sqrt{2}}{3}$",
+    "explanation": "$\\sqrt{-\\frac{32}{9}} = i\\sqrt{\\frac{32}{9}} = i \\times \\frac{\\sqrt{16 \\times 2}}{3} = \\frac{4i\\sqrt{2}}{3}$"
+  },
+  {
+    "number": 3,
+    "topic": "قوى الوحدة التخيلية",
+    "question": "قيمة $i^{51}$ تساوي",
+    "choices": [
+      "$-i$",
+      "$i$",
+      "$1$",
+      "$-1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-i$",
+    "explanation": "بقسمة 51 على 4 الباقي هو 3، إذن $i^{51} = i^3 = -i$"
+  },
+  {
+    "number": 4,
+    "topic": "ضرب الأعداد التخيلية",
+    "question": "ناتج $\\sqrt{-3} \\times \\sqrt{-27}$ يساوي",
+    "choices": [
+      "$-9$",
+      "$9$",
+      "$9i$",
+      "$-9i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-9$",
+    "explanation": "$(i\\sqrt{3})(i\\sqrt{27}) = i^2 \\times \\sqrt{81} = (-1) \\times 9 = -9$"
+  },
+  {
+    "number": 5,
+    "topic": "الصورة القياسية",
+    "question": "الصورة القياسية للعدد $\\frac{8 + \\sqrt{-16}}{2}$ هي",
+    "choices": [
+      "$4 + 2i$",
+      "$4 - 2i$",
+      "$8 + 2i$",
+      "$4 + 4i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4 + 2i$",
+    "explanation": "$\\frac{8 + 4i}{2} = \\frac{8}{2} + \\frac{4i}{2} = 4 + 2i$"
+  },
+  {
+    "number": 6,
+    "topic": "خاصية المساواة",
+    "question": "إذا كان $2x + 3y + i(x - 2y) = 7 + i(-7)$، فإن قيمتي $x$ و $y$ هما",
+    "choices": [
+      "$x=-1, y=3$",
+      "$x=3, y=-1$",
+      "$x=1, y=2$",
+      "$x=2, y=1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x=-1, y=3$",
+    "explanation": "بحل المنظومة: $2x+3y=7$ و $x-2y=-7$. نجد أن $x = 2y-7 \\Rightarrow 2(2y-7)+3y=7 \\Rightarrow 7y=21 \\Rightarrow y=3, x=-1$"
+  },
+  {
+    "number": 7,
+    "topic": "مرافق العدد المركب",
+    "question": "إذا كان $z = 3 - 7i$، فإن مرافقه $\\bar{z}$ يُمثَّل بالنقطة",
+    "choices": [
+      "$(3, 7)$",
+      "$(-3, 7)$",
+      "$(3, -7)$",
+      "$(-3, -7)$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$(3, 7)$",
+    "explanation": "المرافق هو $3+7i$ ويُمثَّل بالزوج المرتب $(3, 7)$"
+  },
+  {
+    "number": 8,
+    "topic": "مقياس العدد المركب",
+    "question": "مقياس العدد المركب $z = 4 + \\sqrt{-20}$ يساوي",
+    "choices": [
+      "$6$",
+      "$\\sqrt{24}$",
+      "$\\sqrt{20}$",
+      "$4$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$6$",
+    "explanation": "$z = 4 + 2i\\sqrt{5}$، إذن $|z| = \\sqrt{4^2 + (2\\sqrt{5})^2} = \\sqrt{16+20} = \\sqrt{36} = 6$"
+  },
+  {
+    "number": 9,
+    "topic": "سعة العدد المركب",
+    "question": "سعة العدد المركب $z = -2 - 2i$ تساوي",
+    "choices": [
+      "$-\\frac{3\\pi}{4}$",
+      "$\\frac{3\\pi}{4}$",
+      "$-\\frac{\\pi}{4}$",
+      "$\\frac{5\\pi}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\frac{3\\pi}{4}$",
+    "explanation": "العدد في الربع الثالث، السعة الأساسية هي $-(\\pi - \\pi/4) = -3\\pi/4$"
+  },
+  {
+    "number": 10,
+    "topic": "الصورة القياسية من المثلثية",
+    "question": "إذا كان $|z| = 5$ و $Arg(z) = \\pi$، فإن الصورة القياسية لـ $z$ هي",
+    "choices": [
+      "$-5$",
+      "$5$",
+      "$-5i$",
+      "$5i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-5$",
+    "explanation": "$z = 5(\\cos\\pi + i\\sin\\pi) = 5(-1 + 0i) = -5$"
+  }
+]

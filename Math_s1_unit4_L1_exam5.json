@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الجذر الرئيس للعدد السالب",
+    "question": "قيمة $\\sqrt{-196}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$14i$",
+      "$-14i$",
+      "$14$",
+      "$196i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$14i$",
+    "explanation": "$\\sqrt{-196} = \\sqrt{-1} \\times \\sqrt{196} = i \\times 14 = 14i$"
+  },
+  {
+    "number": 2,
+    "topic": "تبسيط الجذور الصماء",
+    "question": "قيمة $\\sqrt{-75}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$5i\\sqrt{3}$",
+      "$5\\sqrt{3}$",
+      "$-5i\\sqrt{3}$",
+      "$3i\\sqrt{5}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$5i\\sqrt{3}$",
+    "explanation": "$\\sqrt{-75} = i\\sqrt{25 \\times 3} = 5i\\sqrt{3}$"
+  },
+  {
+    "number": 3,
+    "topic": "قوى الوحدة التخيلية",
+    "question": "قيمة $i^{2021}$ تساوي",
+    "choices": [
+      "$i$",
+      "$-i$",
+      "$1$",
+      "$-1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$i$",
+    "explanation": "بقسمة 2021 على 4 يكون الباقي 1، إذن $i^{2021} = i^1 = i$"
+  },
+  {
+    "number": 4,
+    "topic": "ضرب الأعداد التخيلية",
+    "question": "ناتج $\\sqrt{-8} \\times \\sqrt{-18}$ يساوي",
+    "choices": [
+      "$-12$",
+      "$12$",
+      "$-12i$",
+      "$12i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-12$",
+    "explanation": "$(2i\\sqrt{2})(3i\\sqrt{2}) = 6i^2(2) = 12(-1) = -12$"
+  },
+  {
+    "number": 5,
+    "topic": "الأعداد التخيلية الخالصة",
+    "question": "أيٌّ من الأعداد الآتية يُعدّ عدداً تخيلياً خالصاً؟",
+    "choices": [
+      "$-5i$",
+      "$3 + 2i$",
+      "$\\sqrt{7}$",
+      "$0$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-5i$",
+    "explanation": "العدد التخيلي الخالص هو الذي جزؤه الحقيقي صفر، وهنا $-5i = 0 - 5i$"
+  },
+  {
+    "number": 6,
+    "topic": "خاصية المساواة",
+    "question": "إذا كان $i(2x - 5y) + 3x + 5y = 7 + 3i$، فإن قيمتي $x$ و $y$ هما",
+    "choices": [
+      "$x=2, y=1/5$",
+      "$x=1/5, y=2$",
+      "$x=7, y=3$",
+      "$x=3, y=7$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x=2, y=1/5$",
+    "explanation": "بالحقيقي: $3x+5y=7$ وبالتخيلي: $2x-5y=3$. بالجمع: $5x=10 \\Rightarrow x=2$ وبالتعويض: $y=1/5$"
+  },
+  {
+    "number": 7,
+    "topic": "التمثيل في مستوى أرجاند",
+    "question": "العدد المركب $z = 3i$ يُمثَّل في المستوى المركب على",
+    "choices": [
+      "المحور التخيلي الموجب",
+      "المحور الحقيقي الموجب",
+      "المحور التخيلي السالب",
+      "الربع الأول"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "المحور التخيلي الموجب",
+    "explanation": "العدد $z = 0 + 3i$ يُمثَّل بالنقطة $(0, 3)$ وهي تقع تماماً على المحور التخيلي الموجب"
+  },
+  {
+    "number": 8,
+    "topic": "مقياس العدد المركب",
+    "question": "إذا كان $z = 8 - 8i\\sqrt{3}$، فإن $|z|$ يساوي",
+    "choices": [
+      "$16$",
+      "$8$",
+      "$8\\sqrt{2}$",
+      "$8\\sqrt{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$16$",
+    "explanation": "$|z| = \\sqrt{8^2 + (8\\sqrt{3})^2} = \\sqrt{64 + 192} = \\sqrt{256} = 16$"
+  },
+  {
+    "number": 9,
+    "topic": "سعة العدد المركب",
+    "question": "سعة العدد المركب $z = -5 + 5i$ تساوي",
+    "choices": [
+      "$\\frac{3\\pi}{4}$",
+      "$-\\frac{3\\pi}{4}$",
+      "$\\frac{\\pi}{4}$",
+      "$-\\frac{\\pi}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{3\\pi}{4}$",
+    "explanation": "العدد في الربع الثاني، السعة هي $\\pi - \\tan^{-1}(5/5) = \\pi - \\pi/4 = 3\\pi/4$"
+  },
+  {
+    "number": 10,
+    "topic": "الصورة المثلثية",
+    "question": "الصورة المثلثية للعدد المركب $z = -4 + 4i$ هي",
+    "choices": [
+      "$4\\sqrt{2}(\\cos\\frac{3\\pi}{4} + i\\sin\\frac{3\\pi}{4})$",
+      "$4\\sqrt{2}(\\cos\\frac{\\pi}{4} + i\\sin\\frac{\\pi}{4})$",
+      "$4(\\cos\\frac{3\\pi}{4} + i\\sin\\frac{\\pi}{4})$",
+      "$4\\sqrt{2}(\\cos(-\\frac{3\\pi}{4}) + i\\sin(-\\frac{3\\pi}{4}))$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$4\\sqrt{2}(\\cos\\frac{3\\pi}{4} + i\\sin\\frac{3\\pi}{4})$",
+    "explanation": "$r = 4\\sqrt{2}$ والزاوية في الربع الثاني هي $3\\pi/4$. الصورة هي $r(\\cos\\theta + i\\sin\\theta)$"
+  }
+]

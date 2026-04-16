@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "تكامل جذر اقتران أسي طبيعي",
+    "question": "أجد: $\\int \\sqrt{e^{x+3}} dx$",
+    "choices": [
+      "$\\frac{1}{2}e^{(x+3)/2}+C$",
+      "$e^{(x+3)/2}+C$",
+      "$2e^{(x+3)/2}+C$",
+      "$2e^{x+3}+C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$2e^{(x+3)/2}+C$",
+    "explanation": "نحول الجذر لأس كسري لتصبح $\\int e^{(x+3)/2} dx$ وبما أن معامل $x$ هو $1/2$ فإن مقلوبه $2$ يظهر خارج القوة"
+  },
+  {
+    "number": 2,
+    "topic": "تكامل الاقترانات الأسية من الأساس k",
+    "question": "أجد: $\\int 5^{2x+1} dx$",
+    "choices": [
+      "$\\frac{5^{2x+1}}{2\\ln 5}+C$",
+      "$\\frac{5^{2x+1}}{\\ln 5}+C$",
+      "$2\\cdot 5^{2x+1}\\ln 5+C$",
+      "$\\frac{5^{2x}}{2\\ln 5}+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{5^{2x+1}}{2\\ln 5}+C$",
+    "explanation": "باستعمال صيغة التكامل للاقتران الأسي ذو الأساس $k$ نقسم على معامل $x$ وعلى $\\ln$ الأساس"
+  },
+  {
+    "number": 3,
+    "topic": "تكامل اقتران الجيب",
+    "question": "أجد: $\\int \\sin(3x-\\pi) dx$",
+    "choices": [
+      "$\\frac{1}{3}\\cos(3x-\\pi)+C$",
+      "$-\\frac{1}{3}\\cos(3x-\\pi)+C$",
+      "$-\\cos(3x-\\pi)+C$",
+      "$\\frac{1}{3}\\sin(3x-\\pi)+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\frac{1}{3}\\cos(3x-\\pi)+C$",
+    "explanation": "تكامل الجيب هو سالب جيب التمام مع القسمة على معامل $x$ وهو $3$ في هذه الحالة"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل المحدود لاقتران أسي",
+    "question": "أجد قيمة: $\\int_0^2 e^{-x} dx$",
+    "choices": [
+      "$e^{-2}-1$",
+      "$1+e^{-2}$",
+      "$2-e^{-2}$",
+      "$1-e^{-2}$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$1-e^{-2}$",
+    "explanation": "ناتج التكامل هو $-e^{-x}$ وبالتعويض نحصل على $(-e^{-2}) - (-e^{0})$ وبما أن $e^0=1$ يصبح الناتج $1-e^{-2}$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات تقليص القوة والتكامل المحدود",
+    "question": "أجد قيمة: $\\int_0^{\\pi/2} \\cos^2 x dx$",
+    "choices": [
+      "$\\pi/2$",
+      "$\\pi/8$",
+      "$\\pi/4$",
+      "$1/2$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\pi/4$",
+    "explanation": "باستعمال المتطابقة $\\frac{1+\\cos 2x}{2}$ ثم إجراء التكامل المحدود والتعويض"
+  },
+  {
+    "number": 6,
+    "topic": "تكامل مربع قاطع التمام",
+    "question": "أجد: $\\int \\csc^2(2x+1) dx$",
+    "choices": [
+      "$-\\frac{1}{2}\\cot(2x+1)+C$",
+      "$\\frac{1}{2}\\cot(2x+1)+C$",
+      "$-2\\cot(2x+1)+C$",
+      "$\\cot(2x+1)+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\frac{1}{2}\\cot(2x+1)+C$",
+    "explanation": "تكامل $\\csc^2$ هو $-\\cot$ مع القسمة على معامل $x$"
+  },
+  {
+    "number": 7,
+    "topic": "تكامل يُنتج لوغاريتماً طبيعياً",
+    "question": "أجد: $\\int \\frac{\\cos x}{3+\\sin x} dx$",
+    "choices": [
+      "$\\ln|3-\\sin x|+C$",
+      "$\\cos x\\cdot\\ln(3+\\sin x)+C$",
+      "$\\frac{1}{3}\\ln(3+\\sin x)+C$",
+      "$\\ln(3+\\sin x)+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\ln(3+\\sin x)+C$",
+    "explanation": "مشتقة المقام موجودة تماماً في البسط لذا نستخدم اللوغاريتم الطبيعي للمقام"
+  },
+  {
+    "number": 8,
+    "topic": "تكامل الاقترانات النسبية بالتبسيط",
+    "question": "أجد: $\\int \\frac{x^2+x-1}{x} dx$",
+    "choices": [
+      "$x^2+x-\\ln|x|+C$",
+      "$\\frac{x^2}{2}+x-\\ln|x|+C$",
+      "$\\frac{x^2}{2}+x+\\ln|x|+C$",
+      "$x+1+\\frac{1}{x^2}+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{x^2}{2}+x-\\ln|x|+C$",
+    "explanation": "بعد توزيع المقام نكامل المقادير $x + 1 - 1/x$ كلاً حسب قاعدته"
+  },
+  {
+    "number": 9,
+    "topic": "الشرط الأولي - موقع جسم متحرك",
+    "question": "يتحرك جسيم بسرعة $v(t)=2e^t$ فإذا كان $s(0)=1$ فإن موقع الجسيم $s(t)$ هو",
+    "choices": [
+      "$2e^t-1$",
+      "$2e^t+1$",
+      "$e^t-1$",
+      "$2e^t+3$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2e^t-1$",
+    "explanation": "بتكامل السرعة نجد أن $s(t)=2e^t+C$ وبالتعويض $2(1)+C=1$ نجد أن $C=-1$"
+  },
+  {
+    "number": 10,
+    "topic": "متطابقات تحويل الضرب إلى جمع",
+    "question": "أجد: $\\int \\sin(3x)\\cos(5x) dx$",
+    "choices": [
+      "$-\\frac{\\cos(2x)}{4}+\\frac{\\cos(8x)}{16}+C$",
+      "$\\frac{\\cos(2x)}{4}+\\frac{\\cos(8x)}{16}+C$",
+      "$\\frac{\\cos(2x)}{4}-\\frac{\\cos(8x)}{16}+C$",
+      "$\\frac{\\sin(2x)}{4}-\\frac{\\sin(8x)}{16}+C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\frac{\\cos(2x)}{4}-\\frac{\\cos(8x)}{16}+C$",
+    "explanation": "نحول الضرب لجمع باستخدام المتطابقة ونلاحظ أن $\\sin(-2x) = -\\sin(2x)$ وتكاملها يعطي إشارة موجبة عند جيب التمام"
+  }
+]

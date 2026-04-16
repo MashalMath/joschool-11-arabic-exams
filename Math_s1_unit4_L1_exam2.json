@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "الوحدة التخيلية والجذر الرئيس",
+    "question": "قيمة $\\sqrt{-81}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$9i$",
+      "$-9i$",
+      "$9$",
+      "$81i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$9i$",
+    "explanation": "$\\sqrt{-81} = \\sqrt{-1} \\times \\sqrt{81} = i \\times 9 = 9i$"
+  },
+  {
+    "number": 2,
+    "topic": "الوحدة التخيلية والكسور",
+    "question": "قيمة $\\sqrt{-\\frac{9}{16}}$ بدلالة $i$ تساوي",
+    "choices": [
+      "$\\frac{3}{4}i$",
+      "$-\\frac{3}{4}i$",
+      "$\\frac{3}{4}$",
+      "$\\frac{9}{16}i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{3}{4}i$",
+    "explanation": "وزع الجذر على البسط والمقام: $\\sqrt{-1} \\times \\frac{\\sqrt{9}}{\\sqrt{16}} = i \\times \\frac{3}{4} = \\frac{3}{4}i$"
+  },
+  {
+    "number": 3,
+    "topic": "قوى الوحدة التخيلية",
+    "question": "قيمة $i^{37}$ تساوي",
+    "choices": [
+      "$i$",
+      "$-i$",
+      "$1$",
+      "$-1$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$i$",
+    "explanation": "بقسمة 37 على 4 يكون الباقي 1، إذن $i^{37} = i^1 = i$"
+  },
+  {
+    "number": 4,
+    "topic": "ضرب الأعداد التخيلية",
+    "question": "ناتج $3i \\times \\sqrt{-16}$ يساوي",
+    "choices": [
+      "$-12$",
+      "$12$",
+      "$12i$",
+      "$-12i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-12$",
+    "explanation": "$3i \\times 4i = 12i^2 = 12(-1) = -12$"
+  },
+  {
+    "number": 5,
+    "topic": "تصنيف الأعداد المركبة",
+    "question": "أيٌّ من الأعداد الآتية يُعدّ عدداً مركباً حقيقياً؟",
+    "choices": [
+      "$\\sqrt{5}$",
+      "$3i$",
+      "$2 + 7i$",
+      "$\\sqrt{-4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sqrt{5}$",
+    "explanation": "العدد الحقيقي هو عدد مركب جزؤه التخيلي صفر، و$\\sqrt{5}$ يمكن كتابته $ \\sqrt{5} + 0i$"
+  },
+  {
+    "number": 6,
+    "topic": "خاصية المساواة",
+    "question": "إذا كان $x^2 - 1 + i(2y - 5) = 8 + 9i$، فإن قيم $x$ و $y$ هما",
+    "choices": [
+      "$x=3, y=7$",
+      "$x=-3, y=7$",
+      "$x=3, y=-7$",
+      "$x=\\pm 3, y=7$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$x=\\pm 3, y=7$",
+    "explanation": "الحقيقي: $x^2-1=8 \\Rightarrow x^2=9 \\Rightarrow x=\\pm 3$. التخيلي: $2y-5=9 \\Rightarrow 2y=14 \\Rightarrow y=7$"
+  },
+  {
+    "number": 7,
+    "topic": "التمثيل في مستوى أرجاند",
+    "question": "العدد المركب $z = -5 + 0i$ يُمثَّل في المستوى المركب عند النقطة",
+    "choices": [
+      "$(-5, 0)$",
+      "$(0, -5)$",
+      "$(5, 0)$",
+      "$(-5, -5)$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$(-5, 0)$",
+    "explanation": "يتم تمثيل العدد $a+bi$ بالزوج المرتب $(a,b)$، وهنا $(-5, 0)$ تقع على المحور الحقيقي"
+  },
+  {
+    "number": 8,
+    "topic": "مقياس العدد المركب",
+    "question": "إذا كان $z = -3 + 4i$، فإن $|z|$ يساوي",
+    "choices": [
+      "$5$",
+      "$7$",
+      "$1$",
+      "$\\sqrt{7}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$5$",
+    "explanation": "$|z| = \\sqrt{(-3)^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$"
+  },
+  {
+    "number": 9,
+    "topic": "سعة العدد المركب",
+    "question": "سعة العدد المركب $z = 1 - i$ تساوي",
+    "choices": [
+      "$-\\frac{\\pi}{4}$",
+      "$\\frac{\\pi}{4}$",
+      "$\\frac{3\\pi}{4}$",
+      "$-\\frac{3\\pi}{4}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-\\frac{\\pi}{4}$",
+    "explanation": "العدد في الربع الرابع، إذن السعة هي $-\\tan^{-1}(1/1) = -\\pi/4$"
+  },
+  {
+    "number": 10,
+    "topic": "التحويل للصورة القياسية",
+    "question": "إذا كان $|z| = 6$ و $Arg(z) = \\pi/2$، فإن الصورة القياسية للعدد $z$ هي",
+    "choices": [
+      "$6i$",
+      "$6$",
+      "$-6$",
+      "$-6i$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$6i$",
+    "explanation": "$z = 6(\\cos(\\pi/2) + i\\sin(\\pi/2)) = 6(0 + i) = 6i$"
+  }
+]

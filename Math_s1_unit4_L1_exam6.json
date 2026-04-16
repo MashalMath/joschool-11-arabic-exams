@@ -4,12 +4,12 @@
     "topic": "مفهوم الوحدة التخيلية",
     "question": "أيٌّ من القيم الآتية يساوي $\\sqrt{-1}$؟",
     "choices": [
-      "$i$",
-      "$-1$",
       "$1$",
-      "$-i$"
+      "$-i$",
+      "$i$",
+      "$-1$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$i$",
     "explanation": "بتعريف الوحدة التخيلية $i = \\sqrt{-1}$ وهي الجذر الرئيس للعدد $-1$"
   },
@@ -32,12 +32,12 @@
     "topic": "قوى الوحدة التخيلية",
     "question": "قيمة $i^{26}$ تساوي",
     "choices": [
-      "$-1$",
       "$1$",
+      "$-1$",
       "$i$",
       "$-i$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$-1$",
     "explanation": "بقسمة 26 على 4 الباقي هو 2، إذن $i^{26} = i^2 = -1$"
   },
@@ -46,12 +46,12 @@
     "topic": "ضرب الأعداد التخيلية",
     "question": "ناتج $\\sqrt{-50} \\times (-4i)$ يساوي",
     "choices": [
-      "$20\\sqrt{2}$",
       "$-20\\sqrt{2}$",
       "$20i\\sqrt{2}$",
-      "$-20i\\sqrt{2}$"
+      "$-20i\\sqrt{2}$",
+      "$20\\sqrt{2}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$20\\sqrt{2}$",
     "explanation": "$\\sqrt{-50} = 5i\\sqrt{2}$. إذن $(5i\\sqrt{2})(-4i) = -20i^2\\sqrt{2} = 20\\sqrt{2}$"
   },
@@ -74,40 +74,40 @@
     "topic": "خاصية المساواة",
     "question": "إذا كان $x^2 - 4 + i(y^2 - 9) = 0$، فإن إحدى قيم $x$ و $y$ هي",
     "choices": [
-      "$x = 2, y = 3$",
       "$x = 4, y = 9$",
+      "$x = 2, y = 3$",
       "$x = 2, y = 9$",
       "$x = 4, y = 3$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$x = 2, y = 3$",
-    "explanation": "نساوي الحقيقي بالصفر: $x^2=4 \\Rightarrow x=\\pm2$. ونساوي التخيلي بالصفر: $y^2=9 \\Rightarrow y=\\pm3$"
+    "explanation": "نساوي الحقيقي بالصفر: $x^2=4 \\Rightarrow x=\\pm2$. ونساوي التخيلي بالصفر: $y^2=9 \\Rightarrow y=\\pm3$. إذن $x=2, y=3$ هو أحد الخيارات الممكنة"
   },
   {
     "number": 7,
     "topic": "مرافق العدد المركب",
     "question": "مرافق العدد المركب $z = a + bi$ هو انعكاسه في المستوى حول",
     "choices": [
-      "المحور الحقيقي ($Re$)",
       "المحور التخيلي ($Im$)",
       "نقطة الأصل",
+      "المحور الحقيقي ($Re$)",
       "الخط المستقيم $y = x$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "المحور الحقيقي ($Re$)",
-    "explanation": "بما أن المرافق يغير إشارة الجزء التخيلي فقط $(b \\rightarrow -b)$، فإنه يمثل انعكاساً حول المحور الأفقي"
+    "explanation": "المرافق يغير إشارة الجزء التخيلي فقط $(b \\rightarrow -b)$، مما يجعله انعكاساً للنقطة حول المحور الأفقي (المحور الحقيقي)"
   },
   {
     "number": 8,
     "topic": "مقياس العدد المركب",
     "question": "إذا كان $z = 6\\sqrt{3} + 6i$، فإن $|z|$ يساوي",
     "choices": [
-      "$12$",
       "$6$",
+      "$12$",
       "$6\\sqrt{4}$",
       "$\\sqrt{72}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$12$",
     "explanation": "$|z| = \\sqrt{(6\\sqrt{3})^2 + 6^2} = \\sqrt{108 + 36} = \\sqrt{144} = 12$"
   },
@@ -116,27 +116,27 @@
     "topic": "سعة العدد المركب",
     "question": "سعة العدد المركب $z = -7$ تساوي",
     "choices": [
-      "$\\pi$",
       "$0$",
       "$-\\pi$",
-      "$\\frac{\\pi}{2}$"
+      "$\\frac{\\pi}{2}$",
+      "$\\pi$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$\\pi$",
-    "explanation": "العدد الحقيقي السالب يقع على المحور الحقيقي من جهة اليسار، والزاوية التي يصنعها مع المحور الموجب هي $\\pi$"
+    "explanation": "العدد $z = -7 + 0i$ يقع على المحور الحقيقي السالب، والزاوية التي يصنعها مع الاتجاه الموجب للمحور الحقيقي هي $\\pi$"
   },
   {
     "number": 10,
     "topic": "الصورة القياسية",
     "question": "إذا كان $z = 2(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3})$، فإن الصورة القياسية لـ $z$ هي",
     "choices": [
-      "$1 + i\\sqrt{3}$",
       "$\\sqrt{3} + i$",
+      "$1 + i\\sqrt{3}$",
       "$1 - i\\sqrt{3}$",
       "$2 + 2i$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$1 + i\\sqrt{3}$",
-    "explanation": "$z = 2(1/2 + i\\sqrt{3}/2) = 1 + i\\sqrt{3}$"
+    "explanation": "بالتعويض عن القيم: $z = 2(1/2 + i\\sqrt{3}/2) = 1 + i\\sqrt{3}$"
   }
 ]

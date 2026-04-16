@@ -4,12 +4,12 @@
     "topic": "معدل تغير مساحة المستطيل",
     "question": "مستطيل طوله $10\\text{ cm}$ وعرضه $6\\text{ cm}$. إذا كان الطول يزداد بمعدل $2\\text{ cm/s}$ والعرض يزداد بمعدل $3\\text{ cm/s}$، ما معدل تغير مساحته في هذه اللحظة؟",
     "choices": [
-      "$42\\text{ cm}^2\\text{/s}$",
       "$30\\text{ cm}^2\\text{/s}$",
-      "$12\\text{ cm}^2\\text{/s}$",
-      "$48\\text{ cm}^2\\text{/s}$"
+      "$42\\text{ cm}^2\\text{/s}$",
+      "$48\\text{ cm}^2\\text{/s}$",
+      "$12\\text{ cm}^2\\text{/s}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$42\\text{ cm}^2\\text{/s}$",
     "explanation": "المساحة $A = lw$. بالاشتقاق: $dA/dt = l(dw/dt) + w(dl/dt)$. بالتعويض: $10(3) + 6(2) = 30 + 12 = 42$"
   },
@@ -19,11 +19,11 @@
     "question": "نصف قطر دائرة يزداد بمعدل $3\\text{ cm/s}$. في أي لحظة يكون معدل تغير مساحتها يساوي ثلاثة أمثال معدل تغير محيطها؟",
     "choices": [
       "عندما $r = 1\\text{ cm}$",
-      "عندما $r = 3\\text{ cm}$",
       "عندما $r = 6\\text{ cm}$",
+      "عندما $r = 3\\text{ cm}$",
       "عندما $r = 9\\text{ cm}$"
     ],
-    "correct_answer": "b",
+    "correct_answer": "c",
     "final_answer_text": "عندما $r = 3\\text{ cm}$",
     "explanation": "$dA/dt = 2\\pi r(dr/dt)$ و $dC/dt = 2\\pi(dr/dt)$. بمساواة $dA/dt = 3(dC/dt)$ نجد أن $2\\pi r(3) = 3(2\\pi(3))$ ومنه $r = 3$"
   },
@@ -32,12 +32,12 @@
     "topic": "معدل تغير حجم الكرة",
     "question": "كرة ثلج تذوب بحيث يتناقص نصف قطرها بمعدل $0.2\\text{ cm/min}$. ما معدل تناقص حجمها عندما يكون نصف قطرها $10\\text{ cm}$؟",
     "choices": [
-      "$8\\pi\\text{ cm}^3\\text{/min}$",
       "$80\\pi\\text{ cm}^3\\text{/min}$",
+      "$8\\pi\\text{ cm}^3\\text{/min}$",
       "$40\\pi\\text{ cm}^3\\text{/min}$",
       "$20\\pi\\text{ cm}^3\\text{/min}$"
     ],
-    "correct_answer": "b",
+    "correct_answer": "a",
     "final_answer_text": "$80\\pi\\text{ cm}^3\\text{/min}$",
     "explanation": "$V = \\frac{4}{3}\\pi r^3 \\Rightarrow dV/dt = 4\\pi r^2(dr/dt)$. بالتعويض: $4\\pi(10)^2(-0.2) = -80\\pi$. معدل التناقص هو $80\\pi$"
   },
@@ -46,12 +46,12 @@
     "topic": "معدل تغير المسافة - فيثاغورس",
     "question": "سفينة A تبعد $4\\text{ km}$ شمال ميناء وتتحرك شمالاً بسرعة $10\\text{ km/h}$. سفينة B تبعد $3\\text{ km}$ شرق الميناء وتتحرك شرقاً بسرعة $5\\text{ km/h}$. ما معدل تغير المسافة بينهما؟",
     "choices": [
-      "$11\\text{ km/h}$",
       "$15\\text{ km/h}$",
       "$9\\text{ km/h}$",
+      "$11\\text{ km/h}$",
       "$13\\text{ km/h}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$11\\text{ km/h}$",
     "explanation": "$z^2 = x^2 + y^2 \\Rightarrow z(dz/dt) = x(dx/dt) + y(dy/dt)$. المسافة $z = 5$. بالتعويض: $5(dz/dt) = 3(5) + 4(10) = 55 \\Rightarrow dz/dt = 11$"
   },
@@ -60,14 +60,14 @@
     "topic": "معدل تغير زاوية الارتفاع",
     "question": "صاروخ ينطلق رأسياً بحيث $s = 50t^2$. كاميرا تبعد $2000\\text{ ft}$ عن منصة الإطلاق ترصده. ما معدل تغير زاوية الارتفاع عند $t = 10\\text{ s}$؟",
     "choices": [
-      "$2/29\\text{ rad/s}$",
       "$1/29\\text{ rad/s}$",
       "$4/29\\text{ rad/s}$",
+      "$2/29\\text{ rad/s}$",
       "$5/29\\text{ rad/s}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$2/29\\text{ rad/s}$",
-    "explanation": "$\\tan\\theta = s/2000 \\Rightarrow \\sec^2\\theta(d\\theta/dt) = (1/2000)(ds/dt)$. عند $t=10$: $s=5000$, $ds/dt=1000$, $\\sec^2\\theta=29/4$. بالتعويض: $(29/4)(d\\theta/dt) = 0.5 \\Rightarrow d\\theta/dt = 2/29$"
+    "explanation": "$\\tan\\theta = s/2000$. عند $t=10$: $s=5000$, $v=1000$, $\\sec^2\\theta=29/4$. بالتعويض: $(29/4)(d\\theta/dt) = (1/2000)(1000) \\Rightarrow d\\theta/dt = 2/29$"
   },
   {
     "number": 6,
@@ -81,35 +81,35 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$-1/12\\text{ m}^3\\text{/min}$",
-    "explanation": "$V = \\frac{4\\pi h^3}{75} \\Rightarrow dV/dt = \\frac{4\\pi h^2}{25}(dh/dt)$. بالتعويض: $\\frac{4\\pi(16)}{25} \\times \\frac{-25}{768\\pi} = -64/768 = -1/12$"
+    "explanation": "$V = \\frac{4\\pi h^3}{75} \\Rightarrow dV/dt = \\frac{4\\pi h^2}{25}(dh/dt)$. بالتعويض: $\\frac{4\\pi(16)}{25} \\times \\frac{-25}{768\\pi} = -1/12$"
   },
   {
     "number": 7,
     "topic": "سرعة بقعة الضوء",
     "question": "مصباح يدور بمعدل $3\\text{ دورات/دقيقة}$ ويبعد $4\\text{ m}$ عن جدار. إذا كانت سرعة البقعة $120\\pi\\text{ m/min}$، كم تبعد البقعة عن أقرب نقطة للمصباح على الجدار؟",
     "choices": [
-      "$8\\text{ m}$",
       "$4\\text{ m}$",
+      "$8\\text{ m}$",
       "$12\\text{ m}$",
       "$16\\text{ m}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$8\\text{ m}$",
-    "explanation": "$x = 4\\tan\\theta \\Rightarrow dx/dt = 4\\sec^2\\theta(d\\theta/dt)$. السرعة الزاوية $6\\pi$. بالتعويض: $120\\pi = 24\\pi\\sec^2\\theta \\Rightarrow \\sec^2\\theta = 5$. إذن $\\tan\\theta=2$ و $x = 4(2) = 8$"
+    "explanation": "$x = 4\\tan\\theta$. السرعة الزاوية $6\\pi$. بالتعويض في $dx/dt = 4\\sec^2\\theta(6\\pi)$ نجد $120\\pi = 24\\pi\\sec^2\\theta \\Rightarrow \\sec^2\\theta = 5 \\Rightarrow \\tan\\theta=2 \\Rightarrow x=8$"
   },
   {
     "number": 8,
     "topic": "معدل تغير مساحة سطح البالون",
     "question": "بالون كروي يزداد حجمه بمعدل $12\\pi\\text{ cm}^3\\text{/s}$. ما معدل تغير مساحة سطحه عندما $r = 3\\text{ cm}$؟",
     "choices": [
-      "$8\\pi\\text{ cm}^2\\text{/s}$",
       "$4\\pi\\text{ cm}^2\\text{/s}$",
       "$12\\pi\\text{ cm}^2\\text{/s}$",
+      "$8\\pi\\text{ cm}^2\\text{/s}$",
       "$16\\pi\\text{ cm}^2\\text{/s}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$8\\pi\\text{ cm}^2\\text{/s}$",
-    "explanation": "$dV/dt = 4\\pi r^2(dr/dt) \\Rightarrow 12\\pi = 36\\pi(dr/dt) \\Rightarrow dr/dt = 1/3$. مساحة السطح $S = 4\\pi r^2 \\Rightarrow dS/dt = 8\\pi r(dr/dt) = 8\\pi(3)(1/3) = 8\\pi$"
+    "explanation": "$dV/dt = 4\\pi r^2(dr/dt) \\Rightarrow dr/dt = 1/3$. مساحة السطح $S = 4\\pi r^2 \\Rightarrow dS/dt = 8\\pi r(dr/dt) = 8\\pi(3)(1/3) = 8\\pi$"
   },
   {
     "number": 9,
@@ -123,20 +123,20 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$20/\\sqrt{96}\\text{ m/s}$",
-    "explanation": "$l^2 = x^2 + 4 \\Rightarrow l(dl/dt) = x(dx/dt)$. عند $l=10$ تكون $x=\\sqrt{96}$. بالتعويض: $10(2) = \\sqrt{96}(dx/dt) \\Rightarrow dx/dt = 20/\\sqrt{96}$"
+    "explanation": "$l^2 = x^2 + 4$. عند $l=10, x=\\sqrt{96}$. بالاشتقاق: $l(dl/dt) = x(dx/dt) \\Rightarrow 10(2) = \\sqrt{96}(dx/dt) \\Rightarrow dx/dt = 20/\\sqrt{96}$"
   },
   {
     "number": 10,
     "topic": "معدل تغير نصف قطر الكومة",
     "question": "يسقط رمل بمعدل $10\\text{ m}^3\\text{/min}$ مكوناً كومة مخروطية ارتفاعها $3/4$ نصف قطرها. ما سرعة تغير نصف القطر عندما $h = 4\\text{ m}$؟",
     "choices": [
-      "$15/32\\pi\\text{ m/min}$",
       "$30/64\\pi\\text{ m/min}$",
       "$5/16\\pi\\text{ m/min}$",
+      "$15/32\\pi\\text{ m/min}$",
       "$10/32\\pi\\text{ m/min}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$15/32\\pi\\text{ m/min}$",
-    "explanation": "$V = \\frac{\\pi r^3}{4} \\Rightarrow dV/dt = \\frac{3\\pi r^2}{4}(dr/dt)$. عند $h=4$ يكون $r=16/3$. بالتعويض: $10 = \\frac{3\\pi(256/9)}{4}(dr/dt) \\Rightarrow dr/dt = 30/64\\pi = 15/32\\pi$"
+    "explanation": "$V = \\frac{\\pi r^3}{4}$. بالاشتقاق: $dV/dt = \\frac{3\\pi r^2}{4}(dr/dt)$. عند $h=4, r=16/3$. بالتعويض: $10 = \\frac{3\\pi(256/9)}{4}(dr/dt) \\Rightarrow dr/dt = 15/32\\pi$"
   }
 ]

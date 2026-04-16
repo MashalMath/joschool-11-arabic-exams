@@ -4,12 +4,12 @@
     "topic": "معدل تغير حجم الأسطوانة",
     "question": "خزان على شكل أسطوانة دائرية قائمة قطر قاعدتها $2\\text{ m}$ وارتفاعها $5\\text{ m}$. إذا كان الزيت يصب فيها بمعدل $3\\text{ m}^3\\text{/min}$، فما معدل تغير ارتفاع الزيت في الخزان؟",
     "choices": [
+      "$\\pi/3\\text{ m/min}$",
       "$3/\\pi\\text{ m/min}$",
       "$3/4\\pi\\text{ m/min}$",
-      "$\\pi/3\\text{ m/min}$",
       "$1.5/\\pi\\text{ m/min}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$3/\\pi\\text{ m/min}$",
     "explanation": "نصف القطر ثابت $r=1$. حجم الأسطوانة $V = \\pi r^2 h = \\pi h$. بالاشتقاق بالنسبة للزمن: $\\frac{dV}{dt} = \\pi \\frac{dh}{dt}$. بالتعويض عن $\\frac{dV}{dt} = 3$ نجد أن $\\frac{dh}{dt} = 3/\\pi$"
   },
@@ -19,13 +19,13 @@
     "question": "نصف قطر دائرة يزداد بمعدل $3\\text{ cm/s}$. في أي لحظة يكون معدل تغير مساحتها يساوي ثلاثة أمثال معدل تغير محيطها؟",
     "choices": [
       "عندما $r = 1\\text{ cm}$",
-      "عندما $r = 3\\text{ cm}$",
       "عندما $r = 6\\text{ cm}$",
+      "عندما $r = 3\\text{ cm}$",
       "عندما $r = 9\\text{ cm}$"
     ],
-    "correct_answer": "b",
+    "correct_answer": "c",
     "final_answer_text": "عندما $r = 3\\text{ cm}$",
-    "explanation": "$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$ و $\\frac{dC}{dt} = 2\\pi \\frac{dr}{dt}$. الشرط هو $\\frac{dA}{dt} = 3 \\frac{dC}{dt}$ مما يعني $2\\pi r \\dot{r} = 3(2\\pi \\dot{r})$. باختصار $2\\pi \\dot{r}$ من الطرفين نجد أن $r = 3$"
+    "explanation": "$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$ و $\\frac{dC}{dt} = 2\\pi \\frac{dr}{dt}$. الشرط $\\frac{dA}{dt} = 3 \\frac{dC}{dt}$ يعطي $2\\pi r \\dot{r} = 3(2\\pi \\dot{r})$. باختصار العوامل المشتركة نجد $r = 3$"
   },
   {
     "number": 3,
@@ -46,28 +46,28 @@
     "topic": "معدل الابتعاد - قانون جيب التمام",
     "question": "دراجتان تنطلقان من نقطة واحدة على مستقيمين الزاوية بينهما $60^{\\circ}$. سرعة الأولى $15\\text{ km/h}$ والثانية $20\\text{ km/h}$. ما معدل تغير المسافة بينهما بعد ساعتين؟",
     "choices": [
-      "$5\\sqrt{13}\\text{ km/h}$",
       "$10\\sqrt{13}\\text{ km/h}$",
       "$25\\text{ km/h}$",
+      "$5\\sqrt{13}\\text{ km/h}$",
       "$35\\text{ km/h}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$5\\sqrt{13}\\text{ km/h}$",
-    "explanation": "بعد ساعتين $a=30, b=40$. قانون جيب التمام: $z^2 = a^2 + b^2 - 2ab \\cos(60^{\\circ}) = 1300$. بالاشتقاق: $2z \\dot{z} = 2a \\dot{a} + 2b \\dot{b} - (a \\dot{b} + b \\dot{a})$. بالتعويض: $2(10\\sqrt{13}) \\dot{z} = 1300 \\Rightarrow \\dot{z} = 65/\\sqrt{13} = 5\\sqrt{13}$"
+    "explanation": "بعد ساعتين $a=30, b=40$. قانون جيب التمام: $z^2 = a^2 + b^2 - 2ab \\cos(60^{\\circ}) = 1300$. بالاشتقاق والتعويض نجد أن $\\dot{z} = 5\\sqrt{13}$"
   },
   {
     "number": 5,
     "topic": "معدل تغير الارتفاع في المخروط",
     "question": "خزان مخروطي ارتفاعه $12\\text{ m}$ ونصف قطر قاعدته $4\\text{ m}$ ورأسه للأسفل. إذا كان الماء يتسرب منه بمعدل $\\frac{2}{3}\\pi\\text{ m}^3\\text{/min}$، ما معدل تغير الارتفاع عندما $h = 6\\text{ m}$؟",
     "choices": [
-      "$-1/6\\text{ m/min}$",
       "$-1/9\\pi\\text{ m/min}$",
+      "$-1/12\\text{ m/min}$",
       "$-2/3\\text{ m/min}$",
-      "$-1/12\\text{ m/min}$"
+      "$-1/6\\text{ m/min}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$-1/6\\text{ m/min}$",
-    "explanation": "من التشابه $r = h/3$. الحجم $V = \\frac{\\pi h^3}{27} \\Rightarrow \\frac{dV}{dt} = \\frac{\\pi h^2}{9} \\frac{dh}{dt}$. بالتعويض: $-\\frac{2\\pi}{3} = \\frac{\\pi(36)}{9} \\frac{dh}{dt} \\Rightarrow -\\frac{2\\pi}{3} = 4\\pi \\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = -1/6$"
+    "explanation": "من تشابه المثلثات $r = h/3$. الحجم $V = \\frac{\\pi h^3}{27}$. بالاشتقاق والتعويض عن $h=6$ و معدل تغير الحجم بالسالب (تسرب)، نجد أن معدل تغير الارتفاع هو $-1/6$"
   },
   {
     "number": 6,
@@ -81,21 +81,21 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$-0.25\\text{ rad/s}$",
-    "explanation": "$\\tan\\theta = 20/x$. بالاشتقاق: $\\sec^2\\theta \\dot{\\theta} = -20/x^2 \\dot{x}$. عند $x=20$ تكون $\\tan\\theta=1$ و $\\sec^2\\theta=2$. بالتعويض: $2 \\dot{\\theta} = -20/400 (10) = -0.5 \\Rightarrow \\dot{\\theta} = -0.25$"
+    "explanation": "استخدام $\\tan\\theta = 20/x$. بالاشتقاق: $\\sec^2\\theta \\dot{\\theta} = -20/x^2 \\dot{x}$. عند $x=20$ تكون $\\sec^2\\theta=2$. بالتعويض نجد $\\dot{\\theta} = -0.25$"
   },
   {
     "number": 7,
     "topic": "سرعة بقعة الضوء",
     "question": "مصباح يدور بمعدل $3$ دورات في الدقيقة ويبعد $4\\text{ m}$ عن جدار. إذا كانت سرعة بقعة الضوء على الجدار $120\\pi\\text{ m/min}$، فكم تبعد البقعة عن أقرب نقطة للمصباح على الجدار؟",
     "choices": [
-      "$8\\text{ m}$",
       "$4\\text{ m}$",
       "$4\\sqrt{3}\\text{ m}$",
-      "$6\\text{ m}$"
+      "$6\\text{ m}$",
+      "$8\\text{ m}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$8\\text{ m}$",
-    "explanation": "$\\omega = 6\\pi$ و $\\dot{x} = 4\\sec^2\\theta \\cdot \\omega$. بالتعويض: $120\\pi = 24\\pi \\sec^2\\theta \\Rightarrow \\sec^2\\theta = 5$. بما أن $\\tan^2\\theta = \\sec^2\\theta - 1 = 4$ فإن $\\tan\\theta = 2$. المسافة $x = 4\\tan\\theta = 4(2) = 8$"
+    "explanation": "$\\dot{x} = 4\\sec^2\\theta \\cdot \\omega$. حيث $\\omega = 6\\pi$. بالتعويض: $120\\pi = 24\\pi \\sec^2\\theta \\Rightarrow \\sec^2\\theta = 5$. ومنها $\\tan\\theta = 2$. المسافة $x = 4\\tan\\theta = 8$"
   },
   {
     "number": 8,
@@ -109,21 +109,21 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$8\\pi\\text{ cm}^2\\text{/s}$",
-    "explanation": "من الحجم: $12\\pi = 4\\pi(3^2) \\dot{r} \\Rightarrow \\dot{r} = 1/3$. مساحة السطح $S = 4\\pi r^2 \\Rightarrow \\dot{S} = 8\\pi r \\dot{r}$. بالتعويض: $\\dot{S} = 8\\pi(3)(1/3) = 8\\pi$"
+    "explanation": "من معدل الحجم نجد $\\dot{r} = 1/3$. مساحة السطح $S = 4\\pi r^2$ واشتقاقها $\\dot{S} = 8\\pi r \\dot{r}$. بالتعويض: $\\dot{S} = 8\\pi(3)(1/3) = 8\\pi$"
   },
   {
     "number": 9,
     "topic": "معدل تغير طول الظل",
     "question": "مصباح على الأرض يبعد $12\\text{ m}$ عن جدار رأسي. رجل طوله $2\\text{ m}$ يسير من المصباح نحو الجدار بسرعة $1.6\\text{ m/s}$. ما معدل تغير طول ظله على الجدار عندما يكون على بعد $4\\text{ m}$ من الجدار؟",
     "choices": [
-      "$-0.6\\text{ m/s}$",
       "$-2.4\\text{ m/s}$",
       "$-0.4\\text{ m/s}$",
+      "$-0.6\\text{ m/s}$",
       "$-1.2\\text{ m/s}$"
     ],
-    "answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$-0.6\\text{ m/s}$",
-    "explanation": "بالتشابه $y/12 = 2/x \\Rightarrow y = 24/x$. بالاشتقاق $\\dot{y} = -24/x^2 \\dot{x}$. عندما يكون على بعد $4\\text{ m}$ من الجدار يكون $x = 12-4 = 8$. بالتعويض: $\\dot{y} = -24/64 (1.6) = -0.6$"
+    "explanation": "بالتشابه $y/12 = 2/x \\Rightarrow y = 24/x$. بالاشتقاق $\\dot{y} = -24/x^2 \\dot{x}$. عندما يكون على بعد $4\\text{ m}$ من الجدار فإن $x = 8$. بالتعويض نجد $\\dot{y} = -0.6$"
   },
   {
     "number": 10,
@@ -137,6 +137,6 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$15/32\\pi\\text{ m/min}$",
-    "explanation": "$V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi r^2 (3r/4) = \\frac{\\pi r^3}{4}$. بالاشتقاق: $\\dot{V} = \\frac{3\\pi r^2}{4} \\dot{r}$. عند $h=4$ يكون $r=16/3$. بالتعويض: $10 = \\frac{3\\pi(256/9)}{4} \\dot{r} \\Rightarrow 10 = \\frac{64\\pi}{3} \\dot{r} \\Rightarrow \\dot{r} = 30/64\\pi = 15/32\\pi$"
+    "explanation": "علاقة الحجم $V = \\frac{\\pi r^3}{4}$. بالاشتقاق: $\\dot{V} = \\frac{3\\pi r^2}{4} \\dot{r}$. عند $h=4$ يكون $r=16/3$. بالتعويض نجد $\\dot{r} = 15/32\\pi$"
   }
 ]

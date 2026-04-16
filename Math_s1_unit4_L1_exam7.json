@@ -4,28 +4,28 @@
     "topic": "الجذر الرئيس للعدد السالب",
     "question": "قيمة $\\sqrt{-\\frac{49}{4}}$ بدلالة $i$ تساوي",
     "choices": [
+      "$\\frac{7}{4}i$",
       "$\\frac{7}{2}i$",
       "$-\\frac{7}{2}i$",
-      "$\\frac{7}{4}i$",
       "$\\frac{49}{4}i$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$\\frac{7}{2}i$",
-    "explanation": "$\\sqrt{-\\frac{49}{4}} = i\\sqrt{\\frac{49}{4}} = i \\times \\frac{7}{2} = \\frac{7}{2}i"
+    "explanation": "$\\sqrt{-\\frac{49}{4}} = i\\sqrt{\\frac{49}{4}} = i \\times \\frac{7}{2} = \\frac{7}{2}i$"
   },
   {
     "number": 2,
     "topic": "تبسيط الجذور السالبة",
     "question": "قيمة $\\sqrt{-98}$ بدلالة $i$ تساوي",
     "choices": [
-      "$7i\\sqrt{2}$",
       "$7\\sqrt{2}$",
       "$-7i\\sqrt{2}$",
-      "$49i\\sqrt{2}$"
+      "$49i\\sqrt{2}$",
+      "$7i\\sqrt{2}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$7i\\sqrt{2}$",
-    "explanation": "$\\sqrt{-98} = i\\sqrt{49 \\times 2} = 7i\\sqrt{2}"
+    "explanation": "$\\sqrt{-98} = i\\sqrt{49 \\times 2} = 7i\\sqrt{2}$"
   },
   {
     "number": 3,
@@ -39,49 +39,49 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$-i$",
-    "explanation": "بقسمة 39 على 4 يكون الباقي 3، إذن $i^{39} = i^3 = -i"
+    "explanation": "بقسمة 39 على 4 يكون الباقي 3، إذن $i^{39} = i^3 = -i$"
   },
   {
     "number": 4,
     "topic": "ضرب الأعداد التخيلية",
     "question": "ناتج $\\sqrt{-27} \\times \\sqrt{-48}$ يساوي",
     "choices": [
-      "$-36$",
       "$36$",
+      "$-36$",
       "$-36i$",
       "$36i$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$-36$",
-    "explanation": "$(3i\\sqrt{3})(4i\\sqrt{3}) = 12i^2(3) = 36(-1) = -36"
+    "explanation": "$(3i\\sqrt{3})(4i\\sqrt{3}) = 12i^2(3) = 36(-1) = -36$"
   },
   {
     "number": 5,
     "topic": "الصورة القياسية",
     "question": "الصورة القياسية للعدد $\\frac{2 + \\sqrt{-4}}{2}$ هي",
     "choices": [
-      "$1 + i$",
       "$1 - i$",
       "$2 + i$",
+      "$1 + i$",
       "$1 + 2i$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "c",
     "final_answer_text": "$1 + i$",
-    "explanation": "$\\sqrt{-4} = 2i$، وبالتبسيط يصبح المقدار $\\frac{2}{2} + \\frac{2i}{2} = 1 + i"
+    "explanation": "$\\sqrt{-4} = 2i$، وبالتبسيط يصبح المقدار $\\frac{2}{2} + \\frac{2i}{2} = 1 + i$"
   },
   {
     "number": 6,
     "topic": "خاصية المساواة",
     "question": "إذا كان $2x + i(3 - y) = 6 + 5i$، فإن قيمة $x + y$ تساوي",
     "choices": [
-      "$1$",
       "$-1$",
       "$6$",
-      "$8$"
+      "$8$",
+      "$1$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$1$",
-    "explanation": "الحقيقي: $2x = 6 \\Rightarrow x = 3$. التخيلي: $3 - y = 5 \\Rightarrow y = -2$. إذن $x + y = 3 - 2 = 1"
+    "explanation": "الحقيقي: $2x = 6 \\Rightarrow x = 3$. التخيلي: $3 - y = 5 \\Rightarrow y = -2$. إذن $x + y = 3 - 2 = 1$"
   },
   {
     "number": 7,
@@ -95,35 +95,35 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$8 + 8i$ و $8\\sqrt{2}$",
-    "explanation": "$\\bar{z} = 8 + 8i$. المقياس $|\\bar{z}| = \\sqrt{8^2 + 8^2} = \\sqrt{128} = 8\\sqrt{2}"
+    "explanation": "$\\bar{z} = 8 + 8i$. المقياس $|\\bar{z}| = \\sqrt{8^2 + 8^2} = \\sqrt{128} = 8\\sqrt{2}$"
   },
   {
     "number": 8,
     "topic": "مقياس العدد المركب",
     "question": "إذا كان $z = -5 + 5i$، فإن $|z|$ يساوي",
     "choices": [
-      "$5\\sqrt{2}$",
       "$10$",
+      "$5\\sqrt{2}$",
       "$5$",
       "$\\sqrt{10}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "b",
     "final_answer_text": "$5\\sqrt{2}$",
-    "explanation": "$|z| = \\sqrt{(-5)^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2}"
+    "explanation": "$|z| = \\sqrt{(-5)^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2}$"
   },
   {
     "number": 9,
     "topic": "سعة العدد المركب",
     "question": "سعة العدد المركب $z = 8 - 8i\\sqrt{3}$ تساوي",
     "choices": [
-      "$-\\frac{\\pi}{3}$",
       "$\\frac{\\pi}{3}$",
       "$-\\frac{2\\pi}{3}$",
-      "$\\frac{2\\pi}{3}$"
+      "$\\frac{2\\pi}{3}$",
+      "$-\\frac{\\pi}{3}$"
     ],
-    "correct_answer": "a",
+    "correct_answer": "d",
     "final_answer_text": "$-\\frac{\\pi}{3}$",
-    "explanation": "العدد في الربع الرابع، السعة هي $-\\tan^{-1}(8\\sqrt{3}/8) = -\\tan^{-1}(\\sqrt{3}) = -\\pi/3"
+    "explanation": "العدد في الربع الرابع، السعة هي $-\\tan^{-1}(8\\sqrt{3}/8) = -\\tan^{-1}(\\sqrt{3}) = -\\pi/3$"
   },
   {
     "number": 10,
@@ -137,6 +137,6 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$-10 + 10i$",
-    "explanation": "$a = 10\\sqrt{2} \\cos(3\\pi/4) = -10$ و $b = 10\\sqrt{2} \\sin(3\\pi/4) = 10$. إذن $z = -10 + 10i"
+    "explanation": "$a = 10\\sqrt{2} \\cos(3\\pi/4) = -10$ و $b = 10\\sqrt{2} \\sin(3\\pi/4) = 10$. إذن $z = -10 + 10i$"
   }
 ]

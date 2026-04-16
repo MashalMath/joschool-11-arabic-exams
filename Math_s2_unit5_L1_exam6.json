@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "تكامل اقتران أسي طبيعي بأُس سالب",
+    "question": "أجد: $\\int e^{-2x+5} dx$",
+    "choices": [
+      "$2e^{-2x+5}+C$",
+      "$-\\frac{1}{2}e^{-2x+5}+C$",
+      "$e^{-2x+5}+C$",
+      "$-2e^{-2x+5}+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\frac{1}{2}e^{-2x+5}+C$",
+    "explanation": "باستخدام قاعدة تكامل الاقتران الأسي نقسم على معامل $x$ وهو $-2$ لينتج $-1/2$ كمعامل للناتج"
+  },
+  {
+    "number": 2,
+    "topic": "تكامل الاقترانات الأسية من الأساس k",
+    "question": "أجد: $\\int 6^{x+1} dx$",
+    "choices": [
+      "$\\frac{6^{x+1}}{\\ln 6}+C$",
+      "$(x+1)\\cdot 6^x+C$",
+      "$\\frac{6^{x+1}}{(x+1)\\ln 6}+C$",
+      "$6^x\\cdot\\ln 6+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{6^{x+1}}{\\ln 6}+C$",
+    "explanation": "عندما يكون الأساس ثابتاً غير $e$ نقسم الناتج على اللوغاريتم الطبيعي للأساس"
+  },
+  {
+    "number": 3,
+    "topic": "تكامل قاطع التمام مضروباً في ظل التمام",
+    "question": "أجد: $\\int \\csc(4x)\\cot(4x) dx$",
+    "choices": [
+      "$4\\csc(4x)\\cot(4x)+C$",
+      "$\\csc(4x)+C$",
+      "$-4\\csc(4x)+C$",
+      "$-\\frac{1}{4}\\csc(4x)+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\frac{1}{4}\\csc(4x)+C$",
+    "explanation": "تكامل $\\csc u \\cot u$ هو $-\\csc u$ مع القسمة على معامل $x$ وهو هنا $4$"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل المحدود لاقتران $1/x$",
+    "question": "أجد قيمة: $\\int_1^{e^3} \\frac{1}{x} dx$",
+    "choices": [
+      "$e^3$",
+      "$\\ln 3$",
+      "3",
+      "1"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "3",
+    "explanation": "تكامل $1/x$ هو $\\ln|x|$ وبالتعويض نجد $\\ln(e^3) - \\ln(1) = 3 - 0 = 3$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات تحويل الضرب إلى جمع",
+    "question": "أجد: $\\int \\sin x\\sin(3x) dx$",
+    "choices": [
+      "$\\frac{\\sin(2x)}{4}+\\frac{\\sin(4x)}{8}+C$",
+      "$\\frac{\\sin(2x)}{4}-\\frac{\\sin(4x)}{8}+C$",
+      "$\\frac{\\cos(2x)}{4}-\\frac{\\cos(4x)}{8}+C$",
+      "$-\\frac{\\sin(2x)}{4}+\\frac{\\sin(4x)}{8}+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{\\sin(2x)}{4}-\\frac{\\sin(4x)}{8}+C$",
+    "explanation": "نحول الضرب لجمع باستخدام المتطابقة $\\frac{1}{2}[\\cos(2x)-\\cos(4x)]$ ثم نكامل كل حد"
+  },
+  {
+    "number": 6,
+    "topic": "تكامل يُنتج لوغاريتماً طبيعياً",
+    "question": "أجد: $\\int \\frac{5}{2x-3} dx$",
+    "choices": [
+      "$\\frac{2}{5}\\ln|2x-3|+C$",
+      "$5\\ln|2x-3|+C$",
+      "$\\ln|2x-3|+C$",
+      "$\\frac{5}{2}\\ln|2x-3|+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\frac{5}{2}\\ln|2x-3|+C$",
+    "explanation": "نخرج الثابت $5$ خارج التكامل ثم نكامل $\\frac{1}{2x-3}$ بالقسمة على معامل $x$ واستخدام اللوغاريتم"
+  },
+  {
+    "number": 7,
+    "topic": "تكامل اقتران نسبي بالتبسيط",
+    "question": "أجد: $\\int \\frac{x^3+4x}{x^2} dx$",
+    "choices": [
+      "$\\frac{x^2}{2}+4\\ln|x|+C$",
+      "$x^2+4\\ln|x|+C$",
+      "$\\frac{x^2}{2}+4+C$",
+      "$x+\\frac{4}{x}+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{x^2}{2}+4\\ln|x|+C$",
+    "explanation": "بتوزيع المقام نحصل على $x + 4/x$ وتكامل $x$ هو $x^2/2$ وتكامل $4/x$ هو $4\\ln|x|$"
+  },
+  {
+    "number": 8,
+    "topic": "إزاحة جسم متحرك",
+    "question": "إذا تحرك جسيم بسرعة $v(t)=3\\sin(2t)$ فإن إزاحته في الفترة $[0, \\pi]$ تساوي",
+    "choices": [
+      "3",
+      "-3",
+      "0",
+      "$3/2$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "0",
+    "explanation": "الإزاحة هي التكامل المحدود للسرعة المتجهة على الفترة المعطاة، وبحسابه نجد أن الناتج صفر"
+  },
+  {
+    "number": 9,
+    "topic": "الشرط الأولي",
+    "question": "إذا كان $f'(x)=\\frac{2}{x-1}+e^x$ وكان $f(2)=e^2+5$ فإن $f(x)$ يساوي",
+    "choices": [
+      "$2\\ln|x-1|+e^x+5$",
+      "$2\\ln|x-1|+e^x+e^2$",
+      "$\\ln|x-1|+e^x+5$",
+      "$2\\ln|x-1|+e^x+3$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$2\\ln|x-1|+e^x+5$",
+    "explanation": "بعد التكامل والتعويض بـ $x=2$ نجد أن $2\\ln(1) + e^2 + C = e^2 + 5$ ومنها $C=5$"
+  },
+  {
+    "number": 10,
+    "topic": "تكامل تربيع مجموع اقترانات مثلثية",
+    "question": "أجد: $\\int (\\sec x+\\tan x)^2 dx$",
+    "choices": [
+      "$2\\tan x+2\\sec x+x+C$",
+      "$2\\tan x+2\\sec x-x+C$",
+      "$\\tan x+\\sec x-x+C$",
+      "$2\\sec^2 x+2\\sec x\\tan x+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2\\tan x+2\\sec x-x+C$",
+    "explanation": "نفك التربيع ليصبح $\\sec^2 x + 2\\sec x\\tan x + \\tan^2 x$ ثم نستخدم متطابقة $\\tan^2 x = \\sec^2 x - 1$ لتبسيط المقدار قبل التكامل"
+  }
+]

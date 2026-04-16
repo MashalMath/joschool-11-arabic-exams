@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "تكامل اقتران أسي طبيعي مضروب في ثابت",
+    "question": "أجد: $\\int 2e^{4x+3} dx$",
+    "choices": [
+      "$8e^{4x+3}+C$",
+      "$\\frac{1}{2}e^{4x+3}+C$",
+      "$2e^{4x+3}+C$",
+      "$\\frac{1}{4}e^{4x+3}+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{1}{2}e^{4x+3}+C$",
+    "explanation": "بتكامل الاقتران الأسي نقسم على معامل $x$ فتصبح $2 \\cdot \\frac{1}{4}e^{4x+3} + C$ وبالاختصار نحصل على $1/2$"
+  },
+  {
+    "number": 2,
+    "topic": "تكامل الاقترانات الأسية من الأساس k",
+    "question": "أجد: $\\int 2^{3x-1} dx$",
+    "choices": [
+      "$\\frac{2^{3x-1}}{\\ln 2}+C$",
+      "$3\\cdot 2^{3x-1}\\ln 2+C$",
+      "$\\frac{2^{3x}}{\\ln 2}+C$",
+      "$\\frac{2^{3x-1}}{3\\ln 2}+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\frac{2^{3x-1}}{3\\ln 2}+C$",
+    "explanation": "نقسم على معامل $x$ وهو 3 وعلى اللوغاريتم الطبيعي للأساس وهو $\\ln 2$"
+  },
+  {
+    "number": 3,
+    "topic": "تكامل القاطع مضروباً في الظل",
+    "question": "أجد: $\\int \\sec(2x)\\tan(2x) dx$",
+    "choices": [
+      "$\\frac{1}{2}\\sec(2x)+C$",
+      "$2\\sec(2x)+C$",
+      "$\\sec(2x)+C$",
+      "$\\frac{1}{2}\\sec(2x)\\tan(2x)+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{1}{2}\\sec(2x)+C$",
+    "explanation": "تكامل $\\sec(ax)\\tan(ax)$ هو $\\frac{1}{a}\\sec(ax) + C$ وهنا $a=2$"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل المحدود لاقتران جيب",
+    "question": "أجد قيمة: $\\int_0^{\\pi/6} \\sin(3x) dx$",
+    "choices": [
+      "$2/3$",
+      "$-1/3$",
+      "$1/3$",
+      "$1$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$1/3$",
+    "explanation": "تكامل $\\sin(3x)$ هو $-\\frac{1}{3}\\cos(3x)$ وبالتعويض بالحدود نجد أن $-\\frac{1}{3}(0 - 1) = 1/3$"
+  },
+  {
+    "number": 5,
+    "topic": "تكامل اقتران الظل",
+    "question": "أجد: $\\int \\tan x dx$",
+    "choices": [
+      "$\\ln|\\sin x|+C$",
+      "$-\\ln|\\cos x|+C$",
+      "$\\ln|\\cos x|+C$",
+      "$-\\ln|\\sin x|+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\ln|\\cos x|+C$",
+    "explanation": "بما أن $\\tan x = \\frac{\\sin x}{\\cos x}$ ومشتقة المقام هي $-\\sin x$ فنحتاج لإشارة سالبة ليصبح البسط مشتقة للمقام"
+  },
+  {
+    "number": 6,
+    "topic": "متطابقات تحويل الضرب إلى جمع",
+    "question": "أجد: $\\int \\cos(2x)\\cos(4x) dx$",
+    "choices": [
+      "$\\sin(2x)+\\sin(6x)+C$",
+      "$\\frac{\\sin(2x)}{2}+\\frac{\\sin(6x)}{6}+C$",
+      "$\\frac{\\sin(2x)}{4}-\\frac{\\sin(6x)}{12}+C$",
+      "$\\frac{\\sin(2x)}{4}+\\frac{\\sin(6x)}{12}+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\frac{\\sin(2x)}{4}+\\frac{\\sin(6x)}{12}+C$",
+    "explanation": "نحول الضرب لجمع فتصبح $\\frac{1}{2}(\\cos 2x + \\cos 6x)$ ثم نكامل كل حد مع مراعاة معاملات الزوايا"
+  },
+  {
+    "number": 7,
+    "topic": "تكامل يُنتج لوغاريتماً طبيعياً",
+    "question": "أجد: $\\int \\frac{e^x}{e^x+3} dx$",
+    "choices": [
+      "$\\ln(e^x+3)+C$",
+      "$e^x\\ln(e^x+3)+C$",
+      "$\\frac{1}{e^x+3}+C$",
+      "$\\ln|e^x|+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\ln(e^x+3)+C$",
+    "explanation": "مشتقة المقام $e^x+3$ هي $e^x$ وهي موجودة في البسط لذا الناتج هو لوغاريتم المقام"
+  },
+  {
+    "number": 8,
+    "topic": "متطابقات فيثاغورس والتكامل",
+    "question": "أجد: $\\int \\cot^2 x dx$",
+    "choices": [
+      "$\\cot x-x+C$",
+      "$-\\csc^2 x-x+C$",
+      "$-\\cot x-x+C$",
+      "$\\csc x\\cot x-x+C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$-\\cot x-x+C$",
+    "explanation": "نستخدم المتطابقة $\\cot^2 x = \\csc^2 x - 1$ وتكامل $\\csc^2 x$ هو $-\\cot x$"
+  },
+  {
+    "number": 9,
+    "topic": "الشرط الأولي",
+    "question": "إذا كان $f'(x)=\\frac{2}{x+1}+3e^{3x}$ وكان $f(0)=5$ فإن $f(x)$ يساوي",
+    "choices": [
+      "$2\\ln|x+1|+e^{3x}+5$",
+      "$2\\ln|x+1|+e^{3x}+4$",
+      "$\\ln|x+1|+3e^{3x}+4$",
+      "$2\\ln|x+1|+3e^{3x}+4$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$2\\ln|x+1|+e^{3x}+4$",
+    "explanation": "بعد التكامل $2\\ln|x+1|+e^{3x}+C$ وبالتعويض $2\\ln(1)+e^0+C=5$ نجد أن $1+C=5$ أي $C=4$"
+  },
+  {
+    "number": 10,
+    "topic": "التكامل المحدود لاقتران نسبي",
+    "question": "أجد قيمة: $\\int_1^e \\frac{x^2+2}{x} dx$",
+    "choices": [
+      "$e^2+3/2$",
+      "$e^2/2+2$",
+      "$(e^2+1)/2$",
+      "$e^2/2+3/2$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$e^2/2+3/2$",
+    "explanation": "نوزع المقام لتصبح $\\int (x + 2/x) dx$ والناتج $[x^2/2 + 2\\ln x]$ وبالتعويض بالحدود ينتج المطلوب"
+  }
+]

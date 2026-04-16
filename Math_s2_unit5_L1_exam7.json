@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "تكامل اقتران أسي طبيعي بصورة ax+b",
+    "question": "أجد: $\\int e^{7x-3} dx$",
+    "choices": [
+      "$7e^{7x-3}+C$",
+      "$e^{7x-3}+C$",
+      "$\\frac{1}{7}e^{7x-3}+C$",
+      "$-\\frac{1}{7}e^{7x-3}+C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\frac{1}{7}e^{7x-3}+C$",
+    "explanation": "باستعمال قاعدة تكامل الاقتران الأسي الطبيعي نقسم على معامل $x$ وهو 7"
+  },
+  {
+    "number": 2,
+    "topic": "تكامل الاقترانات الأسية من الأساس k",
+    "question": "أجد: $\\int 3^{2x} dx$",
+    "choices": [
+      "$\\frac{3^{2x}}{6\\ln 3}+C$",
+      "$\\frac{3^{2x}}{2\\ln 3}+C$",
+      "$\\frac{3^{2x}}{\\ln 3}+C$",
+      "$2\\cdot 3^{2x}\\ln 3+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{3^{2x}}{2\\ln 3}+C$",
+    "explanation": "نقسم على معامل $x$ وهو 2 وعلى اللوغاريتم الطبيعي للأساس وهو $\\ln 3$"
+  },
+  {
+    "number": 3,
+    "topic": "تكامل اقتران الجيب مضروباً في ثابت",
+    "question": "أجد: $\\int (-3\\sin x) dx$",
+    "choices": [
+      "$3\\cos x+C$",
+      "$-3\\cos x+C$",
+      "$3\\sin x+C$",
+      "$-3\\sin x+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$3\\cos x+C$",
+    "explanation": "تكامل $\\sin x$ هو $-\\cos x$ وبضربه في الثابت $-3$ يصبح الناتج $3\\cos x + C$"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل المحدود لاقتران أسي طبيعي",
+    "question": "أجد قيمة: $\\int_0^{\\ln 2} 4e^x dx$",
+    "choices": [
+      "8",
+      "2",
+      "$\\ln 2$",
+      "4"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "4",
+    "explanation": "التكامل هو $4e^x$ وبالتعويض نجد $4e^{\\ln 2} - 4e^0 = 4(2) - 4(1) = 4$"
+  },
+  {
+    "number": 5,
+    "topic": "متطابقات فيثاغورس والتكامل",
+    "question": "أجد: $\\int (\\csc^2 x-\\cot^2 x) dx$",
+    "choices": [
+      "$\\csc x+C$",
+      "$\\csc^2 x+C$",
+      "$x+C$",
+      "$-x+C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x+C$",
+    "explanation": "بما أن $\\csc^2 x - \\cot^2 x = 1$ من متطابقات فيثاغورس فإن تكامل الثابت 1 هو $x + C$"
+  },
+  {
+    "number": 6,
+    "topic": "تكامل يُنتج لوغاريتماً طبيعياً",
+    "question": "أجد: $\\int \\frac{3x^2-2}{x^3-2x+1} dx$",
+    "choices": [
+      "$\\frac{1}{3}\\ln|x^3-2x+1|+C$",
+      "$\\ln|x^3-2x+1|+C$",
+      "$(3x^2-2)\\ln|x^3-2x+1|+C$",
+      "$3\\ln|x^3-2x+1|+C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\ln|x^3-2x+1|+C$",
+    "explanation": "نلاحظ أن البسط هو مشتقة المقام تماماً لذا فإن الناتج هو لوغاريتم القيمة المطلقة للمقام"
+  },
+  {
+    "number": 7,
+    "topic": "تكامل اقتران نسبي بالتبسيط",
+    "question": "أجد: $\\int \\frac{2x^2-x+3}{2x} dx$",
+    "choices": [
+      "$x^2-x+\\frac{3}{2}\\ln|x|+C$",
+      "$x^2+x+\\ln|x|+C$",
+      "$x-\\frac{1}{2}+\\frac{3}{2x}+C$",
+      "$\\frac{x^2}{2}-\\frac{x}{2}+\\frac{3}{2}\\ln|x|+C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\frac{x^2}{2}-\\frac{x}{2}+\\frac{3}{2}\\ln|x|+C$",
+    "explanation": "نوزع المقام لتصبح $\\int (x - 1/2 + 3/2x) dx$ ثم نكامل كل حد على حدة"
+  },
+  {
+    "number": 8,
+    "topic": "تكامل اقتران ظل التمام",
+    "question": "أجد: $\\int \\cot x dx$",
+    "choices": [
+      "$\\ln|\\sin x|+C$",
+      "$-\\ln|\\sin x|+C$",
+      "$\\ln|\\cos x|+C$",
+      "$\\cot x\\cdot x+C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\ln|\\sin x|+C$",
+    "explanation": "بما أن $\\cot x = \\frac{\\cos x}{\\sin x}$ والبسط هو مشتقة المقام فإن الناتج هو لوغاريتم المقام"
+  },
+  {
+    "number": 9,
+    "topic": "المسافة الكلية المقطوعة",
+    "question": "يتحرك جسيم بسرعة $v(t)=\\cos t$ أجد المسافة الكلية المقطوعة في الفترة $[0, 2\\pi]$ ",
+    "choices": [
+      "2",
+      "4",
+      "0",
+      "$2\\pi$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "4",
+    "explanation": "المسافة هي تكامل القيمة المطلقة للسرعة، وبتقسيم الفترة حسب أصفار الاقتران نجد أن الناتج هو $1+2+1=4$"
+  },
+  {
+    "number": 10,
+    "topic": "الشرط الأولي مع اقتران أسي",
+    "question": "يتحرك جسيم بسرعة $v(t)=e^t+e^{-t}$ فإذا كان $s(0)=0$ فإن قيمة $s(2)$ هي",
+    "choices": [
+      "$e^2+e^{-2}$",
+      "$e^2-1$",
+      "$e^2-e^{-2}$",
+      "$2e^2$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$e^2-e^{-2}$",
+    "explanation": "بتكامل السرعة نجد $s(t)=e^t-e^{-t}+C$ وبالتعويض $s(0)=1-1+C=0$ أي $C=0$ وبالتعويض عن $t=2$ ينتج المطلوب"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "التكامل بالأجزاء - اللوغاريتم الطبيعي",
+    "question": "ما هو ناتج التكامل التالي: \\( \\int \\ln x \\, dx \\)؟",
+    "choices": [
+      "\\( x\\ln x + x + C \\)",
+      "\\( \\frac{1}{x} + C \\)",
+      "\\( x\\ln x - x + C \\)",
+      "\\( \\frac{(\\ln x)^2}{2} + C \\)"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\( x\\ln x - x + C \\)",
+    "explanation": "نستخدم الأجزاء بفرض \\( u = \\ln x \\) ومنه \\( du = \\frac{1}{x}dx \\)، وفرض \\( dv = dx \\) ومنه \\( v = x \\). بتطبيق القانون: \\( uv - \\int v\\,du \\) نصل إلى \\( x\\ln x - \\int x \\cdot \\frac{1}{x} dx = x\\ln x - x + C \\)"
+  },
+  {
+    "number": 2,
+    "topic": "التكامل بالأجزاء - أسي وخطي",
+    "question": "أجد ناتج التكامل: \\( \\int x e^x \\, dx \\)",
+    "choices": [
+      "\\( x e^x + e^x + C \\)",
+      "\\( x e^x - e^x + C \\)",
+      "\\( e^x (1-x) + C \\)",
+      "\\( \\frac{1}{2}x^2 e^x + C \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( x e^x - e^x + C \\)",
+    "explanation": "نفرض \\( u = x \\) (خطي) و \\( dv = e^x dx \\) (أسي). بالتكامل بالأجزاء: \\( x e^x - \\int e^x dx = x e^x - e^x + C \\). يمكن كتابتها بصورة \\( e^x(x-1) + C \\)"
+  },
+  {
+    "number": 3,
+    "topic": "التكامل بالأجزاء - مثلثي وخطي",
+    "question": "ما قيمة التكامل: \\( \\int x\\cos x\\,dx \\)؟",
+    "choices": [
+      "\\( x\\sin x - \\cos x + C \\)",
+      "\\( -x\\sin x + \\cos x + C \\)",
+      "\\( x\\sin x + \\cos x + C \\)",
+      "\\( x\\cos x + \\sin x + C \\)"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\( x\\sin x + \\cos x + C \\)",
+    "explanation": "بفرض \\( u=x \\) و \\( dv=\\cos x\\,dx \\). ينتج \\( du=dx \\) و \\( v=\\sin x \\). القانون يعطي: \\( x\\sin x - \\int \\sin x\\,dx \\). بما أن تكامل الجيب هو سالب جتا، تصبح الإشارة موجبة: \\( x\\sin x + \\cos x + C \\)"
+  },
+  {
+    "number": 4,
+    "topic": "الأجزاء مع اقتران أسي مركب",
+    "question": "أجد ناتج التكامل: \\( \\int xe^{3-x}\\,dx \\)",
+    "choices": [
+      "\\( -xe^{3-x} - e^{3-x} + C \\)",
+      "\\( -xe^{3-x} + e^{3-x} + C \\)",
+      "\\( xe^{3-x} - e^{3-x} + C \\)",
+      "\\( xe^{3-x} + e^{3-x} + C \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( -xe^{3-x} - e^{3-x} + C \\)",
+    "explanation": "نفرض \\( u=x \\) و \\( dv=e^{3-x}dx \\). انتبه أن \\( v = -e^{3-x} \\) بسبب معامل x السالب. بالتطبيق: \\( x(-e^{3-x}) - \\int -e^{3-x} dx = -xe^{3-x} + (-e^{3-x}) + C \\)"
+  },
+  {
+    "number": 5,
+    "topic": "تكرار الأجزاء مرتين",
+    "question": "ما هو ناتج التكامل: \\( \\int x^2 e^{2x}\\,dx \\)؟",
+    "choices": [
+      "\\( \\frac{1}{2}x^2e^{2x} + \\frac{1}{2}xe^{2x} + \\frac{1}{4}e^{2x} + C \\)",
+      "\\( \\frac{1}{2}x^2e^{2x} - \\frac{1}{2}xe^{2x} + \\frac{1}{4}e^{2x} + C \\)",
+      "\\( x^2e^{2x} - xe^{2x} + \\frac{1}{2}e^{2x} + C \\)",
+      "\\( \\frac{1}{2}x^2e^{2x} - \\frac{1}{2}xe^{2x} - \\frac{1}{4}e^{2x} + C \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( \\frac{1}{2}x^2e^{2x} - \\frac{1}{2}xe^{2x} + \\frac{1}{4}e^{2x} + C \\)",
+    "explanation": "يحتاج هذا السؤال للأجزاء مرتين أو طريقة الجدول. في المرة الأولى نحصل على \\( \\frac{1}{2}x^2e^{2x} - \\int xe^{2x} dx \\). وبتكرار العملية للحد الثاني نصل للنتيجة النهائية"
+  },
+  {
+    "number": 6,
+    "topic": "التكامل الدوري",
+    "question": "أجد ناتج التكامل الدوري: \\( \\int e^x\\cos x\\,dx \\)",
+    "choices": [
+      "\\( e^x\\sin x + e^x\\cos x + C \\)",
+      "\\( \\frac{1}{2}e^x\\sin x - \\frac{1}{2}e^x\\cos x + C \\)",
+      "\\( e^x\\sin x - e^x\\cos x + C \\)",
+      "\\( \\frac{1}{2}(e^x\\sin x + e^x\\cos x) + C \\)"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "\\( \\frac{1}{2}(e^x\\sin x + e^x\\cos x) + C \\)",
+    "explanation": "عند إجراء الأجزاء مرتين، يعود التكامل الأصلي للظهور (دوري). بنقله للطرف الآخر وقسمة الناتج على 2، نحصل على نصف مجموع (e^x sin x + e^x cos x)"
+  },
+  {
+    "number": 7,
+    "topic": "طريقة الجدول",
+    "question": "باستعمال طريقة الجدول لحل \\( \\int x^3\\sin x\\,dx \\)، ما هو الحد الأول والثاني من الناتج؟",
+    "choices": [
+      "\\( -x^3\\cos x + 3x^2\\sin x \\)",
+      "\\( x^3\\cos x - 3x^2\\sin x \\)",
+      "\\( -x^3\\cos x - 3x^2\\sin x \\)",
+      "\\( x^3\\sin x + 3x^2\\cos x \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( -x^3\\cos x + 3x^2\\sin x \\)",
+    "explanation": "من الجدول: اشتقاق \\( x^3 \\) يعطي \\( 3x^2 \\)، وتكامل \\( \\sin x \\) يعطي \\( -\\cos x \\) ثم \\( -\\sin x \\). الحد الأول: \\( (+)(x^3)(-\\cos x) = -x^3\\cos x \\). الحد الثاني: \\( (-)(3x^2)(-\\sin x) = +3x^2\\sin x \\)"
+  },
+  {
+    "number": 8,
+    "topic": "التكامل المحدود بالأجزاء",
+    "question": "قيمة التكامل المحدود: \\( \\int_1^2 x^3\\ln x\\,dx \\) تساوي",
+    "choices": [
+      "\\( 2\\ln 2 - \\frac{15}{16} \\)",
+      "\\( 4\\ln 2 - 1 \\)",
+      "\\( 4\\ln 2 - \\frac{15}{16} \\)",
+      "\\( 4\\ln 2 + \\frac{15}{16} \\)"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\( 4\\ln 2 - \\frac{15}{16} \\)",
+    "explanation": "بعد إجراء التكامل بالأجزاء \\( \\frac{x^4}{4}\\ln x - \\frac{x^4}{16} \\)، نعوض بـ 2 ثم 1. ناتج التعويض بـ 2 هو \\( 4\\ln 2 - 1 \\)، وبالتعويض بـ 1 هو \\( -1/16 \\). الطرح يعطي \\( 4\\ln 2 - 15/16 \\)"
+  },
+  {
+    "number": 9,
+    "topic": "الأجزاء مع التعويض",
+    "question": "عند حل \\( \\int e^{\\sqrt{x}}\\,dx \\)، ما هي الصورة الناتجة بعد فرض \\( y = \\sqrt{x} \\)؟",
+    "choices": [
+      "\\( \\int e^y \\, dy \\)",
+      "\\( \\int 2y e^y \\, dy \\)",
+      "\\( \\int \\frac{1}{2}y e^y \\, dy \\)",
+      "\\( \\int y^2 e^y \\, dy \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( \\int 2y e^y \\, dy \\)",
+    "explanation": "بفرض \\( y = \\sqrt{x} \\) فإن \\( x = y^2 \\) وعليه \\( dx = 2y \\, dy \\). بالتعويض في التكامل الأصلي يصبح: \\( \\int e^y (2y \\, dy) = \\int 2y e^y \\, dy \\)، وهو ما يُحل بالأجزاء"
+  },
+  {
+    "number": 10,
+    "topic": "التكامل بالأجزاء - اللوغاريتم المرفوع لقوة",
+    "question": "ما ناتج تكامل \\( \\int (\\ln x)^2 \\, dx \\)؟",
+    "choices": [
+      "\\( x(\\ln x)^2 - 2x\\ln x + 2x + C \\)",
+      "\\( x(\\ln x)^2 + 2x\\ln x + 2x + C \\)",
+      "\\( \\frac{(\\ln x)^3}{3} + C \\)",
+      "\\( x(\\ln x)^2 - x + C \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( x(\\ln x)^2 - 2x\\ln x + 2x + C \\)",
+    "explanation": "نفرض \\( u = (\\ln x)^2 \\) و \\( dv = dx \\). المرحلة الأولى تعطي \\( x(\\ln x)^2 - \\int 2\\ln x dx \\). ثم نكامل \\( \\ln x \\) بالأجزاء مرة أخرى لنصل للنتيجة النهائية"
+  }
+]

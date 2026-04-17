@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "التكامل بالتعويض - التعرف على التعويض الصحيح",
+    "question": "أي التعويضات التالية يُبسّط التكامل $\\int \\frac{e^x}{e^x+1} dx$",
+    "choices": [
+      "$u = e^x$",
+      "$u = e^x + 1$",
+      "$u = \\frac{1}{e^x+1}$",
+      "$u = \\ln(e^x)$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$u = e^x + 1$",
+    "explanation": "مشتقة المقام موجودة في البسط تماماً، لذا فإن فرض $u$ يساوي المقام هو الحل الأسرع"
+  },
+  {
+    "number": 2,
+    "topic": "التكامل بالتعويض - اقتران القوة",
+    "question": "أجد ناتج: $\\int x^2(2x^3+5)^4 dx$",
+    "choices": [
+      "$\\frac{1}{6}(2x^3+5)^5 + C$",
+      "$\\frac{1}{15}(2x^3+5)^5 + C$",
+      "$\\frac{1}{30}(2x^3+5)^5 + C$",
+      "$\\frac{1}{5}(2x^3+5)^5 + C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\frac{1}{30}(2x^3+5)^5 + C$",
+    "explanation": "نقسم على مشتقة ما داخل القوس (6) ثم نكامل القوة لتصبح $1/30$"
+  },
+  {
+    "number": 3,
+    "topic": "التكامل بالتعويض - جيب التمام مع أس",
+    "question": "أجد ناتج: $\\int \\cos(\\ln x) \\cdot \\frac{1}{x} dx$",
+    "choices": [
+      "$\\sin(\\ln x) + C$",
+      "$-\\sin(\\ln x) + C$",
+      "$\\cos(\\ln x) + C$",
+      "$\\frac{1}{2}\\sin(\\ln x)^2 + C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sin(\\ln x) + C$",
+    "explanation": "بفرض $u=\\ln x$ تختصر $1/x$ ويتبقى تكامل $\\cos u$ الذي يعطي $\\sin u$"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل بالتعويض - اقتران مركب",
+    "question": "أجد ناتج التكامل $\\int \\frac{e^{3x}}{e^x+1} dx$ بالتعويض $u=e^x+1$",
+    "choices": [
+      "$e^x + \\ln(e^x+1) + C$",
+      "$e^x - \\ln(e^x+1) + C$",
+      "$e^{2x} - \\ln(e^x+1) + C$",
+      "$(e^x+1) - \\ln(e^x+1) + C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$(e^x+1) - \\ln(e^x+1) + C$",
+    "explanation": "بعد التبسيط نكامل المقدار $(1 - 1/u)$ بالنسبة لـ $u$ ثم نعود للمتغير الأصلي"
+  },
+  {
+    "number": 5,
+    "topic": "التكامل بالتعويض مع إجراءات إضافية",
+    "question": "عند حل $\\int x\\sqrt{2x+5} dx$ بالتعويض $u=2x+5$ يصبح التكامل بعد التبسيط",
+    "choices": [
+      "$\\frac{1}{4}\\int(u^{3/2}-5u^{1/2}) du$",
+      "$\\frac{1}{2}\\int(u^{3/2}-5u^{1/2}) du$",
+      "$\\frac{1}{4}\\int(u^{3/2}+5u^{1/2}) du$",
+      "$\\int(u^{3/2}-5u^{1/2}) du$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\frac{1}{4}\\int(u^{3/2}-5u^{1/2}) du$",
+    "explanation": "تظهر الـ $1/4$ نتيجة ضرب الـ $1/2$ القادمة من $x$ والـ $1/2$ القادمة من $dx$"
+  },
+  {
+    "number": 6,
+    "topic": "التكامل بالتعويض للجذور",
+    "question": "في التكامل $\\int x \\sqrt[5]{(x+1)^2} dx$ بالتعويض $u=\\sqrt[5]{x+1}$ فإن $x$ تساوي",
+    "choices": [
+      "$x = u^5$",
+      "$x = u^2 - 1$",
+      "$x = u^5 - 1$",
+      "$x = 1/u^5$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$x = u^5 - 1$",
+    "explanation": "برفع الطرفين للقوة 5 للتخلص من الجذر الخامس نجد العلاقة المطلوبة"
+  },
+  {
+    "number": 7,
+    "topic": "تكامل sin^3 بالتعويض",
+    "question": "أجد ناتج: $\\int \\sin^3 x dx$",
+    "choices": [
+      "$\\frac{1}{3}\\cos^3 x - \\cos x + C$",
+      "$\\cos x - \\frac{1}{3}\\cos^3 x + C$",
+      "$-1/3\\sin^3 x + C$",
+      "$-\\cos x + \\frac{1}{3}\\cos^3 x + C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$-\\cos x + \\frac{1}{3}\\cos^3 x + C$",
+    "explanation": "نحول $\\sin^2 x$ إلى $(1-\\cos^2 x)$ ثم نفرض $u=\\cos x$ ونوزع الإشارة السالبة"
+  },
+  {
+    "number": 8,
+    "topic": "تكامل ظل التمام",
+    "question": "أجد ناتج: $\\int \\cot^4 x dx$",
+    "choices": [
+      "$\\frac{1}{3}\\cot^3 x - \\cot x - x + C$",
+      "$-\\frac{1}{3}\\cot^3 x + \\cot x + x + C$",
+      "$-1/3\\cot^3 x - \\cot x + x + C$",
+      "$-1/3\\cot^3 x + \\cot x - x + C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$-\\frac{1}{3}\\cot^3 x + \\cot x + x + C$",
+    "explanation": "يتم تحليلها لجزأين؛ الأول بالتعويض والثاني باستخدام متطابقة $\\cot^2 x = \\csc^2 x - 1$"
+  },
+  {
+    "number": 9,
+    "topic": "التكامل المحدود بالتعويض",
+    "question": "أجد قيمة $\\int_1^{25} \\frac{x}{\\sqrt{2x-1}} dx$",
+    "choices": [
+      "30",
+      "45",
+      "90",
+      "60"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "60",
+    "explanation": "بعد تغيير الحدود من $[1, 25]$ إلى $[1, 7]$ وإجراء التكامل والتعويض نجد الناتج 60"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيقات التكامل في الاقتصاد",
+    "question": "إذا كان معدل تغير السعر $V'(t) = \\frac{0.4t^3}{\\sqrt{0.2t^4+8000}}$ والسعر الابتدائي 5000 فإن السعر بعد $t$ سنة هو",
+    "choices": [
+      "$\\sqrt{0.2t^4+8000} + 5000 - 40\\sqrt{5}$",
+      "$\\sqrt{0.2t^4+8000} + 5000$",
+      "$0.2t^4+8000 + 5000 - 40\\sqrt{5}$",
+      "$\\sqrt{0.2t^4+8000} + 5000 + 40\\sqrt{5}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$\\sqrt{0.2t^4+8000} + 5000 - 40\\sqrt{5}$",
+    "explanation": "تم إيجاد التكامل بالتعويض ثم استخدام الشرط الابتدائي $V(0)=5000$ لإيجاد قيمة الثابت $C$"
+  }
+]

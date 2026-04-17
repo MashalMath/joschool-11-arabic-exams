@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "مفهوم التكامل بالتعويض - اختيار التعويض المناسب",
+    "question": "عند حل $\\int 4x^3(x^4+7)^5 dx$ بطريقة التعويض، فإن التعويض الأنسب هو",
+    "choices": [
+      "$u = x^3$",
+      "$u = 4x^3$",
+      "$u = x^4 + 7$",
+      "$u = (x^4+7)^5$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$u = x^4 + 7$",
+    "explanation": "نلاحظ أن مشتقة $x^4+7$ هي $4x^3$ وهي موجودة كعامل في المكامل، مما يسهل عملية الاختصار"
+  },
+  {
+    "number": 2,
+    "topic": "التكامل بالتعويض - اقتران القوة",
+    "question": "أجد ناتج: $\\int 6x^2(2x^3-3)^4 dx$",
+    "choices": [
+      "$\\frac{1}{10}(2x^3-3)^5 + C$",
+      "$\\frac{1}{5}(2x^3-3)^5 + C$",
+      "$\\frac{6}{5}(2x^3-3)^5 + C$",
+      "$(2x^3-3)^5 + C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{1}{5}(2x^3-3)^5 + C$",
+    "explanation": "بفرض $u = 2x^3-3$ نجد أن $du = 6x^2 dx$ وبالتعويض يختصر العامل $6x^2$ ويتبقى تكامل $u^4$"
+  },
+  {
+    "number": 3,
+    "topic": "التكامل بالتعويض - الاقتران الأسي",
+    "question": "أجد ناتج: $\\int \\sin x \\, e^{\\cos x} dx$",
+    "choices": [
+      "$-e^{\\cos x} + C$",
+      "$e^{\\cos x} + C$",
+      "$-e^{\\sin x} + C$",
+      "$e^{\\sin x} + C$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$-e^{\\cos x} + C$",
+    "explanation": "بفرض $u = \\cos x$ تكون مشتقتها $-\\sin x$ مما يغير إشارة التكامل ليكون $- \\int e^u du$"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل بالتعويض - اللوغاريتم الطبيعي",
+    "question": "أجد ناتج: $\\int \\frac{\\ln x}{x} dx$",
+    "choices": [
+      "$(\\ln x)^2 + C$",
+      "$\\ln(\\ln x) + C$",
+      "$\\frac{1}{x^2} + C$",
+      "$\\frac{1}{2}(\\ln x)^2 + C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$\\frac{1}{2}(\\ln x)^2 + C$",
+    "explanation": "بفرض $u = \\ln x$ نجد أن $du = (1/x) dx$ فيتحول التكامل إلى $\\int u du$"
+  },
+  {
+    "number": 5,
+    "topic": "التكامل بالتعويض - اقتران مثلثي مع قوة",
+    "question": "أجد ناتج: $\\int x^3 \\cos(x^4 - 5) dx$",
+    "choices": [
+      "$4\\sin(x^4-5) + C$",
+      "$\\frac{1}{4}\\cos(x^4-5) + C$",
+      "$\\frac{1}{4}\\sin(x^4-5) + C$",
+      "$-\\frac{1}{4}\\sin(x^4-5) + C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\frac{1}{4}\\sin(x^4-5) + C$",
+    "explanation": "مشتقة الزاوية $4x^3$ لذا نحتاج للقسمة على $4$ عند إجراء التكامل"
+  },
+  {
+    "number": 6,
+    "topic": "التكامل بالتعويض مع إجراءات إضافية",
+    "question": "عند حل $\\int x\\sqrt{2x+5} dx$ بالتعويض $u = 2x+5$ فإن $x$ بدلالة $u$ هي",
+    "choices": [
+      "$x = \\frac{1}{2}(u-5)$",
+      "$x = 2u+5$",
+      "$x = u-5$",
+      "$x = u/2$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$x = \\frac{1}{2}(u-5)$",
+    "explanation": "من الفرض $u=2x+5$ ننقل الثابت $5$ للطرف الآخر ثم نقسم على معامل $x$ وهو $2$"
+  },
+  {
+    "number": 7,
+    "topic": "التكامل بالتعويض للجذور",
+    "question": "أجد ناتج: $\\int \\frac{dx}{x - \\sqrt{x}}$ باستخدام التعويض $u = \\sqrt{x}$",
+    "choices": [
+      "$\\ln|\\sqrt{x}-1| + C$",
+      "$\\ln|\\sqrt{x}+1| + C$",
+      "$2\\ln|\\sqrt{x}+1| + C$",
+      "$2\\ln|\\sqrt{x}-1| + C$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$2\\ln|\\sqrt{x}-1| + C$",
+    "explanation": "بعد التعويض والتبسيط يتبقى تكامل $\\int \\frac{2}{u-1} du$ والذي يعطي لوغاريتم المقام مضروباً في 2"
+  },
+  {
+    "number": 8,
+    "topic": "التكامل بالتعويض - اقتران مثلثي (أس فردي)",
+    "question": "أجد ناتج: $\\int \\cos^3 x dx$",
+    "choices": [
+      "$\\cos x - \\frac{1}{3}\\cos^3 x + C$",
+      "$\\sin x - \\frac{1}{3}\\sin^3 x + C$",
+      "$\\sin x + \\frac{1}{3}\\sin^3 x + C$",
+      "$-\\cos x + \\frac{1}{3}\\cos^3 x + C$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\sin x - \\frac{1}{3}\\sin^3 x + C$",
+    "explanation": "نستخدم المتطابقة $\\cos^2 x = 1-\\sin^2 x$ ثم نفرض $u=\\sin x$ لإتمام التكامل"
+  },
+  {
+    "number": 9,
+    "topic": "التكامل بالتعويض - اقتران الظل",
+    "question": "أجد ناتج: $\\int \\tan^3 x dx$",
+    "choices": [
+      "$\\frac{1}{3}\\tan^3 x + C$",
+      "$\\frac{1}{2}\\tan^2 x - \\ln|\\cos x| + C$",
+      "$\\frac{1}{2}\\tan^2 x + \\ln|\\cos x| + C$",
+      "$\\frac{1}{2}\\sec^2 x - \\ln|\\sin x| + C$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$\\frac{1}{2}\\tan^2 x + \\ln|\\cos x| + C$",
+    "explanation": "نحلل المقدار إلى $\\tan x(\\sec^2 x - 1)$ وبالتكامل نجد أن تكامل $-\\tan x$ يعطي $+\\ln|\\cos x|$"
+  },
+  {
+    "number": 10,
+    "topic": "التكامل المحدود بالتعويض",
+    "question": "أجد قيمة: $\\int_0^{\\pi/2} \\cos x \\sqrt{1+\\sin x} dx$",
+    "choices": [
+      "$\\frac{2}{3}(\\sqrt{2}-1)$",
+      "$\\frac{2}{3}(\\sqrt{8}-1)$",
+      "$\\sqrt{8}-1$",
+      "$2/3$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$\\frac{2}{3}(\\sqrt{8}-1)$",
+    "explanation": "بفرض $u=1+\\sin x$ تتغير الحدود من $[0, \\pi/2]$ إلى $[1, 2]$ وبتكامل $u^{1/2}$ والتعويض نصل للناتج"
+  }
+]

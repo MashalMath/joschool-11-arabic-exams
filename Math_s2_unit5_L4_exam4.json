@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "التكامل بالأجزاء - x^2 ln x",
+    "question": "أجد ناتج التكامل التالي: \\( \\int x^2\\ln x\\,dx \\)",
+    "choices": [
+      "\\( \\frac{x^3}{3}\\ln x - \\frac{x^3}{3} + C \\)",
+      "\\( \\frac{x^3}{3}\\ln x - \\frac{x^3}{9} + C \\)",
+      "\\( x^3\\ln x - \\frac{x^3}{9} + C \\)",
+      "\\( \\frac{x^3}{9}\\ln x - \\frac{x^3}{27} + C \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( \\frac{x^3}{3}\\ln x - \\frac{x^3}{9} + C \\)",
+    "explanation": "نختار \\( u=\\ln x \\) و \\( dv=x^2 dx \\). إذن \\( du = \\frac{1}{x}dx \\) و \\( v = \\frac{x^3}{3} \\). بتطبيق قانون الأجزاء: \\( \\frac{x^3}{3}\\ln x - \\int \\frac{x^3}{3} \\cdot \\frac{1}{x} dx = \\frac{x^3}{3}\\ln x - \\int \\frac{x^2}{3} dx = \\frac{x^3}{3}\\ln x - \\frac{x^3}{9} + C \\)"
+  },
+  {
+    "number": 2,
+    "topic": "التكامل بالأجزاء - (x+1)cos x",
+    "question": "\\( \\int (x+1)\\cos x\\,dx = \\)",
+    "choices": [
+      "\\( (x+1)\\sin x - \\cos x + C \\)",
+      "\\( (x+1)\\sin x + \\cos x + C \\)",
+      "\\( -(x+1)\\sin x + \\cos x + C \\)",
+      "\\( (x+1)\\cos x + \\sin x + C \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( (x+1)\\sin x + \\cos x + C \\)",
+    "explanation": "نختار \\( u=x+1 \\)، \\( dv=\\cos x\\,dx \\)، فـ \\( du=dx \\)، \\( v=\\sin x \\). بالصيغة: \\( (x+1)\\sin x - \\int\\sin x\\,dx = (x+1)\\sin x + \\cos x + C \\)"
+  },
+  {
+    "number": 3,
+    "topic": "التكامل بالأجزاء - xe^(x/2)",
+    "question": "\\( \\int xe^{x/2}\\,dx = \\)",
+    "choices": [
+      "\\( 2xe^{x/2} - 4e^{x/2} + C \\)",
+      "\\( 2xe^{x/2} + 4e^{x/2} + C \\)",
+      "\\( xe^{x/2} - 2e^{x/2} + C \\)",
+      "\\( \\frac{x}{2}e^{x/2} - e^{x/2} + C \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( 2xe^{x/2} - 4e^{x/2} + C \\)",
+    "explanation": "نختار \\( u=x \\)، \\( dv=e^{x/2}dx \\)، فـ \\( du=dx \\)، \\( v=2e^{x/2} \\). بالصيغة: \\( 2xe^{x/2} - \\int 2e^{x/2}dx = 2xe^{x/2} - 4e^{x/2} + C \\)"
+  },
+  {
+    "number": 4,
+    "topic": "التكامل بالأجزاء - (2x^2-1)e^(-x)",
+    "question": "\\( \\int (2x^2-1)e^{-x}\\,dx = \\)",
+    "choices": [
+      "\\( -(2x^2-1)e^{-x} - 4xe^{-x} - 4e^{-x} + C \\)",
+      "\\( -(2x^2-1)e^{-x} - 4xe^{-x} + 4e^{-x} + C \\)",
+      "\\( (2x^2+4x+4-1)e^{-x} + C \\)",
+      "\\( -(2x^2+4x+3)e^{-x} + C \\)"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "\\( -(2x^2+4x+3)e^{-x} + C \\)",
+    "explanation": "بطريقة الجدول: نضع \\( f=2x^2-1 \\) ونشتق، و \\( g=e^{-x} \\) ونكامل. الحدود الناتجة هي: \\( -(2x^2-1)e^{-x} - 4xe^{-x} - 4e^{-x} \\). بتجميع الحدود وأخذ \\( -e^{-x} \\) عامل مشترك: \\( -e^{-x}(2x^2-1+4x+4) = -(2x^2+4x+3)e^{-x} + C \\)"
+  },
+  {
+    "number": 5,
+    "topic": "التكامل بالأجزاء - x ln(1+x)",
+    "question": "\\( \\int x\\ln(1+x)\\,dx \\) بالأجزاء مع \\( u=\\ln(1+x) \\)، قيمة \\( v \\) هي",
+    "choices": [
+      "\\( v = x^2 \\)",
+      "\\( v = \\frac{x^2}{2} \\)",
+      "\\( v = x \\)",
+      "\\( v = \\frac{x^2}{2}+x \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( v = \\frac{x^2}{2} \\)",
+    "explanation": "بما أننا اخترنا \\( u=\\ln(1+x) \\)، فإن ما تبقى تحت التكامل هو \\( dv=x\\,dx \\). وبالتكامل نجد أن \\( v=\\int x\\,dx = \\frac{x^2}{2} \\)"
+  },
+  {
+    "number": 6,
+    "topic": "طريقة الجدول - x^5 e^x",
+    "question": "باستعمال طريقة الجدول، ناتج \\( \\int x^5 e^x\\,dx \\) هو",
+    "choices": [
+      "\\( e^x(x^5-5x^4+20x^3-60x^2+120x-120) + C \\)",
+      "\\( e^x(x^5+5x^4+20x^3+60x^2+120x+120) + C \\)",
+      "\\( e^x(x^5-5x^4+20x^3+60x^2-120x+120) + C \\)",
+      "\\( x^5e^x - 5x^4e^x + C \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( e^x(x^5-5x^4+20x^3-60x^2+120x-120) + C \\)",
+    "explanation": "بطريقة الجدول، نشتق \\( x^5 \\) حتى الصفر ونكامل \\( e^x \\). بمراعاة تبادل الإشارات (+، -، +، ...)، نحصل على كثير حدود مضروب في \\( e^x \\) يبدأ بـ \\( x^5 \\) وتتناقص القوى مع تبادل الإشارات، وصولاً للثابت 120"
+  },
+  {
+    "number": 7,
+    "topic": "التكاملات الدورية - sec^3 x",
+    "question": "قيمة التكامل الدوري \\( \\int\\sec^3 x\\,dx \\) هي",
+    "choices": [
+      "\\( \\frac{1}{2}\\sec x\\tan x + \\frac{1}{2}\\ln|\\sec x+\\tan x| + C \\)",
+      "\\( \\frac{1}{2}\\sec x\\tan x - \\frac{1}{2}\\ln|\\sec x+\\tan x| + C \\)",
+      "\\( \\sec x\\tan x + \\ln|\\sec x+\\tan x| + C \\)",
+      "\\( \\frac{1}{3}\\sec^3 x + C \\)"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\( \\frac{1}{2}\\sec x\\tan x + \\frac{1}{2}\\ln|\\sec x+\\tan x| + C \\)",
+    "explanation": "يُحل بالأجزاء بفرض \\( u=\\sec x \\) و \\( dv=\\sec^2 x \\). بعد تطبيق المتطابقة ونقل التكامل الدوري للطرف الآخر، نحصل على \\( 2I = \\sec x\\tan x + \\int \\sec x dx \\). بقسمة الطرفين على 2 ينتج الخيار a"
+  },
+  {
+    "number": 8,
+    "topic": "التكامل المحدود بالأجزاء - ln x^2",
+    "question": "قيمة التكامل المحدود \\( \\displaystyle\\int_1^e \\ln x^2\\,dx \\) تساوي",
+    "choices": [
+      "\\( e-1 \\)",
+      "\\( 2 \\)",
+      "\\( 2e \\)",
+      "\\( e+1 \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "2",
+    "explanation": "باستخدام قوانين اللوغاريتمات: \\( \\int_1^e 2\\ln x\\,dx = 2\\int_1^e \\ln x\\,dx \\). نعلم أن \\( \\int \\ln x dx = x\\ln x - x \\). بالتعويض بالحدود: \\( 2[(e\\ln e - e) - (1\\ln 1 - 1)] = 2[(e-e) - (0-1)] = 2[0 + 1] = 2 \\)"
+  },
+  {
+    "number": 9,
+    "topic": "التكامل المحدود بالأجزاء",
+    "question": "قيمة \\( \\displaystyle\\int_1^e \\ln x\\,dx \\) هي",
+    "choices": [
+      "\\( e \\)",
+      "\\( e-1 \\)",
+      "\\( 1 \\)",
+      "\\( e+1 \\)"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "1",
+    "explanation": "التكامل غير المحدود هو \\( x\\ln x - x + C \\). بالتعويض بالحدود: \\( (e\\ln e - e) - (1\\ln 1 - 1) = (e - e) - (0 - 1) = 0 + 1 = 1 \\)"
+  },
+  {
+    "number": 10,
+    "topic": "التعويض ثم الأجزاء",
+    "question": "لإيجاد \\( \\int x^3\\sin x^2\\,dx \\)، بعد استخدام التعويض \\( t=x^2 \\)، يتبسط التكامل ليصبح",
+    "choices": [
+      "\\( \\int t\\sin t\\,dt \\)",
+      "\\( \\frac{1}{2}\\int t\\sin t\\,dt \\)",
+      "\\( 2\\int t\\sin t\\,dt \\)",
+      "\\( \\frac{1}{2}\\int\\sin t\\,dt \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\( \\frac{1}{2}\\int t\\sin t\\,dt \\)",
+    "explanation": "بفرض \\( t=x^2 \\) تكون \\( dt=2xdx \\)، أي \\( xdx = dt/2 \\). التكامل يصبح \\( \\int x^2\\sin(x^2) \\cdot xdx = \\int t\\sin(t) \\frac{dt}{2} = \\frac{1}{2}\\int t\\sin t dt \\)"
+  }
+]

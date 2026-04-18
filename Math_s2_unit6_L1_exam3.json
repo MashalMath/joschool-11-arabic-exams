@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "نظام الإحداثيات ثلاثي الأبعاد",
+    "question": "إذا كانت النقطة \\( P(a-3, 5, b+2) \\) تقع على المحور \\( y \\) فإن قيمة \\( a + b \\) تساوي",
+    "choices": [
+      "1",
+      "5",
+      "0",
+      "-1"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "1",
+    "explanation": "بما أن النقطة تقع على المحور \\( y \\)، فإن إحداثيات \\( x \\) و \\( z \\) يجب أن تكون صفراً. أي أن \\( a-3=0 \\) ومنه \\( a=3 \\)، و \\( b+2=0 \\) ومنه \\( b=-2 \\). إذن \\( a+b = 3 + (-2) = 1 \\)"
+  },
+  {
+    "number": 2,
+    "topic": "المسافة بين نقطتين في الفضاء",
+    "question": "طول القطعة المستقيمة الواصلة بين النقطتين \\( (3, -2, 8) \\) و \\( (5, 4, 2) \\) يساوي",
+    "choices": [
+      "2\\sqrt{14}",
+      "\\sqrt{56}",
+      "2\\sqrt{19}",
+      "4\\sqrt{5}"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "2\\sqrt{19}",
+    "explanation": "\\( d = \\sqrt{(5-3)^2 + (4-(-2))^2 + (2-8)^2} = \\sqrt{4+36+36} = \\sqrt{76} = 2\\sqrt{19} \\)"
+  },
+  {
+    "number": 3,
+    "topic": "نقطة المنتصف في الفضاء",
+    "question": "إذا كانت النقطة \\( M(4, 1, -3) \\) هي منتصف القطعة \\( AB \\) وكانت \\( A(-2, 7, -5) \\) فإن إحداثيات النقطة \\( B \\) هي",
+    "choices": [
+      "(6, -6, 2)",
+      "(10, -5, -1)",
+      "(1, 4, -4)",
+      "(2, 8, -8)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "(10, -5, -1)",
+    "explanation": "باستخدام قانون المنتصف بشكل عكسي: \\( x_B = 2(4)-(-2) = 10 \\)، و \\( y_B = 2(1)-7 = -5 \\)، و \\( z_B = 2(-3)-(-5) = -1 \\)"
+  },
+  {
+    "number": 4,
+    "topic": "الصورة الإحداثية للمتجه ومقداره",
+    "question": "إذا كانت \\( A(-8, 5, 7) \\) و \\( B(6, 3, 2) \\) فإن مقدار المتجه \\( \\overrightarrow{AB} \\) يساوي",
+    "choices": [
+      "15",
+      "\\sqrt{221}",
+      "\\sqrt{229}",
+      "\\sqrt{225}"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "15",
+    "explanation": "\\( \\overrightarrow{AB} = \\langle 14, -2, -5 \\rangle \\) ومقداره هو \\( \\sqrt{14^2 + (-2)^2 + (-5)^2} = \\sqrt{196+4+25} = \\sqrt{225} = 15 \\)"
+  },
+  {
+    "number": 5,
+    "topic": "جمع المتجهات هندسياً",
+    "question": "عند جمع المتجهين \\( a \\) و \\( b \\) هندسياً باستعمال قاعدة المثلث، الخطوة الصحيحة هي",
+    "choices": [
+      "رسم \\( a \\) و \\( b \\) من نقطة البداية نفسها",
+      "رسم \\( b \\) بحيث تكون بدايته هي نهاية \\( a \\)",
+      "رسم \\( a \\) و \\( b \\) متوازيين دوماً",
+      "رسم المحصلة من نهاية \\( b \\) إلى بداية \\( a \\)"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "رسم b بحيث تكون بدايته هي نهاية a",
+    "explanation": "قاعدة المثلث تعتمد على وضع المتجهات بشكل متعاقب (رأس بذيل) بحيث تبدأ المتجه الثاني من حيث انتهى المتجه الأول"
+  },
+  {
+    "number": 6,
+    "topic": "عمليات المتجهات بالصورة الإحداثية",
+    "question": "إذا كان \\( \\vec{u} = \\langle 4, 5, -3 \\rangle \\) و \\( \\vec{v} = \\langle 3, 0, -5 \\rangle \\) فإن المتجه \\( 3\\vec{v} - 4\\vec{u} \\) يساوي",
+    "choices": [
+      "\\langle 7, 20, 3 \\rangle",
+      "\\langle -7, -20, 3 \\rangle",
+      "\\langle -7, -20, -3 \\rangle",
+      "\\langle 25, 20, -27 \\rangle"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\langle -7, -20, -3 \\rangle",
+    "explanation": "\\( 3\\langle 3,0,-5 \\rangle - 4\\langle 4,5,-3 \\rangle = \\langle 9,0,-15 \\rangle - \\langle 16,20,-12 \\rangle = \\langle -7, -20, -3 \\rangle \\)"
+  },
+  {
+    "number": 7,
+    "topic": "تساوي المتجهات",
+    "question": "إذا كان \\( \\vec{u} = \\langle 2, 3a-2, 9 \\rangle \\) و \\( \\vec{v} = \\langle 4-b, 10, c \\rangle \\) وكان \\( \\vec{u} = \\vec{v} \\) فإن قيمة المقدار \\( b+c \\) تساوي",
+    "choices": [
+      "11",
+      "7",
+      "13",
+      "-7"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "11",
+    "explanation": "من التساوي نجد أن \\( b=2 \\) و \\( c=9 \\). إذن \\( b+c = 11 \\)"
+  },
+  {
+    "number": 8,
+    "topic": "متجه الإزاحة",
+    "question": "إذا كانت \\( B(5, -7, -9) \\) و \\( C(0, 1, -14) \\) فإن متجه الإزاحة \\( \\overrightarrow{BC} \\) يساوي",
+    "choices": [
+      "\\langle 5, -8, 5 \\rangle",
+      "\\langle -5, 8, -5 \\rangle",
+      "\\langle -5, -8, -5 \\rangle",
+      "\\langle 5, 8, 5 \\rangle"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "\\langle -5, 8, -5 \\rangle",
+    "explanation": "\\( \\overrightarrow{BC} = \\langle 0-5, 1-(-7), -14-(-9) \\rangle = \\langle -5, 8, -5 \\rangle \\)"
+  },
+  {
+    "number": 9,
+    "topic": "متجهات الوحدة الأساسية",
+    "question": "إذا كان \\( \\vec{u} = \\hat{i} + 2\\hat{j} - 3\\hat{k} \\) و \\( \\vec{v} = 4\\hat{i} + 7\\hat{k} \\) فإن المتجه \\( 2\\vec{u} + 3\\vec{v} \\) يساوي",
+    "choices": [
+      "14\\hat{i} + 4\\hat{j} + 15\\hat{k}",
+      "6\\hat{i} + 4\\hat{j} + 15\\hat{k}",
+      "14\\hat{i} - 4\\hat{j} + 15\\hat{k}",
+      "2\\hat{i} + 4\\hat{j} - 6\\hat{k}"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "14\\hat{i} + 4\\hat{j} + 15\\hat{k}",
+    "explanation": "\\( (2\\hat{i}+4\\hat{j}-6\\hat{k}) + (12\\hat{i}+21\\hat{k}) = 14\\hat{i} + 4\\hat{j} + 15\\hat{k} \\)"
+  },
+  {
+    "number": 10,
+    "topic": "متجه الوحدة",
+    "question": "متجه الوحدة في اتجاه المتجه \\( \\overrightarrow{AB} \\) حيث \\( A(-1, 4, 6) \\) و \\( B(3, 3, 8) \\) هو",
+    "choices": [
+      "\\left\\langle \\frac{4}{3}, \\frac{-1}{3}, \\frac{2}{3} \\right\\rangle",
+      "\\left\\langle \\frac{2}{\\sqrt{21}}, \\frac{-1}{\\sqrt{21}}, \\frac{4}{\\sqrt{21}} \\right\\rangle",
+      "\\left\\langle \\frac{4}{\\sqrt{21}}, \\frac{-1}{\\sqrt{21}}, \\frac{2}{\\sqrt{21}} \\right\\rangle",
+      "\\left\\langle \\frac{1}{\\sqrt{21}}, \\frac{-2}{\\sqrt{21}}, \\frac{4}{\\sqrt{21}} \\right\\rangle"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\left\\langle \\frac{4}{\\sqrt{21}}, \\frac{-1}{\\sqrt{21}}, \\frac{2}{\\sqrt{21}} \\right\\rangle",
+    "explanation": "\\( \\overrightarrow{AB} = \\langle 4, -1, 2 \\rangle \\) ومقداره هو \\( \\sqrt{21} \\). نقسم المتجه على مقداره للحصول على متجه الوحدة"
+  }
+]

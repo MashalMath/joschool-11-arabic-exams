@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "topic": "نظام الإحداثيات ثلاثي الأبعاد - المستويات",
+    "question": "إذا كانت النقطة \\( P(5, k-2, 4) \\) تقع في المستوى الإحداثي \\( xz \\)، فإن قيمة \\( k \\) تساوي",
+    "choices": [
+      "5",
+      "2",
+      "0",
+      "-2"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "2",
+    "explanation": "بما أن النقطة تقع في المستوى \\( xz \\)، فإن الإحداثي الصادي \\( y \\) يجب أن يساوي صفراً. إذن \\( k-2=0 \\) ومنها \\( k=2 \\)"
+  },
+  {
+    "number": 2,
+    "topic": "المسافة بين نقطتين في الفضاء",
+    "question": "المسافة بين النقطتين \\( (-2, 7, 0) \\) و \\( (2, -5, 3) \\) تساوي",
+    "choices": [
+      "\\sqrt{161}",
+      "15",
+      "\\sqrt{169}",
+      "13"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "13",
+    "explanation": "\\( d = \\sqrt{(2-(-2))^2 + (-5-7)^2 + (3-0)^2} = \\sqrt{16 + 144 + 9} = \\sqrt{169} = 13 \\)"
+  },
+  {
+    "number": 3,
+    "topic": "نقطة المنتصف في الفضاء",
+    "question": "إذا كانت \\( M(x_M, y_M, z_M) \\) منتصف القطعة \\( AB \\) حيث \\( A(4, -2, 10) \\) و \\( B(-8, 6, -4) \\) فإن الإحداثي \\( z_M \\) يساوي",
+    "choices": [
+      "1",
+      "3",
+      "6",
+      "-3"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "3",
+    "explanation": "\\( z_M = \\frac{z_A+z_B}{2} = \\frac{10+(-4)}{2} = \\frac{6}{2} = 3 \\)"
+  },
+  {
+    "number": 4,
+    "topic": "متجه الموقع",
+    "question": "متجه موقع النقطة \\( B(3, -5, 7) \\) هو",
+    "choices": [
+      "\\langle 3, -5, 7 \\rangle",
+      "\\langle -3, 5, -7 \\rangle",
+      "\\sqrt{83}",
+      "\\langle 0, 0, 0 \\rangle"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\langle 3, -5, 7 \\rangle",
+    "explanation": "متجه الموقع لأي نقطة \\( (x, y, z) \\) يبدأ من نقطة الأصل وينتهي عند النقطة نفسها، وتكون صورته الإحداثية هي نفس إحداثيات النقطة"
+  },
+  {
+    "number": 5,
+    "topic": "مقدار المتجه في الفضاء",
+    "question": "مقدار المتجه \\( \\vec{v} = \\langle -14, 14, -7 \\rangle \\) يساوي",
+    "choices": [
+      "441",
+      "21",
+      "\\sqrt{196}",
+      "\\sqrt{21}"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "21",
+    "explanation": "\\( |\\vec{v}| = \\sqrt{(-14)^2 + 14^2 + (-7)^2} = \\sqrt{196 + 196 + 49} = \\sqrt{441} = 21 \\)"
+  },
+  {
+    "number": 6,
+    "topic": "عمليات المتجهات هندسياً",
+    "question": "في متوازي الأضلاع \\( PQRS \\) حيث \\( \\overrightarrow{PQ} = \\vec{a} \\) و \\( \\overrightarrow{PS} = \\vec{b} \\) فإن المتجه \\( \\overrightarrow{SQ} \\) يساوي",
+    "choices": [
+      "\\vec{b} - \\vec{a}",
+      "\\vec{a} + \\vec{b}",
+      "\\vec{a} - \\vec{b}",
+      "-\\vec{a} - \\vec{b}"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "\\vec{a} - \\vec{b}",
+    "explanation": "\\( \\overrightarrow{SQ} = \\overrightarrow{SP} + \\overrightarrow{PQ} = -\\vec{b} + \\vec{a} = \\vec{a} - \\vec{b} \\)"
+  },
+  {
+    "number": 7,
+    "topic": "تساوي المتجهات",
+    "question": "يتساوى المتجهان في الفضاء إذا وفقط إذا كان لهما",
+    "choices": [
+      "المقدار نفسه فقط",
+      "الاتجاه نفسه والمقدار نفسه",
+      "نقطة البداية نفسها",
+      "الاتجاه نفسه فقط"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "الاتجاه نفسه والمقدار نفسه",
+    "explanation": "يتساوى المتجهان إذا تساوت مقاديرهما واتجاهاتهما، بصرف النظر عن موقعهما في الفضاء"
+  },
+  {
+    "number": 8,
+    "topic": "متجه الإزاحة والمسافة",
+    "question": "إذا كانت \\( B(0, 1, -4) \\) و \\( C(2, 1, 1) \\) فإن المسافة بين النقطتين \\( C \\) و \\( B \\) تساوي",
+    "choices": [
+      "\\sqrt{29}",
+      "\\sqrt{16}",
+      "\\sqrt{26}",
+      "5"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "\\sqrt{29}",
+    "explanation": "\\( \\overrightarrow{CB} = \\langle 0-2, 1-1, -4-1 \\rangle = \\langle -2, 0, -5 \\rangle \\). المسافة هي \\( \\sqrt{(-2)^2 + 0^2 + (-5)^2} = \\sqrt{4+25} = \\sqrt{29} \\)"
+  },
+  {
+    "number": 9,
+    "topic": "كتابة المتجه بدلالة متجهات الوحدة",
+    "question": "إذا كان \\( \\vec{a} = \\hat{i}+2\\hat{j}-4\\hat{k} \\) و \\( \\vec{b} = 4\\hat{i}-3\\hat{j}+5\\hat{k} \\) فإن \\( -\\vec{a}+3\\vec{b} \\) يساوي",
+    "choices": [
+      "11\\hat{i} + 11\\hat{j} + 19\\hat{k}",
+      "11\\hat{i} - 11\\hat{j} - 19\\hat{k}",
+      "11\\hat{i} - 11\\hat{j} + 19\\hat{k}",
+      "-11\\hat{i} + 11\\hat{j} - 19\\hat{k}"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "11\\hat{i} - 11\\hat{j} + 19\\hat{k}",
+    "explanation": "\\( -\\vec{a} = \\langle -1, -2, 4 \\rangle \\) و \\( 3\\vec{b} = \\langle 12, -9, 15 \\rangle \\). بالجمع نحصل على \\( \\langle 11, -11, 19 \\rangle \\) أي \\( 11\\hat{i} - 11\\hat{j} + 19\\hat{k} \\)"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيق متقدم على مقدار المتجه",
+    "question": "إذا كانت \\( \\vec{g} = \\langle -2, c+1, -8 \\rangle \\) و \\( \\vec{h} = \\langle c-1, -4, c+2 \\rangle \\) وكان \\( |\\overrightarrow{GH}| = 19 \\) حيث \\( c>0 \\) فإن قيمة \\( c \\) تساوي",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "5",
+    "explanation": "\\( \\overrightarrow{GH} = \\langle c+1, -c-5, c+10 \\rangle \\). بتطبيق قانون المقدار والتربيع: \\( (c+1)^2 + (c+5)^2 + (c+10)^2 = 361 \\). بحل المعادلة نجد أن \\( c=5 \\) تحقق المساواة"
+  }
+]

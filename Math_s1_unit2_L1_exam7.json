@@ -25,7 +25,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$\\csc x$",
-    "explanation": "من متطابقات الزاويتين المتتامتين:\n\n$\\sin(\\frac{\\pi}{2}-x)=\\cos x$\n\n$\\sec(\\frac{\\pi}{2}-x)=\\frac{1}{\\sin x}=\\csc x$"
+    "explanation": "من متطابقات الزاويتين المتتامتين: $\\sin(\\frac{\\pi}{2}-x)=\\cos x$ ، $\\sec(\\frac{\\pi}{2}-x)=\\frac{1}{\\sin x}=\\csc x$"
   },
   {
     "number": 3,

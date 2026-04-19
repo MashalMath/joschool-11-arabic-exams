@@ -2,141 +2,141 @@
   {
     "number": 1,
     "topic": "نظام الإحداثيات ثلاثي الأبعاد",
-    "question": "إذا كانت النقطة \\( P(4, -3, 7) \\) فإن بُعد هذه النقطة عن المستوى الإحداثي \\( xy \\) يساوي",
+    "question": "إذا كانت النقطة $P(4, -3, 7)$ فإن بُعد هذه النقطة عن المستوى الإحداثي $xy$ يساوي",
     "choices": [
       "4 وحدات",
       "3 وحدات",
       "7 وحدات",
-      "\\sqrt{74} وحدة"
+      "$\\sqrt{74}$ وحدة"
     ],
     "correct_answer": "c",
     "final_answer_text": "7 وحدات",
-    "explanation": "بُعد أي نقطة \\( (x, y, z) \\) عن المستوى الإحداثي \\( xy \\) هو القيمة المطلقة للإحداثي \\( z \\). بما أن الإحداثي الزيني هو 7 فإن البعد يساوي 7"
+    "explanation": "بُعد أي نقطة $(x, y, z)$ عن المستوى الإحداثي $xy$ هو القيمة المطلقة للإحداثي $z$. بما أن الإحداثي الزيني هو 7 فإن البعد يساوي 7"
   },
   {
     "number": 2,
     "topic": "المسافة بين نقطتين في الفضاء",
-    "question": "المسافة بين النقطتين \\( (12, 8, -5) \\) و \\( (-3, 6, 7) \\) تساوي",
+    "question": "المسافة بين النقطتين $(12, 8, -5)$ و $(-3, 6, 7)$ تساوي",
     "choices": [
-      "\\sqrt{229}",
+      "$\\sqrt{229}$",
       "19",
-      "\\sqrt{473}",
-      "\\sqrt{373}"
+      "$\\sqrt{473}$",
+      "$\\sqrt{373}$"
     ],
     "correct_answer": "d",
-    "final_answer_text": "\\sqrt{373}",
-    "explanation": "\\( d = \\sqrt{(-3-12)^2 + (6-8)^2 + (7+5)^2} = \\sqrt{225 + 4 + 144} = \\sqrt{373} \\)"
+    "final_answer_text": "$\\sqrt{373}$",
+    "explanation": "$d = \\sqrt{(-3-12)^2 + (6-8)^2 + (7+5)^2} = \\sqrt{225 + 4 + 144} = \\sqrt{373}$"
   },
   {
     "number": 3,
     "topic": "نقطة المنتصف في الفضاء",
-    "question": "إحداثيات نقطة منتصف القطعة المستقيمة الواصلة بين \\( (-5, -8, 4) \\) و \\( (3, 2, -6) \\) هي",
+    "question": "إحداثيات نقطة منتصف القطعة المستقيمة الواصلة بين $(-5, -8, 4)$ و $(3, 2, -6)$ هي",
     "choices": [
-      "(-1, -3, -1)",
-      "(1, 3, 1)",
-      "(-1, 3, -1)",
-      "(-2, -6, -2)"
+      "$(-1, -3, -1)$",
+      "$(1, 3, 1)$",
+      "$(-1, 3, -1)$",
+      "$(-2, -6, -2)$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "(-1, -3, -1)",
-    "explanation": "\\( M = \\left(\\frac{-5+3}{2}, \\frac{-8+2}{2}, \\frac{4-6}{2}\\right) = (-1, -3, -1) \\)"
+    "final_answer_text": "$(-1, -3, -1)$",
+    "explanation": "$M = \\left(\\frac{-5+3}{2}, \\frac{-8+2}{2}, \\frac{4-6}{2}\\right) = (-1, -3, -1)$"
   },
   {
     "number": 4,
     "topic": "الصورة الإحداثية للمتجه",
-    "question": "إذا كانت \\( A(24, -8, 10) \\) و \\( B(10, 6, 3) \\) فإن الصورة الإحداثية للمتجه \\( \\overrightarrow{AB} \\) هي",
+    "question": "إذا كانت $A(24, -8, 10)$ و $B(10, 6, 3)$ فإن الصورة الإحداثية للمتجه $\\overrightarrow{AB}$ هي",
     "choices": [
-      "\\langle 14, -14, 7 \\rangle",
-      "\\langle -14, 14, -7 \\rangle",
-      "\\langle -14, -14, -7 \\rangle",
-      "\\langle 34, -14, 13 \\rangle"
+      "$\\langle 14, -14, 7 \\rangle$",
+      "$\\langle -14, 14, -7 \\rangle$",
+      "$\\langle -14, -14, -7 \\rangle$",
+      "$\\langle 34, -14, 13 \\rangle$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "\\langle -14, 14, -7 \\rangle",
-    "explanation": "\\( \\overrightarrow{AB} = \\langle 10-24, 6-(-8), 3-10 \\rangle = \\langle -14, 14, -7 \\rangle \\)"
+    "final_answer_text": "$\\langle -14, 14, -7 \\rangle$",
+    "explanation": "$\\overrightarrow{AB} = \\langle 10-24, 6-(-8), 3-10 \\rangle = \\langle -14, 14, -7 \\rangle$"
   },
   {
     "number": 5,
     "topic": "مقدار المتجه في الفضاء",
-    "question": "مقدار المتجه \\( \\overrightarrow{AB} \\) حيث \\( A(12, -5, 4) \\) و \\( B(4, 1, -1) \\) يساوي",
+    "question": "مقدار المتجه $\\overrightarrow{AB}$ حيث $A(12, -5, 4)$ و $B(4, 1, -1)$ يساوي",
     "choices": [
-      "\\sqrt{125}",
-      "5\\sqrt{5}",
+      "$\\sqrt{125}$",
+      "$5\\sqrt{5}$",
       "25",
       "10"
     ],
     "correct_answer": "b",
-    "final_answer_text": "5\\sqrt{5}",
-    "explanation": "\\( \\overrightarrow{AB} = \\langle -8, 6, -5 \\rangle \\). المقدار هو \\( \\sqrt{64+36+25} = \\sqrt{125} = 5\\sqrt{5} \\)"
+    "final_answer_text": "$5\\sqrt{5}$",
+    "explanation": "$\\overrightarrow{AB} = \\langle -8, 6, -5 \\rangle$. المقدار هو $\\sqrt{64+36+25} = \\sqrt{125} = 5\\sqrt{5}$"
   },
   {
     "number": 6,
     "topic": "عمليات المتجهات - تركيبة خطية",
-    "question": "إذا كان \\( \\vec{e} = \\langle -3, 9, -4 \\rangle \\) و \\( \\vec{f} = 5\\hat{i}-3\\hat{j}+7\\hat{k} \\) فإن \\( 3\\vec{e}+4\\vec{f} \\) يساوي",
+    "question": "إذا كان $\\vec{e} = \\langle -3, 9, -4 \\rangle$ و $\\vec{f} = 5\\hat{i}-3\\hat{j}+7\\hat{k}$ فإن $3\\vec{e}+4\\vec{f}$ يساوي",
     "choices": [
-      "\\langle 11, -15, 16 \\rangle",
-      "\\langle -11, 15, 16 \\rangle",
-      "\\langle 11, 15, -16 \\rangle",
-      "\\langle 11, 15, 16 \\rangle"
+      "$\\langle 11, -15, 16 \\rangle$",
+      "$\\langle -11, 15, 16 \\rangle$",
+      "$\\langle 11, 15, -16 \\rangle$",
+      "$\\langle 11, 15, 16 \\rangle$"
     ],
     "correct_answer": "d",
-    "final_answer_text": "\\langle 11, 15, 16 \\rangle",
-    "explanation": "\\( 3\\vec{e} = \\langle -9, 27, -12 \\rangle \\) و \\( 4\\vec{f} = \\langle 20, -12, 28 \\rangle \\). المجموع هو \\( \\langle 11, 15, 16 \\rangle \\)"
+    "final_answer_text": "$\\langle 11, 15, 16 \\rangle$",
+    "explanation": "$3\\vec{e} = \\langle -9, 27, -12 \\rangle$ و $4\\vec{f} = \\langle 20, -12, 28 \\rangle$. المجموع هو $\\langle 11, 15, 16 \\rangle$"
   },
   {
     "number": 7,
     "topic": "تساوي المتجهات",
-    "question": "وجد طالب أن \\( \\vec{v} = \\langle u-3, u+1, u-2 \\rangle \\) ومقداره 17. ما المعادلة الصحيحة لإيجاد قيمة \\( u \\)",
+    "question": "وجد طالب أن $\\vec{v} = \\langle u-3, u+1, u-2 \\rangle$ ومقداره 17. ما المعادلة الصحيحة لإيجاد قيمة $u$",
     "choices": [
-      "\\( (u-3)^2 + (u+1)^2 + (u-2)^2 = 289 \\)",
-      "\\( (u-3) + (u+1) + (u-2) = 17 \\)",
-      "\\( (u-3)^2 + (u+1)^2 + (u-2)^2 = 17 \\)",
-      "\\( \\sqrt{(u-3) + (u+1) + (u-2)} = 289 \\)"
+      "$(u-3)^2 + (u+1)^2 + (u-2)^2 = 289$",
+      "$(u-3) + (u+1) + (u-2) = 17$",
+      "$(u-3)^2 + (u+1)^2 + (u-2)^2 = 17$",
+      "$\\sqrt{(u-3) + (u+1) + (u-2)} = 289$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "\\( (u-3)^2 + (u+1)^2 + (u-2)^2 = 289 \\)",
+    "final_answer_text": "$(u-3)^2 + (u+1)^2 + (u-2)^2 = 289$",
     "explanation": "بما أن المقدار هو 17، فإن مربع المقدار هو 289. قانون المقدار ينص على أن مجموع مربعات الإحداثيات يساوي مربع المقدار"
   },
   {
     "number": 8,
     "topic": "المسافة بين نقطتين",
-    "question": "المسافة بين النقطة \\( A(-11, 2, 21) \\) والنقطة \\( B(3, -5, 7) \\) تساوي",
+    "question": "المسافة بين النقطة $A(-11, 2, 21)$ والنقطة $B(3, -5, 7)$ تساوي",
     "choices": [
-      "\\sqrt{21}",
+      "$\\sqrt{21}$",
       "21",
-      "\\sqrt{441}",
+      "$\\sqrt{441}$",
       "441"
     ],
     "correct_answer": "b",
     "final_answer_text": "21",
-    "explanation": "\\( \\overrightarrow{AB} = \\langle 14, -7, -14 \\rangle \\). المسافة هي \\( \\sqrt{14^2 + (-7)^2 + (-14)^2} = \\sqrt{441} = 21 \\)"
+    "explanation": "$\\overrightarrow{AB} = \\langle 14, -7, -14 \\rangle$. المسافة هي $\\sqrt{14^2 + (-7)^2 + (-14)^2} = \\sqrt{441} = 21$"
   },
   {
     "number": 9,
     "topic": "كتابة المتجه بدلالة متجهات الوحدة",
-    "question": "المتجه \\( \\overrightarrow{ST} \\) حيث \\( S(1, 0, -5) \\) و \\( T(2, -2, 0) \\) مكتوباً بدلالة متجهات الوحدة الأساسية هو",
+    "question": "المتجه $\\overrightarrow{ST}$ حيث $S(1, 0, -5)$ و $T(2, -2, 0)$ مكتوباً بدلالة متجهات الوحدة الأساسية هو",
     "choices": [
-      "\\hat{i} - 2\\hat{j} + 5\\hat{k}",
-      "-\\hat{i} + 2\\hat{j} - 5\\hat{k}",
-      "\\hat{i} + 2\\hat{j} + 5\\hat{k}",
-      "3\\hat{i} - 2\\hat{j} - 5\\hat{k}"
+      "$\\hat{i} - 2\\hat{j} + 5\\hat{k}$",
+      "$-\\hat{i} + 2\\hat{j} - 5\\hat{k}$",
+      "$\\hat{i} + 2\\hat{j} + 5\\hat{k}$",
+      "$3\\hat{i} - 2\\hat{j} - 5\\hat{k}$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "\\hat{i} - 2\\hat{j} + 5\\hat{k}",
-    "explanation": "\\( \\overrightarrow{ST} = \\langle 2-1, -2-0, 0-(-5) \\rangle = \\langle 1, -2, 5 \\rangle = \\hat{i} - 2\\hat{j} + 5\\hat{k} \\)"
+    "final_answer_text": "$\\hat{i} - 2\\hat{j} + 5\\hat{k}$",
+    "explanation": "$\\overrightarrow{ST} = \\langle 2-1, -2-0, 0-(-5) \\rangle = \\langle 1, -2, 5 \\rangle = \\hat{i} - 2\\hat{j} + 5\\hat{k}$"
   },
   {
     "number": 10,
     "topic": "متجه الوحدة",
-    "question": "متجه الوحدة في اتجاه \\( \\vec{v} = 8\\hat{i}+15\\hat{j}-17\\hat{k} \\) يساوي",
+    "question": "متجه الوحدة في اتجاه $\\vec{v} = 8\\hat{i}+15\\hat{j}-17\\hat{k}$ يساوي",
     "choices": [
-      "\\frac{1}{40}\\langle 8, 15, -17 \\rangle",
-      "\\frac{1}{578}\\langle 8, 15, -17 \\rangle",
-      "\\frac{1}{\\sqrt{578}}\\langle 8, 15, -17 \\rangle",
-      "\\langle \\frac{8}{17}, \\frac{15}{17}, -1 \\rangle"
+      "$\\frac{1}{40}\\langle 8, 15, -17 \\rangle$",
+      "$\\frac{1}{578}\\langle 8, 15, -17 \\rangle$",
+      "$\\frac{1}{\\sqrt{578}}\\langle 8, 15, -17 \\rangle$",
+      "$\\langle \\frac{8}{17}, \\frac{15}{17}, -1 \\rangle$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "\\frac{1}{\\sqrt{578}}\\langle 8, 15, -17 \\rangle",
-    "explanation": "\\( |\\vec{v}| = \\sqrt{64+225+289} = \\sqrt{578} \\). متجه الوحدة هو قسمة المتجه على مقداره"
+    "final_answer_text": "$\\frac{1}{\\sqrt{578}}\\langle 8, 15, -17 \\rangle$",
+    "explanation": "$|\\vec{v}| = \\sqrt{64+225+289} = \\sqrt{578}$. متجه الوحدة هو قسمة المتجه على مقداره"
   }
 ]

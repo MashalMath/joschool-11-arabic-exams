@@ -2,7 +2,7 @@
   {
     "number": 1,
     "topic": "نظام الإحداثيات ثلاثي الأبعاد",
-    "question": "إذا كانت النقطة \\( P(a+2, 5, a-3) \\) تقع في المستوى الإحداثي \\( xy \\)، فإن قيمة \\( a \\) تساوي",
+    "question": "إذا كانت النقطة $P(a+2, 5, a-3)$ تقع في المستوى الإحداثي $xy$، فإن قيمة $a$ تساوي",
     "choices": [
       "-2",
       "5",
@@ -11,54 +11,54 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "3",
-    "explanation": "بما أن النقطة تقع في المستوى xy، فإن الإحداثي z يجب أن يساوي صفراً. أي أن a-3=0 ومنها a=3"
+    "explanation": "بما أن النقطة تقع في المستوى $xy$، فإن الإحداثي $z$ يجب أن يساوي صفراً. أي أن $a-3=0$ ومنه $a=3$"
   },
   {
     "number": 2,
     "topic": "المسافة بين نقطتين",
-    "question": "إذا كان N(2, 1, -6) وM(5, -3, 6)، فإن المسافة بين N وM تساوي",
+    "question": "إذا كان $N(2, 1, -6)$ و $M(5, -3, 6)$، فإن المسافة بين $N$ و $M$ تساوي",
     "choices": [
       "14",
       "12",
-      "\\sqrt{155}",
+      "$\\sqrt{155}$",
       "13"
     ],
     "correct_answer": "d",
     "final_answer_text": "13",
-    "explanation": "NM = \\sqrt{(5-2)^2+(-3-1)^2+(6+6)^2} = \\sqrt{9+16+144} = \\sqrt{169} = 13"
+    "explanation": "$NM = \\sqrt{(5-2)^2+(-3-1)^2+(6+6)^2} = \\sqrt{9+16+144} = \\sqrt{169} = 13$"
   },
   {
     "number": 3,
     "topic": "نقطة المنتصف - السؤال العكسي",
-    "question": "إذا كانت M(1, 4, -3) هي نقطة منتصف القطعة AB، وكانت A(-4, 7, -2)، فإن إحداثيات النقطة B هي",
+    "question": "إذا كانت $M(1, 4, -3)$ هي نقطة منتصف القطعة $AB$، وكانت $A(-4, 7, -2)$ فإن إحداثيات النقطة $B$ هي",
     "choices": [
-      "(6, 1, -4)",
-      "(-4, 1, -4)",
-      "(6, 7, -4)",
-      "(-9, 11, 0)"
+      "$(6, 1, -4)$",
+      "$(-4, 1, -4)$",
+      "$(6, 7, -4)$",
+      "$(-9, 11, 0)$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "(6, 1, -4)",
-    "explanation": "باستخدام قانون المنتصف بشكل عكسي: xB=2(1)-(-4)=6، yB=2(4)-7=1، zB=2(-3)-(-2)=-4. إذن B(6, 1, -4)"
+    "final_answer_text": "$(6, 1, -4)$",
+    "explanation": "باستخدام قانون المنتصف بشكل عكسي: $x_B=2(1)-(-4)=6$، $y_B=2(4)-7=1$، $z_B=2(-3)-(-2)=-4$. إذن $B(6, 1, -4)$"
   },
   {
     "number": 4,
     "topic": "الصورة الإحداثية للمتجه",
-    "question": "المتجه الذي يبدأ من A(4, 6, 9) وينتهي عند B(-3, 2, 5) له الصورة الإحداثية",
+    "question": "المتجه الذي يبدأ من $A(4, 6, 9)$ وينتهي عند $B(-3, 2, 5)$ له الصورة الإحداثية",
     "choices": [
-      "\\langle 7, 4, 4 \\rangle",
-      "\\langle -7, -4, -4 \\rangle",
-      "\\langle -7, 4, -4 \\rangle",
-      "\\langle 7, -4, 4 \\rangle"
+      "$\\langle 7, 4, 4 \\rangle$",
+      "$\\langle -7, -4, -4 \\rangle$",
+      "$\\langle -7, 4, -4 \\rangle$",
+      "$\\langle 7, -4, 4 \\rangle$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "\\langle -7, -4, -4 \\rangle",
-    "explanation": "المتجه AB = \\langle -3-4, 2-6, 5-9 \\rangle = \\langle -7, -4, -4 \\rangle"
+    "final_answer_text": "$\\langle -7, -4, -4 \\rangle$",
+    "explanation": "المتجه $AB = \\langle -3-4, 2-6, 5-9 \\rangle = \\langle -7, -4, -4 \\rangle$"
   },
   {
     "number": 5,
     "topic": "مقدار المتجه",
-    "question": "مقدار المتجه \\vec{v} = -3\\hat{i} + 4\\hat{j} + 0\\hat{k} يساوي",
+    "question": "مقدار المتجه $\\vec{v} = -3\\hat{i} + 4\\hat{j} + 0\\hat{k}$ يساوي",
     "choices": [
       "7",
       "1",
@@ -67,26 +67,26 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "5",
-    "explanation": "مقدار المتجه يساوي الجذر التربيعي لمجموع مربعات إحداثياته: \\sqrt{(-3)^2+4^2+0^2} = \\sqrt{25} = 5"
+    "explanation": "مقدار المتجه يساوي الجذر التربيعي لمجموع مربعات إحداثياته: $\\sqrt{(-3)^2+4^2+0^2} = \\sqrt{25} = 5$"
   },
   {
     "number": 6,
     "topic": "تركيبة خطية للمتجهات",
-    "question": "إذا كان \\vec{e} = \\langle -3, 9, -4 \\rangle و \\vec{f} = \\langle 5, -3, 7 \\rangle و \\vec{g} = \\langle -1, 8, -5 \\rangle، فإن \\vec{e}+\\vec{f}-3\\vec{g} يساوي",
+    "question": "إذا كان $\\vec{e} = \\langle -3, 9, -4 \\rangle$ و $\\vec{f} = \\langle 5, -3, 7 \\rangle$ و $\\vec{g} = \\langle -1, 8, -5 \\rangle$، فإن $\\vec{e}+\\vec{f}-3\\vec{g}$ يساوي",
     "choices": [
-      "\\langle 5, -18, 18 \\rangle",
-      "\\langle 5, 18, -18 \\rangle",
-      "\\langle -5, 18, -18 \\rangle",
-      "\\langle 5, -18, -18 \\rangle"
+      "$\\langle 5, -18, 18 \\rangle$",
+      "$\\langle 5, 18, -18 \\rangle$",
+      "$\\langle -5, 18, -18 \\rangle$",
+      "$\\langle 5, -18, -18 \\rangle$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "\\langle 5, -18, 18 \\rangle",
-    "explanation": "e+f = \\langle 2, 6, 3 \\rangle، ثم طرح 3g يعطي: \\langle 2-(-3), 6-24, 3-(-15) \\rangle = \\langle 5, -18, 18 \\rangle"
+    "final_answer_text": "$\\langle 5, -18, 18 \\rangle$",
+    "explanation": "$e+f = \\langle 2, 6, 3 \\rangle$، ثم طرح $3g$ يعطي: $\\langle 2-(-3), 6-24, 3-(-15) \\rangle = \\langle 5, -18, 18 \\rangle$"
   },
   {
     "number": 7,
     "topic": "تساوي المتجهات",
-    "question": "إذا كان \\vec{u} = \\langle 2x, 5, 3 \\rangle و \\vec{v} = \\langle 10, y-1, z \\rangle وكان المتجهان متساويين، فإن قيمة x+y+z تساوي",
+    "question": "إذا كان $\\vec{u} = \\langle 2x, 5, 3 \\rangle$ و $\\vec{v} = \\langle 10, y-1, z \\rangle$ وكان المتجهان متساويين، فإن قيمة $x+y+z$ تساوي",
     "choices": [
       "11",
       "14",
@@ -95,48 +95,48 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "14",
-    "explanation": "من التساوي: 2x=10 إذن x=5. و y-1=5 إذن y=6. و z=3. المجموع x+y+z = 5+6+3 = 14"
+    "explanation": "من التساوي: $2x=10$ إذن $x=5$. و $y-1=5$ إذن $y=6$. و $z=3$. المجموع $x+y+z = 5+6+3 = 14$"
   },
   {
     "number": 8,
     "topic": "متجه الموقع",
-    "question": "في المثلث OAB، إذا كان المتجه OA=a والمتجه OB=b والنقطة C منتصف AB، فإن المتجه OC يساوي",
+    "question": "في المثلث $OAB$، إذا كان المتجه $OA=a$ والمتجه $OB=b$ والنقطة $C$ منتصف $AB$، فإن المتجه $OC$ يساوي",
     "choices": [
-      "\\frac{a+b}{2}",
-      "\\frac{b-a}{2}",
-      "b+a",
-      "2(a+b)"
+      "$\\frac{a+b}{2}$",
+      "$\\frac{b-a}{2}$",
+      "$b+a$",
+      "$2(a+b)$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "\\frac{a+b}{2}",
+    "final_answer_text": "$\\frac{a+b}{2}$",
     "explanation": "المتجه الواصل من الأصل إلى منتصف قطعة مستقيمة هو الوسط الحسابي لمتجهي موقع طرفي القطعة"
   },
   {
     "number": 9,
     "topic": "متجهات الوحدة الأساسية",
-    "question": "المتجه \\vec{g} = \\langle 9, 0, -4 \\rangle مكتوباً بدلالة متجهات الوحدة الأساسية هو",
+    "question": "المتجه $\\vec{g} = \\langle 9, 0, -4 \\rangle$ مكتوباً بدلالة متجهات الوحدة الأساسية هو",
     "choices": [
-      "9\\hat{i} + 4\\hat{k}",
-      "9\\hat{i} - 4\\hat{j}",
-      "9\\hat{j} - 4\\hat{k}",
-      "9\\hat{i} - 4\\hat{k}"
+      "$9\\hat{i} + 4\\hat{k}$",
+      "$9\\hat{i} - 4\\hat{j}$",
+      "$9\\hat{j} - 4\\hat{k}$",
+      "$9\\hat{i} - 4\\hat{k}$"
     ],
     "correct_answer": "d",
-    "final_answer_text": "9\\hat{i} - 4\\hat{k}",
-    "explanation": "المتجه يكتب كـ 9i + 0j - 4k، وبما أن معامل j هو صفر فيمكن حذفه لتصبح الصيغة 9i - 4k"
+    "final_answer_text": "$9\\hat{i} - 4\\hat{k}$",
+    "explanation": "المتجه يكتب كـ $9i + 0j - 4k$ وبما أن معامل $j$ هو صفر فيمكن حذفه لتصبح الصيغة $9i - 4k$"
   },
   {
     "number": 10,
     "topic": "متجه الوحدة",
-    "question": "متجه الوحدة في اتجاه AB حيث A(3, 4, -7) وB(-5, 16, 2) هو",
+    "question": "متجه الوحدة في اتجاه $AB$ حيث $A(3, 4, -7)$ و $B(-5, 16, 2)$ هو",
     "choices": [
-      "\\left\\langle \\frac{-8}{17}, \\frac{12}{17}, \\frac{9}{17} \\right\\rangle",
-      "\\left\\langle \\frac{8}{17}, \\frac{-12}{17}, \\frac{-9}{17} \\right\\rangle",
-      "\\left\\langle \\frac{-8}{\\sqrt{59}}, \\frac{12}{\\sqrt{59}}, \\frac{9}{\\sqrt{59}} \\right\\rangle",
-      "\\langle -8, 12, 9 \\rangle"
+      "$\\left\\langle \\frac{-8}{17}, \\frac{12}{17}, \\frac{9}{17} \\right\\rangle$",
+      "$\\left\\langle \\frac{8}{17}, \\frac{-12}{17}, \\frac{-9}{17} \\right\\rangle$",
+      "$\\left\\langle \\frac{-8}{\\sqrt{59}}, \\frac{12}{\\sqrt{59}}, \\frac{9}{\\sqrt{59}} \\right\\rangle$",
+      "$\\langle -8, 12, 9 \\rangle$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "\\left\\langle \\frac{-8}{17}, \\frac{12}{17}, \\frac{9}{17} \\right\\rangle",
-    "explanation": "المتجه AB = \\langle -8, 12, 9 \\rangle وطوله 17. متجه الوحدة هو قسمة إحداثيات المتجه على طوله"
+    "final_answer_text": "$\\left\\langle \\frac{-8}{17}, \\frac{12}{17}, \\frac{9}{17} \\right\\rangle$",
+    "explanation": "المتجه $AB = \\langle -8, 12, 9 \\rangle$ وطوله 17 ومتجه الوحدة هو قسمة إحداثيات المتجه على طوله"
   }
 ]

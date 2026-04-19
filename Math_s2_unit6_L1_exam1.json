@@ -4,13 +4,13 @@
     "topic": "نظام الإحداثيات ثلاثي الأبعاد",
     "question": "كم عدد الأثمان التي تُقسِّم الفضاء إليها المستويات الإحداثية الثلاثة $xy$ و $xz$ و $yz$",
     "choices": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "$4$",
+      "$6$",
+      "$8$",
+      "$12$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "8",
+    "final_answer_text": "$8$",
     "explanation": "المستويات الإحداثية الثلاثة تُقسِّم الفضاء إلى 8 أقسام تُسمّى كل منها ثُمُناً (octant) تماماً كما يُقسِّم محورا الإحداثيات المستوى إلى 4 أرباع"
   },
   {
@@ -19,12 +19,12 @@
     "question": "المسافة بين النقطتين $A(1, 2, 3)$ و $B(4, 6, 3)$ تساوي",
     "choices": [
       "$\\sqrt{41}$",
-      "5",
+      "$5$",
       "$\\sqrt{50}$",
-      "7"
+      "$7$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "5",
+    "final_answer_text": "$5$",
     "explanation": "$AB = \\sqrt{(4-1)^2 + (6-2)^2 + (3-3)^2} = \\sqrt{9 + 16 + 0} = \\sqrt{25} = 5$"
   },
   {
@@ -61,12 +61,12 @@
     "question": "مقدار المتجه $\\vec{v} = \\langle 2, -3, 6 \\rangle$ يساوي",
     "choices": [
       "$\\sqrt{41}$",
-      "49",
-      "7",
+      "$49$",
+      "$7$",
       "$\\sqrt{13}$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "7",
+    "final_answer_text": "$7$",
     "explanation": "$|\\vec{v}| = \\sqrt{2^2 + (-3)^2 + 6^2} = \\sqrt{4 + 9 + 36} = \\sqrt{49} = 7$"
   },
   {
@@ -88,13 +88,13 @@
     "topic": "تساوي المتجهات",
     "question": "إذا كان $\\vec{u} = \\langle 2, 3a-2, 9 \\rangle$ و $\\vec{v} = \\langle 4-b, 10, c \\rangle$ وكان $\\vec{u} = \\vec{v}$ فإن قيمة $a$ تساوي",
     "choices": [
-      "2",
-      "4",
-      "3",
-      "12"
+      "$2$",
+      "$4$",
+      "$3$",
+      "$12$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "4",
+    "final_answer_text": "$4$",
     "explanation": "بمساواة الإحداثيات المتناظرة: $3a-2 = 10$ ومنه $3a=12$ أي أن $a=4$"
   },
   {
@@ -130,13 +130,13 @@
     "topic": "مقدار المتجه",
     "question": "إذا كان $A(3, 4, -7)$ و $B(-5, 16, 2)$ فإن مقدار $\\overrightarrow{AB}$ يساوي",
     "choices": [
-      "17",
+      "$17$",
       "$\\sqrt{209}$",
-      "289",
+      "$289$",
       "$\\sqrt{73}$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "17",
+    "final_answer_text": "$17$",
     "explanation": "$\\overrightarrow{AB} = \\langle -8, 12, 9 \\rangle$ والمقدار هو $\\sqrt{(-8)^2 + 12^2 + 9^2} = \\sqrt{64+144+81} = \\sqrt{289} = 17$"
   }
 ]

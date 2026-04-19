@@ -2,141 +2,141 @@
   {
     "number": 1,
     "topic": "توازي المتجهات - مسائل تطبيقية",
-    "question": "إذا كان \\(\\vec{m}=\\langle 1,-2,3\\rangle\\) و\\(\\vec{n}=\\langle -5,4,a\\rangle\\)، وكان المتجه \\(3\\vec{n}-3\\vec{m}\\) يوازي \\(\\langle 3,-3,1\\rangle\\)، فما قيمة a",
+    "question": "إذا كان $\\vec{m}=\\langle 1,-2,3\\rangle$ و $\\vec{n}=\\langle -5,4,a\\rangle$، وكان المتجه $3\\vec{n}-3\\vec{m}$ يوازي $\\langle 3,-3,1\\rangle$، فما قيمة $a$",
     "choices": [
-      "2",
-      "-2",
-      "1",
-      "-1"
+      "$2$",
+      "$-2$",
+      "$1$",
+      "$-1$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "1",
-    "explanation": "نحسب المتجه الناتج: \\( 3\\langle -5,4,a\\rangle - 3\\langle 1,-2,3\\rangle = \\langle -18, 18, 3a-9 \\rangle \\). للتوازي مع \\(\\langle 3,-3,1\\rangle\\) نلاحظ أن معامل الضرب هو -6. إذن الإحداثي الزيني: \\( 3a-9 = 1 \\times (-6) = -6 \\)، ومنها \\( 3a = 3 \\) أي أن \\( a=1 \\)"
+    "final_answer_text": "$1$",
+    "explanation": "نحسب المتجه الناتج: $3\\langle -5,4,a\\rangle - 3\\langle 1,-2,3\\rangle = \\langle -18, 18, 3a-9 \\rangle$. للتوازي مع $\\langle 3,-3,1\\rangle$ نلاحظ أن معامل الضرب هو $-6$. إذن الإحداثي الزيني: $3a-9 = 1 \\times (-6) = -6$، ومنها $3a = 3$ أي أن $a=1$"
   },
   {
     "number": 2,
     "topic": "توازي متجهات وإثبات هندسي",
-    "question": "في متوازي الأضلاع OABC، إذا كان \\(\\vec{OA}=6\\vec{a}\\) و\\(\\vec{OC}=6\\vec{c}\\)، والنقطة T منتصف CB، فما المتجه \\(\\vec{OT}\\)",
+    "question": "في متوازي الأضلاع $OABC$، إذا كان $\\vec{OA}=6\\vec{a}$ و $\\vec{OC}=6\\vec{c}$، والنقطة $T$ منتصف $CB$، فما المتجه $\\vec{OT}$",
     "choices": [
-      "6\\vec{a}+3\\vec{c}",
-      "3\\vec{a}+6\\vec{c}",
-      "3\\vec{a}+3\\vec{c}",
-      "6\\vec{a}+6\\vec{c}"
+      "$6\\vec{a}+3\\vec{c}$",
+      "$3\\vec{a}+6\\vec{c}$",
+      "$3\\vec{a}+3\\vec{c}$",
+      "$6\\vec{a}+6\\vec{c}$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "3\\vec{a}+6\\vec{c}",
-    "explanation": "المتجه \\(\\vec{CB} = \\vec{OA} = 6\\vec{a}\\). بما أن T منتصف CB، فإن \\(\\vec{CT} = 3\\vec{a}\\). إذن \\(\\vec{OT} = \\vec{OC} + \\vec{CT} = 6\\vec{c} + 3\\vec{a}\\)"
+    "final_answer_text": "$3\\vec{a}+6\\vec{c}$",
+    "explanation": "المتجه $\\vec{CB} = \\vec{OA} = 6\\vec{a}$. بما أن $T$ منتصف $CB$، فإن $\\vec{CT} = 3\\vec{a}$. إذن $\\vec{OT} = \\vec{OC} + \\vec{CT} = 6\\vec{c} + 3\\vec{a}$"
   },
   {
     "number": 3,
     "topic": "تمييز اتجاه المستقيم",
-    "question": "إذا كان v اتجاهاً للمستقيم l، فأيّ المتجهات الآتية يمثل أيضاً اتجاهاً للمستقيم l",
+    "question": "إذا كان $v$ اتجاهاً للمستقيم $l$، فأيّ المتجهات الآتية يمثل أيضاً اتجاهاً للمستقيم $l$",
     "choices": [
-      "v + u لأي متجه u",
-      "k v لأي عدد حقيقي k لا يساوي صفر",
-      "-v فقط",
-      "2v فقط"
+      "$v + u$ لأي متجه $u$",
+      "$k v$ لأي عدد حقيقي $k$ لا يساوي صفر",
+      "$-v$ فقط",
+      "$2v$ فقط"
     ],
     "correct_answer": "b",
-    "final_answer_text": "k v لأي عدد حقيقي k لا يساوي صفر",
+    "final_answer_text": "$k v$ لأي عدد حقيقي $k$ لا يساوي صفر",
     "explanation": "أي مضاعف غير صفري لمتجه اتجاه المستقيم يظل اتجاهاً صالحاً للمستقيم نفسه لأنه يوازيه"
   },
   {
     "number": 4,
     "topic": "كتابة معادلة متجهة لمستقيم",
-    "question": "ما المعادلة المتجهة للمستقيم المار بنقطة منتصف القطعة المستقيمة الواصلة بين A(2,4,-6) و B(8,-2,10) وله اتجاه \\(\\langle 1,-1,2\\rangle\\)",
+    "question": "ما المعادلة المتجهة للمستقيم المار بنقطة منتصف القطعة المستقيمة الواصلة بين $A(2,4,-6)$ و $B(8,-2,10)$ وله اتجاه $\\langle 1,-1,2\\rangle$",
     "choices": [
-      "\\vec{r}=\\langle 2,4,-6\\rangle+t\\langle 1,-1,2\\rangle",
-      "\\vec{r}=\\langle 5,1,2\\rangle+t\\langle 1,-1,2\\rangle",
-      "\\vec{r}=\\langle 8,-2,10\\rangle+t\\langle 1,-1,2\\rangle",
-      "\\vec{r}=\\langle 10,2,4\\rangle+t\\langle 1,-1,2\\rangle"
+      "$\\vec{r}=\\langle 2,4,-6\\rangle+t\\langle 1,-1,2\\rangle$",
+      "$\\vec{r}=\\langle 5,1,2\\rangle+t\\langle 1,-1,2\\rangle$",
+      "$\\vec{r}=\\langle 8,-2,10\\rangle+t\\langle 1,-1,2\\rangle$",
+      "$\\vec{r}=\\langle 10,2,4\\rangle+t\\langle 1,-1,2\\rangle$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "\\vec{r}=\\langle 5,1,2\\rangle+t\\langle 1,-1,2\\rangle",
-    "explanation": "إحداثيات المنتصف هي \\( (2+8)/2=5, (4-2)/2=1, (-6+10)/2=2 \\). نستخدم هذه النقطة كمتجه موقع للانطلاق r0"
+    "final_answer_text": "$\\vec{r}=\\langle 5,1,2\\rangle+t\\langle 1,-1,2\\rangle$",
+    "explanation": "إحداثيات المنتصف هي $(2+8)/2=5, (4-2)/2=1, (-6+10)/2=2$. نستخدم هذه النقطة كمتجه موقع للانطلاق $r_0$"
   },
   {
     "number": 5,
     "topic": "وقوع نقطة على مستقيم",
-    "question": "المستقيم معادلته \\(\\vec{r}=\\langle 11,5,-6\\rangle+t\\langle 7,-2,5 \\rangle\\)، ما قيمة v إذا كانت النقطة (4, 7, v) تقع على المستقيم",
+    "question": "المستقيم معادلته $\\vec{r}=\\langle 11,5,-6\\rangle+t\\langle 7,-2,5 \\rangle$، ما قيمة $v$ إذا كانت النقطة $(4, 7, v)$ تقع على المستقيم",
     "choices": [
-      "1",
-      "-1",
-      "-11",
-      "11"
+      "$1$",
+      "$-1$",
+      "$-11$",
+      "$11$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "-11",
-    "explanation": "من الإحداثي x: \\( 4 = 11 + 7t \\) ومنها t = -1. بالتعويض في z نجد أن \\( v = -6 + 5(-1) = -11 \\)"
+    "final_answer_text": "$-11$",
+    "explanation": "من الإحداثي $x$: $4 = 11 + 7t$ ومنها $t = -1$. بالتعويض في $z$ نجد أن $v = -6 + 5(-1) = -11$"
   },
   {
     "number": 6,
     "topic": "معادلة متجهة وتقاطع مع محاور",
-    "question": "للمستقيم \\(\\vec{r}=\\langle -2,9,1\\rangle+t\\langle 3,-1,-2\\rangle\\)، ما إحداثيات النقطة التي تقع في المستوى yz (حيث x=0)",
+    "question": "للمستقيم $\\vec{r}=\\langle -2,9,1\\rangle+t\\langle 3,-1,-2\\rangle$، ما إحداثيات النقطة التي تقع في المستوى $yz$ (حيث $x=0$)",
     "choices": [
-      "(0, 25/3, -1/3)",
-      "(0, 23/3, -7/3)",
-      "(0, 27/3, 5/3)",
-      "(0, 9, 1)"
+      "$(0, 25/3, -1/3)$",
+      "$(0, 23/3, -7/3)$",
+      "$(0, 27/3, 5/3)$",
+      "$(0, 9, 1)$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "(0, 25/3, -1/3)",
-    "explanation": "من x=0: \\( -2 + 3t = 0 \\) تعطي t = 2/3. بالتعويض في y: \\( 9 - 2/3 = 25/3 \\). وبالتعويض في z: \\( 1 - 2(2/3) = -1/3 \\)"
+    "final_answer_text": "$(0, 25/3, -1/3)$",
+    "explanation": "من $x=0$: $-2 + 3t = 0$ تعطي $t = 2/3$. بالتعويض في $y$: $9 - 2/3 = 25/3$. وبالتعويض في $z$: $1 - 2(2/3) = -1/3$"
   },
   {
     "number": 7,
     "topic": "المستقيمات المتوازية في الفضاء - تطبيق",
-    "question": "المستقيم l1 يمر بالنقطتين A(-3,-1,12) و B(-2,0,11)، والمستقيم l2 يوازي l1 ويمر بالنقطة C(11,9,12). ما معادلة l2",
+    "question": "المستقيم $l_1$ يمر بالنقطتين $A(-3,-1,12)$ و $B(-2,0,11)$، والمستقيم $l_2$ يوازي $l_1$ ويمر بالنقطة $C(11,9,12)$. ما معادلة $l_2$",
     "choices": [
-      "\\vec{r}=\\langle 11,9,12\\rangle+t\\langle -1,-1,1\\rangle",
-      "\\vec{r}=\\langle -3,-1,12\\rangle+t\\langle 1,1,-1\\rangle",
-      "\\vec{r}=\\langle 11,9,12\\rangle+t\\langle 1,1,-1\\rangle",
-      "\\vec{r}=\\langle 11,9,12\\rangle+t\\langle -1,-1,-1\\rangle"
+      "$\\vec{r}=\\langle 11,9,12\\rangle+t\\langle -1,-1,1\\rangle$",
+      "$\\vec{r}=\\langle -3,-1,12\\rangle+t\\langle 1,1,-1\\rangle$",
+      "$\\vec{r}=\\langle 11,9,12\\rangle+t\\langle 1,1,-1\\rangle$",
+      "$\\vec{r}=\\langle 11,9,12\\rangle+t\\langle -1,-1,-1\\rangle$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "\\vec{r}=\\langle 11,9,12\\rangle+t\\langle 1,1,-1\\rangle",
-    "explanation": "متجه الاتجاه AB هو \\( \\langle 1, 1, -1 \\rangle \\). وبما أن المستقيمين متوازيان، نستخدم نفس الاتجاه مع نقطة المرور C"
+    "final_answer_text": "$\\vec{r}=\\langle 11,9,12\\rangle+t\\langle 1,1,-1\\rangle$",
+    "explanation": "متجه الاتجاه $AB$ هو $\\langle 1, 1, -1 \\rangle$. وبما أن المستقيمين متوازيان، نستخدم نفس الاتجاه مع نقطة المرور $C$"
   },
   {
     "number": 8,
     "topic": "تقاطع مستقيمين - مسألة متكاملة",
-    "question": "إذا تقاطع المستقيمان \\(\\vec{r}=\\langle -5,2,4\\rangle+t\\langle 2,-3,3\\rangle\\) و \\(\\vec{r}=\\langle 3,-10,16\\rangle+u\\langle 1,2,5\\rangle\\)، فما قيمة t عند نقطة التقاطع",
+    "question": "إذا تقاطع المستقيمان $\\vec{r}=\\langle -5,2,4\\rangle+t\\langle 2,-3,3\\rangle$ و $\\vec{r}=\\langle 3,-10,16\\rangle+u\\langle 1,2,5\\rangle$، فما قيمة $t$ عند نقطة التقاطع",
     "choices": [
-      "2",
-      "4",
-      "-2",
-      "1"
+      "$2$",
+      "$4$",
+      "$-2$",
+      "$1$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "4",
-    "explanation": "بمساواة الإحداثيات السينية: \\( -5 + 2t = 3 + u \\) وبحل المنظومة مع الإحداثي الصادي نجد t=4 و u=0، وهي تحقق الإحداثي الزيني أيضاً"
+    "final_answer_text": "$4$",
+    "explanation": "بمساواة الإحداثيات السينية: $-5 + 2t = 3 + u$ وبحل المنظومة مع الإحداثي الصادي نجد $t=4$ و $u=0$، وهي تحقق الإحداثي الزيني أيضاً"
   },
   {
     "number": 9,
     "topic": "تحديد العلاقة بين مستقيمين - حل",
-    "question": "للمستقيمين l1: \\(\\vec{r}=\\langle 1,2,3\\rangle+t\\langle 1,0,1\\rangle\\) و l2: \\(\\vec{r}=\\langle 2,1,k\\rangle+u\\langle 0,1,1\\rangle\\)، ما قيمة k التي تجعل المستقيمين متقاطعين",
+    "question": "للمستقيمين $l_1: \\vec{r}=\\langle 1,2,3\\rangle+t\\langle 1,0,1\\rangle$ و $l_2: \\vec{r}=\\langle 2,1,k\\rangle+u\\langle 0,1,1\\rangle$، ما قيمة $k$ التي تجعل المستقيمين متقاطعين",
     "choices": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
     ],
     "correct_answer": "c",
-    "final_answer_text": "3",
-    "explanation": "من x نجد 1+t=2 إذن t=1. من y نجد 2=1+u إذن u=1. بالتعويض في z: \\( 3 + t = k + u \\) أي \\( 3 + 1 = k + 1 \\)، ومنها k = 3. أي قيمة أخرى لـ k تجعل المستقيمين متخالفين"
+    "final_answer_text": "$3$",
+    "explanation": "من $x$ نجد $1+t=2$ إذن $t=1$. من $y$ نجد $2=1+u$ إذن $u=1$. بالتعويض في $z$: $3 + t = k + u$ أي $3 + 1 = k + 1$، ومنها $k = 3$. أي قيمة أخرى لـ $k$ تجعل المستقيمين متخالفين"
   },
   {
     "number": 10,
     "topic": "تطبيق شامل - مسألة من الحياة",
-    "question": "أُرسلت إشارة من (5,-1,4) إلى (15,9,-11)، ما الاتجاه المبسط لمسار هذه الإشارة",
+    "question": "أُرسلت إشارة من $(5,-1,4)$ إلى $(15,9,-11)$، ما الاتجاه المبسط لمسار هذه الإشارة",
     "choices": [
-      "\\langle 10,10,-15\\rangle",
-      "\\langle 2,2,-3\\rangle",
-      "\\langle 14,-14,7\\rangle",
-      "\\langle 2,-2,1\\rangle"
+      "$\\langle 10,10,-15\\rangle$",
+      "$\\langle 2,2,-3\\rangle$",
+      "$\\langle 14,-14,7\\rangle$",
+      "$\\langle 2,-2,1\\rangle$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "\\langle 2,2,-3\\rangle",
-    "explanation": "نحسب متجه الفرق: \\( \langle 15-5, 9-(-1), -11-4 \rangle = \langle 10, 10, -15 \rangle \\). بالتبسيط (القسمة على 5) نحصل على أبسط اتجاه وهو \\( \langle 2, 2, -3 \rangle \\)"
+    "final_answer_text": "$\\langle 2,2,-3\\rangle$",
+    "explanation": "نحسب متجه الفرق: $\\langle 15-5, 9-(-1), -11-4 \\rangle = \\langle 10, 10, -15 \\rangle$. بالتبسيط (القسمة على $5$) نحصل على أبسط اتجاه وهو $\\langle 2, 2, -3 \\rangle$"
   }
 ]

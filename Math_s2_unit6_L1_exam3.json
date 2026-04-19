@@ -4,13 +4,13 @@
     "topic": "نظام الإحداثيات ثلاثي الأبعاد",
     "question": "إذا كانت النقطة $P(a-3, 5, b+2)$ تقع على المحور $y$ فإن قيمة $a + b$ تساوي",
     "choices": [
-      "1",
-      "5",
-      "0",
-      "-1"
+      "$1$",
+      "$5$",
+      "$0$",
+      "$-1$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "1",
+    "final_answer_text": "$1$",
     "explanation": "بما أن النقطة تقع على المحور $y$، فإن إحداثيات $x$ و $z$ يجب أن تكون صفراً. أي أن $a-3=0$ ومنه $a=3$، و $b+2=0$ ومنه $b=-2$. إذن $a+b = 3 + (-2) = 1$"
   },
   {
@@ -46,13 +46,13 @@
     "topic": "الصورة الإحداثية للمتجه ومقداره",
     "question": "إذا كانت $A(-8, 5, 7)$ و $B(6, 3, 2)$ فإن مقدار المتجه $\\overrightarrow{AB}$ يساوي",
     "choices": [
-      "15",
+      "$15$",
       "$\\sqrt{221}$",
       "$\\sqrt{229}$",
       "$\\sqrt{225}$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "15",
+    "final_answer_text": "$15$",
     "explanation": "$\\overrightarrow{AB} = \\langle 14, -2, -5 \\rangle$ ومقداره هو $\\sqrt{14^2 + (-2)^2 + (-5)^2} = \\sqrt{196+4+25} = \\sqrt{225} = 15$"
   },
   {
@@ -88,13 +88,13 @@
     "topic": "تساوي المتجهات",
     "question": "إذا كان $\\vec{u} = \\langle 2, 3a-2, 9 \\rangle$ و $\\vec{v} = \\langle 4-b, 10, c \\rangle$ وكان $\\vec{u} = \\vec{v}$ فإن قيمة المقدار $b+c$ تساوي",
     "choices": [
-      "11",
-      "7",
-      "13",
-      "-7"
+      "$11$",
+      "$7$",
+      "$13$",
+      "$-7$"
     ],
     "correct_answer": "a",
-    "final_answer_text": "11",
+    "final_answer_text": "$11$",
     "explanation": "من التساوي نجد أن $b=2$ و $c=9$. إذن $b+c = 11$"
   },
   {

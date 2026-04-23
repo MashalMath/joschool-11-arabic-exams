@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: 'We left the drink in the freezer and soon it became ________ — hard and no longer liquid.' (not hollow, completely hard)",
+    "choices": [
+      "solid",
+      "hollow",
+      "curved",
+      "spherical"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Choose the correct word: 'Decorative designs on the thaob may feature plants, ________ shapes or birds.' (having regular lines or shapes)",
+    "choices": [
+      "embroidered",
+      "precious",
+      "geometric",
+      "hollow"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: 'The silk is ________ with threads of wool or cotton.' (decorated with sewn patterns)",
+    "choices": [
+      "dyed",
+      "embroidered",
+      "woven",
+      "carved"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct word: 'Traditionally, the threads were coloured with natural ________ from plants.' (things used to change cloth colour)",
+    "choices": [
+      "silks",
+      "threads",
+      "jewels",
+      "dyes"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "'Modern clothes designers want to keep the ________ of the thaob alive by using traditional embroidery designs in other products.' Choose the correct vocabulary word.",
+    "choices": [
+      "heritage",
+      "dye",
+      "thread",
+      "cast"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Which sentence correctly uses the phrase 'in suspense'?",
+    "choices": [
+      "She was completely satisfied, so she waited in suspense",
+      "He had already seen the film, so he sat in suspense",
+      "I have been in suspense all week, waiting to see what happens next!",
+      "They were very calm and relaxed, in suspense about the result"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Which sentence correctly uses 'under the impression'?",
+    "choices": [
+      "She was under the impression of the teacher because he was so smart",
+      "The audience was under the impression to watch the whole show",
+      "I was under the impression that the show started at 7, but it was at 8",
+      "He made a good impression because he was under the impression"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Which of the following sentences correctly uses 'in addition to'?",
+    "choices": [
+      "She enjoyed the story in addition to the end",
+      "He left in addition to the cinema on time",
+      "They went to the theatre in addition to the restaurant",
+      "In addition to her acting role, she also sang in the show"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct past modal to complete: 'The holes in the ancient flute _____ man-made because they fit a right-handed musician perfectly.'",
+    "choices": [
+      "must have been",
+      "might have been",
+      "can't have been",
+      "wouldn't have been"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct past modal: 'It is possible that this was a candle holder used in ancient ceremonies.'",
+    "choices": [
+      "This must have been a candle holder",
+      "This can't have been a candle holder",
+      "This might have been a candle holder",
+      "This would be a candle holder"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct past modal: 'It can't just have been a coincidence.' What does this sentence express?",
+    "choices": [
+      "a possibility — it could have been a coincidence",
+      "an assumption — the speaker thinks it was a coincidence",
+      "a logical conclusion — it was probably a coincidence",
+      "a negative deduction — the speaker is sure it was not a coincidence"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following correctly uses 'would have' to express a logical conclusion?",
+    "choices": [
+      "The Isle of Lewis belonged to Norway, so the merchant would have been in his own country when he lost the chess pieces",
+      "The merchant would have been there if he wasn't in Norway",
+      "He would have the chess pieces if he had been careful",
+      "Norway would have many chess pieces from the merchant"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct past modal continuous form: 'I can't have been ________ when I tripped and fell.'",
+    "choices": [
+      "looking where I was going",
+      "pay attention",
+      "paying attention",
+      "to look where I was going"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "An amazing discovery at Petra in Jordan _____ if archaeologists hadn't used a satellite to study the ancient city. Choose the correct form.",
+    "choices": [
+      "might never have discovered",
+      "might never have been discovered",
+      "might have never discovered",
+      "might never been discovered"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct reduced form: 'I had been standing for hours. I felt very tired.'",
+    "choices": [
+      "Not standing for hours, I felt very tired",
+      "Standing for hours, I felt very tired",
+      "To stand for hours, I felt very tired",
+      "Having been standing for hours, I felt very tired"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct reduced form: 'Cameron won an award and got the best actor prize.'",
+    "choices": [
+      "Cameron won an award, also getting the best actor prize",
+      "Having won an award, Cameron got the best actor prize",
+      "Cameron won an award, to get the best actor prize",
+      "Cameron won an award and getting the best actor prize"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct confused word: 'The opera house was decorated in a very ________ way — elegant and tasteful throughout.' (decorated well)",
+    "choices": [
+      "tasty",
+      "lively",
+      "alive",
+      "tasteful"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct confused word: 'The artist's best work has a ________ innocence about it.' (positive quality natural to a child)",
+    "choices": [
+      "childish",
+      "comical",
+      "childlike",
+      "insipid"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct confused word: 'If only the artist had been ________ to see his painting sell at auction.' (still living)",
+    "choices": [
+      "lively",
+      "classic",
+      "alive",
+      "historical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The phrase 'be on the edge of your seat' means ________.",
+    "choices": [
+      "to be so tired you can barely stay awake",
+      "to be confused and unable to follow the story",
+      "to feel bored and distracted by a performance",
+      "to be in suspense and fully engaged with what is happening"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "The word 'dialogue' in the context of theatre or film refers to ________.",
+    "choices": [
+      "the conversation between characters in a play or film",
+      "the list of actors who appear in a performance",
+      "the set of costumes worn during a production",
+      "the storyline that connects all scenes in a film"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "The word 'costume' in the context of theatre refers to ________.",
+    "choices": [
+      "the background scenery on the stage during a performance",
+      "the music played during the most important scenes",
+      "the special clothing worn by actors during a performance",
+      "the written words spoken by characters in a play"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "The phrase 'play the lead' means to ________.",
+    "choices": [
+      "take a small supporting role in a production",
+      "direct the performance from behind the scenes",
+      "play the most important main character in the production",
+      "act as a narrator who introduces the story"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Choose the correct word to complete: 'My friend is always cracking ________ jokes that aren't at all funny.' (sentimental and of poor quality)",
+    "choices": [
+      "offensive",
+      "exceptional",
+      "appalling",
+      "cheesy"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "The adjective 'appalling' used to describe a performance means ________.",
+    "choices": [
+      "far better than any other performance in the show",
+      "extremely funny and difficult to stop laughing at",
+      "very offensive because of its language and content",
+      "shockingly bad and of very poor quality"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 26,
+    "question": "The phrase 'The plot is quite complex' in a review is used to ________.",
+    "choices": [
+      "describe how the lead actor behaves in the main scene",
+      "tell the reader about the main costume designs used",
+      "give information about the storyline of the production",
+      "explain why the performance was not enjoyable"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "In a review article, 'Far from being...' is used to ________.",
+    "choices": [
+      "agree strongly with a previous argument or statement",
+      "summarise the main points in the conclusion",
+      "give a concrete example to support an argument",
+      "make a suggestion to the reader about what to do next"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "What is the most important idea in the passage about resilience?",
+    "choices": [
+      "Resilient people do not experience stress or difficulties in their lives",
+      "Only naturally gifted people can develop resilience over time",
+      "Resilience is built through difficulty, and everyone can learn to be more resilient",
+      "People who are upset by stress should avoid difficult situations"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "What advice does the author give about problems in the building resilience article?",
+    "choices": [
+      "Give up quickly if the problem seems too difficult to solve",
+      "Ask for help from someone else before trying to solve it yourself",
+      "Ignore the problem and wait for it to resolve itself naturally",
+      "See the problem as a challenge and trust that you will overcome it"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "According to information about Jordan's constitutional system, the 'constitution' is ________.",
+    "choices": [
+      "the group of important ministers who control government policy",
+      "the process by which new laws are debated and passed",
+      "the first version of a proposed law submitted to parliament",
+      "the principles and ideas by which a country agrees to be governed"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "According to information about Jordan, the current Parliament building has been in use since ________.",
+    "choices": [
+      "1946",
+      "1947",
+      "1952",
+      "1978"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "According to information about world parliaments, the world's largest parliament is China's. It has ________ members.",
+    "choices": [
+      "1,000",
+      "500",
+      "14",
+      "3,000"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "According to information about Jordan's parliamentary process, the Prime Minister's proposals are FIRST referred to ________.",
+    "choices": [
+      "the House of Deputies",
+      "the King for approval",
+      "the Senate for review",
+      "the Ministry of the Interior"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', a 'verse' is defined as ________.",
+    "choices": [
+      "the final line of a poem that sums up the main idea",
+      "a repetition of the same sound at the end of two lines",
+      "the use of the same letter at the beginning of nearby words",
+      "a group of lines that form one part of a poem"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the phrase 'To watch his woods fill up with snow' shows that the speaker is stopping ________.",
+    "choices": [
+      "because he is lost and cannot find the road",
+      "because he is afraid of the frozen lake nearby",
+      "to watch the snow fall in the beautiful forest",
+      "to look for shelter from the cold winter storm"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', which of the following is an example of alliteration?",
+    "choices": [
+      "Between the woods and frozen lake",
+      "The darkest evening of the year",
+      "His house is in the village though",
+      "To watch his woods fill up with snow"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "According to the text, people who are less emotionally connected with characters ________.",
+    "choices": [
+      "are happy to know what will happen because it requires less effort",
+      "refuse to read any stories even if they are given spoilers",
+      "always avoid spoilers because they dislike knowing the ending",
+      "are more likely to read stories more than once for enjoyment"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "In the context of Jordan's parliament, a 'draft bill' is ________.",
+    "choices": [
+      "a final law that has been approved by both houses of parliament",
+      "a letter written by the King to the Prime Minister",
+      "the first version of a proposed law",
+      "a report submitted by the Senate to the House of Deputies"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In the writing section on articles, the introduction should ________.",
+    "choices": [
+      "list the main themes of the book in alphabetical order",
+      "provide a detailed description of the main characters",
+      "summarise the plot from the beginning to the very end",
+      "grab the reader's attention and outline what the article is about"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Which of the following correctly uses 'would it be OK if...?' to make a suggestion?",
+    "choices": [
+      "Would it be OK if we saw a traditional food display instead?",
+      "Would it be OK if we will see a traditional food display instead?",
+      "Would it be OK if we have seen a traditional food display instead?",
+      "Would it be OK to we see a traditional food display instead?"
+    ],
+    "correct_answer": "a"
+  }
+]

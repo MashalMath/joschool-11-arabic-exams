@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'This day had started just like any other, until the rope attaching his rompong to the bottom of the sea broke and, already far from the coast, he started to drift even further away.'\n\nWhat is a 'rompong'?",
+    "choices": [
+      "A type of large fishing ship",
+      "A kind of hut that floats in the middle of the sea",
+      "A net used to catch fish near the coast",
+      "A rope attached to the sea bed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: B I haven't a ________. How should we get into the house?",
+    "choices": [
+      "choice",
+      "clue",
+      "consider",
+      "trick"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: I thought the journey would take an hour. It took ________ two hours.",
+    "choices": [
+      "give and take",
+      "sooner or later",
+      "touch and go",
+      "more or less"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If he ________ the office, he would have left early. (third conditional — he did paint the office)",
+    "choices": [
+      "hasn't painted",
+      "hadn't painted",
+      "do not paint",
+      "had painted"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'If his brother hadn't helped Jonny, he probably wouldn't have finished the race. Although on the other hand, he might not be so well known today. In fact, if we really want to find them, there are lots of stories of sporting heroism.'\n\nHow can we describe Alistair Brownlee's personality based on this passage?",
+    "choices": [
+      "Selfish and competitive",
+      "Generous and willing to put others before himself",
+      "Careless and reckless",
+      "Ambitious and focused only on winning"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: She spent the afternoon ________ expensive items she clearly didn't need.",
+    "choices": [
+      "splashing out on",
+      "paying off",
+      "giving and taking",
+      "picking and choosing"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I wish I ________ had gone to university. I have a job but I think I could have got a better one.",
+    "choices": [
+      "had",
+      "would",
+      "could",
+      "should"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'I could have been at the World Cup finals last month.' This means ________.",
+    "choices": [
+      "I was at the World Cup finals last month",
+      "Being at the finals was possible, but I wasn't there",
+      "It was necessary for me to go to the finals",
+      "I chose not to go to the finals"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: The business ________ after they hired new staff and changed their strategy.",
+    "choices": [
+      "messed up",
+      "set back",
+      "got nowhere",
+      "flourished"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct second conditional: He ________ you if you asked him.",
+    "choices": [
+      "will help",
+      "would help",
+      "helped",
+      "had helped"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: I ________ that book in such a hurry — I had plenty of time to read it later.",
+    "choices": [
+      "should have read",
+      "could have read",
+      "needn't have read",
+      "didn't need to read"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'After this setback, he really started to worry. To try and take his mind off his situation he sang and read. However, the isolation took its toll on him. He admitted that he almost gave up hope, but the thought of seeing his parents again kept him going.'\n\nWhat kept Aldi from giving up hope?",
+    "choices": [
+      "Singing and reading every day",
+      "The thought of seeing his parents again",
+      "The hope of being rescued by a ship",
+      "His survival training from his job"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: A There's a slim chance we might succeed, but we'd need a ________ to get through.",
+    "choices": [
+      "pick and choose",
+      "sooner or later",
+      "lucky break",
+      "give and take"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If she wasn't clever, she ________ such a good job now. (mixed conditional: present fact on past)",
+    "choices": [
+      "wouldn't have had",
+      "won't have",
+      "didn't have",
+      "hasn't had"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I thought I didn't think exercise was important. How wrong I was!' This means ________.",
+    "choices": [
+      "I did exercise because I thought it was important",
+      "I didn't exercise because I incorrectly thought it wasn't important",
+      "I tried to exercise but couldn't find the time",
+      "I thought exercise was important but didn't do it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: If only we ________ where you were, we would come and get you. (present regret)",
+    "choices": [
+      "knowing",
+      "knew",
+      "had knew",
+      "knows"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: 'Ultimately, there are arguments on both ________.'",
+    "choices": [
+      "areas",
+      "ways",
+      "sides",
+      "points"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: People always looking for new and ________ ideas for new tourist attractions.",
+    "choices": [
+      "costly",
+      "extravagant",
+      "lucrative",
+      "well-off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'I was responsible for running sessions in English for nine- to 12-year-olds. I would welcome the chance to further develop my teaching skills and learn about this country.'\n\nWhat age group did the writer teach in her previous experience?",
+    "choices": [
+      "Five- to eight-year-olds",
+      "Nine- to twelve-year-olds",
+      "Thirteen- to sixteen-year-olds",
+      "University students"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If he had looked at the map, he ________ lost now.",
+    "choices": [
+      "won't be",
+      "wouldn't be",
+      "wouldn't have been",
+      "hadn't been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: I wish I ________ at the World Cup finals last month and seen my country play.",
+    "choices": [
+      "can be",
+      "could have been",
+      "could be",
+      "could have am"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'There and then' means ________.",
+    "choices": [
+      "at some point in the future",
+      "more or less",
+      "immediately, without delay",
+      "accept it or don't"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I was in ________ of arranging all travel and accommodation for the group.",
+    "choices": [
+      "responsible",
+      "charge",
+      "passion",
+      "qualification"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'It has also been my lifelong dream to visit the Koh Rong Island. If I won this competition, I would take every opportunity to travel and explore the history and culture of Cambodia.'\n\nWhat conditional form is used in this sentence?",
+    "choices": [
+      "Zero conditional",
+      "First conditional",
+      "Second conditional",
+      "Third conditional"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: I wish I ________ (know) what questions they plan to ask during the exam.",
+    "choices": [
+      "know",
+      "knew",
+      "had known",
+      "would know"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: Given the ________, where would you most like to travel?",
+    "choices": [
+      "risk",
+      "luck",
+      "chance",
+      "opportunity"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'On first consideration, this seems like a good idea …' This phrase is used to ________.",
+    "choices": [
+      "give a final conclusion",
+      "introduce an initial impression before going deeper",
+      "close the argument",
+      "list all disadvantages"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: If only he ________ earlier — there were so many great things to see! (past regret)",
+    "choices": [
+      "visited",
+      "visits",
+      "had visited",
+      "would have visited"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'If I were you, I'd apply for the competition.' This is a ________.",
+    "choices": [
+      "zero conditional",
+      "first conditional",
+      "second conditional",
+      "third conditional"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: He needn't have ________; he came top of the class in the test.",
+    "choices": [
+      "worry",
+      "worried",
+      "worrying",
+      "to worry"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'I shouldn't have listened to my friend who told me I would never go to university because I couldn't spell. I'm dyslexic, not stupid, and guess what? Now I have two degrees!'\n\nWhat is the writer expressing in this passage?",
+    "choices": [
+      "Gratitude for the advice their friend gave them",
+      "Regret for following bad advice and relief at their eventual success",
+      "Anger at the university for rejecting them",
+      "Pride in their ability to spell"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: In most situations she is incapable of ________ that she's wrong.",
+    "choices": [
+      "acknowledge",
+      "make",
+      "take",
+      "admitting"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: Not only do I have the relevant skills, ________ I am also passionate about the opportunity.",
+    "choices": [
+      "so",
+      "but",
+      "because",
+      "and"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'If you hadn't given up languages at school, you would be able to work abroad now.' The mixed conditional here means ________.",
+    "choices": [
+      "A past action is affecting the present situation",
+      "A present situation is affecting the past",
+      "An imaginary future situation is being described",
+      "A general truth is being stated"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If she ________ her finances carefully, she would have enough to travel. (mixed conditional: present habit affecting present consequence)",
+    "choices": [
+      "manages",
+      "managed",
+      "had managed",
+      "will manage"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'I would very much like to apply for this opportunity.' The phrase 'would very much like to' is used in a formal letter to ________.",
+    "choices": [
+      "refuse a competition entry",
+      "politely express strong interest in something",
+      "complain about a previous experience",
+      "ask for more information"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'Indonesian teenager, Aldi Adilang, is only 19, but he has already gone through the ordeal of being lost at sea an incredible three times! The first two times he got off relatively lightly; he was drifting for a week, and the second time for two days.'\n\nHow long was Aldi drifting at sea during his first experience?",
+    "choices": [
+      "Two days",
+      "A week",
+      "49 days",
+      "Two months"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: ________ you don't feel like going, then don't go!",
+    "choices": [
+      "Unless",
+      "When",
+      "If",
+      "Although"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'If only I was better at finishing what I start!' This expresses ________.",
+    "choices": [
+      "a past regret about a completed action",
+      "a complaint about another person's behaviour",
+      "a present dissatisfaction or wish to improve",
+      "a future intention"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: Please find my CV ________ for further details of my qualifications.",
+    "choices": [
+      "included",
+      "enclosed",
+      "attached with",
+      "adding"
+    ],
+    "correct_answer": "b"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'Indonesian teenager, Aldi Adilang, is only 19, but he has already gone through the ordeal of being lost at sea an incredible three times! The first two times he got off relatively lightly; he was drifting for a week, and the second time for two days. Those experiences sound terrifying enough, but on the third occasion he was alone in the ocean for 49 long days.'\n\nHow can we describe Aldi's personality based on his story?",
+    "choices": [
+      "He is pessimistic and tends to depression",
+      "He is always optimistic and never worries",
+      "He is resourceful and determined",
+      "He is reckless and does not learn from mistakes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: B Well, I think we have no ________ but to break the window.",
+    "choices": [
+      "clue",
+      "chance",
+      "choice",
+      "trick"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: I think it's ________ certain you'll get the job. You performed really well.",
+    "choices": [
+      "touch and go",
+      "safe and sound",
+      "more or less",
+      "give and take"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If she ________ the boss, he would have told her about the promotion. (third conditional)",
+    "choices": [
+      "meets",
+      "had met",
+      "is met",
+      "was met"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'Fortunately, stories demonstrating the better side of human nature sometimes hit the headlines. One of the best known of such sporting moments happened in 2016 in the Triathlon World Series in Mexico. British runner Jonny Brownlee was about to finish first when the heat made him ill and he was about to fall over.'\n\nWhat nationality is Jonny Brownlee?",
+    "choices": [
+      "American",
+      "Australian",
+      "British",
+      "Mexican"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: Working in the travel business ________ to many young people who want to work as a flight attendant.",
+    "choices": [
+      "applies",
+      "appeals",
+      "approaches",
+      "approves"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: If only Alia ________ how I felt about it. (present regret — she doesn't know)",
+    "choices": [
+      "knows",
+      "knew",
+      "had known",
+      "would know"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'I could have been at the World Cup finals last month.' 'Could have' here means ________.",
+    "choices": [
+      "I was there",
+      "It was a possibility, but I wasn't there",
+      "I am still planning to go",
+      "It was necessary for me to go"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: He took a digital presentation to the interview. What a ________ — they hired him immediately!",
+    "choices": [
+      "blunder",
+      "setback",
+      "flop",
+      "masterstroke"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct second conditional: If they ________ their money, they would buy everything.",
+    "choices": [
+      "will get",
+      "got",
+      "had gotten",
+      "get"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: We ________ the whole weekend on that project; it was done in just one day.",
+    "choices": [
+      "needn't have spend",
+      "needn't spent",
+      "needn't have spent",
+      "needn't spend"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'From now on, he'll be staying firmly on dry land.' What decision does this sentence show about Aldi?",
+    "choices": [
+      "He plans to become a boat captain",
+      "He is going back to his job on the rompong",
+      "He has decided to stop working at sea",
+      "He wants to travel the world by ship"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: Wherever my cat has disappeared to, I just hope he'll come home ________.",
+    "choices": [
+      "sooner or later",
+      "safe and sound",
+      "more or less",
+      "ups and downs"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If Nawal was richer, she ________ some money to help poor people. (second conditional)",
+    "choices": [
+      "will donate",
+      "would donated",
+      "would donate",
+      "donated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I needn't have worried because most people aren't judging anyone else.' This means ________.",
+    "choices": [
+      "It was necessary to worry, and I did",
+      "I did something, but it wasn't necessary",
+      "I didn't do something, but it was necessary",
+      "Something was possible, but I didn't do it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: I wish I ________ that job opportunity when it was offered to me. (past regret — I didn't take it)",
+    "choices": [
+      "take",
+      "took",
+      "had taken",
+      "am taking"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: 'Ultimately, there are arguments on both ________.' is used to ________.",
+    "choices": [
+      "sides / acknowledge that both views have merit before concluding",
+      "sides / introduce the opening of an argument",
+      "ways / describe a major disadvantage",
+      "points / list advantages only"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: Perhaps more people would have wanted to climb the Marble Arch Mound if they hadn't had to ________ on an entrance fee.",
+    "choices": [
+      "well-off",
+      "lucrative",
+      "splash out",
+      "extravagant"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'I have studied English to a high level and believe that my skills in this language would enable me to teach it successfully. Furthermore, I do have some experience of teaching English already on a children's summer camp in my home city. I was responsible for running sessions in English for nine- to 12-year-olds.'\n\nWhat does the writer use to support her application?",
+    "choices": [
+      "Her desire to earn a large salary",
+      "Her previous practical teaching experience and language skills",
+      "Her knowledge of Cambodia's history",
+      "Her friendship with Cambodian people"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If Eman ________ her exams, she would be at university now.",
+    "choices": [
+      "passed",
+      "had passed",
+      "passing",
+      "have passed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: If only I ________ a car. I could get to work so much more easily. (present regret)",
+    "choices": [
+      "have",
+      "had",
+      "had had",
+      "would have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Slowly but surely' means ________.",
+    "choices": [
+      "immediately without hesitation",
+      "achieving results carefully and gradually over time",
+      "good and bad times",
+      "more or less"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: If I won this competition, I ________ take every opportunity to travel and explore the history of Cambodia.",
+    "choices": [
+      "will",
+      "would",
+      "had",
+      "have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'I feel that I would be a good candidate because not only do I have the relevant skills and experience, but I am also passionate about Cambodia and its people. I hope you will give my entry serious consideration.'\n\nWhat does the writer do in the final body paragraph?",
+    "choices": [
+      "She introduces herself for the first time",
+      "She summarises her suitability using an emphatic structure",
+      "She asks for more information about the competition",
+      "She explains why she doesn't want the job"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: I wish I ________ (understand) the exercise better. I can't do it.",
+    "choices": [
+      "understand",
+      "understood",
+      "had understood",
+      "will understand"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: It's not easy to ________ your mistakes. Most people prefer to blame others.",
+    "choices": [
+      "admitting",
+      "offer",
+      "take",
+      "acknowledge"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'A significant negative aspect of …' is used to ________.",
+    "choices": [
+      "introduce an important disadvantage",
+      "list advantages",
+      "close the discussion",
+      "give a personal opinion"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: I wish everything these days ________ so expensive.",
+    "choices": [
+      "isn't",
+      "wasn't",
+      "won't be",
+      "hasn't been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'Cancel your bank cards immediately if you lose your wallet.' This is a ________.",
+    "choices": [
+      "zero conditional",
+      "first conditional",
+      "second conditional",
+      "third conditional"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: He needn't have ________; he came top of the class.",
+    "choices": [
+      "worry",
+      "worrying",
+      "worried",
+      "to worry"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'I wish I had gone to university. I have a job but I think I could have got a better job if I had a degree.'\n\nWhat does this passage from the online article express?",
+    "choices": [
+      "A plan for the future",
+      "A complaint about someone else's behaviour",
+      "A present wish combined with a missed opportunity in the past",
+      "A general fact about employment"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: Her 'shortcut' took twice as long. Did she ________ an apology or ignore the mistake?",
+    "choices": [
+      "make",
+      "take",
+      "offer",
+      "acknowledge"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: In addition to ________ experience, I also have relevant qualifications.",
+    "choices": [
+      "have",
+      "had",
+      "having",
+      "to have"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'If we were affluent, we would've bought a big flat.' This sentence means we ________ affluent, and we ________ a big flat.",
+    "choices": [
+      "are / bought",
+      "are / didn't buy",
+      "aren't / didn't buy",
+      "were / did buy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If I hadn't done all those things, I ________ done so well at university. (third conditional)",
+    "choices": [
+      "wouldn't",
+      "wouldn't have",
+      "didn't",
+      "won't have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'I would very much like to apply for this wonderful opportunity.' This phrase is used in a letter of application to ________.",
+    "choices": [
+      "close the letter",
+      "describe work experience",
+      "express strong and polite interest",
+      "ask for further details"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'The pronoun them in paragraph 5 (He saw more than ten ships sail past him, but none of them seemed to have a clue that he was there) refers to ________.'",
+    "choices": [
+      "the crew members on the rompong",
+      "more than ten ships",
+      "the people waiting on the shore",
+      "Aldi's family"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: You'll laugh ________ I tell you what happened to me yesterday.",
+    "choices": [
+      "unless",
+      "although",
+      "if",
+      "despite"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'I wish my best friend would stop telling everyone my secrets.' This type of wish is used to ________.",
+    "choices": [
+      "express regret about a past action",
+      "express a desire to change someone else's present behaviour",
+      "express a present wish about your own situation",
+      "express regret about a missed opportunity"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: Dear Sir/Madam, … Yours ________, (ending a formal letter to someone whose name you don't know)",
+    "choices": [
+      "sincerely",
+      "faithfully",
+      "truly",
+      "warmly"
+    ],
+    "correct_answer": "b"
+  }
+]

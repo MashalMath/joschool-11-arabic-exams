@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'He caught fish and used parts of his wooden hut to make a fire and cook the fish. Not having any more fresh drinking water, he had no choice but to drink sea water. However, he filtered the sea water through his clothes to reduce the amount of salt. This must have done the trick because he survived for four days until it rained and he was able to collect some rainwater.'\n\nWhat survival skills did Aldi use? Mention TWO examples from the passage.",
+    "choices": [
+      "He caught fish and drank sea water unfiltered",
+      "He built a fire to cook fish and filtered sea water through his clothes",
+      "He signalled for help and built a shelter from wood",
+      "He collected rain water and caught birds for food"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: A Oh no! I've really ________ — I've lost the house key. What shall we do?",
+    "choices": [
+      "messed up",
+      "paid off",
+      "flourished",
+      "set back"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: There's no guarantee it will work. It's ________ whether we'll make it in time.",
+    "choices": [
+      "give and take",
+      "touch and go",
+      "ups and downs",
+      "safe and sound"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If he had a car, we ________ to Petra. (second conditional)",
+    "choices": [
+      "will go",
+      "would go",
+      "gone",
+      "going"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'We can read about rugby players who stop playing to help an injured fellow player, of golfers who admit to doing something wrong even if no one saw, and of Formula One racing drivers stopping to help others who have had a serious accident.'\n\nWhat quality do all the athletes described in this passage share?",
+    "choices": [
+      "They all compete in team sports",
+      "They all put the welfare of others before their own competitive goals",
+      "They are all professional athletes who earn large salaries",
+      "They all stopped competing because of injuries"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: The new route has been very ________ for local businesses, generating much more income than before.",
+    "choices": [
+      "extravagant",
+      "costly",
+      "lucrative",
+      "affluent"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: He is alone. If only I ________ with him now. (present regret — I'm not with him)",
+    "choices": [
+      "am",
+      "were",
+      "had been",
+      "would be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'I should have asked if the boy needed any help.' The speaker ________ ask for help.",
+    "choices": [
+      "did",
+      "didn't",
+      "should",
+      "could"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: Investors were disappointed when the new product turned out to be a complete ________.",
+    "choices": [
+      "masterstroke",
+      "setback",
+      "flop",
+      "pay off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct third conditional: If she ________ the boss, he would have told her about the promotion.",
+    "choices": [
+      "meets",
+      "had met",
+      "is met",
+      "was met"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: You ________ to wait — he arrived almost immediately after we got there.",
+    "choices": [
+      "needn't have needed",
+      "shouldn't have",
+      "didn't need",
+      "couldn't have"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'In the end, after 49 days, he saw a ship, The Arpeggio. Desperate to make himself understood he used the few words of English he knew over the radio: Help! Help! Finally, the Indonesian embassy collected him and flew him home, almost two months after his ordeal had begun.'\n\nWho arranged for Aldi to be flown back home?",
+    "choices": [
+      "The captain of The Arpeggio",
+      "His family in Indonesia",
+      "The Indonesian embassy",
+      "The Japanese coast guard"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: At some point, you will have to make a decision. In other words, ________ you will have to decide.",
+    "choices": [
+      "safe and sound",
+      "sooner or later",
+      "more or less",
+      "give and take"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If I ________ passed my exams, I would be at university now. (mixed conditional: past event affecting present)",
+    "choices": [
+      "have",
+      "had",
+      "'d passed",
+      "passed"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I shouldn't have listened to my friend.' This means ________.",
+    "choices": [
+      "It was a good idea, but I didn't listen",
+      "It was not a good idea to listen, but I did",
+      "I did not listen, which was good",
+      "Something was possible, but I didn't do it"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: I wish I ________ (know) what questions they plan to ask during the oral exam. (present regret)",
+    "choices": [
+      "know",
+      "knew",
+      "had known",
+      "would know"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: 'A significant ________ of sport is that it teaches teamwork and discipline.'",
+    "choices": [
+      "drawback",
+      "downside",
+      "advantage",
+      "minus point"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: Unless you're very ________, you'll need to borrow money to buy a house.",
+    "choices": [
+      "extravagant",
+      "costly",
+      "lucrative",
+      "well-off"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'Working as a teacher would appeal to me enormously for several reasons. I would very much value the opportunity to give something back to the people of Cambodia, rather than simply visiting as a tourist. In addition, I believe that teaching would allow me to really get to know local people.'\n\nWhat linking phrase does the writer use to add another reason?",
+    "choices": [
+      "Although",
+      "However",
+      "In addition",
+      "Nevertheless"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If he had fallen, he ________ dead now. (past event affecting present)",
+    "choices": [
+      "would be",
+      "will be",
+      "would have been",
+      "has been"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: I wish I ________ luckier the last time I bought a lottery ticket.",
+    "choices": [
+      "were",
+      "had been",
+      "am",
+      "have been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Peace and quiet' means ________.",
+    "choices": [
+      "good and bad times",
+      "immediately without delay",
+      "calm and tranquillity",
+      "uncertain and risky"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I am ________ about Cambodia and its people, and I would love the opportunity to help.",
+    "choices": [
+      "responsible",
+      "qualified",
+      "passionate",
+      "in charge"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'If only I had followed my dream to be a photographer! I was too scared of failure. I might not have been good enough, but I should at least have tried.'\n\nWhat does 'I should at least have tried' mean?",
+    "choices": [
+      "It was a good idea to try, but the speaker didn't do it",
+      "The speaker tried and failed",
+      "It was not a good idea to try",
+      "The speaker didn't think it was necessary to try"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: If only I ________ so tired at the end of every day. (present regret — I am always tired)",
+    "choices": [
+      "doesn't feel",
+      "didn't feel",
+      "had felt",
+      "did feel"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: The hotels and shop owners have become more ________ because of the new route.",
+    "choices": [
+      "costly",
+      "extravagant",
+      "well-off",
+      "lucrative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'A minor downside of …' is used when presenting ________.",
+    "choices": [
+      "a major advantage",
+      "a small or insignificant disadvantage",
+      "the writer's final opinion",
+      "a positive aspect of something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: If only he ________ visited earlier — he would have seen everything! (past regret)",
+    "choices": [
+      "visited",
+      "visits",
+      "had",
+      "has"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'If we spent more on society, fewer people would have to live in hardship.' This is a ________.",
+    "choices": [
+      "zero conditional",
+      "first conditional",
+      "second conditional",
+      "third conditional"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: I wish I ________ stop eating crisps. (present wish — I can't stop now)",
+    "choices": [
+      "can",
+      "could",
+      "would",
+      "might"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'When I was younger, I spent too much time worrying about what other people thought of me. I know now that I needn't have worried because most people aren't judging anyone else, and if they are, it doesn't really matter.'\n\nWhat does the writer regret in this passage?",
+    "choices": [
+      "Spending too much money when they were young",
+      "Wasting time worrying about others' opinions unnecessarily",
+      "Not making more friends when they were young",
+      "Spending too much time studying instead of enjoying life"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: I'd like to ________ this opportunity to thank you for all your help.",
+    "choices": [
+      "take",
+      "grab",
+      "run",
+      "make"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: Furthermore, I ________ have some experience of teaching English on a summer camp.",
+    "choices": [
+      "am",
+      "do",
+      "can",
+      "will"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'If you don't buy the car today, it will be more expensive tomorrow.' The car costs ________ today than it will tomorrow.",
+    "choices": [
+      "more",
+      "less",
+      "the same",
+      "much more"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If I hadn't done all those things, I ________ done so well at university. (third conditional)",
+    "choices": [
+      "wouldn't",
+      "wouldn't have",
+      "didn't",
+      "won't have"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'As part of my role, I …' is used in a letter of application to ________.",
+    "choices": [
+      "close the letter politely",
+      "describe specific tasks performed as part of a job",
+      "introduce the reason for writing the letter",
+      "add qualifications"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'Aldi wants to forget the situation of being lost in the third time by doing two things.' What are the two things Aldi did to take his mind off his situation?",
+    "choices": [
+      "He swam and exercised",
+      "He sang and read",
+      "He prayed and slept",
+      "He ate and drank"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: Don't bother making coffee for me ________ you're making one for yourself.",
+    "choices": [
+      "if",
+      "when",
+      "unless",
+      "although"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'I wish I were luckier.' expresses ________.",
+    "choices": [
+      "A past regret",
+      "A complaint about someone else's behaviour",
+      "A present wish or dissatisfaction about a current situation",
+      "A future plan the speaker hopes to achieve"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: I ________ forward to hearing from you. (formal letter closing phrase)",
+    "choices": [
+      "am looking",
+      "look",
+      "have been looking",
+      "looked"
+    ],
+    "correct_answer": "b"
+  }
+]

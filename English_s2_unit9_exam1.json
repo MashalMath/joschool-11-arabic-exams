@@ -1,0 +1,443 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'Indonesian teenager, Aldi Adilang, is only 19, but he has already gone through the ordeal of being lost at sea an incredible three times! The first two times he got off relatively lightly; he was drifting for a week, and the second time for two days.'\n\nWhat does the phrase 'got off relatively lightly' mean in the passage?",
+    "choices": [
+      "He experienced more harm than expected.",
+      "He experienced less harm than might be expected.",
+      "He was rescued immediately without any trouble.",
+      "He decided to leave the sea behind."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: She was embarrassed and felt like she had really ________ in the interview.",
+    "choices": [
+      "paid off.",
+      "flourished.",
+      "messed up.",
+      "masterstroke."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: She arrived ________ and no one had to wait for her.",
+    "choices": [
+      "sooner or later.",
+      "safe and sound.",
+      "there and then.",
+      "touch and go."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank using the correct conditional form: If she ________ harder, she will pass the exam.",
+    "choices": [
+      "studied.",
+      "studies.",
+      "had studied.",
+      "would study."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'British runner Jonny Brownlee was about to finish first when the heat made him ill and he was about to fall over. Jonny's brother Alistair was in third place when he saw his brother and helped to carry him over the finish line.'\n\nWhat does this passage show about Alistair's character?",
+    "choices": [
+      "He is competitive and wants to win at any cost.",
+      "He demonstrates fair play and brotherhood over personal gain.",
+      "He was afraid of losing to his brother.",
+      "He always comes third in competitions."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: This is not worth the ________. I always prefer to be safe.",
+    "choices": [
+      "chance.",
+      "luck.",
+      "opportunity.",
+      "risk."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I wish I ________ to university. (past regret — I didn't go)",
+    "choices": [
+      "went.",
+      "go.",
+      "had gone.",
+      "would go."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'You ________ have read that letter.' means it was not a good idea to read it, but the person did.",
+    "choices": [
+      "should.",
+      "shouldn't.",
+      "could.",
+      "needn't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: He tried his best but just ________, and in the end he gave up.",
+    "choices": [
+      "paid off.",
+      "flourished.",
+      "got nowhere.",
+      "masterstroke."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct conditional form: If he ________ at home, he would have missed the celebration.",
+    "choices": [
+      "stayed.",
+      "stays.",
+      "had stayed.",
+      "would stay."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: 'I ________ have worried because most people aren't judging anyone else.' means I worried but it was unnecessary.",
+    "choices": [
+      "should.",
+      "needn't.",
+      "couldn't.",
+      "mustn't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'Not having any more fresh drinking water, he had no choice but to drink sea water. However, he filtered the sea water through his clothes to reduce the amount of salt. This must have done the trick because he survived for four days until it rained.'\n\nWhat does 'done the trick' mean in this context?",
+    "choices": [
+      "It failed to produce the desired result.",
+      "It had the necessary result he wanted.",
+      "It caused him more harm than before.",
+      "It was a dishonest method of survival."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: The business has had its ________ but is generally doing well.",
+    "choices": [
+      "give and take.",
+      "ups and downs.",
+      "safe and sound.",
+      "pick and choose."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If I ________ what to do, I wouldn't have asked you. (second conditional meaning)",
+    "choices": [
+      "know.",
+      "knew.",
+      "had known.",
+      "will know."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I should at least have tried.' The previous sentence means ________.",
+    "choices": [
+      "It was a good idea for me to do something, but I didn't do it.",
+      "It wasn't a good idea for me to do something, but I did it.",
+      "Something was a possibility, but I didn't do it.",
+      "I did something, but it wasn't necessary."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: If only she ________ how I felt about it. (present regret)",
+    "choices": [
+      "knows.",
+      "knew.",
+      "had known.",
+      "would know."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct word: One ________ of sport is that it keeps people healthy and active.",
+    "choices": [
+      "drawback.",
+      "downside.",
+      "advantage.",
+      "minus point."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: His hard work ________ and he did really well in the final exams.",
+    "choices": [
+      "paid up.",
+      "paid off.",
+      "flop.",
+      "messed up."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'After this setback, he really started to worry. To try and take his mind off his situation he sang and read. However, the isolation took its toll on him. He admitted that he almost gave up hope, but the thought of seeing his parents again kept him going.'\n\nWhat does 'took its toll on him' mean?",
+    "choices": [
+      "Helped him recover quickly.",
+      "Caused him harm or suffering.",
+      "Made him feel more confident.",
+      "Allowed him to find a solution."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If she wasn't clever, she ________ such a good job.",
+    "choices": [
+      "wouldn't have had.",
+      "won't have.",
+      "didn't have.",
+      "hasn't had."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: 'I ________ have afforded a new scooter for my sister's birthday.' means something was possible but I didn't do it.",
+    "choices": [
+      "should.",
+      "could.",
+      "needn't.",
+      "didn't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Sooner or later' means ________.",
+    "choices": [
+      "immediately.",
+      "at some point in the future.",
+      "never.",
+      "more or less."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I am writing to enter the competition ________ win the opportunity to teach English abroad.",
+    "choices": [
+      "for.",
+      "to.",
+      "at.",
+      "of."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'In the end, after 49 days, he saw a ship, The Arpeggio. Desperate to make himself understood he used the few words of English he knew over the radio: Help! Help! The ship turned around to pick him up.'\n\nWhat does 'make himself understood' mean?",
+    "choices": [
+      "To listen carefully to the ship's captain.",
+      "To communicate effectively so others could understand him.",
+      "To pretend he was not in danger.",
+      "To write a note and send it to the ship."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: If only I ________ sciences at school, but it's too late now.",
+    "choices": [
+      "study.",
+      "would study.",
+      "had studied.",
+      "am studying."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: There were some minor ________ at the beginning of the project, but in the end it went well.",
+    "choices": [
+      "flops.",
+      "setbacks.",
+      "masterstrokes.",
+      "blunders."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option for the letter of application: 'Not only do I have the relevant skills, ________ I am also passionate about the opportunity.'",
+    "choices": [
+      "so.",
+      "but.",
+      "and.",
+      "because."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: He ________ have told me he was coming today! I wasn't prepared at all.",
+    "choices": [
+      "should.",
+      "could.",
+      "needn't.",
+      "shouldn't."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'If you drove the route, you would see castles, beaches and amazing mountains.' This is a ________.",
+    "choices": [
+      "zero conditional.",
+      "first conditional.",
+      "second conditional.",
+      "third conditional."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: I wish my best friend ________ telling everyone my secrets.",
+    "choices": [
+      "stops.",
+      "would stop.",
+      "had stopped.",
+      "stopped."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the text and answer the question.\n\n'Anyone who takes part in a competitive sport knows how the natural human desire to win can bring out the worst in people. Survival of the fittest is the name of the game, and can turn perfectly normal people into unpleasant individuals.'\n\nWhat is the main idea of this paragraph?",
+    "choices": [
+      "Sport is always a positive activity for everyone.",
+      "Competitive sport can reveal negative traits in people.",
+      "Only professional athletes compete for victory.",
+      "Fair play is always practised in competitive sport."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: I'd like to take this ________ to thank you for all your help.",
+    "choices": [
+      "risk.",
+      "luck.",
+      "opportunity.",
+      "chance."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: As well as ________ interested in teaching, I also have some experience in this area.",
+    "choices": [
+      "be.",
+      "been.",
+      "being.",
+      "to be."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I didn't need to wait long for him because he arrived a couple of minutes later.' This means ________.",
+    "choices": [
+      "I waited and it was necessary.",
+      "I waited but it wasn't necessary.",
+      "Something was not necessary, and it might not have been done.",
+      "I did something but it was not a good idea."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: 'If I'd gone to university, I would ________ a better job.' This is a mixed conditional.",
+    "choices": [
+      "have had.",
+      "have.",
+      "had.",
+      "has."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'Having looked at both sides of the argument, I think …' This phrase is used to ________.",
+    "choices": [
+      "introduce the topic of the discussion.",
+      "give your personal opinion after considering both views.",
+      "explain a disadvantage only.",
+      "list the advantages of an idea."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'Safely back home with his family, Aldi considered his options. His family lived in some hardship and his job was, from his perspective, relatively lucrative at $134 a month. However, having found himself drifting three times since he started the job aged 16, he and his family decided it simply wasn't worth the risk.'\n\nWhat does 'lucrative' mean in this context?",
+    "choices": [
+      "Dangerous and difficult.",
+      "Paying well or profitable.",
+      "Lonely and isolated.",
+      "Common and ordinary."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 1,
+    "number": 38,
+    "question": "Fill in the blank: The idea did not succeed and was a complete ________.",
+    "choices": [
+      "masterstroke.",
+      "setback.",
+      "flop.",
+      "pay off."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'I couldn't have told you earlier.' This expresses that ________.",
+    "choices": [
+      "something was possible and I did it.",
+      "something was a possibility, but I didn't do it.",
+      "it was not a good idea to do something, but I did.",
+      "it was unnecessary to do something."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: I look forward ________ hearing from you. (closing phrase in a formal letter)",
+    "choices": [
+      "to.",
+      "for.",
+      "at.",
+      "in."
+    ],
+    "correct_answer": "a"
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: 'The thaob is made from ________ and is usually black.' (soft cloth produced by a silkworm)",
+    "choices": [
+      "dye",
+      "silk",
+      "thread",
+      "ivory"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Choose the correct word: 'They also sometimes use other materials such as metal or ________ in making the thaob.' (valuable jewels such as diamonds)",
+    "choices": [
+      "geometric patterns",
+      "heritage items",
+      "embroidery designs",
+      "precious stones"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "The word 'resilience' means ________.",
+    "choices": [
+      "the ability to keep going when life is difficult",
+      "a tendency to avoid difficult or stressful situations",
+      "the skill of organising your time and tasks efficiently",
+      "a method of solving problems by working with others"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "The word 'legislation' refers to ________.",
+    "choices": [
+      "the important ministers who control government policy",
+      "the first version of a proposed law before it is passed",
+      "the principles and ideas by which a country is governed",
+      "the process of making laws"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct preposition: 'I was ________ the impression that the concert started at 8, but it started at 7.'",
+    "choices": [
+      "at",
+      "in",
+      "by",
+      "under"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct sentence using 'at least':",
+    "choices": [
+      "You should watch at least a few episodes before deciding whether you like the series",
+      "She arrived at least late to the theatre without any excuse",
+      "At least he didn't finish the film before telling us what happened",
+      "The show was at least not finished when we arrived"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 7,
+    "question": "Which sentence correctly uses 'in fact'?",
+    "choices": [
+      "She was in fact surprised, so she didn't say anything",
+      "He agreed with everyone in fact that the film was terrible",
+      "In fact, spoilers can enhance our experience of a story",
+      "In fact they were under the impression to enjoy the show"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the past modal that best completes: 'I _____ attention in class yesterday — I missed the whole explanation.'",
+    "choices": [
+      "can't have been paying",
+      "must have been paying",
+      "would have been paying",
+      "might have been paying"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "Choose the past modal that best completes: 'These pointed wooden swords _____ for practice — they are not sharp enough to be used in real combat.'",
+    "choices": [
+      "must have been used",
+      "can't have been used",
+      "might have been used",
+      "would have been used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the past modal that best completes: 'These bronze coins _____ to pay soldiers — they were found near an ancient military site.'",
+    "choices": [
+      "can't have been used",
+      "might not have been used",
+      "may have been used",
+      "would have been used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Choose the past modal: 'He must have been wearing this golden mask during burial.' This sentence uses the past modal to express ________.",
+    "choices": [
+      "a negative deduction — the speaker is sure it was not true",
+      "a past possibility — the speaker is not sure",
+      "a positive deduction — the speaker is pretty sure it was true",
+      "an assumption based purely on guesswork"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct past modal to complete: 'The pots on the platform _____ in around 150 BCE, at about the same time as the city of Petra grew up.'",
+    "choices": [
+      "might have to be made",
+      "would have been making",
+      "will be made",
+      "would have been made"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct reduced form: 'As she had studied Mathematics, she was used to making complicated calculations.'",
+    "choices": [
+      "Studied Mathematics, she was used to making complicated calculations",
+      "She was used to making complicated calculations, studying Mathematics",
+      "Having studied Mathematics, she was used to making complicated calculations",
+      "Not having studied Mathematics, she was used to making complicated calculations"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct reduced form of: 'He was feeling nervous about giving his presentation, so he took deep calming breaths.'",
+    "choices": [
+      "Nervous about giving his presentation, he took deep calming breaths",
+      "Having felt nervous about his presentation, he took calming breaths",
+      "Felt nervous, he took deep calming breaths before the presentation",
+      "Feeling nervous about giving his presentation, he took deep calming breaths"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correctly reduced form: 'Cameron wanted to do better in life, so he learnt to act.'",
+    "choices": [
+      "Wanting to do better in life, Cameron learnt to act",
+      "Having wanted to do better in life, Cameron learnt to act",
+      "Cameron learnt to act, wanting to do better in life",
+      "Not wanting to do better in life, Cameron learnt to act"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct confused word: 'All's Well That Ends Well is a ________ comedy.' (standard, timeless, iconic)",
+    "choices": [
+      "historical",
+      "classic",
+      "classical",
+      "comical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct confused word: 'This book is full of ________ advice for drama students.' (extremely useful)",
+    "choices": [
+      "worthless",
+      "childlike",
+      "invaluable",
+      "insipid"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct confused word: 'The final week of rehearsals was ________ — the play was awful on opening night.' (no value)",
+    "choices": [
+      "worthless",
+      "invaluable",
+      "classic",
+      "lively"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct confused word: 'The actor is not very well known, but his ________ acting style wins the audience over completely.' (funny/related to comedy)",
+    "choices": [
+      "historical",
+      "comical",
+      "classical",
+      "comic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "The adjective 'jarring' describes something that ________.",
+    "choices": [
+      "blends perfectly with its surroundings",
+      "produces a pleasant and calming effect",
+      "is so beautiful it takes your breath away",
+      "is harsh, unpleasant, or difficult to accept"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "The adjective 'distinctive' used to describe a design means ________.",
+    "choices": [
+      "it has a unique quality that makes it easy to recognise",
+      "it is poorly made and lacks any identifiable style",
+      "it is produced using only the most expensive materials",
+      "it is very common and can be found in every market"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Which of the following is used to MAKE A FINAL DECISION in informal negotiation?",
+    "choices": [
+      "How would you feel about changing the venue?",
+      "I don't know if I would fancy that idea",
+      "Is everyone happy with that?",
+      "Isn't that a bit unprofessional?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is an example of asking for clarification in informal negotiation?",
+    "choices": [
+      "I could go along with that. Fair enough",
+      "I thought perhaps we could do something different",
+      "I'm happy with that proposal",
+      "What kind of thing were you thinking of?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "The expression 'I don't want to be awkward, but...' in negotiation is used to ________.",
+    "choices": [
+      "make a strong and direct suggestion about what should be done",
+      "politely introduce a disagreement or concern about a suggestion",
+      "accept a suggestion and express enthusiasm about it",
+      "make a final decision to bring the negotiation to a close"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "According to the excerpt about spoilers, what did the research suggest?",
+    "choices": [
+      "Spoilers always ruin a reading experience completely",
+      "Both groups had equally positive reading experiences",
+      "Spoilers can enhance our experience of a story",
+      "Reading introductions makes stories harder to follow"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "According to the excerpt, why do people enjoy re-reading classic books?",
+    "choices": [
+      "Because they want to find mistakes made by the author",
+      "Because they enjoy being surprised by the ending again",
+      "Because they want to discover if the story has changed",
+      "Because they are free to notice more detail without suspense"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Which countries share a similar constitutional monarchy system to Jordan?",
+    "choices": [
+      "Germany, France and Egypt",
+      "China, Russia and the United States",
+      "The United Kingdom, Spain and Japan",
+      "Saudi Arabia, Turkey and Morocco"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "The Museum of Parliamentary Life in Jordan was home to the National Assembly from ________.",
+    "choices": [
+      "1946 to 1952",
+      "1947 to 1978",
+      "1978 to 2000",
+      "1952 to 1978"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Districts and subdistricts in Jordan are headed by an official appointed by ________.",
+    "choices": [
+      "the Ministry of the Interior",
+      "the House of Deputies",
+      "the Prime Minister",
+      "the local governor"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the word 'queer' means ________.",
+    "choices": [
+      "beautiful and worth admiring for a long time",
+      "frightening and dangerous in cold weather",
+      "strange or unusual",
+      "familiar and comforting to the horse"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', which sound is NOT described?",
+    "choices": [
+      "the bells on the horse's harness",
+      "the easy wind",
+      "the downy flake",
+      "the church bells ringing in the village"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the rhyme scheme in the FIRST three verses follows the pattern ________.",
+    "choices": [
+      "all four lines rhyme with each other",
+      "lines 1, 3, and 4 rhyme; line 2 is different",
+      "lines 1, 2, and 4 rhyme; line 3 is different",
+      "lines 2, 3, and 4 rhyme; line 1 is different"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "The word 'rhyme' in the context of poetry means ________.",
+    "choices": [
+      "the use of the same letter at the beginning of two nearby words",
+      "the repetition of the same idea throughout the poem",
+      "the use of the same sound at the end of words in a poem",
+      "the division of a poem into equal sections or verses"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "To 'give your opinion and make connections between events', you could use the phrase ________.",
+    "choices": [
+      "The plot is quite complex and difficult to follow",
+      "The series tells the story of a young boy who grows up in poverty",
+      "I would argue that this is an excellent example of modern storytelling",
+      "The lead actor's performance draws in the viewer completely"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The phrase '... perfectly illustrates how/why...' is used to ________.",
+    "choices": [
+      "describe the plot of a story in a neutral and factual way",
+      "reject an idea or argue against a particular point of view",
+      "ask the reader a question to encourage them to think more deeply",
+      "connect the writer's opinion to evidence from the performance"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is an example of a 'feature-length' film?",
+    "choices": [
+      "A five-minute short comedy sketch",
+      "A 90-minute full cinema film",
+      "A single episode of a TV drama",
+      "A collection of short videos posted online"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "The word 'set' in the context of theatre or film refers to ________.",
+    "choices": [
+      "the written text spoken by the actors on stage",
+      "the scenery and physical environment where the action takes place",
+      "the list of actors who appear in all scenes of the production",
+      "the final scene where the main conflict is resolved"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "The word 'scene' in the context of theatre or film refers to ________.",
+    "choices": [
+      "a part of a play or film set in one particular place or time",
+      "a collection of episodes that form a complete TV series",
+      "the physical surroundings and background on the stage",
+      "a joke told by a comedian during a stand-up performance"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 40,
+    "question": "Which of the following is a synonym for 'performance' to avoid repetition?",
+    "choices": [
+      "plot",
+      "episode",
+      "acting",
+      "dialogue"
+    ],
+    "correct_answer": "c"
+  }
+]

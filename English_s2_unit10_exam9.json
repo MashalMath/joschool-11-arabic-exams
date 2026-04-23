@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "She didn't plan to reveal the ending; it happened ________ accident.",
+    "choices": [
+      "by",
+      "on",
+      "in",
+      "at"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "An object described as ________ has an empty space inside it.",
+    "choices": [
+      "solid",
+      "hollow",
+      "spherical",
+      "circular"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "I am sure the ancient comb was not made of plastic. The ancient comb ________ made of plastic.",
+    "choices": [
+      "must have been",
+      "might have been",
+      "would have been",
+      "can't have been"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "In Jordan's parliament, members of the Senate are appointed for ________ terms.",
+    "choices": [
+      "two-year",
+      "three-year",
+      "four-year",
+      "five-year"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "The word that means 'the storyline of a film, play or TV drama' is ________.",
+    "choices": [
+      "plot",
+      "cast",
+      "scene",
+      "sitcom"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Cameron starred in the film although he found it difficult to read. Which is the correct reduced form?",
+    "choices": [
+      "Not finding it difficult to read, Cameron starred in the film",
+      "Despite finding it difficult to read, Cameron starred in the film",
+      "Although finding it difficult to read, Cameron starred in the film",
+      "Having found it difficult to read, Cameron starred in the film"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "What does the text call newspaper articles or blogs that reveal plot information?",
+    "choices": [
+      "previews",
+      "critiques",
+      "summaries",
+      "spoilers"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "The actor's expression in that oversized hat made everyone laugh. Which word best describes the expression?",
+    "choices": [
+      "comic",
+      "historic",
+      "comical",
+      "classical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "A colour described as ________ is strong, bright and full of energy.",
+    "choices": [
+      "vibrant",
+      "subdued",
+      "jarring",
+      "insipid"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 10,
+    "question": "According to the text, resilience is built by ________.",
+    "choices": [
+      "avoiding all difficult situations",
+      "going through difficulties and overcoming them",
+      "never feeling upset or worried",
+      "asking others to solve your problems"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "He had watched the film several times, so he remembered every scene. Which is the correct reduced form?",
+    "choices": [
+      "He watched the film several times, remembering every scene",
+      "Watching the film several times, he remembered every scene",
+      "Not having watched the film several times, he remembered every scene",
+      "Having watched the film several times, he remembered every scene"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Which phrase is used to ACCEPT a suggestion informally when negotiating?",
+    "choices": [
+      "I don't know if I would fancy that",
+      "I don't want to be awkward, but...",
+      "I could go along with that",
+      "What kind of thing were you thinking of?"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' was published in ________.",
+    "choices": [
+      "1923",
+      "1930",
+      "1947",
+      "1952"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "In the thaob-making tradition, decorative designs may feature plants, birds or ________ shapes.",
+    "choices": [
+      "circular",
+      "geometric",
+      "hollow",
+      "spherical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "I assume the ancient platform was used for ceremonies. Which sentence correctly expresses this assumption?",
+    "choices": [
+      "The ancient platform might not have been used for ceremonies",
+      "The ancient platform can't have been used for ceremonies",
+      "The ancient platform must be used for ceremonies",
+      "The ancient platform would have been used for ceremonies"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "The Museum of Parliamentary Life was home to the National Assembly between ________ and 1978.",
+    "choices": [
+      "1946",
+      "1948",
+      "1947",
+      "1950"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "The prepositional phrase 'in all likelihood' means ________.",
+    "choices": [
+      "it is very probable",
+      "it is certain",
+      "it is impossible",
+      "it happened by accident"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "When a comedian stands on a stage alone and tells jokes, they are said to ________.",
+    "choices": [
+      "heckle somebody",
+      "do a stand-up routine",
+      "deliver the punchline",
+      "catch up on an episode"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "She had the highest score on the exam. She ________ studied very hard.",
+    "choices": [
+      "can't have",
+      "might not have",
+      "would not have",
+      "must have"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "In the phrase 'on their part', the word 'their' refers to ________.",
+    "choices": [
+      "the author",
+      "researchers",
+      "the people/readers",
+      "the characters"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "The Internet is an ________ source of information (extremely useful).",
+    "choices": [
+      "invaluable",
+      "worthless",
+      "insipid",
+      "subdued"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "The group of actors who perform together in a play or film is called the ________.",
+    "choices": [
+      "plot",
+      "cast",
+      "set",
+      "dialogue"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "As she walked into the room, she greeted everyone warmly. Which is the correct reduced clause?",
+    "choices": [
+      "She has walked into the room, greeting everyone warmly",
+      "Having walked into the room, she greet everyone warmly",
+      "Not walking into the room, she greeted everyone warmly",
+      "Walking into the room, she greeted everyone warmly"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Jordan's National Assembly upper house is known in Arabic as ________.",
+    "choices": [
+      "Majlis Al-Nuwaab",
+      "Majlis Al-Wuzara",
+      "Majlis Al-Umma",
+      "Majlis Al-Aayan"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "In 'Stopping by Woods on a Snowy Evening', each line of the poem contains ________ syllables.",
+    "choices": [
+      "8",
+      "6",
+      "10",
+      "12"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "A performance of the worst possible quality is described as ________.",
+    "choices": [
+      "exceptional",
+      "appalling",
+      "comical",
+      "lively"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "It's possible that the ancient vase was used for grain. Which sentence correctly expresses this possibility?",
+    "choices": [
+      "The ancient vase must have been used for grain",
+      "The ancient vase can't have been used for grain",
+      "The ancient vase would have been used for grain",
+      "The ancient vase might have been used for grain"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "Which phrase is used to MAKE A SUGGESTION informally?",
+    "choices": [
+      "Fair enough",
+      "I'm happy with that",
+      "Supposing we chose a different venue?",
+      "I could go along with that"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "A shape that is completely round like a ball is described as ________.",
+    "choices": [
+      "spherical",
+      "hollow",
+      "flat",
+      "pointed"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "When facing a difficult problem, resilient people ________.",
+    "choices": [
+      "wait for others to solve the problem for you",
+      "set small, manageable tasks to reach the goal",
+      "ignore the problem and hope it goes away",
+      "give up and start something new"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Obviously the doors were locked. Nobody ________ entered through the front door.",
+    "choices": [
+      "must have",
+      "might have",
+      "would have",
+      "can't have"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "In the spoiler study, the second group was given ________.",
+    "choices": [
+      "extra time to read",
+      "longer versions of the stories",
+      "brief introductions that subtly revealed the plots",
+      "questions to answer about the characters"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "She was ________ the impression that the film had already been released.",
+    "choices": [
+      "under",
+      "in",
+      "on",
+      "at"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "The word 'embroidery' in the context of the thaob refers to ________.",
+    "choices": [
+      "the fabric used to make the garment",
+      "decorative patterns sewn onto cloth",
+      "the natural dyes used to colour thread",
+      "the precious stones added to garments"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "I didn't know the answer, so I remained silent. Which is the correct reduced clause?",
+    "choices": [
+      "Known the answer, I remained silent",
+      "Having known the answer, I remained silent",
+      "Knowing the answer, I remained silent",
+      "Not knowing the answer, I remained silent"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "The phrase 'The darkest evening of the year' refers to ________.",
+    "choices": [
+      "a night when there was a power cut",
+      "a stormy night in autumn",
+      "the winter solstice",
+      "the night of a new moon"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "In Jordan's parliament, the House of Deputies currently has ________ elected members.",
+    "choices": [
+      "80",
+      "40",
+      "138",
+      "12"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "He acted in a very ________ way (disapproval typical of a child).",
+    "choices": [
+      "childlike",
+      "childish",
+      "lively",
+      "classic"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "To shout rude comments to interrupt a performer is to ________.",
+    "choices": [
+      "deliver",
+      "crack",
+      "catch up on",
+      "heckle"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "In an article review, which phrase is typically used in the CONCLUSION?",
+    "choices": [
+      "As the story unfolds...",
+      "The plot is quite complex...",
+      "Far from being...",
+      "One of the main themes is..."
+    ],
+    "correct_answer": "c"
+  }
+]

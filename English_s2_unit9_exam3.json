@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'His survival skills were keeping him alive, but he was starting to wonder if he would ever be rescued. He saw more than ten ships sail past him, but none of them seemed to have a clue that he was there.'\n\nWhat does the phrase 'have a clue' mean in this passage?",
+    "choices": [
+      "To have complete certainty about something.",
+      "To be unable to guess or know something.",
+      "To send a rescue signal.",
+      "To have a plan ready."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: The plan was a great ________. Everyone was surprised by how well it worked.",
+    "choices": [
+      "blunder.",
+      "setback.",
+      "flop.",
+      "masterstroke."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: After a hazardous journey, they were relieved to get home ________.",
+    "choices": [
+      "sooner or later.",
+      "pick and choose.",
+      "safe and sound.",
+      "more or less."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If plants don't get enough sunlight, they ________. (zero conditional)",
+    "choices": [
+      "died.",
+      "will die.",
+      "die.",
+      "would die."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'Think of the professional footballers who forget all about fair play in an attempt to win their side a penalty. Fortunately, stories demonstrating the better side of human nature sometimes hit the headlines.'\n\nWhat does 'hit the headlines' mean?",
+    "choices": [
+      "To be reported in the news and gain public attention.",
+      "To cause an accident during a sports event.",
+      "To be mentioned briefly in a book.",
+      "To win a competition prize."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: There's a slim ________ that you might succeed, so be prepared for rejection.",
+    "choices": [
+      "risk.",
+      "luck.",
+      "opportunity.",
+      "chance."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I wish I ________ that relationship when I had the chance. (past regret)",
+    "choices": [
+      "don't end.",
+      "won't end.",
+      "had hadn't ended.",
+      "didn't end."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'I needn't have worried because most people aren't judging anyone else.' This means ________.",
+    "choices": [
+      "I did something, but it was necessary.",
+      "I didn't do something, but it was necessary.",
+      "I did something, but it wasn't necessary.",
+      "Something was possible, but I didn't do it."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: If I'd invested a few weeks in finding out about my business idea, it would have really ________.",
+    "choices": [
+      "messed up.",
+      "got nowhere.",
+      "paid off.",
+      "blunder."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct third conditional: If he had stayed at home, he ________ the celebration.",
+    "choices": [
+      "would miss.",
+      "will have missed.",
+      "would have missed.",
+      "missed."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: You ________ have had breakfast; then you wouldn't be hungry now.",
+    "choices": [
+      "needn't.",
+      "should.",
+      "couldn't.",
+      "didn't need to."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'To try and take his mind off his situation he sang and read. However, the isolation took its toll on him. He admitted that he almost gave up hope, but the thought of seeing his parents again kept him going.'\n\nWhat does 'kept him going' mean?",
+    "choices": [
+      "Helped him continue despite the difficult situation.",
+      "Made him feel worse about his situation.",
+      "Helped him fall asleep every night.",
+      "Kept him moving in the right direction."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: You must try to be flexible. There should be some ________ in any friendship.",
+    "choices": [
+      "touch and go.",
+      "ups and downs.",
+      "give and take.",
+      "sooner or later."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If they hadn't made the North Coast 500, people ________ poorer. (mixed conditional)",
+    "choices": [
+      "are.",
+      "were.",
+      "would be.",
+      "would have been."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I shouldn't have listened to my friend.' This sentence means ________.",
+    "choices": [
+      "It was a good idea to listen, and I did it.",
+      "It was not a good idea to listen, but I did it.",
+      "It was not a good idea to listen, so I didn't do it.",
+      "Something was possible, but I didn't do it."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: Ziad is not very good at basketball. He wishes he ________ taller!",
+    "choices": [
+      "is.",
+      "were.",
+      "has been.",
+      "will be."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: A significant ________ of working online is that you can work from anywhere.",
+    "choices": [
+      "downside.",
+      "drawback.",
+      "disadvantage.",
+      "advantage."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: He took a digital presentation to the interview and they loved it. What a ________!",
+    "choices": [
+      "blunder.",
+      "setback.",
+      "masterstroke.",
+      "flop."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'Safely back home with his family, Aldi considered his options. His family lived in some hardship and his job was, from his perspective, relatively lucrative at $134 a month. However, having found himself drifting three times since he started the job aged 16, he and his family decided it simply wasn't worth the risk. From now on, he'll be staying firmly on dry land.'\n\nWhat does 'considered his options' mean?",
+    "choices": [
+      "He ignored the problem and moved on.",
+      "He thought carefully about what to do.",
+      "He asked his friends for help.",
+      "He decided to stay on the sea."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If the organisers ________ this, they would have done things differently.",
+    "choices": [
+      "realise.",
+      "have realised.",
+      "realised.",
+      "will realise."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: We ________ the whole weekend on that project; it was finished in a day.",
+    "choices": [
+      "needn't have spend.",
+      "needn't spent.",
+      "needn't have spent.",
+      "needn't spend."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Touch and go' means ________.",
+    "choices": [
+      "immediately without delay.",
+      "accepting or refusing something.",
+      "uncertain and possibly dangerous.",
+      "arriving safely."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I am writing to enter the competition. I ________ responsible for running sessions in English for young learners.",
+    "choices": [
+      "am.",
+      "was.",
+      "were.",
+      "have been."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'Although some people might disagree, I can't help feeling that all the examples mentioned reflect the basic goodness of the human being.'\n\nWhich function does this sentence perform?",
+    "choices": [
+      "Introducing both sides of the argument equally.",
+      "Summing up a personal opinion after considering other views.",
+      "Describing a disadvantage of sport.",
+      "Providing a fact about human behaviour."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: Ali did not pass his exams. If only he ________ harder last year.",
+    "choices": [
+      "studied.",
+      "had studied.",
+      "studying.",
+      "hadn't studied."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: Working in the travel business ________ to many young people who want to work as flight attendants.",
+    "choices": [
+      "applies.",
+      "appeals.",
+      "approaches.",
+      "approves."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'Ultimately, there are arguments on both sides.' This phrase is used when ________.",
+    "choices": [
+      "introducing the main argument.",
+      "acknowledging that each side has valid points before concluding.",
+      "describing only the advantages.",
+      "starting an application letter."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: Looking back, perhaps I ________ anything, but I did, so it's too late now.",
+    "choices": [
+      "shouldn't have said.",
+      "should not said.",
+      "shouldn't had said.",
+      "should have said."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'If he had looked at the map, he wouldn't be lost.' This is a ________.",
+    "choices": [
+      "first conditional.",
+      "third conditional.",
+      "zero conditional.",
+      "mixed conditional."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: I wish I ________ that job opportunity when it was offered to me. (past regret)",
+    "choices": [
+      "take.",
+      "had taken.",
+      "took.",
+      "was taking."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'The first two times he got off relatively lightly; he was drifting for a week, and the second time for two days. Those experiences sound terrifying enough, but on the third occasion he was alone in the ocean for 49 long days.'\n\nHow long was Aldi alone at sea on his third experience?",
+    "choices": [
+      "A week.",
+      "Two days.",
+      "49 days.",
+      "Two months."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: If you do sports, there's always a ________ of injury.",
+    "choices": [
+      "luck.",
+      "opportunity.",
+      "risk.",
+      "chance."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: Besides ________ physically fit, I also enjoy cycling.",
+    "choices": [
+      "be.",
+      "been.",
+      "being.",
+      "to be."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I wish I could stop eating crisps.' This means the speaker ________.",
+    "choices": [
+      "can stop eating crisps.",
+      "stopped eating crisps in the past.",
+      "cannot stop eating crisps.",
+      "will stop eating crisps soon."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If she ________ an interesting person, the journalists wouldn't have interviewed her. (mixed conditional)",
+    "choices": [
+      "isn't.",
+      "wasn't.",
+      "haven't been.",
+      "aren't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: When writing a formal letter and you don't know the recipient's name, you end with ________.",
+    "choices": [
+      "Yours sincerely.",
+      "Best regards.",
+      "Yours faithfully.",
+      "Kind wishes."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'I am writing to enter the competition to win the opportunity to teach English in Cambodia for six months. It has also been my lifelong dream to visit the Koh Rong Island.'\n\nWhat is the main purpose of this letter?",
+    "choices": [
+      "To apply for a paid teaching position in Cambodia.",
+      "To enter a competition to win a chance to teach English in Cambodia.",
+      "To request information about a trip to Cambodia.",
+      "To complain about a competition entry."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: Unless you ________, you're going to be late for the lesson.",
+    "choices": [
+      "run.",
+      "don't run.",
+      "will run.",
+      "ran."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'If only Alia knew how I felt about it.' means Alia ________ know how the speaker feels.",
+    "choices": [
+      "does.",
+      "doesn't.",
+      "did.",
+      "didn't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: ________ in addition to having experience, I also have relevant qualifications. (formal linking in a letter)",
+    "choices": [
+      "Moreover,",
+      "However,",
+      "Although,",
+      "Therefore,"
+    ],
+    "correct_answer": "a"
+  }
+]

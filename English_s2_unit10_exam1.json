@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The word 'familiarity' means ________.",
+    "choices": [
+      "a good knowledge of a particular subject",
+      "a method of testing students on new material",
+      "a feeling of excitement about upcoming events",
+      "a strong dislike of something unfamiliar"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Something described as 'thought-provoking' ________.",
+    "choices": [
+      "helps you memorise facts quickly and easily",
+      "makes you think seriously about a particular subject",
+      "describes something that is entertaining but meaningless",
+      "refers to something that is too difficult to understand"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "The word 'silk' refers to ________.",
+    "choices": [
+      "a type of dye used to change the colour of fabric",
+      "long, thin strings used in weaving and embroidery",
+      "a soft cloth made from something produced by a silkworm",
+      "valuable jewels such as diamonds used in decoration"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "The word 'threads' refers to ________.",
+    "choices": [
+      "things used to change the colour of clothes",
+      "traditional beliefs passed down through generations",
+      "patterns made from coloured dye on cloth",
+      "long, thin strings of material"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "The word 'geometric' describes something that ________.",
+    "choices": [
+      "has regular lines or shapes",
+      "is made from precious natural materials",
+      "represents a traditional cultural practice",
+      "refers to embroidery found only in the Arab world"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "If someone is 'in suspense', they feel ________.",
+    "choices": [
+      "completely bored and disinterested",
+      "excited and anxious about what will happen next",
+      "angry about the result of something",
+      "satisfied and relieved after an event"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Choose the correct preposition: 'She revealed the ending _____ accident; she didn't mean to.'",
+    "choices": [
+      "on",
+      "in",
+      "by",
+      "at"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "The prepositional phrase 'at least' means ________.",
+    "choices": [
+      "more than expected",
+      "almost certainly",
+      "probably not",
+      "not less than"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "The phrase 'under the impression' means ________.",
+    "choices": [
+      "thought / believed",
+      "fully convinced and certain",
+      "surprised by something new",
+      "worried about an outcome"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 10,
+    "question": "The phrase 'in all likelihood' means ________.",
+    "choices": [
+      "it is completely impossible",
+      "it is very probable",
+      "it is certainly not going to happen",
+      "it is difficult to decide"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "The phrase 'in fact' is used to mean ________.",
+    "choices": [
+      "in addition to what was said before",
+      "in contrast with what was expected",
+      "to tell the truth / in reality",
+      "for the reason that something happened"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "The phrase 'on purpose' means ________.",
+    "choices": [
+      "without thinking about it carefully",
+      "by accident / unintentionally",
+      "because of pressure from others",
+      "planned to do / intentionally"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "'It is possible that the map was drawn by Egyptian sailors in the past.' Choose the correct past modal form.",
+    "choices": [
+      "The map might have been drawn by Egyptian sailors",
+      "The map must have been drawn by Egyptian sailors",
+      "The map can't have been drawn by Egyptian sailors",
+      "The map would be drawn by Egyptian sailors"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 14,
+    "question": "'The jewellery is solid gold — I am certain it was expensive.' Choose the correct past modal form.",
+    "choices": [
+      "The jewellery can't have been expensive",
+      "The jewellery must have been expensive",
+      "The jewellery might not have been expensive",
+      "The jewellery would have been cheap"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "'I am certain that these enormous footprints did not belong to any human.' Choose the correct past modal form.",
+    "choices": [
+      "These footprints would have belonged to a human",
+      "These footprints might have belonged to a human",
+      "These footprints can't have belonged to a human",
+      "These footprints must have belonged to a human"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "'I assume the owner used this ancient tool to navigate across the ocean.' Choose the correct past modal form.",
+    "choices": [
+      "The owner might have used it to navigate",
+      "The owner can't have used it to navigate",
+      "The owner must have used it to navigate",
+      "The owner would have used it to navigate"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "'I am not sure whether Ali broke the glass or not.' Choose the correct past modal form to rewrite this sentence.",
+    "choices": [
+      "Ali might have broken the glass",
+      "Ali must have broken the glass",
+      "Ali can't have broken the glass",
+      "Ali would have broken the glass"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Sara seemed very tired today. I think she was revising until late at night. Choose the correct past modal form.",
+    "choices": [
+      "Sara can't have been revising until late",
+      "Sara must have been revising until late",
+      "Sara might not have been revising",
+      "Sara would be revising until late"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct reduced form of: 'As she walked into the room, she smiled warmly.'",
+    "choices": [
+      "Having walked into the room, she smiled warmly",
+      "She was walked into the room, smiling warmly",
+      "Walking into the room, she smiled warmly",
+      "She walked into the room, having smiled warmly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "We use 'Having + past participle' in a reduced adverbial clause in order to ________.",
+    "choices": [
+      "show that two actions happened at exactly the same time",
+      "replace a passive verb form in formal writing",
+      "describe a result that follows naturally from an action",
+      "emphasise that one action happened before another"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct reduced form of: 'I didn't realise what time it was, so I missed the train.'",
+    "choices": [
+      "Not realising what time it was, I missed the train",
+      "Having realised not what time it was, I missed the train",
+      "I missed the train, realising what time it was",
+      "Without realising what time I was, I missed the train"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "In reduced adverbial clauses, 'despite + verb-ing' is used to replace ________.",
+    "choices": [
+      "because + subject + verb",
+      "although + subject + verb",
+      "while + subject + verb",
+      "as soon as + subject + verb"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "'The ________ novel is set in medieval Europe and tells the story of a famous knight.' (set in the past)",
+    "choices": [
+      "historic",
+      "classic",
+      "historical",
+      "comical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "'The signing of the peace treaty was a ________ occasion that changed the course of the nation.' (important in history)",
+    "choices": [
+      "classical",
+      "comical",
+      "tasteful",
+      "historic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "The word 'comic' is used ________ a noun to describe things which are meant to be funny.",
+    "choices": [
+      "before",
+      "after",
+      "instead of",
+      "alongside"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 26,
+    "question": "'She has a ________ way of looking at things that reminds everyone of her innocence.' (positive quality typical of a child)",
+    "choices": [
+      "childish",
+      "childlike",
+      "classic",
+      "comical"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "'The Internet is an ________ source of information for researchers and students.' (extremely useful)",
+    "choices": [
+      "worthless",
+      "insipid",
+      "invaluable",
+      "subdued"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Among these adjectives used to describe art and colour, which one is NEGATIVE?",
+    "choices": [
+      "vibrant",
+      "distinctive",
+      "rich",
+      "jarring"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "The word 'plot' refers to ________.",
+    "choices": [
+      "the storyline of a play, film, TV drama, or book",
+      "the group of actors taking part in a performance",
+      "the final funny line at the end of a joke",
+      "the location where a performance takes place"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 30,
+    "question": "The 'punchline' of a joke is ________.",
+    "choices": [
+      "the opening line that introduces the subject of the joke",
+      "the final line of the joke that makes people laugh",
+      "the part where the comedian describes a funny situation",
+      "a rude comment made by a member of the audience"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "A 'sitcom' is ________.",
+    "choices": [
+      "a live comedy performance done on a stage alone",
+      "a TV programme that makes fun of public figures",
+      "a genre of comedy series broadcast on TV featuring the same actors",
+      "a short funny video shared on social media platforms"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "When comedians tell a series of jokes on stage, we say they are ________.",
+    "choices": [
+      "delivering the punchline",
+      "heckling the audience",
+      "playing the lead role",
+      "doing a stand-up routine"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "'Her performance was truly ________; she was far better than anyone else in the entire cast.' Choose the correct evaluative adjective.",
+    "choices": [
+      "exceptional",
+      "unconvincing",
+      "offensive",
+      "cheesy"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 34,
+    "question": "Read the following excerpt: 'Some people are under the impression that it's because we are in suspense about what is going to happen, so someone actually telling you the plot would completely spoil the experience. This is why we refer to a newspaper article or blog with that kind of information as a spoiler.' According to the text, a 'spoiler' is ________.",
+    "choices": [
+      "a review that only praises a book or film without any criticism",
+      "a newspaper article or blog that reveals information about a plot",
+      "a type of fiction that intentionally has no clear ending",
+      "a reader who dislikes reading about unexpected events"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Read the following excerpt: 'In a study, participants were divided into two groups and each group was given the same stories to read. In addition, the second group were also given brief introductions which subtly spoilt the plots. You might assume that the first group found the stories more engaging, but surprisingly, it was the second group who claimed the greatest reading satisfaction.' What was the surprising result of this study?",
+    "choices": [
+      "Both groups found the stories equally enjoyable to read",
+      "The group without spoilers reported the highest satisfaction",
+      "The group that received spoilers reported the greatest reading satisfaction",
+      "Neither group was able to finish reading the stories provided"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "Read the following excerpt: 'The research carried out showed that the kind of people who are keen to avoid spoilers by accident tend to have a particular personality type. They are very emotionally involved with what they are reading.' According to this text, people who avoid spoilers tend to be ________.",
+    "choices": [
+      "less intelligent than people who enjoy spoilers",
+      "not interested in the characters or the plot",
+      "very careful about what they read in general",
+      "very emotionally involved with what they are reading"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "According to information about Jordan's government, the Prime Minister is ________ by the King.",
+    "choices": [
+      "appointed",
+      "elected",
+      "nominated by the senate",
+      "chosen by public vote"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "In Jordan's National Assembly, the Senate (Majlis Al-Aayan) serves as the ________ house.",
+    "choices": [
+      "lower",
+      "upper",
+      "elected",
+      "temporary"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "According to the article on resilience, 'resilience is something that people build by ________.'",
+    "choices": [
+      "avoiding all stressful and challenging situations in life",
+      "relying entirely on others for support and guidance",
+      "going through difficulties and coming out the other side",
+      "ignoring problems and focusing only on positive emotions"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' was written by ________ and published in 1923.",
+    "choices": [
+      "William Shakespeare",
+      "T.S. Eliot",
+      "Emily Dickinson",
+      "Robert Frost"
+    ],
+    "correct_answer": "d"
+  }
+]

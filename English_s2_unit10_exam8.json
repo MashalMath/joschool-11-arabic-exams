@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following sentences uses 'at least' correctly?",
+    "choices": [
+      "You should watch at least ten episodes of the series each day",
+      "News sites are careful to at least signal that there are spoilers in their reviews",
+      "She was at least surprised when she read the ending of the book",
+      "At least the actor did not want to perform in the play"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The phrase 'in all likelihood' can be replaced by ________.",
+    "choices": [
+      "definitely / with absolute certainty",
+      "unfortunately / sadly",
+      "most probably / it is very likely that",
+      "sometimes / on certain occasions"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "What do most people wrongly believe about spoilers, according to the research excerpt?",
+    "choices": [
+      "That spoilers improve enjoyment from the very beginning of a story",
+      "That spoilers have no effect at all on any reader's enjoyment",
+      "That spoilers have a positive effect on how we read stories",
+      "That spoilers only affect the reader's reaction to the end of the story"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct past modal: 'I think we can assume that the artefact was very expensive.' Rewrite using a past modal.",
+    "choices": [
+      "The artefact might have been very expensive",
+      "The artefact can't have been very expensive",
+      "The artefact must have been very expensive",
+      "The artefact would have been very expensive"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct past modal to complete: 'The archaeologists don't know what the platform was used for, but think it _____ important because it was so big.'",
+    "choices": [
+      "must have been",
+      "can't have been",
+      "might not have been",
+      "wouldn't have been"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct past modal to complete: 'They think the platform at Petra _____ used as a kind of stage.'",
+    "choices": [
+      "can't have being",
+      "might have been",
+      "must have being",
+      "would have be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 7,
+    "question": "Choose the correct past modal: 'I am sure that it wasn't from this country.' Rewrite using a past modal.",
+    "choices": [
+      "It must have been from this country",
+      "It might have been from this country",
+      "It can't have been from this country",
+      "It would have been from this country"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct past modal: 'I'm sure it was even more beautiful when it was new.'",
+    "choices": [
+      "It might not have been beautiful when it was new",
+      "It can't have been more beautiful when it was new",
+      "It would not have been more beautiful when it was new",
+      "It must have been even more beautiful when it was new"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct reduced form: 'Because she thought her driving lesson started at 4 pm, she had to wait an hour.'",
+    "choices": [
+      "Not thinking her driving lesson started at 4 pm, she had to wait an hour",
+      "Having thought her driving lesson started at 4 pm, she had to wait an hour",
+      "She thought her driving lesson started at 4 pm, waiting an hour",
+      "Thought her driving lesson started at 4 pm, she had to wait an hour"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct reduced form: 'I had met her before, so I didn't bother introducing myself properly.'",
+    "choices": [
+      "Not having met her before, I didn't bother introducing myself properly",
+      "Meeting her before, I didn't bother introducing myself properly",
+      "Having met her before, I didn't bother introducing myself properly",
+      "Met her before, I didn't bother introducing myself properly"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "What is the function of the participle clause in: '...leaving me amazed that he was so good'?",
+    "choices": [
+      "Showing that two things happened in sequence",
+      "Showing a negative condition",
+      "Emphasising that one action came before another",
+      "Showing the result of an action"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct word: 'This lively new play is a ________ for fans of modern theatre.' (something you must not miss)",
+    "choices": [
+      "scene",
+      "must-watch",
+      "punchline",
+      "dialogue"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "The word 'humour' in the context of comedy and theatre refers to ________.",
+    "choices": [
+      "the written script that actors use during rehearsals",
+      "the physical environment where the performance takes place",
+      "the quality of being funny or amusing",
+      "the final scene where all conflicts are resolved"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct word: 'The ________ is at the end of a joke and usually makes people laugh.'",
+    "choices": [
+      "heckle",
+      "cast",
+      "routine",
+      "punchline"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "The phrase 'catch up on the latest episode' means ________.",
+    "choices": [
+      "to record a TV programme and watch it later",
+      "to watch the most recent episode you have missed",
+      "to watch a series from the very beginning",
+      "to share your opinion about a programme with friends"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct confused word: 'She has a ________ way of looking at the world that reminds us of childhood joy.'",
+    "choices": [
+      "childlike",
+      "childish",
+      "comical",
+      "insipid"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct confused word: 'I found the director's reaction to the criticism extremely ________.' (disapproving)",
+    "choices": [
+      "historical",
+      "tasteful",
+      "childlike",
+      "childish"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct confused word: 'Are you a ________ actor?' (related to comedy/intended to be funny)",
+    "choices": [
+      "comical",
+      "historical",
+      "comic",
+      "classic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct confused word: 'He looked ________ in that enormous hat — we couldn't stop laughing.'",
+    "choices": [
+      "historic",
+      "tasteful",
+      "alive",
+      "comical"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "Which of the following is a POSITIVE adjective used to describe art or colour?",
+    "choices": [
+      "insipid",
+      "clashing",
+      "subdued",
+      "rich"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "Which of the following is a NEGATIVE adjective used to describe art or colour?",
+    "choices": [
+      "subtle",
+      "clashing",
+      "rich",
+      "distinctive"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "The phrase 'Isn't that a bit unprofessional?' in informal negotiation is used to ________.",
+    "choices": [
+      "make a suggestion about what should be done",
+      "accept a proposal without any further discussion",
+      "ask for clarification or challenge a suggestion",
+      "make a final decision and close the negotiation"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "The phrase 'I'm happy with that' in informal negotiation shows that the speaker is ________.",
+    "choices": [
+      "not accepting the proposal because of a concern",
+      "unsure about whether the proposal is a good idea",
+      "asking for more time to think about the suggestion",
+      "fully accepting the proposal that has been made"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "According to information about Jordan's parliament, the Jordanian National Assembly is also called ________.",
+    "choices": [
+      "Majlis Al-Umma",
+      "Majlis Al-Nuwaab",
+      "Majlis Al-Aayan",
+      "Majlis Al-Wuzara"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "If a new law is refused by the King in Jordan, it ________.",
+    "choices": [
+      "immediately becomes law without any further discussion",
+      "is cancelled permanently and cannot be proposed again",
+      "goes back to the House of Deputies to be debated again",
+      "is submitted to the people for a direct vote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "According to information about Jordan's parliament, Senators ________.",
+    "choices": [
+      "are elected by the public in a national election",
+      "must be over 40 and have worked in important government positions",
+      "hold their position for six years before being re-elected",
+      "are chosen by the House of Deputies"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "According to information about world parliaments, which country has the smallest parliament (14 members)?",
+    "choices": [
+      "Iceland",
+      "Japan",
+      "China",
+      "Micronesia"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "According to the resilience article, building resilience is described as being 'about changing ________.'",
+    "choices": [
+      "your job or career to find something less stressful",
+      "how you look at the world",
+      "the people around you to find more supportive friends",
+      "your daily habits to avoid all difficult situations"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "According to the resilience article, which of the following is a key feature of a resilient person?",
+    "choices": [
+      "They never experience stress or personal difficulties",
+      "They prefer to work alone without asking others for help",
+      "They are willing to ask for support or help from others",
+      "They avoid challenges that seem too difficult to overcome"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Resilient people are more likely to be chosen in job interviews because they are ________.",
+    "choices": [
+      "more determined, more tolerant, and more likely to take sensible risks",
+      "better at following instructions and never questioning decisions",
+      "more willing to accept low salaries and poor working conditions",
+      "less likely to share their problems with managers or colleagues"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 31,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the speaker watching the snow shows he ________.",
+    "choices": [
+      "is the owner of the woods and is checking on his property",
+      "is a forest ranger who patrols the area every evening",
+      "is stopping to watch the beauty of the snow falling",
+      "is searching for the farmhouse where he plans to sleep"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "The line 'Between the woods and frozen lake, the darkest evening of the year' tells us ________.",
+    "choices": [
+      "the speaker is travelling in the middle of spring",
+      "the lake froze suddenly as the speaker was watching",
+      "the speaker is standing between a forest and a frozen lake on the darkest night",
+      "the speaker arrived at the lake after a long and exhausting journey"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "What is the ONLY other sound apart from the harness bells described in the poem?",
+    "choices": [
+      "The sound of wolves howling in the deep forest",
+      "The sound of the horse's hooves on the icy road",
+      "The easy wind and the downy flake",
+      "The sound of the village bells ringing in the distance"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Which of the following correctly describes the FINAL verse of the poem?",
+    "choices": [
+      "All four lines rhyme with each other, and the last line repeats the third line",
+      "Only the first and second lines rhyme in the final verse",
+      "The rhyme scheme is ABAB like a standard ballad",
+      "None of the lines in the final verse rhyme with each other"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 35,
+    "question": "In the context of avoiding repetition in writing, which word can be used instead of 'series'?",
+    "choices": [
+      "plot",
+      "cast",
+      "programme",
+      "scene"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "To describe a lead actor's performance you could say ________.",
+    "choices": [
+      "'The plot is quite complex and difficult to follow at times'",
+      "'The series is set in a small fishing village by the sea'",
+      "'The show is an excellent example of modern storytelling techniques'",
+      "'...gives a mesmerising/convincing portrait of a person who...'"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "In the context of avoiding repetition, which of the following is a synonym for 'brilliant'?",
+    "choices": [
+      "breathtaking",
+      "unconvincing",
+      "offensive",
+      "cheesy"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "In the Watch Out section on avoiding repetition, we can replace a noun or noun phrase with ________.",
+    "choices": [
+      "a preposition",
+      "a verb in the past tense",
+      "one, ones, both, some, or a pronoun",
+      "an adjective that describes the noun"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "In avoiding repetition, 'such' can be used ________ to substitute for a clause.",
+    "choices": [
+      "only after a verb in the passive form",
+      "only at the end of a sentence",
+      "before 'a' or 'an', or after 'the first', 'the only'",
+      "only when the noun has already been mentioned twice"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "In speech, which sound is often omitted in 'might have' → 'might've'?",
+    "choices": [
+      "the /t/ sound in 'might'",
+      "the /m/ sound at the beginning of 'might'",
+      "the /h/ sound in 'have'",
+      "the final /v/ sound in 'have'"
+    ],
+    "correct_answer": "c"
+  }
+]

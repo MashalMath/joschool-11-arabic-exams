@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'From when he was 16 years old, Aldi had spent weeks at a time working on a fishing trap, known as a rompong, a kind of hut which floats in the middle of the sea, but is attached to the sea bed with a rope. Every night he would light lamps to attract the fish to his nets. It was a lonely kind of life.'\n\nWhat is the meaning of 'sea bed' in this passage?",
+    "choices": [
+      "A bed used by sailors on ships.",
+      "The land at the bottom of the sea.",
+      "A resting area near the coast.",
+      "A type of floating platform."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: I had what I thought was a really good idea — a ________.",
+    "choices": [
+      "blunder.",
+      "setback.",
+      "flop.",
+      "masterstroke."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: They wanted me to sign up for the course ________, with no time at all to consider.",
+    "choices": [
+      "safe and sound.",
+      "sooner or later.",
+      "there and then.",
+      "more or less."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank using the zero conditional: Water ________ to ice if the temperature falls below zero.",
+    "choices": [
+      "turn.",
+      "turned.",
+      "turns.",
+      "will turn."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'If his brother hadn't helped Jonny, he probably wouldn't have finished the race. Although on the other hand, he might not be so well known today. In fact, if we really want to find them, there are lots of stories of sporting heroism.'\n\nWhat does the writer suggest about Alistair's help?",
+    "choices": [
+      "It prevented Jonny from winning first place.",
+      "It may have both saved Jonny and contributed to his fame.",
+      "It caused controversy in the sporting world.",
+      "It had no effect on Jonny's final position."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: As soon as I heard about the trip, I grabbed the ________ to go on it.",
+    "choices": [
+      "risk.",
+      "luck.",
+      "chance.",
+      "threat."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: If only I ________ so tired at the end of every day. (present regret)",
+    "choices": [
+      "doesn't feel.",
+      "didn't feel.",
+      "had felt.",
+      "would feel."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'You should have had breakfast; then you wouldn't be hungry.' This sentence means ________.",
+    "choices": [
+      "It was a good idea to have breakfast, and you did it.",
+      "It was a good idea to have breakfast, but you didn't do it.",
+      "It was unnecessary to have breakfast, but you did it.",
+      "Something was possible, but you didn't do it."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: It was a huge ________ and I didn't get the marks I needed to go to that university.",
+    "choices": [
+      "masterstroke.",
+      "flourish.",
+      "blunder.",
+      "pay off."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct second conditional: If she ________ the money, she would leave.",
+    "choices": [
+      "takes.",
+      "took.",
+      "had taken.",
+      "will take."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: 'I ________ have read that book in such a hurry; I had plenty of time.' means I read it but it was unnecessary.",
+    "choices": [
+      "should.",
+      "could.",
+      "needn't.",
+      "didn't need to."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'He saw more than ten ships sail past him, but none of them seemed to have a clue that he was there. After a few weeks, he thought he had at last got his lucky break when he managed to talk to the captain of an Indonesian ship by walkie-talkie.'\n\nWhat does 'have a clue' mean in this context?",
+    "choices": [
+      "To give directions to someone.",
+      "To know or guess something.",
+      "To make a decision quickly.",
+      "To send a signal by radio."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: I can't sell it for less than 100 JOD — ________.",
+    "choices": [
+      "safe and sound.",
+      "give and take.",
+      "take it or leave it.",
+      "ups and downs."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If I ________ what to do, I wouldn't have asked you. (mixed conditional: present situation affecting past)",
+    "choices": [
+      "know.",
+      "knew.",
+      "had known.",
+      "will know."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'I think I could have got a better job if I had a degree.' This sentence means ________.",
+    "choices": [
+      "Something was a possibility, and I did it.",
+      "It was a good idea, but I didn't do it.",
+      "Something was a possibility, but I didn't do it.",
+      "I did something, but it was unnecessary."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: I wish you ________ up your clothes from the floor! (complaining about someone's behaviour)",
+    "choices": [
+      "pick.",
+      "picked.",
+      "would pick.",
+      "had picked."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: One ________ of this plan is that it costs too much money.",
+    "choices": [
+      "benefit of.",
+      "advantage of.",
+      "argument for.",
+      "downside of."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: In the end, I ________ there and got a great degree.",
+    "choices": [
+      "paid off.",
+      "flourished.",
+      "got nowhere.",
+      "messed up."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'He took it for granted that sooner or later his boss would come and rescue him, as he had done before. Aldi had a week's supply of food. He was sure it would all be fine.'\n\nWhat does 'took it for granted' mean?",
+    "choices": [
+      "He was very worried about the situation.",
+      "He believed something without even thinking about it.",
+      "He worked hard to prepare for the worst.",
+      "He decided to take action immediately."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If I'd won that competition, I ________ richer than I am now.",
+    "choices": [
+      "will be.",
+      "am.",
+      "would be.",
+      "would have been."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: ________ you read the travel pages, you'll probably hear about a new tourist attraction.",
+    "choices": [
+      "When.",
+      "Unless.",
+      "Will.",
+      "Had."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'More or less' means ________.",
+    "choices": [
+      "at some point in the future.",
+      "immediately.",
+      "about / almost.",
+      "accept it or don't."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: Please find my CV ________, for further details of my qualifications and experience.",
+    "choices": [
+      "enclosed.",
+      "attached to.",
+      "including.",
+      "sending."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'Although some people might disagree, I can't help feeling that all the examples mentioned reflect the basic goodness of the human being.'\n\nThis sentence is an example of ________.",
+    "choices": [
+      "Explaining a disadvantage.",
+      "Giving a personal opinion after considering other views.",
+      "Introducing the topic for the first time.",
+      "Describing the background of the events."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: I wish I ________ the dentist yesterday.",
+    "choices": [
+      "met.",
+      "meet.",
+      "had met.",
+      "would meet."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: The business was a complete ________ and closed after just two months.",
+    "choices": [
+      "masterstroke.",
+      "setback.",
+      "flourish.",
+      "flop."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'Furthermore, I do have some experience of teaching English.' This is an example of ________.",
+    "choices": [
+      "A closing phrase.",
+      "A greeting in a formal letter.",
+      "A formal linking phrase to add ideas.",
+      "An opening paragraph."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: She ________ have listened to her friend's bad advice. Now she regrets it.",
+    "choices": [
+      "needn't.",
+      "couldn't.",
+      "shouldn't.",
+      "mustn't."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional type: 'If a tourist attraction is popular, it can be very good news for the organisers.' This is a ________.",
+    "choices": [
+      "first conditional.",
+      "second conditional.",
+      "zero conditional.",
+      "third conditional."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: If only I ________ with him now. (present regret)",
+    "choices": [
+      "am.",
+      "were.",
+      "had been.",
+      "would be."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'We can read about rugby players who stop playing to help an injured fellow player, of golfers who admit to doing something wrong even if no one saw, and of Formula One racing drivers stopping to help others who have had a serious accident.'\n\nWhat do all these examples have in common?",
+    "choices": [
+      "They all involve winning competitions.",
+      "They all show people putting others first over personal gain.",
+      "They all involve accidents during sports events.",
+      "They are all examples of rule-breaking in sport."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: It was pure ________ that we met. We had no plans to see each other.",
+    "choices": [
+      "risk.",
+      "opportunity.",
+      "chance.",
+      "luck."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: Not only ________ I fluent in English, but I also speak some Spanish.",
+    "choices": [
+      "do.",
+      "am.",
+      "is.",
+      "was."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'I didn't do it because I thought it wasn't important.' This means ________.",
+    "choices": [
+      "I did something because I thought it was important.",
+      "I didn't do something because I thought it was important.",
+      "I didn't do something because I thought it wasn't important.",
+      "I did something even though it wasn't necessary."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If he had learnt to swim, he ________ in the sea now.",
+    "choices": [
+      "will be.",
+      "would be.",
+      "would have been.",
+      "had been."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'On first consideration, this seems …' This phrase is used when ________.",
+    "choices": [
+      "finishing the discussion.",
+      "introducing an initial impression before giving a fuller view.",
+      "describing a disadvantage.",
+      "writing the closing paragraph."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'But after a week his supplies ran out. He caught fish and used parts of his wooden hut to make a fire and cook the fish.'\n\nWhat does 'supplies ran out' mean?",
+    "choices": [
+      "His food and water arrived.",
+      "His food and water were all used up.",
+      "His boat was running fast.",
+      "His tools were damaged."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: If she ________ the letters, we would receive them. (second conditional)",
+    "choices": [
+      "sends.",
+      "sent.",
+      "had sent.",
+      "will send."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'Well, I think we have no ________ but to break the window.'",
+    "choices": [
+      "clue.",
+      "chance.",
+      "choice.",
+      "opportunity."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: If you require any further information, please do not hesitate ________ contact me.",
+    "choices": [
+      "for.",
+      "to.",
+      "at.",
+      "in."
+    ],
+    "correct_answer": "b"
+  }
+]

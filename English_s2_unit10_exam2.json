@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The term 'precious stones' refers to ________.",
+    "choices": [
+      "traditional patterns sewn into cloth using coloured thread",
+      "valuable jewels such as diamonds used in decoration",
+      "long, thin strings used in weaving and embroidery",
+      "soft cloth produced naturally by a silkworm"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "The word 'dyes' refers to ________.",
+    "choices": [
+      "traditional designs made on fabric using thin threads",
+      "valuable jewels worn as accessories",
+      "things you can use to change the colour of clothes",
+      "patterns that have regular geometric shapes"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "The word 'heritage' refers to ________.",
+    "choices": [
+      "a type of embroidery design used only in celebration events",
+      "the process of making cloth from natural materials",
+      "a method of producing silk using traditional tools",
+      "traditional beliefs and ideas that have been in a society for a long time"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 4,
+    "question": "The word 'embroidery' refers to ________.",
+    "choices": [
+      "decorative designs sewn onto fabric using thread",
+      "a type of traditional music played at cultural events",
+      "the process of weaving silk using natural dyes",
+      "a pattern printed onto fabric using a special machine"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "If an object is described as 'hollow', it means it is ________.",
+    "choices": [
+      "very hard and impossible to break under pressure",
+      "empty inside, not solid",
+      "shaped like a perfect circle or sphere",
+      "covered in bright and vibrant patterns"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct preposition: 'She enjoyed the special effects. _____ addition, she loved the music.'",
+    "choices": [
+      "On",
+      "At",
+      "In",
+      "By"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "The phrase 'on her part' is closest in meaning to ________.",
+    "choices": [
+      "in her opinion about the matter",
+      "as far as the story is concerned",
+      "from the audience's perspective",
+      "done by her / her responsibility"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct phrase to complete the sentence: 'She has been practising every day, so _____, she will pass the audition.'",
+    "choices": [
+      "in all likelihood",
+      "at least",
+      "under the impression",
+      "by accident"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "'Obviously, navigators in ancient times were unable to use GPS.' Choose the correct past modal form.",
+    "choices": [
+      "Navigators must have used GPS in ancient times",
+      "Navigators couldn't have used GPS in ancient times",
+      "Navigators might have used GPS in ancient times",
+      "Navigators would have used GPS in ancient times"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "'I assume there would have been much simpler ways of making cloth in the past.' What does this modal form express?",
+    "choices": [
+      "a negative deduction about what happened in the past",
+      "a certainty that something definitely happened",
+      "an assumption or logical conclusion about the past",
+      "an impossibility — something that could not have occurred"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct past modal to complete: 'The ivory comb _____ for royalty in the past — it was far too elaborate for ordinary people.'",
+    "choices": [
+      "might be made",
+      "can't have been made",
+      "could being made",
+      "must have been made"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 12,
+    "question": "'I'm pretty sure this artefact was very old.' Choose the correct past modal to rewrite this sentence.",
+    "choices": [
+      "This artefact must have been very old",
+      "This artefact might not have been very old",
+      "This artefact can't have been very old",
+      "This artefact would be very old"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct reduced form of: 'I left the cinema, and I wanted to know more about the main actor.'",
+    "choices": [
+      "Having left the cinema, I wanted to know more",
+      "Left the cinema, I wanted to know more",
+      "I left the cinema, wanting to know more about the main actor",
+      "Not leaving the cinema, I wanted to know more"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct reduced form of: 'Adel left his bag at home, which left him without any money.'",
+    "choices": [
+      "Adel left his bag at home, having left him without any money",
+      "Having left his bag at home, Adel was without any money",
+      "Adel left his bag at home, leaving him without any money",
+      "Left his bag at home, Adel had no money"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct reduced form of: 'After I had finished my work, I decided to have a break.'",
+    "choices": [
+      "Finishing my work, I decided to have a break",
+      "After finishing my work, I decided to have a break",
+      "I finished my work, deciding to have a break",
+      "Having finished my work, I decided to have a break"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "'This new play is a ________ start to the city's cultural weekend.' (describes someone/something with a lot of energy)",
+    "choices": [
+      "lively",
+      "alive",
+      "tasteful",
+      "classic"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "'I quite like some ________ music, especially pieces by Beethoven and Mozart.' (related to traditional forms of art/music)",
+    "choices": [
+      "comical",
+      "classical",
+      "historic",
+      "childlike"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 18,
+    "question": "'The restaurant offered ________ snacks during the interval of the performance.' (food with a good taste)",
+    "choices": [
+      "lively",
+      "classic",
+      "tasty",
+      "vibrant"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "The word 'comical' can be placed ________ the noun it describes.",
+    "choices": [
+      "only before",
+      "only after",
+      "only in the middle of a sentence",
+      "before or after"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "The word 'episode' refers to ________.",
+    "choices": [
+      "a single instalment of a TV or radio series",
+      "a comedy series featuring the same actors in every show",
+      "the group of actors who perform in a play or film",
+      "the main storyline of a play or book"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "The word 'season' in the context of TV shows refers to ________.",
+    "choices": [
+      "a special episode broadcast only on public holidays",
+      "a set of episodes forming one complete series of a TV show",
+      "the time of year when new films are released in cinemas",
+      "a live comedy performance held at a specific time of year"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "The phrase 'be a must-watch' means ________.",
+    "choices": [
+      "something that is boring and not worth watching",
+      "something that requires preparation before watching",
+      "something you cannot afford to miss",
+      "something that is only suitable for a small audience"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "To 'heckle somebody' at a performance means to ________.",
+    "choices": [
+      "applaud enthusiastically at the end of the show",
+      "follow the performer closely after the event",
+      "offer helpful feedback to improve the performance",
+      "shout rude or mocking comments at a performer during the show"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Among these adjectives describing art and colour, which one is NEGATIVE?",
+    "choices": [
+      "insipid",
+      "distinctive",
+      "vibrant",
+      "subtle"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "The adjective 'distinctive' is used to describe something that ________.",
+    "choices": [
+      "is easy to see clearly from a distance",
+      "has a unique quality that makes it stand out",
+      "uses only natural materials in its creation",
+      "belongs to an old and well-respected tradition"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "The adjective 'subdued' describes colours or designs that are ________.",
+    "choices": [
+      "extremely bright and attention-grabbing",
+      "full of energy and life",
+      "quiet, not bright, and lacking intensity",
+      "made from traditional natural materials"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "The adjective 'clashing' is used to describe colours that ________.",
+    "choices": [
+      "blend perfectly to create a harmonious design",
+      "remind the viewer of ancient traditional patterns",
+      "represent opposite ideas or emotions in art",
+      "look unpleasant together because they do not match"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "The adjective 'cheesy' is used to describe something that is ________.",
+    "choices": [
+      "overly sentimental and lacking in quality or originality",
+      "shockingly bad in a way that upsets the audience",
+      "deeply offensive and inappropriate for public viewing",
+      "impossible to believe because of poor acting"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "A 'lively' show or performance is one that ________.",
+    "choices": [
+      "contains serious themes that make the audience reflect",
+      "is full of energy, excitement, and keeps the audience engaged",
+      "uses only classical music and traditional costumes",
+      "is intended for very young children and families"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "An 'offensive' performance is one that ________.",
+    "choices": [
+      "lacks excitement and fails to engage the audience",
+      "is far too long and makes the audience lose interest",
+      "causes anger or hurt because of rude or inappropriate content",
+      "uses old-fashioned language that audiences find hard to follow"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is used when MAKING A SUGGESTION in informal negotiation?",
+    "choices": [
+      "I could go along with that",
+      "I don't know if I would fancy that",
+      "I can see what you're saying, but",
+      "How would you feel about changing the schedule?"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 32,
+    "question": "Which of the following expressions is used to ACCEPT a suggestion during informal negotiation?",
+    "choices": [
+      "I could go along with that. Fair enough.",
+      "I don't want to be awkward, but",
+      "What kind of thing were you thinking of?",
+      "Isn't that a bit unprofessional?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "According to information about Jordan's parliament, when a bill is passed by more than two thirds of the Senate and House of Deputies, it ________.",
+    "choices": [
+      "is automatically sent back to the Prime Minister for review",
+      "must be approved by the King before it can become law",
+      "becomes an Act of Parliament, which is a new law",
+      "is suspended and returned to the House of Deputies again"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Jordan's parliament has ________ seats in total, with ________ reserved for women.",
+    "choices": [
+      "80 seats / 12 reserved",
+      "40 seats / 10 reserved",
+      "100 seats / 20 reserved",
+      "138 seats / 18 reserved"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "According to information about Jordan's parliament building, Jordan's independence was declared in ________.",
+    "choices": [
+      "1952 in the current parliament building in Amman",
+      "1947 in the Museum of Parliamentary Life",
+      "1978 in a ceremony at the Senate building",
+      "1946 in the building that is now the Museum of Parliamentary Life"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "At the local level, Jordan is divided into ________ governorates.",
+    "choices": [
+      "12",
+      "14",
+      "8",
+      "20"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "According to the article on resilience, when going through a tough time, it is important to ________.",
+    "choices": [
+      "stop all activities and focus only on rest",
+      "take care of yourself by eating well, getting enough sleep, and exercising",
+      "avoid sharing problems with anyone to stay strong",
+      "take on as many tasks as possible to keep your mind busy"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "According to the article on resilience, when building resilience you should accept that ________.",
+    "choices": [
+      "most problems in life are caused by other people's mistakes",
+      "younger people are naturally more resilient than older people",
+      "change happens and you cannot always control it",
+      "asking for help is a sign of weakness that should be avoided"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' was part of a collection called 'New Hampshire', which won Robert Frost ________.",
+    "choices": [
+      "the Nobel Prize in Literature",
+      "the Booker Prize for Fiction",
+      "the Man Booker International Prize",
+      "his first Pulitzer Prize"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "Read the following excerpt from an article about spoilers: 'We should take into account how much the Internet has changed our viewing habits. Gone are the days when everyone would watch the same thing at the same time and then talk about it the next day. Now, everyone is watching at different times across the world, and a lot of the discussion is happening in online communities.' According to this text, the Internet has changed viewing habits by ________.",
+    "choices": [
+      "making people less interested in discussing what they watch",
+      "allowing people to watch the same content at the same time globally",
+      "reducing the number of online communities discussing programmes",
+      "leading to people watching at different times and discussing things online"
+    ],
+    "correct_answer": "d"
+  }
+]

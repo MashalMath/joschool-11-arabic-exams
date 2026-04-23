@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'This day had started just like any other, until the rope attaching his rompong to the bottom of the sea broke and, already far from the coast, he started to drift even further away. At first, he wasn't too worried. He took it for granted that sooner or later his boss would come and rescue him.'\n\nWhat does 'sooner or later' mean?",
+    "choices": [
+      "Immediately.",
+      "Never.",
+      "At some point in the future.",
+      "More or less."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: She really tried, but just ________, and in the end she gave up on the project.",
+    "choices": [
+      "paid off.",
+      "flourished.",
+      "got nowhere.",
+      "masterstroke."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: She looked ________ the same age as me, although she was ten years older.",
+    "choices": [
+      "safe and sound.",
+      "sooner or later.",
+      "more or less.",
+      "ups and downs."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If Ali ________ ready, I will pack my bags. (first conditional)",
+    "choices": [
+      "are.",
+      "is.",
+      "was.",
+      "were."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'One of the best known of such sporting moments happened in 2016 in the Triathlon World Series in Mexico. British runner Jonny Brownlee was about to finish first when the heat made him ill and he was about to fall over. Jonny's brother Alistair was in third place when he saw his brother and helped to carry him over the finish line.'\n\nWhere was the Triathlon World Series held in 2016?",
+    "choices": [
+      "Great Britain.",
+      "Mexico.",
+      "Brazil.",
+      "France."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: I'd love to ________ the chance to bungee jump one day.",
+    "choices": [
+      "take.",
+      "run.",
+      "grab.",
+      "have."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I wish I ________ that job opportunity when it was offered to me. (past regret — I didn't take it)",
+    "choices": [
+      "take.",
+      "took.",
+      "had taken.",
+      "would take."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'Ali could have given Fadi a lift into town.' The sentence means Fadi ________ get a lift into town from Ali.",
+    "choices": [
+      "did.",
+      "didn't.",
+      "will.",
+      "might."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: He took a digital presentation to the interview and they loved it. His idea really ________.",
+    "choices": [
+      "messed up.",
+      "got nowhere.",
+      "paid off.",
+      "blundered."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct second conditional: If we ________ in London today, we would be able to go to the British Museum.",
+    "choices": [
+      "are.",
+      "was.",
+      "have been.",
+      "were."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: It was sunny so we ________ to wear our raincoats. (it was not necessary, and we didn't wear them)",
+    "choices": [
+      "needn't have needed.",
+      "didn't need.",
+      "shouldn't have needed.",
+      "couldn't."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'From when he was 16 years old, Aldi had spent weeks at a time working on a fishing trap, known as a rompong, a kind of hut which floats in the middle of the sea, but is attached to the sea bed with a rope. Every night he would light lamps to attract the fish to his nets. It was a lonely kind of life.'\n\nWhy did Aldi light lamps every night?",
+    "choices": [
+      "To signal ships for help.",
+      "To keep himself warm.",
+      "To attract fish to his nets.",
+      "To read books in the dark."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: The best universities can ________ which students to accept.",
+    "choices": [
+      "give and take.",
+      "pick and choose.",
+      "sooner or later.",
+      "ups and downs."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If she wasn't afraid of snakes, he ________ it up. (mixed conditional: present situation on past)",
+    "choices": [
+      "will pick.",
+      "picked.",
+      "would have picked.",
+      "had picked."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'They shouldn't have bought it.' This means the speaker is talking about someone who ________ buy something.",
+    "choices": [
+      "didn't.",
+      "did.",
+      "should.",
+      "would."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: If only I ________ so tired at the end of every day. (present regret — I am always tired)",
+    "choices": [
+      "didn't feel.",
+      "hadn't felt.",
+      "don't feel.",
+      "won't feel."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: 'One ________ of the plan is that it will cost a lot.' introduces a negative point.",
+    "choices": [
+      "benefit.",
+      "advantage.",
+      "good point.",
+      "drawback."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: I was embarrassed and felt like I'd really ________ in the exam.",
+    "choices": [
+      "paid off.",
+      "messed up.",
+      "masterstroke.",
+      "flourished."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'Desperate to make himself understood he used the few words of English he knew over the radio: Help! Help! The ship turned around to pick him up. The boat was heading for Japan, so they took him with them. Finally, the Indonesian embassy collected him and flew him home, almost two months after his ordeal had begun.'\n\nWhere was the ship heading when it rescued Aldi?",
+    "choices": [
+      "Indonesia.",
+      "Australia.",
+      "Japan.",
+      "The Philippines."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If I'd gone to university, I would ________ a better job now.",
+    "choices": [
+      "have.",
+      "have had.",
+      "had.",
+      "has."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: You didn't need ________ your waterproof jackets after all.",
+    "choices": [
+      "to bringing.",
+      "to bring.",
+      "bring.",
+      "brought."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Give and take' means ________.",
+    "choices": [
+      "immediately.",
+      "compromise and mutual respect.",
+      "accept it or don't.",
+      "good and bad times."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I am passionate ________ Cambodia and its people. (formal letter phrase)",
+    "choices": [
+      "for.",
+      "to.",
+      "about.",
+      "in."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'I feel that I would be a good candidate because not only do I have the relevant skills and experience, but I am also passionate about Cambodia and its people.'\n\nWhat emphatic structure is used in this sentence?",
+    "choices": [
+      "As well as + -ing.",
+      "Not only ... but also.",
+      "Furthermore ...",
+      "In addition to + -ing."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: It was too hot to go to the beach yesterday. If only it ________ cooler.",
+    "choices": [
+      "were.",
+      "is.",
+      "had been.",
+      "has been."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: The hotels, restaurant and shop owners have become more ________ because of the route.",
+    "choices": [
+      "extravagant.",
+      "costly.",
+      "affluent.",
+      "lucrative."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'Having looked at both sides of the argument, I think …' is used to ________.",
+    "choices": [
+      "begin the discussion.",
+      "give a final personal opinion after considering both views.",
+      "describe only the negative aspects.",
+      "list specific examples of problems."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: If only I ________ a degree, I could apply for more jobs. (present regret)",
+    "choices": [
+      "have.",
+      "had.",
+      "had had.",
+      "would have."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional type: 'Perhaps more people would have wanted to climb it if they hadn't had to splash out on an entrance fee.' This is a ________.",
+    "choices": [
+      "zero conditional.",
+      "first conditional.",
+      "second conditional.",
+      "third conditional."
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: I wish everything these days ________ so expensive.",
+    "choices": [
+      "isn't.",
+      "weren't.",
+      "won't be.",
+      "hasn't been."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'We can read about rugby players who stop playing to help an injured fellow player, of golfers who admit to doing something wrong even if no one saw, and of Formula One racing drivers stopping to help others who have had a serious accident.'\n\nWhat do the golfers in this passage demonstrate?",
+    "choices": [
+      "They ignore mistakes to win competitions.",
+      "They are honest enough to admit wrongdoing even without being caught.",
+      "They are the most competitive athletes in sport.",
+      "They risk injury to win at any cost."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: ________ is a terrible or painful experience that continues for a period of time.",
+    "choices": [
+      "Supplies.",
+      "Ordeal.",
+      "Masterstroke.",
+      "Setback."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: In addition ________ having experience, I also have relevant qualifications.",
+    "choices": [
+      "of.",
+      "for.",
+      "to.",
+      "by."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'If video games weren't so costly, I'd buy a new one every month.' This means video games ________ costly.",
+    "choices": [
+      "are not.",
+      "are.",
+      "were not.",
+      "might be."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: If he had fallen, he ________ dead now. (mixed conditional)",
+    "choices": [
+      "would be.",
+      "would have been.",
+      "has been.",
+      "will be."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: 'I was responsible for …' is a phrase used in a letter of application to ________.",
+    "choices": [
+      "close the letter formally.",
+      "greet the reader.",
+      "describe relevant work experience.",
+      "explain your education qualifications."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'Aldi had a week's supply of food. He was sure it would all be fine. But after a week his supplies ran out.'\n\nWhat does 'supplies' mean in this passage?",
+    "choices": [
+      "Equipment needed to sail a boat.",
+      "Food and other ordinary goods needed by people every day.",
+      "Clothes and personal items.",
+      "Medical equipment."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: Unless he ________, she will not be impressed. (unless = if not)",
+    "choices": [
+      "tries harder.",
+      "doesn't try harder.",
+      "tried harder.",
+      "had tried harder."
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'I wish I had gone to university. I have a job but I think I could have got a better job if I had a degree.' The phrase 'could have got' means ________.",
+    "choices": [
+      "something was done and was necessary.",
+      "it was a good idea, but I didn't do it.",
+      "something was a possibility, but I didn't do it.",
+      "I did something, but it was unnecessary."
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: With reference ________ your competition to win a dream job, I would like to apply.",
+    "choices": [
+      "for.",
+      "to.",
+      "about.",
+      "at."
+    ],
+    "correct_answer": "b"
+  }
+]

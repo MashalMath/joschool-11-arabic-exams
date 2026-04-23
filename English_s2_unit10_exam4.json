@@ -1,0 +1,387 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the correct word: 'The old tree trunk was completely ________, which is why birds nested inside it.' (empty inside)",
+    "choices": [
+      "flat",
+      "solid",
+      "spherical",
+      "hollow"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 2,
+    "question": "Choose the correct word: 'The sculpture was so ________ that they couldn't get it through the door of the exhibition centre.' (very large in size)",
+    "choices": [
+      "enormous",
+      "curved",
+      "spherical",
+      "pointed"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct word: 'They found several ________ coins with their new metal detector.' (made of brown metal)",
+    "choices": [
+      "bone",
+      "silk",
+      "bronze",
+      "ivory"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Choose the correct word: 'This intriguing artefact is ________ in shape, but no one knows what its purpose was.' (round like a circle)",
+    "choices": [
+      "solid",
+      "spherical",
+      "hollow",
+      "circular"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 5,
+    "question": "Choose the correct word: 'The music was so ________ that everyone laughed when they played it.' (sentimental and lacking quality)",
+    "choices": [
+      "golden",
+      "geometric",
+      "tasteful",
+      "cheesy"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "The expression 'Would it be OK if we...?' is used in informal negotiation to ________.",
+    "choices": [
+      "make a final decision after all options have been discussed",
+      "ask for clarification about something that was said earlier",
+      "reject a suggestion politely without offering an alternative",
+      "make a suggestion about an alternative course of action"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "The expression 'I thought perhaps we could...' is used to ________.",
+    "choices": [
+      "reject a suggestion and propose something else instead",
+      "make a gentle suggestion without being too direct",
+      "demand that everyone accepts a particular plan immediately",
+      "ask for more time before making a final decision"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "The expression 'I can see what you're saying, but...' is used to ________.",
+    "choices": [
+      "accept a suggestion and express complete satisfaction",
+      "make a suggestion using a conditional structure",
+      "politely disagree with or not fully accept a suggestion",
+      "make a final decision and bring the negotiation to a close"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct past modal: 'The circles in the field are so perfect that they _____ by a farmer — farmers don't have the necessary equipment.'",
+    "choices": [
+      "must have been made",
+      "might have been made",
+      "would have been made",
+      "can't have been made"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct past modal: 'A wealthy person _____ to use the artefact — it was found in a royal chamber.'",
+    "choices": [
+      "can't have been planning",
+      "might not have been planning",
+      "must have been planning",
+      "wouldn't have been planning"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct past modal: 'No one really knows what they _____ for.' (passive, uncertain past use)",
+    "choices": [
+      "must have been used",
+      "can't have been used",
+      "might have been used",
+      "would have been used"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct past modal: 'He _____ carrying out the robbery — I was with him all evening.' (negative certainty)",
+    "choices": [
+      "might have been",
+      "must have been",
+      "would have been",
+      "can't have been"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct reduced form: 'I knew the background to the situation, so I understood how she felt.'",
+    "choices": [
+      "Having known the background to the situation, I understood how she felt",
+      "Knowing the background to the situation, I understood how she felt",
+      "Not knowing the background to the situation, I understood how she felt",
+      "To know the background to the situation, I understood how she felt"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correct reduced form: 'She looked at the diamond carefully and said, I think it is a fake.'",
+    "choices": [
+      "She was looking at the diamond carefully, saying it was a fake",
+      "Having looked carefully at the diamond, she said it was a fake",
+      "Looking at the diamond carefully, she said, I think it is a fake",
+      "Not looking carefully, she said the diamond was a fake"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct reduced form: 'She didn't know the city well, so she got lost.'",
+    "choices": [
+      "Not knowing the city well, she got lost",
+      "Having not known the city well, she got lost",
+      "Knowing not the city well, she got lost",
+      "She didn't know the city well, getting lost"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct reduced form: 'He had watched the film several times, so he remembered every scene.'",
+    "choices": [
+      "Watching the film several times, he remembered every scene",
+      "Not having watched the film, he remembered every scene",
+      "He watched the film, having remembered every scene",
+      "Having watched the film several times, he remembered every scene"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct word to complete: 'The ________ refers to the actors taking part in a performance.'",
+    "choices": [
+      "cast",
+      "dialogue",
+      "scene",
+      "set"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 18,
+    "question": "Choose the correct phrase: 'When he ________, nobody laughed — it completely ruined the joke.'",
+    "choices": [
+      "played the lead",
+      "delivered the punchline",
+      "did a stand-up routine",
+      "cracked a few jokes"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct word to complete: 'The ________ is the storyline of a play, film, or book.'",
+    "choices": [
+      "episode",
+      "cast",
+      "set",
+      "plot"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct word to complete: 'I would never have the confidence to go up on a stage and tell jokes alone — to do a ________.'",
+    "choices": [
+      "sitcom",
+      "feature-length film",
+      "stand-up routine",
+      "scene"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct confused word: 'The audience loved the performance — the costumes and setting were very ________.' (decorated or designed well)",
+    "choices": [
+      "tasty",
+      "insipid",
+      "tasteful",
+      "comical"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct confused word: 'All's Well That Ends Well is a ________ comedy by Shakespeare.' (timeless/iconic)",
+    "choices": [
+      "historical",
+      "classical",
+      "classic",
+      "historic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 23,
+    "question": "Choose the correct confused word: 'The final week of rehearsals seemed ________ — the first night of the play was awful.' (no value)",
+    "choices": [
+      "invaluable",
+      "childlike",
+      "comical",
+      "worthless"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "Read the following excerpt: 'familiarity with a work of art enables you to appreciate it more.' According to this statement, familiarity with a work of art ________.",
+    "choices": [
+      "always reduces your enjoyment of something you have seen before",
+      "makes you want to share your opinions with others online",
+      "causes you to focus only on the ending rather than the whole story",
+      "helps you to appreciate the work of art more fully"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "What was the key finding of the follow-up study regarding spoilers?",
+    "choices": [
+      "Spoilers only improved enjoyment at the very end of the story",
+      "Participants who had read spoilers found the stories more engaging even halfway through",
+      "The second group of readers preferred shorter stories without spoilers",
+      "Spoilers had absolutely no effect on how much readers enjoyed the stories"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "What does the phrase 'gone are the days' suggest in the context of the Internet and viewing habits?",
+    "choices": [
+      "The Internet has made it easier to watch content at a set time",
+      "People no longer discuss what they watch with anyone at all",
+      "Those past habits of watching together no longer exist today",
+      "The days when television was popular have completely ended"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 27,
+    "question": "According to information about Jordan's constitutional system, a 'constitutional monarchy' means ________.",
+    "choices": [
+      "the monarch rules alone without any involvement from the government",
+      "the prime minister holds more power than the king in all matters",
+      "the people vote directly for all government decisions",
+      "the monarch follows the constitution and shares power with the government"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 28,
+    "question": "In Jordan, the prime minister 'chooses the cabinet, subject to parliamentary approval.' This means ________.",
+    "choices": [
+      "the prime minister selects the cabinet without needing any approval",
+      "the cabinet is chosen by the senate without involving the prime minister",
+      "parliament must agree to the prime minister's choice of cabinet",
+      "the King chooses the cabinet on the recommendation of parliament"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "According to the world parliament facts, the world's oldest parliament that still exists is the Althing in Iceland. It was founded in ________.",
+    "choices": [
+      "the year 1066 CE",
+      "the year 500 BCE",
+      "the year 1215 CE",
+      "the year 930 CE"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the woods are described as 'lovely, dark and deep'. This suggests that the speaker finds the woods ________.",
+    "choices": [
+      "frightening and impossible to enter safely",
+      "ugly and not worth stopping to look at",
+      "inviting and beautiful, yet also mysterious",
+      "familiar and comforting because he owns them"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', what does the repetition of the final two lines suggest?",
+    "choices": [
+      "The speaker is too tired to continue and decides to rest in the woods",
+      "The speaker is looking for a specific location in the forest",
+      "The speaker has a long journey ahead and many responsibilities to fulfil",
+      "The speaker is afraid that night will fall before he reaches the village"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 36,
+    "question": "The INTRODUCTION of an article should ________.",
+    "choices": [
+      "give a detailed description of every character in the story",
+      "provide a full summary of the plot from beginning to end",
+      "grab the reader's attention and outline what the article is about",
+      "list all the themes and discuss them in alphabetical order"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "In a review article, the phrase 'I was blown away by the performance of...' is used to ________.",
+    "choices": [
+      "summarise the main points of the article",
+      "express strong personal admiration for an actor's performance",
+      "criticise the quality of the acting in the production",
+      "describe the setting and costumes used in the performance"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "The phrase 'alliteration' in poetry means ________.",
+    "choices": [
+      "the repetition of the same vowel sound in different words in a line",
+      "the use of the same word at the beginning and end of a poem",
+      "the repetition of the same ending sound in two or more words",
+      "the use of the same letter or sound at the beginning of nearby words"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "The phrase 'the cabinet' in the context of government refers to ________.",
+    "choices": [
+      "the building where parliament meets to debate legislation",
+      "the important ministers who control government policy",
+      "the committee responsible for writing new laws",
+      "the group of advisors who assist the prime minister privately"
+    ],
+    "correct_answer": "b"
+  }
+]

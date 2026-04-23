@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Choose the sentence that correctly uses the phrase 'by accident':",
+    "choices": [
+      "She revealed the ending by accident — she truly didn't mean to",
+      "He told the ending by accident on purpose last night",
+      "They arrived by accident to the concert on the wrong day",
+      "The director made the film by accident without planning it"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 2,
+    "question": "Choose the sentence that correctly uses 'in all likelihood':",
+    "choices": [
+      "She was very excited, so she left in all likelihood",
+      "He studied well, but in all likelihood forgot his textbook",
+      "In all likelihood, the show will be cancelled if it keeps losing viewers",
+      "The audience was in all likelihood expecting something better"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 3,
+    "question": "Choose the sentence that correctly uses 'on purpose':",
+    "choices": [
+      "She didn't mean to spoil the film, but she did it on purpose",
+      "He planned the surprise party on purpose to make her happy",
+      "On purpose, nobody arrived at the cinema on time that evening",
+      "The director made mistakes on purpose without any reason"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following correctly uses 'Supposing we...' to make a suggestion?",
+    "choices": [
+      "Supposing we have changed the meeting time to 3 pm?",
+      "Supposing we changed the meeting time to 3 pm?",
+      "Supposing we will change the meeting time to 3 pm?",
+      "Supposing we to change the meeting time to 3 pm?"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following correctly uses 'What if...' to make a suggestion?",
+    "choices": [
+      "What if we discussed the problem after the meeting instead?",
+      "What if we will discuss the problem after the meeting instead?",
+      "What if we have discussed the problem after the meeting?",
+      "What if we are discussing the problem after the meeting?"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct past modal: 'It's possible that the map wasn't the original — it might have been a copy made later.' What does 'might not have been' express here?",
+    "choices": [
+      "A positive deduction — the speaker is certain",
+      "A negative certainty — the speaker is absolutely sure it was not true",
+      "Less certainty — the speaker thinks it is possible it was not the original",
+      "A logical conclusion based on clear evidence"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Choose the correct past modal: 'The platform was high up and _____ easy for people to reach, although it was only a kilometre from the centre of Petra.'",
+    "choices": [
+      "can't have been",
+      "must have been",
+      "might have been",
+      "would have been"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct past modal: 'He _____ lying; he's totally untrustworthy and never tells the truth.'",
+    "choices": [
+      "can't have been",
+      "would have been",
+      "might have been",
+      "must have been"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "Choose the correct past modal: 'She _____ revising because she failed her exam — and she had been out all evening.'",
+    "choices": [
+      "must have been",
+      "would have been",
+      "couldn't have been",
+      "might have been"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct past modal: 'There _____ much simpler ways of knitting gloves in the past — the technology was very basic.'",
+    "choices": [
+      "must be",
+      "can't be",
+      "might be",
+      "would have been"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "Choose the correct reduced form: 'After I had been to the gym, I showered and had some lunch.'",
+    "choices": [
+      "After having been to the gym, I showered and had some lunch",
+      "Having been at the gym, I showered and had some lunch",
+      "Been to the gym, I showered and had some lunch",
+      "Being to the gym, I showered and had some lunch"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 12,
+    "question": "Choose the correct reduced form: 'I knew what had happened. I wasn't surprised.'",
+    "choices": [
+      "Having known what had happened, I was not surprised",
+      "Not knowing what had happened, I was not surprised",
+      "To know what had happened, I wasn't surprised",
+      "Knowing what had happened, I wasn't surprised"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 13,
+    "question": "What does the reduced clause 'Not realising what time it was, I missed the train' show?",
+    "choices": [
+      "The subject was aware of the time but chose to ignore it",
+      "The subject arrived at the station exactly on time",
+      "The subject's lack of awareness of the time caused a result",
+      "The result happened before the subject left the station"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "What is the function of the participle clause in: 'Like many people who watched the film, I left the cinema wanting to know more about the main star.'",
+    "choices": [
+      "It shows that the two actions happened one after another in sequence",
+      "It shows the result of leaving the cinema",
+      "It shows that two things happened at the same time",
+      "It shows that wanting happened before leaving the cinema"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 15,
+    "question": "What is the function of the participle clause in: 'After reading about his life growing up in London, I realised his childhood was similar to the boy in the film.'",
+    "choices": [
+      "Showing two things happening at the same time",
+      "Showing the result of reading about his life",
+      "Showing a sequence of events — reading came before realising",
+      "Showing a negative action and its consequence"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 16,
+    "question": "Choose the correct confused word: 'The new ________ play is set in ancient Greece and features famous historical figures.'",
+    "choices": [
+      "historical",
+      "historic",
+      "classic",
+      "comical"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct confused word: 'Today was a ________ day for the world's largest movie studio.'",
+    "choices": [
+      "comical",
+      "historical",
+      "classic",
+      "historic"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "The adjective 'appalling' describes a performance that is ________.",
+    "choices": [
+      "very funny and makes the audience laugh out loud",
+      "full of energy and keeps everyone's attention throughout",
+      "far too simple and lacking any depth or creativity",
+      "shockingly bad in quality"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "Choose the correct evaluative adjective: 'Her acting was totally ________; I couldn't believe in her as a character at all.'",
+    "choices": [
+      "exceptional",
+      "offensive",
+      "unconvincing",
+      "lively"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct word to complete: 'We say comedians ________ when they tell jokes informally.'",
+    "choices": [
+      "deliver the plot",
+      "crack a few jokes",
+      "heckle the audience",
+      "catch up on the cast"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Which of the following words describes a colour or design that is dull and uninteresting?",
+    "choices": [
+      "vibrant",
+      "distinctive",
+      "insipid",
+      "rich"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "Which of the following describes a positive quality of art or colour?",
+    "choices": [
+      "subdued",
+      "jarring",
+      "clashing",
+      "vibrant"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "What do news sites usually do to warn readers about spoilers?",
+    "choices": [
+      "They completely hide the ending of the film from all readers",
+      "They refuse to publish any reviews that might contain spoilers",
+      "They signal that there are spoilers in their reviews",
+      "They only publish reviews after the film has been removed from cinemas"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "What reason does the author give for re-reading books we love?",
+    "choices": [
+      "To practice our reading speed and improve our comprehension",
+      "Because we cannot remember what happened the first time we read",
+      "Because we want to tell other people what the book is about",
+      "Not to discover what happens, but because we enjoy the experience itself"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 25,
+    "question": "According to information about Jordan's parliament, who appoints the Prime Minister of Jordan?",
+    "choices": [
+      "The members of the House of Deputies",
+      "The members of the Senate",
+      "The King",
+      "The people in a general election"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "According to information about Jordan's parliament, how are the members of the Senate chosen?",
+    "choices": [
+      "They are elected by the people every four years",
+      "They are given four-year terms by the King",
+      "They are appointed by the Prime Minister",
+      "They are selected by the House of Deputies"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "According to information about Jordan's parliament, 12 of the 138 seats are reserved for ________.",
+    "choices": [
+      "women",
+      "minorities",
+      "young politicians",
+      "independent candidates"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "According to information about Jordan's parliament, the 'legislation' is defined as ________.",
+    "choices": [
+      "the important ministers who control government policy",
+      "the principles and ideas by which a country is governed",
+      "the first version of a proposed law",
+      "the process of making laws"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "An important strategy for resilience is to 'see a setback or disappointment as ________.'",
+    "choices": [
+      "a reason to give up and try a different path in life",
+      "an opportunity to learn something about yourself or about life",
+      "proof that you are not suited to the challenge you are facing",
+      "a warning that you need to change your personality"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 30,
+    "question": "According to the resilience article, which of the following is a key strategy for building resilience?",
+    "choices": [
+      "Avoid social contact when feeling stressed or overwhelmed",
+      "Never share problems with friends or family to stay strong",
+      "Pretend that difficulties do not exist and focus only on fun",
+      "Make time for activities that you enjoy and that bring you pleasure"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', where does the owner of the woods live?",
+    "choices": [
+      "In the woods, in a small cabin hidden among the trees",
+      "Near the frozen lake on the edge of the forest",
+      "In the village",
+      "In a farmhouse near the edge of the forest"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', why does the speaker's horse shake its harness bells?",
+    "choices": [
+      "To signal to the owner of the woods that someone has stopped",
+      "Because it is cold and shivering in the winter snow",
+      "To ask whether stopping in this unusual place is a mistake",
+      "To warn the speaker that they are on someone else's land"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 33,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the word 'must' in 'My little horse must think it queer' expresses ________.",
+    "choices": [
+      "an obligation — the horse is required to think this",
+      "the speaker's certainty about what the horse is thinking",
+      "permission — the horse is allowed to think this",
+      "a polite request directed towards the horse"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' was part of a collection called ________.",
+    "choices": [
+      "The Road Not Taken",
+      "Birches",
+      "New Hampshire",
+      "A Boy's Will"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 35,
+    "question": "In the article about article writing, in order to 'summarise the plot', you could use the phrase ________.",
+    "choices": [
+      "'Far from being... I believe...'",
+      "'The series tells the story of...'",
+      "'I was blown away by the performance of...'",
+      "'I would argue that...'"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In the context of avoiding repetition in writing, which of the following is a synonym for 'story'?",
+    "choices": [
+      "cast",
+      "episode",
+      "set",
+      "plot"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following CORRECTLY states the idea in the article on watching box sets?",
+    "choices": [
+      "'Far from being mindless entertainment, TV can be the most exciting narrative art form we have'",
+      "Watching box sets is always a waste of time for young people",
+      "Young people should only watch serious documentaries rather than box sets",
+      "The longer format of TV means topics cannot be explored in any depth"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 38,
+    "question": "In grammar, 'we use would + have + past participle' in order to ________.",
+    "choices": [
+      "express a polite request in the present",
+      "make an assumption about the past or draw a logical conclusion",
+      "describe something that is happening right now",
+      "give instructions about how to do something step by step"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following correctly forms the past modal continuous?",
+    "choices": [
+      "modal + have + past participle",
+      "modal + be + present participle",
+      "modal + have been + present participle",
+      "modal + have been + past participle"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 40,
+    "question": "Which of the following correctly forms the passive past modal?",
+    "choices": [
+      "modal + have + past participle",
+      "modal + have been + past participle",
+      "modal + be + past participle",
+      "modal + have been + present participle"
+    ],
+    "correct_answer": "b"
+  }
+]

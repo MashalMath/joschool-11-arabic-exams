@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "The opposite of 'hollow' — used to describe an object with no empty space inside — is ________.",
+    "choices": [
+      "circular",
+      "spherical",
+      "solid",
+      "enormous"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "She accidentally revealed the ending; she did NOT do it ________ purpose.",
+    "choices": [
+      "in",
+      "at",
+      "by",
+      "on"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "The concert was breathtaking. The musicians ________ practicing for months.",
+    "choices": [
+      "can't have been",
+      "must have been",
+      "would be",
+      "might not have been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 4,
+    "question": "In Jordan's constitutional monarchy, the Prime Minister is ________ by the King.",
+    "choices": [
+      "appointed",
+      "elected",
+      "inherited",
+      "rejected"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 5,
+    "question": "The final line of a joke that causes laughter is called the ________.",
+    "choices": [
+      "cast",
+      "scene",
+      "punchline",
+      "plot"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 6,
+    "question": "Because he felt nervous before the interview, he made several mistakes. Which is the correct reduced clause?",
+    "choices": [
+      "Not feeling nervous, he made several mistakes",
+      "Having felt nervous, he made several mistakes",
+      "Felt nervous, he made several mistakes",
+      "Feeling nervous, he made several mistakes"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "How long after the first study was the follow-up research carried out?",
+    "choices": [
+      "one year later",
+      "two years later",
+      "three years later",
+      "five years later"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 8,
+    "question": "The museum displayed a collection of ________ photographs showing daily life in the 1800s.",
+    "choices": [
+      "historical",
+      "historic",
+      "classic",
+      "classical"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 9,
+    "question": "An adjective describing colours or sounds that are obvious and unpleasant is ________.",
+    "choices": [
+      "vibrant",
+      "subtle",
+      "jarring",
+      "distinctive"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "The poem 'Stopping by Woods on a Snowy Evening' was written by ________.",
+    "choices": [
+      "William Shakespeare",
+      "William Frost",
+      "John Keats",
+      "Robert Frost"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "It's possible that the map was drawn by Egyptian sailors. Which sentence correctly expresses this?",
+    "choices": [
+      "The map must have been drawn by Egyptian sailors",
+      "The map might have been drawn by Egyptian sailors",
+      "The map can't have been drawn by Egyptian sailors",
+      "The map would have been drawn by Egyptian sailors"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 12,
+    "question": "Which phrase is used to ask for CLARIFICATION informally during a negotiation?",
+    "choices": [
+      "So, are you saying that we should cancel the event?",
+      "I could go along with that",
+      "Fair enough",
+      "I'm happy with that"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 13,
+    "question": "To 'keep things in perspective' during difficult situations means you should ________.",
+    "choices": [
+      "assume that everything will continue to go wrong",
+      "wait for someone else to fix the problem",
+      "try to see problems in a balanced and reasonable way",
+      "avoid all challenges to protect yourself"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "The natural substances used to change the colour of threads are called ________.",
+    "choices": [
+      "threads",
+      "precious stones",
+      "embroidery",
+      "dyes"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "After I had finished my work, I went for a walk. Which is the correct reduced form?",
+    "choices": [
+      "Finishing my work, I went for a walk",
+      "Having finished my work, I went for a walk",
+      "Not finishing my work, I went for a walk",
+      "After finished my work, I went for a walk"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Jordan's independence was declared in ________.",
+    "choices": [
+      "1946",
+      "1947",
+      "1952",
+      "1978"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "I was kept ________ suspense by the final episode — I could not stop watching.",
+    "choices": [
+      "on",
+      "at",
+      "in",
+      "by"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "The word 'cracked' in the sentence 'My uncle cracked a few jokes' means ________.",
+    "choices": [
+      "broken",
+      "delivered incorrectly",
+      "failed to perform",
+      "told"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "I'm sure the ancient helmet was not from this country. The helmet ________ from this country.",
+    "choices": [
+      "must have been",
+      "can't have been",
+      "might have been",
+      "would have been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "The study found that stories that had been 'spoiled' were considered to be less ________.",
+    "choices": [
+      "thought-provoking",
+      "exciting",
+      "entertaining",
+      "well-written"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 21,
+    "question": "She has a ________ enthusiasm (approaches topics like a child discovering something new).",
+    "choices": [
+      "childish",
+      "worthless",
+      "childlike",
+      "insipid"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "A shape described as ________ is very large in size.",
+    "choices": [
+      "hollow",
+      "circular",
+      "spherical",
+      "enormous"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "Cameron starred in the film although he found it difficult to read. Which is the correct reduced form?",
+    "choices": [
+      "Despite not finding it difficult to read, Cameron starred in the film",
+      "Despite finding it difficult to read, Cameron starred in the film",
+      "Although finding it difficult to read, Cameron starred in the film",
+      "Not finding it difficult to read, Cameron starred in the film"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 24,
+    "question": "In Jordan's parliament, Senators must be over ________ years of age.",
+    "choices": [
+      "40",
+      "30",
+      "50",
+      "35"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 25,
+    "question": "In 'Stopping by Woods on a Snowy Evening', the rhyme scheme of the first three verses is ________.",
+    "choices": [
+      "ABAB",
+      "ABBA",
+      "AABA",
+      "AAAA"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "A performance described as ________ is of extremely high quality and stands out above others.",
+    "choices": [
+      "cheesy",
+      "offensive",
+      "unconvincing",
+      "exceptional"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "I think we can assume the artefact was very valuable. Which sentence correctly expresses this?",
+    "choices": [
+      "The artefact must have been very valuable",
+      "The artefact would have been very valuable",
+      "The artefact might not have been very valuable",
+      "The artefact can't have been very valuable"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 28,
+    "question": "'How would you feel about choosing a different location?' — This phrase is used to ________.",
+    "choices": [
+      "make a suggestion",
+      "accept a suggestion",
+      "refuse a suggestion",
+      "ask for a final decision"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 29,
+    "question": "A TV comedy series that features the same characters in different situations is a ________.",
+    "choices": [
+      "feature-length",
+      "cast",
+      "sitcom",
+      "plot"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Which of the following is NOT mentioned as a strategy for building resilience?",
+    "choices": [
+      "accepting that change happens",
+      "learning from setbacks",
+      "setting small manageable tasks",
+      "avoiding all contact with other people"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 31,
+    "question": "She couldn't have written the novel in one week. It ________ several months at least.",
+    "choices": [
+      "might not have taken",
+      "must have taken",
+      "can't have taken",
+      "would not have taken"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "In the spoiler study, the group that claimed the greatest reading satisfaction was ________.",
+    "choices": [
+      "the second group who had read the spoiler introductions",
+      "the first group who read without any spoilers",
+      "both groups equally",
+      "neither group reported satisfaction"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 33,
+    "question": "You should watch ________ least three episodes before deciding if you like a series.",
+    "choices": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "When an actor takes the main starring role in a play or film, they ________.",
+    "choices": [
+      "deliver the punchline",
+      "heckle somebody",
+      "do a stand-up routine",
+      "play the lead"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "I knew what had happened, so I was not surprised. Which is the correct reduced clause?",
+    "choices": [
+      "Not knowing what had happened, I was not surprised",
+      "Knowing what had happened, I was not surprised",
+      "Having been knowing what had happened, I was not surprised",
+      "Known what had happened, I was not surprised"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "In 'Stopping by Woods on a Snowy Evening', the phrase 'I have promises to keep' represents ________.",
+    "choices": [
+      "responsibilities and duties in life",
+      "promises made to the horse",
+      "promises made to the owner of the woods",
+      "a travel schedule the speaker must follow"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 37,
+    "question": "In Jordan's parliament, the total number of seats is ________.",
+    "choices": [
+      "80",
+      "40",
+      "138",
+      "120"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "The theatre interior was elegant and showed fine craftsmanship. It was very ________.",
+    "choices": [
+      "tasty",
+      "classical",
+      "alive",
+      "tasteful"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "In an article reviewing a performance, which phrase describes the lead actor?",
+    "choices": [
+      "Far from being a great performance, the actor...",
+      "I was blown away by the performance of...",
+      "In all likelihood, the acting was good...",
+      "By accident, the actors performed well..."
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "An adjective meaning 'not loud or bright — understated' is ________.",
+    "choices": [
+      "subtle",
+      "clashing",
+      "jarring",
+      "vibrant"
+    ],
+    "correct_answer": "a"
+  }
+]

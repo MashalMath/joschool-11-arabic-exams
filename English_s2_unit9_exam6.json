@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "Read the passage and answer the question.\n\n'But after a week his supplies ran out. He caught fish and used parts of his wooden hut to make a fire and cook the fish. Not having any more fresh drinking water, he had no choice but to drink sea water.'\n\nWhat does 'had no choice but to' mean?",
+    "choices": [
+      "He chose to do something freely",
+      "He was forced to do something",
+      "He refused to do something",
+      "He decided against doing something"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 2,
+    "question": "Fill in the blank: A Have a chocolate. That should ________ the trick and make you feel better.",
+    "choices": [
+      "make",
+      "do",
+      "take",
+      "get"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 3,
+    "question": "Choose the correct binomial: 'Slowly but surely' means ________.",
+    "choices": [
+      "immediately without delay",
+      "at some point in the future",
+      "doing things carefully and achieving results gradually",
+      "accepting or refusing something"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 4,
+    "question": "Fill in the blank: If she ________ come, I will leave. (first conditional using 'doesn't')",
+    "choices": [
+      "do not come",
+      "doesn't come",
+      "didn't come",
+      "won't come"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "Read the text and answer the question.\n\n'If his brother hadn't helped Jonny, he probably wouldn't have finished the race. Although on the other hand, he might not be so well known today.'\n\nWhat does this paragraph suggest about the consequences of Alistair's help?",
+    "choices": [
+      "It only had negative consequences for both brothers",
+      "It helped Jonny finish and may have contributed to his fame",
+      "It caused Alistair to lose the race completely",
+      "It had no impact on either brother"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct word: She is ________ — she never spends money carelessly and manages her finances very well.",
+    "choices": [
+      "extravagant",
+      "affluent",
+      "well-off",
+      "lucrative"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 7,
+    "question": "Fill in the blank: I wish I ________ that relationship when I had the chance. (past regret — I ended it, and I regret it)",
+    "choices": [
+      "didn't end",
+      "don't end",
+      "won't end",
+      "had hadn't ended"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct option: 'You could have told me you were coming today!' This means the speaker is ________.",
+    "choices": [
+      "happy that the person arrived unexpectedly",
+      "criticising the person for not telling them in advance",
+      "pleased that the person kept the visit a secret",
+      "thanking the person for the surprise visit"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 9,
+    "question": "Fill in the blank: In the end, I ________ there and got a great degree. (She succeeded after many attempts)",
+    "choices": [
+      "messed up",
+      "flourished",
+      "got nowhere",
+      "set back"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 10,
+    "question": "Choose the correct third conditional: If he had cleaned the rooms, he ________ his money.",
+    "choices": [
+      "will take",
+      "would have taken",
+      "took",
+      "takes"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 11,
+    "question": "Fill in the blank: You ________ to buy that new charging cable — we already have two!",
+    "choices": [
+      "needn't have needed",
+      "shouldn't",
+      "didn't need",
+      "couldn't"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 12,
+    "question": "Read the passage and answer the question.\n\n'After a few weeks, he thought he had at last got his lucky break when he managed to talk to the captain of an Indonesian ship by walkie-talkie. The captain promised he would pick him up once they had finished work for the day. Heartbreakingly, Aldi never saw the ship again.'\n\nWhy is the word 'heartbreakingly' used in this paragraph?",
+    "choices": [
+      "To explain how Aldi felt when he saw the ship",
+      "To express the writer's own feelings about the captain's actions",
+      "To justify why Aldi felt his troubles were now over",
+      "To describe the captain's emotional response"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correct binomial: I can't sell it for less than 100 JOD. That's my lowest price — ________.",
+    "choices": [
+      "sooner or later",
+      "more or less",
+      "take it or leave it",
+      "give and take"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Fill in the blank: If they hadn't made the North Coast 500, people ________ poorer today. (mixed conditional)",
+    "choices": [
+      "are",
+      "would be",
+      "would have been",
+      "were"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correct option: 'If I'd gone to university, I would have a better job.' The previous sentence means ________.",
+    "choices": [
+      "I went to university and I have a good job",
+      "I didn't go to university and I don't have a better job",
+      "I went to university but I don't have a better job",
+      "I didn't go to university, so I have a good job now"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 16,
+    "question": "Fill in the blank: I can't do this exercise. I wish I ________ it. (present regret — I don't understand it)",
+    "choices": [
+      "understand",
+      "understood",
+      "had understood",
+      "will understand"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 17,
+    "question": "Choose the correct phrase: 'The first ________ is that it reduces pollution.' introduces a positive point.",
+    "choices": [
+      "drawback",
+      "minus point",
+      "downside",
+      "advantage"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 18,
+    "question": "Fill in the blank: The Marble Arch Mound was an ________ idea to build a small hill in the centre of London.",
+    "choices": [
+      "affluent",
+      "lucrative",
+      "extravagant",
+      "well-off"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 19,
+    "question": "Read the passage and answer the question.\n\n'I feel that I would be a good candidate because not only do I have the relevant skills and experience, but I am also passionate about Cambodia and its people. I hope you will give my entry serious consideration.'\n\nWhat does the writer use to make her application more persuasive?",
+    "choices": [
+      "A list of demands and requirements",
+      "An emphatic structure (not only … but also) to highlight her strengths",
+      "A question to the reader",
+      "A description of the country's problems"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 20,
+    "question": "Choose the correct mixed conditional: If he had learnt to swim, he ________ in the sea now.",
+    "choices": [
+      "will be",
+      "would be",
+      "would have been",
+      "had been"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 21,
+    "question": "Fill in the blank: She ________ sciences at school, but it's too late now. (I wish + past regret)",
+    "choices": [
+      "wishes had studied",
+      "had studied",
+      "studied",
+      "would study"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 22,
+    "question": "Choose the correct option: 'Highs and lows' means ________.",
+    "choices": [
+      "good and bad times",
+      "immediately",
+      "uncertain and dangerous",
+      "selecting carefully"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 23,
+    "question": "Fill in the blank: I gained a ________ in first aid during my time at the summer camp.",
+    "choices": [
+      "charge",
+      "role",
+      "qualification",
+      "passion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 24,
+    "question": "Read the passage and answer the question.\n\n'I have studied English to a high level and believe that my skills in this language would enable me to teach it successfully. Furthermore, I do have some experience of teaching English already on a children's summer camp in my home city.'\n\nWhich linking phrase is used to add more information in this passage?",
+    "choices": [
+      "Although",
+      "However",
+      "Furthermore",
+      "Despite"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct form: Ziad did not know about Chinese culture when he went on a business trip. He wishes he ________ a cultural awareness course before going.",
+    "choices": [
+      "do",
+      "did",
+      "had done",
+      "would do"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 26,
+    "question": "Fill in the blank: There are far more candidates than vacancies, so companies can ________ and choose.",
+    "choices": [
+      "have",
+      "pick",
+      "take",
+      "grab"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 27,
+    "question": "Choose the correct option: 'An obvious argument against is that …' is used to ________.",
+    "choices": [
+      "introduce a major advantage",
+      "close the discussion",
+      "present a clear disadvantage of something",
+      "give a personal final opinion"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "Fill in the blank: She ________ have bought the expensive dress when she already had no money.",
+    "choices": [
+      "could",
+      "needn't",
+      "shouldn't",
+      "didn't need to"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 29,
+    "question": "Choose the correct conditional: 'Unless you run, you're going to be late for the lesson.' 'Unless' here means ________.",
+    "choices": [
+      "when",
+      "if",
+      "if not",
+      "although"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Fill in the blank: If I was richer, I ________ some money to help poor people. (second conditional)",
+    "choices": [
+      "will donate",
+      "would donated",
+      "would donate",
+      "donated"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 31,
+    "question": "Read the passage and answer the question.\n\n'When I was younger, I spent too much time worrying about what other people thought of me. I know now that I needn't have worried because most people aren't judging anyone else.'\n\nWhat is the writer's lesson from this experience?",
+    "choices": [
+      "People always judge others harshly",
+      "Worrying about others' opinions was unnecessary",
+      "It is important to care about what people think",
+      "Young people should worry less about school"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 32,
+    "question": "Choose the correct word: Her 'shortcut' actually took twice as long, but did she ________ the blame or offer an apology?",
+    "choices": [
+      "make",
+      "take",
+      "acknowledge",
+      "admitting"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 33,
+    "question": "Fill in the blank: Not only ________ I hard-working, but I am also dedicated. (emphatic structure in a letter)",
+    "choices": [
+      "do",
+      "am",
+      "is",
+      "has"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 34,
+    "question": "Choose the correct option: 'They shouldn't have bought it.' The speaker is talking about someone who ________ buy something.",
+    "choices": [
+      "didn't",
+      "did",
+      "should",
+      "wouldn't"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 35,
+    "question": "Fill in the blank: People ________ successful unless they know what they want. (first conditional with unless)",
+    "choices": [
+      "weren't",
+      "won't be",
+      "aren't",
+      "can't be"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 36,
+    "question": "Choose the correct option: In a formal letter of application, 'My duties included …' is used to ________.",
+    "choices": [
+      "close the letter",
+      "introduce the topic",
+      "describe what tasks you performed in a previous role",
+      "express enthusiasm about the opportunity"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 37,
+    "question": "Read the passage and answer the question.\n\n'Safely back home with his family, Aldi considered his options. His family lived in some hardship and his job was, from his perspective, relatively lucrative at $134 a month. However, having found himself drifting three times since he started the job aged 16, he and his family decided it simply wasn't worth the risk.'\n\nWhy did Aldi and his family decide to give up the job?",
+    "choices": [
+      "The salary was too low to support the family",
+      "The danger of being lost at sea three times outweighed the income",
+      "The boss refused to pay him any more",
+      "The rompong had been completely destroyed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 38,
+    "question": "Fill in the blank: ________ the clock strikes midday, the race will begin. (we are certain it will happen)",
+    "choices": [
+      "Unless",
+      "If",
+      "When",
+      "Although"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 39,
+    "question": "Choose the correct option: 'I wish I could travel round the world.' This expresses ________.",
+    "choices": [
+      "a past regret",
+      "a present wish or desire that is currently impossible",
+      "a complaint about someone else's behaviour",
+      "a future plan"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 40,
+    "question": "Fill in the blank: Dear Mr Johnson, … Yours ________, (closing a formal letter when you know the recipient's name)",
+    "choices": [
+      "faithfully",
+      "truly",
+      "sincerely",
+      "kindly"
+    ],
+    "correct_answer": "c"
+  }
+]

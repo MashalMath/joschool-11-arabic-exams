@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "question": "If an object is described as 'solid', it means ________.",
+    "choices": [
+      "it is empty on the inside",
+      "it is curved and has no flat surfaces",
+      "it is completely hard and not hollow",
+      "it is covered in geometric patterns"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 2,
+    "question": "If an object is described as 'spherical', its shape is ________.",
+    "choices": [
+      "flat and perfectly even on all sides",
+      "long and pointed at both ends",
+      "square with equal sides and angles",
+      "round like a ball or sphere"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 3,
+    "question": "The phrase 'take something into account' means to ________.",
+    "choices": [
+      "consider or remember something when judging a situation",
+      "record facts and figures in an official document",
+      "reject an idea because it is not relevant",
+      "explain the details of a plan to a group of people"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 4,
+    "question": "The adjective 'enormous' means ________.",
+    "choices": [
+      "very small and difficult to see without help",
+      "extremely large in size",
+      "perfectly round in shape",
+      "very old and belonging to a past era"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 5,
+    "question": "If an object is described as 'circular', it ________.",
+    "choices": [
+      "has many flat surfaces joined at sharp angles",
+      "is shaped like a perfect cone",
+      "is made of soft material that can be bent easily",
+      "is round and shaped like a circle"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 6,
+    "question": "Choose the correct preposition: 'She did it _____ purpose; she planned it from the very beginning.'",
+    "choices": [
+      "at",
+      "in",
+      "by",
+      "on"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 7,
+    "question": "Which sentence uses 'in addition' correctly?",
+    "choices": [
+      "In addition, she left the cinema before the film ended",
+      "In addition, everyone arrived to the concert late without warning",
+      "In addition to the main role, she also played a small supporting part",
+      "She was in addition surprised by the unexpected ending of the film"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 8,
+    "question": "Choose the correct meaning of 'on their part' in context: 'It requires less effort on their part.'",
+    "choices": [
+      "it is part of their regular routine",
+      "it is a responsibility they share with others",
+      "it is something their parents ask them to do",
+      "it is done by them / it is their effort"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 9,
+    "question": "'It's quite likely that the map wasn't an original copy.' Choose the correct past modal form.",
+    "choices": [
+      "The map must have been an original copy",
+      "The map can't have been an original copy",
+      "The map might not have been an original copy",
+      "The map would have been an original copy"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 10,
+    "question": "'I'm sure they were not perfectly geometric.' Choose the correct past modal form.",
+    "choices": [
+      "They might have been perfectly geometric",
+      "They must have been perfectly geometric",
+      "They would have been perfectly geometric",
+      "They can't have been perfectly geometric"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 11,
+    "question": "'It is possible that it was a king's helmet.' Choose the correct past modal form.",
+    "choices": [
+      "It might have been a king's helmet",
+      "It must have been a king's helmet",
+      "It can't have been a king's helmet",
+      "It would have been a king's helmet"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 12,
+    "question": "'The helmet was most likely the most important part of his equipment.' Choose the correct past modal form.",
+    "choices": [
+      "The helmet can't have been important",
+      "The helmet must have been the most important part",
+      "The helmet might not have been very important",
+      "The helmet wouldn't have been important"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 13,
+    "question": "Choose the correctly reduced form of: 'Because he has won several awards, the actor's work is well-known.'",
+    "choices": [
+      "Because winning several awards, the actor's work is well-known",
+      "The actor's work is well-known, winning several awards",
+      "Having won several awards, the actor's work is well-known",
+      "Won several awards, the actor's work is well-known"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 14,
+    "question": "Choose the correctly reduced form of: 'As they are best friends, they enjoy working together.'",
+    "choices": [
+      "Having been best friends, they enjoy working together",
+      "They are best friends, enjoying working together",
+      "Best friends, they enjoy working together",
+      "Being best friends, they enjoy working together"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 15,
+    "question": "Choose the correctly reduced form of: 'He lost my key. He couldn't get into the house.'",
+    "choices": [
+      "Not having lost my key, he couldn't get into the house",
+      "He lost my key, not getting into the house",
+      "Losing my key, he couldn't get into the house",
+      "Having lost my key, he couldn't get into the house"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 16,
+    "question": "Cameron starred in the film although he found it difficult to read. Choose the correctly reduced form.",
+    "choices": [
+      "Cameron starred in the film despite finding it difficult to read",
+      "Cameron starred in the film, not finding it difficult to read",
+      "Finding it difficult to read, Cameron didn't star in the film",
+      "Despite not finding it difficult to read, Cameron starred in the film"
+    ],
+    "correct_answer": "a"
+  },
+  {
+    "number": 17,
+    "question": "Which expression is used to ASK FOR CLARIFICATION during informal negotiation?",
+    "choices": [
+      "I could go along with that",
+      "How would you feel about trying a different approach?",
+      "So, are you saying that we should change the whole plan?",
+      "I don't know if I would fancy that"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 18,
+    "question": "Which expression is used to show you are NOT accepting a suggestion in informal negotiation?",
+    "choices": [
+      "Fair enough",
+      "I'm happy with that",
+      "That sounds like a good idea",
+      "I don't know if I would fancy that"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 19,
+    "question": "The phrase 'Supposing we...' is used in informal negotiation to ________.",
+    "choices": [
+      "ask for clarification about a previous point",
+      "reject a suggestion politely and professionally",
+      "make a suggestion about what could be done",
+      "make a final decision after discussing all options"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 20,
+    "question": "The phrase 'So how can we resolve this?' is used to ________.",
+    "choices": [
+      "ask for clarification about a suggestion already made",
+      "accept a suggestion with complete enthusiasm",
+      "reject a suggestion and propose a better alternative",
+      "move towards making a final decision in negotiation"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 21,
+    "question": "'The ________ in his performance was amazing — it made the whole audience burst out laughing.' What is the missing performance vocabulary word?",
+    "choices": [
+      "cast",
+      "season",
+      "punchline",
+      "set"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 22,
+    "question": "'We missed yesterday's episode, so we need to ________ tonight.' Choose the correct phrase.",
+    "choices": [
+      "deliver the punchline",
+      "heckle the cast",
+      "play the lead role",
+      "catch up on the latest episode"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 23,
+    "question": "The adjective 'vibrant' describes colours or performances that are ________.",
+    "choices": [
+      "dull and lacking in energy or interest",
+      "unpleasant and difficult to look at directly",
+      "very quiet and unlikely to attract attention",
+      "full of life, energy, and bright colour"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 24,
+    "question": "The adjective 'rich' used to describe decorative designs means ________.",
+    "choices": [
+      "having a lot of money invested in its creation",
+      "using only the most expensive materials available",
+      "deep, full, and impressive in quality or appearance",
+      "belonging to a royal family or wealthy background"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 25,
+    "question": "The adjective 'subtle' used in the context of art means ________.",
+    "choices": [
+      "extremely loud and immediately noticeable from far away",
+      "skillfully done in a way that is not immediately obvious",
+      "using very few colours to create a simple design",
+      "representing a traditional cultural event or ceremony"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 26,
+    "question": "'The acting was so unconvincing that ________.'",
+    "choices": [
+      "the audience could not stop applauding enthusiastically",
+      "critics praised it as one of the best performances of the year",
+      "everyone agreed it was the most exciting show they had seen",
+      "nobody could believe in any of the characters at all"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 27,
+    "question": "'She plays the role with a ________ innocence about it.' (positive quality typical of a child)",
+    "choices": [
+      "worthless",
+      "childish",
+      "childlike",
+      "classic"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 28,
+    "question": "'The director's reaction to criticism was extremely ________.' (disapproval of behaviour that makes one seem like a child)",
+    "choices": [
+      "historic",
+      "tasteful",
+      "alive",
+      "childish"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 29,
+    "question": "Read the following excerpt: 'A more recent study found that spoilers did negatively affect people's enjoyment. 412 university students were given several short stories.' According to this text, how many university students participated in the study?",
+    "choices": [
+      "40",
+      "200",
+      "412",
+      "500"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 30,
+    "question": "Read the following excerpt: 'A more recent study found that spoilers did negatively affect people's enjoyment.' What did the study conclude about stories that had been spoiled?",
+    "choices": [
+      "They were enjoyed more because readers knew what to expect",
+      "They were considered to be less thought-provoking",
+      "They were rated higher in quality than unspoiled stories",
+      "They were not finished by most of the participants"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 31,
+    "question": "Read the following excerpt: 'We enjoy it more the second time because we are free to notice more of the detail.' What reason does the author give for re-reading a beloved book?",
+    "choices": [
+      "To understand the ending more clearly the second time",
+      "To share a summary of the story with friends",
+      "To enjoy noticing more detail because we are free from suspense",
+      "To discover hidden meanings the author included deliberately"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 32,
+    "question": "According to information about Jordan's parliament, the 80 members of the House of Deputies are ________.",
+    "choices": [
+      "appointed by the King for six-year terms",
+      "chosen by the Senate from a list of qualified candidates",
+      "given their positions by the Prime Minister",
+      "elected by the people every four years"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 33,
+    "question": "According to information about Jordan's parliament, Senators must ________.",
+    "choices": [
+      "be under the age of 40 and have a university degree",
+      "be elected by the general public in a national election",
+      "be over 40 years of age and have worked in important government positions",
+      "be chosen by the House of Deputies after a public vote"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 34,
+    "question": "According to information about Jordan's National Assembly, it consists of two houses. The upper house is ________.",
+    "choices": [
+      "the House of Deputies (Majlis Al-Nuwaab)",
+      "the House of Representatives",
+      "the Council of Ministers",
+      "the Senate (Majlis Al-Aayan)"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 35,
+    "question": "According to the article on resilience, when you cannot improve a difficult situation, you should ________.",
+    "choices": [
+      "give up and accept that things will never change",
+      "blame others and express your frustration openly",
+      "avoid thinking about the situation completely",
+      "always learn from it and what you could do differently"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 36,
+    "question": "According to the article on resilience, the support of others ________.",
+    "choices": [
+      "is unnecessary if you are naturally a resilient person",
+      "can make all the difference between being resilient and feeling overwhelmed",
+      "is only useful when provided by professional counsellors",
+      "should only be used as a last resort when all else has failed"
+    ],
+    "correct_answer": "b"
+  },
+  {
+    "number": 37,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the phrase 'the darkest evening of the year' refers to ________.",
+    "choices": [
+      "a stormy night in January during a power cut",
+      "the evening before an important journey begins",
+      "the Winter Solstice, which is the longest night of the year",
+      "a night in February when the snow is deepest"
+    ],
+    "correct_answer": "c"
+  },
+  {
+    "number": 38,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', the line 'But I have promises to keep' suggests that the speaker ________.",
+    "choices": [
+      "has forgotten the directions to his destination",
+      "is worried he will be seen stopping on someone else's land",
+      "is afraid of the dark and does not want to continue alone",
+      "has responsibilities that prevent him from staying any longer"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 39,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', how many syllables does each line of the poem contain?",
+    "choices": [
+      "6",
+      "10",
+      "12",
+      "8"
+    ],
+    "correct_answer": "d"
+  },
+  {
+    "number": 40,
+    "question": "In the poem 'Stopping by Woods on a Snowy Evening', what does the horse shaking its harness bells most likely suggest?",
+    "choices": [
+      "It is celebrating the beauty of the snowy forest",
+      "It is asking whether stopping here is a mistake",
+      "It recognises the owner of the woods passing by",
+      "It is trying to attract the attention of people in the village"
+    ],
+    "correct_answer": "b"
+  }
+]

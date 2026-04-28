@@ -11,7 +11,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$x = \\dfrac{\\pi}{2}$ أو $x = \\dfrac{3\\pi}{2}$",
-    "explanation": "جيب التمام يساوي صفراً عندما تقع الزاوية على المحور $y$ (الزوايا الربعية).\nفي الفترة $[0, 2\\pi)$ القيم هي $x = \\frac{\\pi}{2}$ و $x = \\frac{3\\pi}{2}$."
+    "explanation": "جيب التمام يساوي صفراً عندما تقع الزاوية على المحور $y$ (الزوايا الربعية)\nفي الفترة $[0, 2\\pi)$ القيم هي $x = \\dfrac{\\pi}{2}$ و $x = \\dfrac{3\\pi}{2}$"
   },
   {
     "number": 2,
@@ -25,7 +25,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$4$ حلول",
-    "explanation": "في الدورة الأولى $[0, 2\\pi)$ يوجد حلان ($x = \\pi/6, 5\\pi/6$).\nبما أن الفترة المعطاة $[0, 4\\pi)$ تمثل دورتين كاملتين، فإن عدد الحلول يتضاعف: $2 \\times 2 = 4$ حلول."
+    "explanation": "في الدورة الأولى $[0, 2\\pi)$ يوجد حلان ($x = \\pi/6, 5\\pi/6$)\nبما أن الفترة المعطاة $[0, 4\\pi)$ تمثل دورتين كاملتين، فإن عدد الحلول يتضاعف: $2 \\times 2 = 4$ حلول"
   },
   {
     "number": 3,
@@ -39,7 +39,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$x = \\dfrac{\\pi}{4},\\ \\dfrac{3\\pi}{4},\\ \\dfrac{5\\pi}{4},\\ \\dfrac{7\\pi}{4}$",
-    "explanation": "$$2\\cos^2 x = 1 \\Rightarrow \\cos x = \\pm\\frac{1}{\\sqrt{2}}$$\nهذا يعني أن الزاوية المرجعية هي $\\pi/4$ ونأخذها في الأرباع الأربعة بسبب إشارة $\\pm$."
+    "explanation": "$2\\cos^2 x = 1 \\Rightarrow \\cos x = \\pm\\frac{1}{\\sqrt{2}}$\nهذا يعني أن الزاوية المرجعية هي $\\pi/4$ ونأخذها في الأرباع الأربعة بسبب إشارة $\\pm$"
   },
   {
     "number": 4,
@@ -53,7 +53,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$x \\approx 1.37$ أو $x \\approx 4.51$",
-    "explanation": "باستخدام الآلة الحاسبة: $x = \\tan^{-1}(5) \\approx 1.37$.\nبما أن الظل موجب أيضاً في الربع الثالث، نضيف $\\pi$: $1.37 + 3.14 \\approx 4.51$."
+    "explanation": "باستخدام الآلة الحاسبة: $x = \\tan^{-1}(5) \\approx 1.37$\nبما أن الظل موجب أيضاً في الربع الثالث، نضيف $\\pi$: $1.37 + 3.14 \\approx 4.51$"
   },
   {
     "number": 5,
@@ -67,7 +67,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$x = 0,\\ \\pi,\\ \\dfrac{\\pi}{6},\\ \\dfrac{5\\pi}{6}$",
-    "explanation": "بإخراج عامل مشترك: $\\sin x(2\\sin x - 1) = 0$.\n- $\\sin x = 0 \\Rightarrow x = 0, \\pi$\n- $2\\sin x = 1 \\Rightarrow \\sin x = 1/2 \\Rightarrow x = \\pi/6, 5\\pi/6$."
+    "explanation": "بإخراج عامل مشترك: $\\sin x(2\\sin x - 1) = 0$\n- $\\sin x = 0 \\Rightarrow x = 0, \\pi$\n- $2\\sin x = 1 \\Rightarrow \\sin x = 1/2 \\Rightarrow x = \\pi/6, 5\\pi/6$"
   },
   {
     "number": 6,
@@ -81,7 +81,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$x = 0, \\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}$",
-    "explanation": "1) $\\cos x = 0 \\Rightarrow x = \\pi/2, 3\\pi/2$.\n2) $\\cos x - 1 = 0 \\Rightarrow \\cos x = 1 \\Rightarrow x = 0$.\nالحلول المجتمعة هي $\{0, \\pi/2, 3\\pi/2\}$."
+    "explanation": "1) $\\cos x = 0 \\Rightarrow x = \\pi/2, 3\\pi/2$\n2) $\\cos x - 1 = 0 \\Rightarrow \\cos x = 1 \\Rightarrow x = 0$\nالحلول المجتمعة هي $\\{0, \\pi/2, 3\\pi/2\\}$"
   },
   {
     "number": 7,
@@ -95,7 +95,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$x = \\dfrac{\\pi}{3}, \\dfrac{5\\pi}{3}$",
-    "explanation": "نحول المعادلة بدلالة الكوساين: $2(1-\\cos^2 x) - 3\\cos x = 0 \\Rightarrow 2\\cos^2 x + 3\\cos x - 2 = 0$.\nبالتحليل: $(2\\cos x - 1)(\\cos x + 2) = 0$.\n- $\\cos x = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$.\n- $\\cos x = -2$ (مرفوض)."
+    "explanation": "نحول المعادلة بدلالة الكوساين: $2(1-\\cos^2 x) - 3\\cos x = 0 \\Rightarrow 2\\cos^2 x + 3\\cos x - 2 = 0$\nبالتحليل: $(2\\cos x - 1)(\\cos x + 2) = 0$\n- $\\cos x = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$\n- $\\cos x = -2$ (مرفوض)"
   },
   {
     "number": 8,
@@ -109,7 +109,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$x = \\dfrac{\\pi}{3},\\ \\pi,\\ \\dfrac{5\\pi}{3}$",
-    "explanation": "نستخدم متطابقة ضعف الزاوية: $(2\\cos^2 x - 1) + \\cos x = 0$.\nبالترتيب والتحليل: $(2\\cos x - 1)(\\cos x + 1) = 0$.\n- $\\cos x = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$.\n- $\\cos x = -1 \\Rightarrow x = \\pi$."
+    "explanation": "نستخدم متطابقة ضعف الزاوية: $(2\\cos^2 x - 1) + \\cos x = 0$\nبالترتيب والتحليل: $(2\\cos x - 1)(\\cos x + 1) = 0$\n- $\\cos x = 1/2 \\Rightarrow x = \\pi/3, 5\\pi/3$\n- $\\cos x = -1 \\Rightarrow x = \\pi$"
   },
   {
     "number": 9,
@@ -123,7 +123,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$x = 0,\\ \\dfrac{\\pi}{2},\\ \\dfrac{3\\pi}{2}$",
-    "explanation": "بتبسيط المعادلة باستخدام متطابقات نصف الزاوية، نصل إلى $\\sin(x/2) \\cdot (-\\cos x) / \\cos(x/2) = 0$.\n1) $\\sin(x/2) = 0 \\Rightarrow x/2 = 0 \\Rightarrow x = 0$.\n2) $\\cos x = 0 \\Rightarrow x = \\pi/2, 3\\pi/2$.\nالقيمة $x=\\pi$ تجعل مقام التان غير معرف، لذا تستثنى."
+    "explanation": "بتبسيط المعادلة باستخدام متطابقات نصف الزاوية، نصل إلى $\\sin(x/2) \\cdot (-\\cos x) / \\cos(x/2) = 0$\n1) $\\sin(x/2) = 0 \\Rightarrow x/2 = 0 \\Rightarrow x = 0$\n2) $\\cos x = 0 \\Rightarrow x = \\pi/2, 3\\pi/2$\nالقيمة $x=\\pi$ تجعل مقام التان غير معرف، لذا تستثنى"
   },
   {
     "number": 10,
@@ -137,6 +137,6 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$x = \\dfrac{3\\pi}{4}$ أو $x = \\dfrac{7\\pi}{4}$",
-    "explanation": "بقسمة الطرفين على $\\cos x$ نحصل على $\\tan x = -1$.\nالظل سالب في الربعين الثاني والرابع بالزاوية المرجعية $\\pi/4$."
+    "explanation": "بقسمة الطرفين على $\\cos x$ نحصل على $\\tan x = -1$\nالظل سالب في الربعين الثاني والرابع بالزاوية المرجعية $\\pi/4$"
   }
 ]

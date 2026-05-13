@@ -11,7 +11,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$\\dfrac{-x^2}{y^2}$",
-    "explanation": "$$3x^2+3y^2\\dfrac{dy}{dx}=0 \\Rightarrow \\dfrac{dy}{dx}=\\dfrac{-x^2}{y^2}$$"
+    "explanation": "نشتق طرفي المعادلة بالنسبة لـ $x$ اشتقاقاً ضمنياً: $3x^2 + 3y^2 \\dfrac{dy}{dx} = 0$. بجعل $\\dfrac{dy}{dx}$ موضوعاً للقانون، ننقل $3x^2$ للطرف الآخر فتصبح $3y^2 \\dfrac{dy}{dx} = -3x^2$. وبالقسمة على $3y^2$ نجد أن $\\dfrac{dy}{dx} = \\dfrac{-3x^2}{3y^2} = \\dfrac{-x^2}{y^2}$ رمز الإجابة الصحيحة هو d"
   },
   {
     "number": 2,
@@ -25,7 +25,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$\\dfrac{2x-\\cos x\\cos y}{5-\\sin x\\sin y}$",
-    "explanation": "$$\\cos x\\cos y-\\sin x\\sin y\\dfrac{dy}{dx}=2x-5\\dfrac{dy}{dx}$$\n$$(5-\\sin x\\sin y)\\dfrac{dy}{dx}=2x-\\cos x\\cos y$$\n$$\\dfrac{dy}{dx}=\\dfrac{2x-\\cos x\\cos y}{5-\\sin x\\sin y}$$"
+    "explanation": "نشتق الطرف الأيسر باستخدام قاعدة الضرب: $\\cos x \\cos y + \\sin x (-\\sin y \\dfrac{dy}{dx}) = 2x - 5\\dfrac{dy}{dx}$. بعد الترتيب: $\\cos x \\cos y - \\sin x \\sin y \\dfrac{dy}{dx} = 2x - 5\\dfrac{dy}{dx}$. نجمع الحدود التي تحتوي على $\\dfrac{dy}{dx}$ في طرف واحد: $5\\dfrac{dy}{dx} - \\sin x \\sin y \\dfrac{dy}{dx} = 2x - \\cos x \\cos y$. بسحب عامل مشترك: $\\dfrac{dy}{dx}(5 - \\sin x \\sin y) = 2x - \\cos x \\cos y$. ومنه $\\dfrac{dy}{dx} = \\dfrac{2x - \\cos x \\cos y}{5 - \\sin x \\sin y}$ رمز الإجابة الصحيحة هو b"
   },
   {
     "number": 3,
@@ -39,7 +39,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$\\dfrac{-y}{2y+x}$",
-    "explanation": "$$4y\\dfrac{dy}{dx}+2y+2x\\dfrac{dy}{dx}=0$$\n$$(4y+2x)\\dfrac{dy}{dx}=-2y$$\n$$\\dfrac{dy}{dx}=\\dfrac{-y}{2y+x}$$"
+    "explanation": "نشتق الطرفين: $4y \\dfrac{dy}{dx} + (2y + 2x \\dfrac{dy}{dx}) = 0$. نجمع حدود المشتقة: $\\dfrac{dy}{dx}(4y + 2x) = -2y$. بالقسمة على المعامل: $\\dfrac{dy}{dx} = \\dfrac{-2y}{4y + 2x}$. وبقسمة البسط والمقام على 2 نجد أن $\\dfrac{dy}{dx} = \\dfrac{-y}{2y + x}$ رمز الإجابة الصحيحة هو a"
   },
   {
     "number": 4,
@@ -53,7 +53,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$\\dfrac{1}{4}$",
-    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{1}{2y}$\n\nعند $(4,2)$: $m=\\dfrac{1}{4}$"
+    "explanation": "نشتق المعادلة ضمنياً: $2y \\dfrac{dy}{dx} = 1$. ومنه فإن $\\dfrac{dy}{dx} = \\dfrac{1}{2y}$. ميل المماس هو قيمة المشتقة عند النقطة $(4,2)$، فنقوم بتعويض $y=2$ في المشتقة: $m = \\dfrac{1}{2(2)} = \\dfrac{1}{4}$ رمز الإجابة الصحيحة هو c"
   },
   {
     "number": 5,
@@ -67,7 +67,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$\\dfrac{1}{2e}$",
-    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{1}{2xy}$\n\nعند $(e,1)$: $m=\\dfrac{1}{2e}$"
+    "explanation": "نشتق الطرفين: $2y \\dfrac{dy}{dx} = \\dfrac{1}{x}$. بجعل $\\dfrac{dy}{dx}$ موضوعاً للقانون: $\\dfrac{dy}{dx} = \\dfrac{1}{2xy}$. نعوض النقطة $(e, 1)$ حيث $x=e$ و $y=1$: المشتقة تساوي $\\dfrac{1}{2(e)(1)} = \\dfrac{1}{2e}$ رمز الإجابة الصحيحة هو b"
   },
   {
     "number": 6,
@@ -81,7 +81,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$y=\\dfrac{-1}{7}x+\\dfrac{23}{7}$",
-    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{y-x^2}{y^2-x}$\n\nعند $(2,3)$: $m=\\dfrac{-1}{7}$\n\n$y-3=\\dfrac{-1}{7}(x-2) \\Rightarrow y=\\dfrac{-1}{7}x+\\dfrac{23}{7}$"
+    "explanation": "نشتق ضمنياً: $3x^2 + 3y^2 \\dfrac{dy}{dx} - (3y + 3x \\dfrac{dy}{dx}) = 0$. نعوض النقطة $(2, 3)$ لإيجاد الميل: $3(2)^2 + 3(3)^2 m - 3(3) - 3(2)m = 0 \\Rightarrow 12 + 27m - 9 - 6m = 0 \\Rightarrow 21m = -3 \\Rightarrow m = -\\dfrac{3}{21} = -\\dfrac{1}{7}$. باستخدام معادلة المماس $y - y_1 = m(x - x_1)$: نجد أن $y - 3 = -\\dfrac{1}{7}(x - 2) \\Rightarrow y = -\\dfrac{1}{7}x + \\dfrac{2}{7} + 3 = -\\dfrac{1}{7}x + \\dfrac{23}{7}$ رمز الإجابة الصحيحة هو d"
   },
   {
     "number": 7,
@@ -95,7 +95,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$\\dfrac{-1}{y(x-1)^2}$",
-    "explanation": "$$2y\\dfrac{dy}{dx}=\\dfrac{(x-1)-(x+1)}{(x-1)^2}=\\dfrac{-2}{(x-1)^2}$$\n$$\\dfrac{dy}{dx}=\\dfrac{-1}{y(x-1)^2}$$"
+    "explanation": "نشتق الطرفين، الطرف الأيسر ضمنياً والأيمن بقاعدة القسمة: $2y \\dfrac{dy}{dx} = \\dfrac{(x-1)(1) - (x+1)(1)}{(x-1)^2} = \\dfrac{x - 1 - x - 1}{(x-1)^2} = \\dfrac{-2}{(x-1)^2}$. بالقسمة على $2y$: نجد أن $\\dfrac{dy}{dx} = \\dfrac{-2}{2y(x-1)^2} = \\dfrac{-1}{y(x-1)^2}$ رمز الإجابة الصحيحة هو c"
   },
   {
     "number": 8,
@@ -109,7 +109,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$\\dfrac{-4}{y^3}$",
-    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{-x}{y}$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{-y^2-x^2}{y^3}=\\dfrac{-(x^2+y^2)}{y^3}=\\dfrac{-4}{y^3}$"
+    "explanation": "المشتقة الأولى هي $2x + 2y y' = 0 \\Rightarrow y' = -\\dfrac{x}{y}$. نشتق مرة أخرى باستخدام قاعدة القسمة: $y'' = -\\dfrac{(y)(1) - (x)(y')}{y^2}$. نعوض $y' = -\\dfrac{x}{y}$ في المعادلة: $y'' = -\\dfrac{y - x(-x/y)}{y^2} = -\\dfrac{y + x^2/y}{y^2} = -\\dfrac{y^2 + x^2}{y^3}$. بما أن $x^2 + y^2 = 4$ من السؤال الأصلي، فإن $y'' = \\dfrac{-4}{y^3}$ رمز الإجابة الصحيحة هو a"
   },
   {
     "number": 9,
@@ -123,7 +123,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$\\dfrac{-4}{3}$",
-    "explanation": "$\\dfrac{dy}{dx}=\\dfrac{4t(t^2-4)}{3t(t+2)}=\\dfrac{4(t-2)}{3}$\n\nعند $t=1$: $\\dfrac{4(-1)}{3}=\\dfrac{-4}{3}$"
+    "explanation": "نجد $\\dfrac{dx}{dt} = 3t^2 + 6t$ و $\\dfrac{dy}{dt} = 4t^3 - 16t$. باستخدام قاعدة السلسلة: $\\dfrac{dy}{dx} = \\dfrac{dy/dt}{dx/dt} = \\dfrac{4t^3 - 16t}{3t^2 + 6t}$. عند $t=1$: $\\dfrac{dy}{dx} = \\dfrac{4(1)^3 - 16(1)}{3(1)^2 + 6(1)} = \\dfrac{4 - 16}{3 + 6} = \\dfrac{-12}{9} = -\\dfrac{4}{3}$ رمز الإجابة الصحيحة هو b"
   },
   {
     "number": 10,
@@ -137,6 +137,6 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$\\dfrac{4}{27}$",
-    "explanation": "$\\dfrac{d}{dt}\\left(\\dfrac{4(t-2)}{3}\\right)=\\dfrac{4}{3}$\n\n$\\dfrac{d^2y}{dx^2}=\\dfrac{4/3}{3t^2+6t}$\n\nعند $t=1$: $\\dfrac{4/3}{9}=\\dfrac{4}{27}$"
+    "explanation": "المشتقة الأولى كاقتران في $t$ هي $y' = \\dfrac{4t(t^2-4)}{3t(t+2)} = \\dfrac{4(t-2)(t+2)}{3(t+2)} = \\dfrac{4(t-2)}{3}$. نجد مشتقة $y'$ بالنسبة لـ $t$: $\\dfrac{d}{dt}(y') = \\dfrac{4}{3}$. المشتقة الثانية $\\dfrac{d^2y}{dx^2} = \\dfrac{d(y')/dt}{dx/dt} = \\dfrac{4/3}{3t^2 + 6t}$. عند $t=1$: $\\dfrac{4/3}{3(1)^2 + 6(1)} = \\dfrac{4/3}{9} = \\dfrac{4}{27}$ رمز الإجابة الصحيحة هو d"
   }
 ]

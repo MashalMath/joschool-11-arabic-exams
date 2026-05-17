@@ -1,0 +1,422 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "ناتج $\\int\\frac{e^{3x}-4~e^{x}}{2-e^{x}} dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{1}{2}e^{2x}+2e^{x}+C$",
+      "$-\\frac{1}{2}e^{2x}-2e^{x}+C$",
+      "$-2~e^{2x}-\\frac{1}{2}e^{x}+C$",
+      "$2e^{2x}+\\frac{1}{2}e^{x}+C$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بتحليل البسط كفرق بين مربعين واختصار المقدار المشترك مع المقام ثم إجراء التكامل المباشر لكل حد"
+  },
+  {
+    "question_number": 2,
+    "question_text": "ناتج $\\int sin^{2}\\frac{1}{2}x~dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$2~x+2~sin~x+C$",
+      "$\\frac{1}{2}x+\\frac{1}{2}sin~x+C$",
+      "$2~x-2~sin~x+C$",
+      "$\\frac{1}{2}x-\\frac{1}{2}sin~x+C$"
+    ],
+    "correct_answer": "d",
+    "explanation": "باستخدام متطابقة تقليص القوة للاقتران الجيبي وتحويلها بدلالة جيب التمام ثم إجراء التكامل"
+  },
+  {
+    "question_number": 3,
+    "question_text": "قيمة $\\int_{0}^{\\frac{\\pi}{4}}e^{tan~x+ln(sec^{2}x)} dx$ هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$e-1$",
+      "$e+1$",
+      "$2e-1$",
+      "$2e+1$"
+    ],
+    "correct_answer": "a",
+    "explanation": "بتبسيط المقدار المرفوع للأسس باستخدام قوانين اللوغاريتمات ثم إجراء التكامل بالتعويض"
+  },
+  {
+    "question_number": 4,
+    "question_text": "يمثل الاقتران $P(x)$ سعر القطعة الواحدة (بالدينار) من منتج معين، حيث $x$ عدد القطع المبيعة من المنتج بالمئات. إذا كان $P^{\\prime}(x)=\\frac{-600x}{\\sqrt{(x^{2}+16)^{3}}}$ هو معدل التغير في سعر بيع القطعة الواحدة من المنتج، وكان سعر بيع القطعة الواحدة هو $150\\text{ JD}$ عندما يكون عدد القطع المبيعة من المنتج $300$ قطعة، فإن $P(x)$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{300}{\\sqrt{x^{2}+16}}+60$",
+      "$\\frac{600}{\\sqrt{x^{2}+16}}+30$",
+      "$\\frac{300}{\\sqrt[5]{(x^{2}+16)^{3}}}+60$",
+      "$\\frac{600}{\\sqrt[5]{(x^{2}+16)^{3}}}+30$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بإجراء التكامل بالتعويض لإيجاد قاعدة الاقتران العام ثم تعويض قيمة الشرط الأولي لإيجاد الثابت"
+  },
+  {
+    "question_number": 5,
+    "question_text": "ناتج $\\int\\frac{2+3~sin~x}{cos^{2}x}dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$2~tan~x+3~csc~x+C$",
+      "$3~tan~x+2~csc~x+C$",
+      "$3~tan~x+2~sec~x+C$",
+      "$2~tan~x+3~sec~x+C$"
+    ],
+    "correct_answer": "d",
+    "explanation": "بتوزيع البسط على المقام وتبسيط الحدود الناتجة لتصبح على صيغة قاطع تربيع وقاطع في ظل"
+  },
+  {
+    "question_number": 6,
+    "question_text": "إذا تحرك جسم في مسار مستقيم، وكانت سرعته تعطى بالاقتران $v(t)=4~cos~t$ ، حيث $v$ سرعته بالمتر لكل ثانية، والزمن بالثواني، فإن المسافة الكلية بالأمتار التي قطعها الجسم في الفترة $[0, \\pi]$ هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$4$",
+      "$6$",
+      "$8$",
+      "$12$"
+    ],
+    "correct_answer": "c",
+    "explanation": "بحساب تكامل القيمة المطلقة لاقتران السرعة المتجهة على الفترة المعطاة مع مراعاة إعادة التعريف"
+  },
+  {
+    "question_number": 7,
+    "question_text": "ناتج $\\int 2^{2^{x}} \\cdot 2^{x} dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{2^{3x}}{(ln~2)^{2}}+C$",
+      "$\\frac{2^{3x}}{ln~2}+C$",
+      "$\\frac{2^{2^{x}}}{(ln~2)^{2}}+C$",
+      "$\\frac{2^{2^{x}}}{ln~2}+C$"
+    ],
+    "correct_answer": "c",
+    "explanation": "باستخدام التكامل بالتعويض عن طريق فرض القوة العليا المرفوعة للاقتران الأسي"
+  },
+  {
+    "question_number": 8,
+    "question_text": "ناتج $\\int\\frac{sin^{4}x}{cos^{6}x}dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{1}{5}tan^{5}x+C$",
+      "$\\frac{1}{5}sec^{5}x+C$",
+      "$\\frac{1}{3}tan^{3}x+C$",
+      "$\\frac{1}{3}sec^{3}x+C$"
+    ],
+    "correct_answer": "a",
+    "explanation": "بفصل المقادير الكسرية إلى ظل مرفوع للقوة الرابعة مضروباً في قاطع تربيع ثم حلها بالتعويض"
+  },
+  {
+    "question_number": 9,
+    "question_text": "ناتج $\\int\\frac{sin~x}{sin~3x~sin~2x}dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{1}{2}ln|sin~2x|+\\frac{1}{3}ln|sin~3x|+C$",
+      "$\\frac{1}{3}ln|sin~3x|-\\frac{1}{2}ln|sin~2x|+C$",
+      "$\\frac{1}{3}ln|sin~3x|+\\frac{1}{2}ln|sin~2x|+C$",
+      "$\\frac{1}{2}ln|sin~2x|-\\frac{1}{3}ln|sin~3x|+C$"
+    ],
+    "correct_answer": "d",
+    "explanation": "باستبدال جيب الزاوية في البسط بمتطابقة الفرق بين زاويتين ثم التوزيع وإجراء التكامل"
+  },
+  {
+    "question_number": 10,
+    "question_text": "قيمة $\\int_{\\ln 2}^{\\ln 5} \\frac{e^{x}}{\\sqrt{e^{x}-1}} dx$ هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\frac{1}{4}$",
+      "$1$",
+      "$2$",
+      "$4$"
+    ],
+    "correct_answer": "c",
+    "explanation": "بالتكامل بالتعويض للاقتران الجذري وتغيير حدود التكامل وفقاً للمتغير الجديد المفرض"
+  },
+  {
+    "question_number": 11,
+    "question_text": "ناتج $\\int\\frac{6x^{2}-2x-10}{3x^{2}-2x-8}dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$2x+ln|x-2|+\\frac{1}{3}ln|3x+4|+C$",
+      "$2~x+ln|x-2|-\\frac{1}{3}ln|3x+4|+C$",
+      "$2x+ln|x+4|+\\frac{5}{3}ln|3x-2|+C$",
+      "$2~x+ln|x+4|-\\frac{5}{3}ln|3x-2|+C$"
+    ],
+    "correct_answer": "a",
+    "explanation": "باستخدام القسمة الطويلة لتبسيط الكسر بسبب تساوي الدرجات ثم تحليل المقام لكسور جزئية"
+  },
+  {
+    "question_number": 12,
+    "question_text": "ناتج $\\int x^{5}sin~x^{2}dx$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$-\\frac{1}{2}x^{4}cos~x^{2}-x^{2}sin~x^{2}-cos~x^{2}+C$",
+      "$-\\frac{1}{2}x^{4}cos~x^{2}+x^{2}sin~x^{2}-cos~x^{2}+C$",
+      "$-\\frac{1}{2}x^{4}cos~x^{2}+x^{2}sin~x^{2}+cos~x^{2}+C$",
+      "$-\\frac{1}{2}x^{4}cos~x^{2}-x^{2}sin~x^{2}+cos~x^{2}+C$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بالتعويض أولاً بفرض الزاوية التربيعية ثم استخدام طريقة الأجزاء لحل المتغير الجديد المتولد"
+  },
+  {
+    "question_number": 13,
+    "question_text": "إذا كانت مساحة المنطقة المحصورة بين منحنى الاقتران $f(x)=\\frac{3}{4x}$ حيث $x\\ne0$ والمحور $x$ والمستقيمين: $x=e$ ، $x=a$ حيث $a>e$ تساوي $3$ وحدات مربعة، فإن قيمة الثابت $a$ هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$e^{4}$",
+      "$e^{5}$",
+      "$e^{6}$",
+      "$e^{7}$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بإجراء التكامل المحدود اللوغاريتمي ومساواة الناتج بالقيمة المعطاة لحل المعادلة الأسية"
+  },
+  {
+    "question_number": 14,
+    "question_text": "يبين التمثيل البياني الآتي منحنى الاقتران $f(x)=2x~ln~x$ ، اعتمادًا على هذا التمثيل البياني فإن مساحة المنطقة المغلقة بالوحدات المربعة هي",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/7LGKzk5p/IMG-20260517-072038-707.jpg",
+    "options": [
+      "$\\frac{3e^{2}}{2}+\\frac{1}{2e^{2}}$",
+      "$\\frac{3e^{2}}{2}-\\frac{1}{2e^{2}}$",
+      "$\\frac{3e^{2}}{2}+\\frac{2}{e^{2}}$",
+      "$\\frac{3e^{2}}{2}-\\frac{2}{e^{2}}$"
+    ],
+    "correct_answer": "a",
+    "explanation": "بحساب المساحة عبر تكامل الاقتران اللوغاريتمي بالأجزاء بين الحدين الموضحين بالرسم البياني"
+  },
+  {
+    "question_number": 15,
+    "question_text": "اعتمادًا على التمثيل البياني الآتي، فإن حجم المجسم الناتج عن دوران المنطقة المظللة حول المحور $x$ بالوحدات المكعبة هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/cHGB88yc/IMG-20260517-072655-959.jpg",
+    "options": [
+      "$72 \\pi$",
+      "$36 \\pi$",
+      "$\\frac{256\\pi}{3}$",
+      "$\\frac{128\\pi}{3}$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بتطبيق قانون حجم الدوران حول المحور السيني للمنطقة المحصورة بين منحنى الدائرة والمستقيم الأفقي"
+  },
+  {
+    "question_number": 16,
+    "question_text": "إذا كانت المعادلة التفاضلية : $\\frac{dy}{dx}-\\frac{y}{x}=0$ تمثل ميل المماس لمنحنى العلاقة التي يمر منحناها بالنقطة $(4, 2)$ ، فإن قاعدة هذه العلاقة هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$y=2x-8$",
+      "$y=2x$",
+      "$y=-2x+8$",
+      "$y=-2x$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بفصل المتغيرات وإجراء التكامل للطرفين ثم استخدام النقطة المعطاة لتحديد قيمة الثابت عدديًا"
+  },
+  {
+    "question_number": 17,
+    "question_text": "في متوازي المستطيلات الآتي، فإن متجه الإزاحة من النقطة $A$ إلى النقطة $B$ هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/QxC1Cq9w/IMG-20260517-072915-697.jpg",
+    "options": [
+      "$(0, 0, -5)$",
+      "$(4, 3, 0)$",
+      "$(0, -3, -5)$",
+      "$(-4, -3, -5)$"
+    ],
+    "correct_answer": "d",
+    "explanation": "بطرح إحداثيات نقطة البداية الفضائية من إحداثيات نقطة النهاية لتحديد مركبات الإزاحة الثلاث"
+  },
+  {
+    "question_number": 18,
+    "question_text": "متوازي أضلاع $ABCD$ ، متجهات الموقع للنقاط $A, B, C$ على الترتيب هي: $(1, 1, 2)$ و $(2, 1, 5)$ و $(4, 0, 5)$ ما متجه الموقع للنقطة $D$",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$(3,0,2)$",
+      "$(3,0,-2)$",
+      "$(5,2,8)$",
+      "$(5,-2,8)$"
+    ],
+    "correct_answer": "a",
+    "explanation": "باعتماد تساوي المتجهات المتقابلة في متوازي الأضلاع لحساب مركبات النقطة الرابعة المجهولة"
+  },
+  {
+    "question_number": 19,
+    "question_text": "في الشكل الآتي $ABC$ مثلث، فيه: $\\vec{NM}=\\vec{BA}$ و $\\vec{CM}=2\\vec{NM}$ ، المتجه $\\vec{NB}$ بدلالة $\\vec{a}$ و $\\vec{b}$ هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/pTVy72K4/IMG-20260517-073213-884.jpg",
+    "options": [
+      "$2\\vec{a}-\\vec{b}$",
+      "$\\vec{b}-2\\vec{a}$",
+      "$3\\vec{a}-4\\vec{b}$",
+      "$3\\vec{b}-4\\vec{a}$"
+    ],
+    "correct_answer": "a",
+    "explanation": "باستعمال قواعد جمع المتجهات الهندسية والتعويض بالروابط النسبية المعطاة لكل ضلع"
+  },
+  {
+    "question_number": 20,
+    "question_text": "إذا كان $\\vec{s}=2\\hat{i}-5a\\vec{k}$ يوازي $\\vec{q}=-6\\hat{i}+(a+1)\\hat{j}+c\\vec{k}$ ، فإن قيمة الثابت $c$ هي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$-1$",
+      "$1$",
+      "$-15$",
+      "$15$"
+    ],
+    "correct_answer": "c",
+    "explanation": "من شرط التوازي تتناسب المركبات المتناظرة حيث نجد المعامل أولاً ثم نحسب قيمة الثابت المجهول"
+  },
+  {
+    "question_number": 21,
+    "question_text": "يمثل : $\\vec{r}=\\begin{pmatrix}-2\\\\1\\\\-6\\end{pmatrix}+t\\begin{pmatrix}4\\\\2\\\\3\\end{pmatrix}$ معادلة المستقيم $l$ ، الإحداثي $x$ للنقطة الواقعة على المستقيم $l$ في المستوى $xy$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$2$",
+      "$6$",
+      "$-4$",
+      "$-10$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بجعل إحداثي المحور العيني مساوياً للصفر لإيجاد قيمة الوسيط تليها خطوة التعويض في المحور السيني"
+  },
+  {
+    "question_number": 22,
+    "question_text": "إذا كان : $\\vec{u}\\cdot\\vec{v}=-\\vec{v}\\cdot\\vec{u}$ ، فإن قياس الزاوية $\\theta$ بين المتجهين $\\vec{v}$ و $\\vec{u}$ هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$\\theta=0$",
+      "$\\theta=\\frac{\\pi}{2}$",
+      "$\\theta=\\frac{\\pi}{2}$",
+      "$\\theta=\\pi$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بما أن الضرب القياسي تبديلي فإن المعادلة تعني أن حاصل الضرب القياسي صفر مما يدل على تعامدهما"
+  },
+  {
+    "question_number": 23,
+    "question_text": "إذا كانت $\\vec{r}=(2,-1,4)+t(5,3,2)$ معادلة متجهة للمستقيم $l_{1}$ ، وكانت $\\vec{r}=(-3,5,1)+u(0,2,-6)$ معادلة متجهة للمستقيم $l_{2}$ ، فإن قياس الزاوية المنفرجة بين المستقيم $l_{1}$ والمستقيم $l_{2}$ إلى أقرب درجة يساوي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$99^{\\circ}$",
+      "$101^{\\circ}$",
+      "$105^{\\circ}$",
+      "$120^{\\circ}$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بحساب جيب تمام الزاوية الحادة بين متجهات اتجاه المستقيمين ثم إيجاد الزاوية المكملة لها"
+  },
+  {
+    "question_number": 24,
+    "question_text": "إذا كانت $\\vec{r}=2\\hat{i}+3\\hat{j}-\\hat{k}+t(4\\hat{j}+3\\hat{k})$ معادلة متجهة للمستقيم $l$ والنقطة $P(2,7,-3)$ غير واقعة على المستقيم $l$ ، فإن البعد بين النقطة $P$ والمستقيم $l$ يساوي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$2$",
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "correct_answer": "c",
+    "explanation": "باستخدام قانون البعد العمودي الفضائي المعتمد على الضرب التقاطعي لمتجه النقطة مع متجه الاتجاه"
+  },
+  {
+    "question_number": 25,
+    "question_text": "إذا كان $X\\sim GEO(0.7)$ ، فإن $P(X>3)$ يساوي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$0.063$",
+      "$0.049$",
+      "$0.027$",
+      "$0.081$"
+    ],
+    "correct_answer": "c",
+    "explanation": "بتطبيق قاعدة الاحتمال التراكمي العكسي للتوزيع الهندسي عند الفشل المتتالي لثلاث محاولات"
+  },
+  {
+    "question_number": 26,
+    "question_text": "إذا كان : $X\\sim B(n,p)$ ، وكان $P(X=0)=(0.8)^{10}$ ، فإن التوقع للمتغير العشوائي $X$ يساوي",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$10$",
+      "$8$",
+      "$3$",
+      "$2$"
+    ],
+    "correct_answer": "d",
+    "explanation": "بتحليل صيغة الاحتمال الصفري لاستخراج معالم التوزيع ثم حساب القيمة المتوقعة بضرب المعلمتين"
+  },
+  {
+    "question_number": 27,
+    "question_text": "وجد معلم الرياضيات أن $3$ طلاب من بين $5$ طلاب ينجحون في اختبار قصير، إذا تقدم للاختبار $30$ طالبا فإن احتمال أن ينجح جميع الطلاب هو",
+    "has_image": false,
+    "image_url": null,
+    "options": [
+      "$(\\frac{3}{5})^{30}$",
+      "$(\\frac{2}{5})^{29}$",
+      "$\\binom{30}{1}(\\frac{3}{5})(\\frac{2}{5})^{29}$",
+      "$\\binom{30}{1}(\\frac{3}{5})^{30}$"
+    ],
+    "correct_answer": "a",
+    "explanation": "بتطبيق قانون توزيع ذات الحدين على حالة النجاح الكامل لجميع أفراد العينة التجريبية المحددة"
+  },
+  {
+    "question_number": 28,
+    "question_text": "إذا مثل كل من المنحنيين الآتيين توزيعًا طبيعيًا، معتمدًا عليهما، فإن الخيار الصحيح فيما يأتي هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/G2S35vLD/IMG-20260517-073446-077.jpg",
+    "options": [
+      "$\\mu_{A}>\\mu_{B}, \\sigma_{A}>\\sigma_{B}$",
+      "$\\mu_{A}=\\mu_{B}, \\sigma_{A}>\\sigma_{B}$",
+      "$\\mu_{A}=\\mu_{B}, \\sigma_{A}<\\sigma_{B}$",
+      "$\\mu_{A}<\\mu_{B}, \\sigma_{A}<\\sigma_{B}$"
+    ],
+    "correct_answer": "c",
+    "explanation": "الوسطان متساويان لتماثلهما حول نفس الخط الرأسي والانحراف الأكبر يخص المنحنى الأكثر تشتتاً وافتطاحاً"
+  },
+  {
+    "question_number": 29,
+    "question_text": "إذا دل المتغير العشوائي $X$ على كتلة عبوة من السكر بالجرام تنتجها آلة تعبئة، وكان $X$ يتبع توزيعا طبيعيا بحيث $X\\sim N(1000,10^{2})$ فإن احتمال أن تكون كتلة عبوة مختارة عشوائيًا أكبر من $1006.3$ هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/3RWYmWX7/IMG-20260517-073648-501.jpg",
+    "options": [
+      "$0.7357$",
+      "$0.2643$",
+      "$0.7643$",
+      "$0.2357$"
+    ],
+    "correct_answer": "b",
+    "explanation": "بتحويل القيمة المعطاة لعلامة معيارية وحساب الاحتمال المقابل لها من الجدول المرفق بالامتحان"
+  },
+  {
+    "question_number": 30,
+    "question_text": "يدل المتغير العشوائي الطبيعي $X\\sim N(150,\\sigma^{2})$ على نوع من البطاريات السائلة (بالساعات)، إذا كان $23.58\\%$ من هذه البطاريات يزيد عمرها على $157.2$ ، فإن الانحراف المعياري لعمر البطاريات هو",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/3RWYmWX7/IMG-20260517-073648-501.jpg",
+    "options": [
+      "$7.20$",
+      "$100$",
+      "$10$",
+      "$51.84$"
+    ],
+    "correct_answer": "c",
+    "explanation": "بإيجاد القيمة المعيارية المناسبة للمساحة المعطاة يميناً ثم حل معادلة الانحراف المعياري مجهولة المعالم"
+  }
+]

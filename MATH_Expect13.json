@@ -274,7 +274,7 @@
   {
     "number": 18,
     "topic": "متجهات",
-    "question": "إذا كان: $\\vec{v}=\\langle -4,20,-5 \\rangle$، فإن متجه الوحدة في اتجاه المتجه $\\vec{v}$ هو:",
+    "question": "إذا كان: $\\vec{v}=\\langle -5,20,-4 \\rangle$، فإن متجه الوحدة في اتجاه المتجه $\\vec{v}$ هو:",
     "choices": [
       "$\\langle \\frac{5}{441}, \\frac{-20}{441}, \\frac{4}{441} \\rangle$",
       "$\\langle \\frac{-5}{21}, \\frac{20}{21}, \\frac{-4}{21} \\rangle$",

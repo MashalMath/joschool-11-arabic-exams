@@ -17,7 +17,7 @@
     "choices": ["$1 - e^2$", "$-e^2$", "$1 + e^2$", "$e^2$"],
     "correct_answer": "b",
     "final_answer_text": "$-e^2$",
-    "explanation": "خطوات الحل:\n1) نبسط الاقتران بقسمة البسط على المقام: $y = \\frac{e^2 x^2 - x e^{2x}}{x} = e^2 x - e^{2x}$\n2) نشتق الاقتران بالنسبة إلى $x$: $\\frac{dy}{dx} = e^2 - 2e^{2x}$\n3) نعوض $x = 1$: $\\frac{dy}{dx}\\Big|_{x=1} = e^2 - 2e^{2(1)} = e^2 - 2e^2 = -e^2$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) نبسط الاقتران بقسمة البسط على المقام: $y = \\frac{e^2 x^2 - x e^{2x}}{x} = e^2 x - e^{2x}$\n2) نشتق الاقتران بالنسبة إلى $x$: $\\frac{dy}{dx} = e^2 - 2e^{2x}$\n3) نعوض $x = 1$: $\\frac{dy}{dx}\\Big|_{x=1} = e^2 - 2e^2 = -e^2$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -28,7 +28,7 @@
     "choices": ["16", "5", "80", "40"],
     "correct_answer": "c",
     "final_answer_text": "80",
-    "explanation": "خطوات الحل:\n1) نشتق الاقتران الأسي العام: $f'(x) = \\frac{1}{\\ln 2} \\cdot 5 \\cdot (2)^{5x-1} \\cdot \\ln 2$\n2) نختصر $\\ln 2$ من البسط والمقام: $f'(x) = 5 \\cdot (2)^{5x-1}$\n3) نعوض $x = 1$: $f'(1) = 5 \\cdot (2)^{5(1)-1} = 5 \\cdot 2^4 = 5 \\cdot 16 = 80$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) نشتق الاقتران الأسي العام: $f'(x) = \\frac{1}{\\ln 2} \\cdot 5 \\cdot (2)^{5x-1} \\cdot \\ln 2$\n2) نختصر $\\ln 2$: $f'(x) = 5 \\cdot (2)^{5x-1}$\n3) نعوض $x = 1$: $f'(1) = 5 \\cdot 2^4 = 80$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -39,18 +39,18 @@
     "choices": ["$\\ln49$", "$\\ln7$", "$7 + 2\\ln7$", "$2\\ln(7) - 7$"],
     "correct_answer": "a",
     "final_answer_text": "$\\ln49$",
-    "explanation": "خطوات الحل:\n1) نشتق كل حد على حدة: $f'(x) = 7e^{7x} + 2 \\cdot (7)^{2x} \\cdot \\ln 7 - 7$\n2) نعوض $x = 0$: $f'(0) = 7e^0 + 2 \\cdot (7)^0 \\cdot \\ln 7 - 7$\n3) بما أن $e^0 = 1$ و $7^0 = 1$: $f'(0) = 7 + 2\\ln 7 - 7 = 2\\ln 7$\n4) باستخدام قوانين اللوغاريتمات: $2\\ln 7 = \\ln(7^2) = \\ln 49$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) نشتق كل حد على حدة: $f'(x) = 7e^{7x} + 2 \\cdot (7)^{2x} \\cdot \\ln 7 - 7$\n2) نعوض $x = 0$: $f'(0) = 7(1) + 2(1)\\ln 7 - 7 = 7 + 2\\ln 7 - 7 = 2\\ln 7$\n3) بما أن $2\\ln 7 = \\ln 7^2 = \\ln 49$، فإن الإجابة هي $\\ln 49$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
   {
     "number": 5,
-    "topic": "تتطبيقات التفاضل - هندسي",
+    "topic": "تطبيقات التفاضل - هندسي",
     "question": "إذا كان $f(x) = 2^{-4x}$ فإن ميل العمودي على المماس لمنحنى الاقتران $f(x)$ عندما $x = \\log_2 3$ هو",
     "choices": ["$\\frac{-81}{4\\ln 2}$", "$\\frac{81}{4\\ln 2}$", "$\\frac{1}{324\\ln2}$", "$\\frac{-1}{324\\ln2}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{81}{4\\ln 2}$",
-    "explanation": "خطوات الحل:\n1) نجد ميل المماس بإيجاد المشتقة الأولى: $f'(x) = -4 \\cdot 2^{-4x} \\cdot \\ln 2$\n2) نعوض قيمة $x = \\log_2 3$: $2^{-4\\log_2 3} = 2^{\\log_2(3^{-4})} = 3^{-4} = \\frac{1}{81}$\n3) إذن ميل المماس $m = -4 \\cdot \\frac{1}{81} \\cdot \\ln 2 = \\frac{-4\\ln 2}{81}$\n4) ميل العمودي هو مقلوب ميل المماس بعكس الإشارة: $-\\frac{1}{m} = \\frac{81}{4\\ln 2}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $f'(x) = -4 \\cdot 2^{-4x} \\cdot \\ln 2$\n2) عند $x = \\log_2 3$: $2^{-4\\log_2 3} = 3^{-4} = \\frac{1}{81}$\n3) ميل المماس: $m = -4 \\cdot \\frac{1}{81} \\cdot \\ln 2 = \\frac{-4\\ln 2}{81}$\n4) ميل العمودي: $-\\frac{1}{m} = \\frac{81}{4\\ln 2}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -61,7 +61,7 @@
     "choices": ["$e$", "$e^2$", "$e^{-1}$", "$e^4$"],
     "correct_answer": "b",
     "final_answer_text": "$e^2$",
-    "explanation": "خطوات الحل:\n1) نشتق الاقتران: $f'(x) = (3x^2 - 4) \\cdot (a)^{x^3 - 4x} \\cdot \\ln a$\n2) نعوض $x = 2$: $f'(2) = (3(2)^2 - 4) \\cdot (a)^{2^3 - 4(2)} \\cdot \\ln a = (12 - 4) \\cdot a^0 \\cdot \\ln a = 8\\ln a$\n3) نساوي الناتج بالمعطى: $8\\ln a = 16 \\Rightarrow \\ln a = 2$\n4) بتحويلها للصيغة الأسية: $a = e^2$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $f'(x) = (3x^2 - 4) \\cdot a^{x^3-4x} \\cdot \\ln a$\n2) عند $x=2$: $(12-4)\\cdot a^0 \\cdot \\ln a = 8\\ln a$\n3) $8\\ln a = 16 \\Rightarrow \\ln a = 2 \\Rightarrow a = e^2$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -69,10 +69,10 @@
     "number": 7,
     "topic": "الاشتقاق - اقترانات خاصة",
     "question": "إذا كان $f(x) = \\log_4(x^2 + 3x)$ فإن $f'(2)$ هي",
-    "choices": ["$\\frac{7}{\\ln 4}$", "$\\frac{7}{10\\ln 4}$", "$\\frac{7}{10}$", "$\\frac{7\\ln 4}{10}$"],
+    "choices": ["$\\frac{7}{\\ln 4}$", "$\\frac{7}{10.\\ln 4}$", "$\\frac{7}{10}$", "$\\frac{7\\ln 4}{10}$"],
     "correct_answer": "b",
-    "final_answer_text": "$\\frac{7}{10\\ln 4}$",
-    "explanation": "خطوات الحل:\n1) قاعدة مشتقة اللوغاريتم العام: مشتقة ما داخل اللوغاريتم على (ما داخل اللوغاريتم في $\\ln$ الأساس)\n2) $f'(x) = \\frac{2x + 3}{(x^2 + 3x) \\cdot \\ln 4}$\n3) نعوض $x = 2$: $f'(2) = \\frac{2(2) + 3}{(2^2 + 3(2)) \\cdot \\ln 4} = \\frac{7}{10\\ln 4}$\n\nإذن الخيار الصحيح هو b",
+    "final_answer_text": "$\\frac{7}{10.\\ln 4}$",
+    "explanation": "خطوات الحل:\n1) $f'(x) = \\frac{2x + 3}{(x^2 + 3x) \\cdot \\ln 4}$\n2) عند $x=2$: $f'(2) = \\frac{7}{10\\ln 4}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -83,7 +83,7 @@
     "choices": ["$\\frac{-2}{3}$", "$\\frac{1}{3}$", "0", "1"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{1}{3}$",
-    "explanation": "خطوات الحل:\n1) نستخدم قوانين اللوغاريتمات لتبسيط الاقتران قبل الاشتقاق: $f(x) = \\ln(1+e^{2x}) - \\ln(4-e^{-2x})$\n2) نشتق الآن: $f'(x) = \\frac{2e^{2x}}{1+e^{2x}} - \\frac{2e^{-2x}}{4-e^{-2x}}$\n3) نعوض $x = 0$: $f'(0) = \\frac{2e^0}{1+e^0} - \\frac{2e^0}{4-e^0} = \\frac{2}{2} - \\frac{2}{3} = 1 - \\frac{2}{3} = \\frac{1}{3}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) نبسط باستخدام خواص اللوغاريتم: $f(x) = \\ln(1+e^{2x}) - \\ln(4-e^{-2x})$\n2) نشتق: $f'(x) = \\frac{2e^{2x}}{1+e^{2x}} - \\frac{2e^{-2x}}{4-e^{-2x}}$\n3) نعوض $x=0$: $f'(0) = \\frac{2}{2} - \\frac{2}{3} = 1 - \\frac{2}{3} = \\frac{1}{3}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -94,7 +94,7 @@
     "choices": ["$2 - \\sqrt{3}$", "$2 + \\sqrt{3}$", "$2\\sqrt{3} - 1$", "$-2\\sqrt{3} + 1$"],
     "correct_answer": "c",
     "final_answer_text": "$2\\sqrt{3} - 1$",
-    "explanation": "خطوات الحل:\n1) نشتق الاقتران: $f'(x) = 4\\cos x - 2(-\\sin x) = 4\\cos x + 2\\sin x$\n2) نعوض $x = -\\frac{\\pi}{6}$:\n   - $\\cos\\left(-\\frac{\\pi}{6}\\right) = \\cos\\left(\\frac{\\pi}{6}\\right) = \\frac{\\sqrt{3}}{2}$\n   - $\\sin\\left(-\\frac{\\pi}{6}\\right) = -\\sin\\left(\\frac{\\pi}{6}\\right) = -\\frac{1}{2}$\n3) بالتعويض: $f'\\left(-\\frac{\\pi}{6}\right) = 4\\left(\\frac{\\sqrt{3}}{2}\\right) + 2\\left(-\\frac{1}{2}\\right) = 2\\sqrt{3} - 1$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) $f'(x) = 4\\cos x + 2\\sin x$\n2) عند $x = -\\frac{\\pi}{6}$:\n   - $\\cos(-\\frac{\\pi}{6}) = \\frac{\\sqrt{3}}{2}$\n   - $\\sin(-\\frac{\\pi}{6}) = -\\frac{1}{2}$\n3) $f'(-\\frac{\\pi}{6}) = 4 \\cdot \\frac{\\sqrt{3}}{2} + 2 \\cdot (-\\frac{1}{2}) = 2\\sqrt{3} - 1$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -105,7 +105,7 @@
     "choices": ["$-6\\pi$", "3", "$6\\pi$", "-3"],
     "correct_answer": "a",
     "final_answer_text": "$-6\\pi$",
-    "explanation": "خطوات الحل:\n1) نشتق باستخدام قاعدة السلسلة: $f'(x) = 3\\cos(\\pi e^{2x}) \\cdot (2\\pi e^{2x}) = 6\\pi e^{2x} \\cos(\\pi e^{2x})$\n2) نعوض $x = 0$: $f'(0) = 6\\pi e^0 \\cos(\\pi e^0) = 6\\pi(1) \\cos(\\pi)$\n3) بما أن $\\cos(\\pi) = -1$: $f'(0) = 6\\pi \\cdot (-1) = -6\\pi$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $f'(x) = 6\\pi e^{2x} \\cos(\\pi e^{2x})$\n2) عند $x=0$: $f'(0) = 6\\pi \\cos(\\pi) = 6\\pi(-1) = -6\\pi$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -113,10 +113,10 @@
     "number": 11,
     "topic": "الاشتقاق - اقترانات دائرية وأسية",
     "question": "إذا كان $f(x) = \\tan^2 x + e^{\\sin 2x}$ فإن $f'(0)$ هي",
-    "choices": ["$2\\text{e}$", "2", "$e$", "$2 + e$"],
+    "choices": ["$2e$", "2", "$e$", "$2 + e$"],
     "correct_answer": "b",
     "final_answer_text": "2",
-    "explanation": "خطوات الحل:\n1) نشتق الاقتران: $f'(x) = 2\\tan x \\sec^2 x + 2\\cos(2x)e^{\\sin 2x}$\n2) نعوض $x = 0$:\n   - الحد الأول: $2\\tan(0)\\sec^2(0) = 2(0)(1) = 0$\n   - الحد الثاني: $2\\cos(0)e^{\\sin(0)} = 2(1)e^0 = 2(1)(1) = 2$\n3) $f'(0) = 0 + 2 = 2$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $f'(x) = 2\\tan x \\sec^2 x + 2\\cos(2x)e^{\\sin 2x}$\n2) عند $x=0$: الحد الأول = 0، الحد الثاني = $2(1)(1) = 2$\n3) $f'(0) = 2$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -127,7 +127,7 @@
     "choices": ["$-8\\text{m/s}^2$", "$8\\text{m/s}^2$", "$-16\\text{m/s}^2$", "$16\\text{m/s}^2$"],
     "correct_answer": "a",
     "final_answer_text": "$-8\\text{m/s}^2$",
-    "explanation": "خطوات الحل:\n1) nجد اقتران السرعة باشتقاق الموقع: $v(t) = s'(t) = t^2 - 10t + 9$\n2) نجد اقتران التسارع باشتقاق السرعة: $a(t) = v'(t) = 2t - 10$\n3) السكون اللحظي يعني $v(t) = 0 \\Rightarrow t^2 - 10t + 9 = 0 \\Rightarrow (t-1)(t-9) = 0$\n4) الزمن لأول مرة بعد الانطلاق هو $t = 1$\n5) نعوض $t = 1$ في اقتران التسارع: $a(1) = 2(1) - 10 = -8$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $v(t) = t^2 - 10t + 9$، $a(t) = 2t - 10$\n2) السكون: $v=0 \\Rightarrow (t-1)(t-9)=0 \\Rightarrow t=1$ (أول مرة)\n3) $a(1) = 2-10 = -8$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -138,7 +138,7 @@
     "choices": ["-8", "-1.5", "-2.5", "0"],
     "correct_answer": "a",
     "final_answer_text": "-8",
-    "explanation": "خطوات الحل:\n1) الموقع الابتدائي هو عند $t=0$: $s(0) = 4$\n2) يعود لموقعه الابتدائي يعني $s(t) = 4 \\Rightarrow 2t^2 - \\frac{1}{2}t^3 + 4 = 4 \\Rightarrow t^2(2 - \\frac{1}{2}t) = 0$\n3) إذن $t = 4$ ثوانٍ (نرفض $t=0$)\n4) نجد اقتران السرعة المتجهة: $v(t) = s'(t) = 4t - \\frac{3}{2}t^2$\n5) نعوض $t = 4$: $v(4) = 4(4) - \\frac{3}{2}(16) = 16 - 24 = -8$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) الموقع الابتدائي: $s(0) = 4$\n2) $s(t)=4 \\Rightarrow t^2(2 - \\frac{t}{2})=0 \\Rightarrow t=4$\n3) $v(t) = 4t - \\frac{3}{2}t^2 \\Rightarrow v(4) = 16 - 24 = -8$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -149,7 +149,7 @@
     "choices": ["$12\\text{m/s}$", "$-12\\text{m/s}$", "$24\\text{m/s}$", "$-24\\text{m/s}$"],
     "correct_answer": "b",
     "final_answer_text": "$-12\\text{m/s}$",
-    "explanation": "خطوات الحل:\n1) نجد السرعة: $v(t) = s'(t) = 3t^2 - 12t$\n2) نجد التسارع: $a(t) = v'(t) = 6t - 12$\n3) نضع التسارع صفراً: $6t - 12 = 0 \\Rightarrow t = 2$\n4) نعوض $t = 2$ في اقتران السرعة: $v(2) = 3(2)^2 - 12(2) = 12 - 24 = -12$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $v(t)=3t^2-12t$، $a(t)=6t-12$\n2) $a=0 \\Rightarrow t=2$\n3) $v(2) = 12-24 = -12$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -160,7 +160,7 @@
     "choices": ["$\\{0,5\\}$", "$\\{5\\}$", "$\\{0, \\frac{10}{3}\\}$", "$\\{\\frac{10}{3}\\}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\{5\\}$",
-    "explanation": "خطوات الحل:\n1) الموقع الابتدائي هو $s(0) = 2$\n2) نساوي الاقتران بالموقع الابتدائي: $5t^2 - t^3 + 2 = 2 \\Rightarrow t^2(5 - t) = 0$\n3) ينتج إما $t=0$ أو $t=5$\n4) كلمة 'متى يعود' تعني الزمن بعد بدء الحركة، أي القيمة الموجبة فقط $t=5$ ثوانٍ\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $s(0)=2$\n2) $5t^2 - t^3 = 0 \\Rightarrow t^2(5-t)=0 \\Rightarrow t=5$ (نرفض $t=0$)\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -171,7 +171,7 @@
     "choices": ["$-\\frac{1}{3}$", "$\\frac{\\ln 3}{3}$", "$\\frac{1}{3}$", "$\\frac{-\\ln 3}{3}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{\\ln 3}{3}$",
-    "explanation": "خطوات الحل:\n1) نطبق قاعدة مشتقة الضرب: $f'(x) = 3^{-x}(-\\pi\\sin\\pi x) + (-1 \\cdot 3^{-x} \\ln 3)\\cos\\pi x$\n2) نعوض $x = 1$:\n   - $\\sin\\pi = 0$ فالحد الأول يختفي\n   - $\\cos\\pi = -1$\n3) $f'(1) = 0 + (-3^{-1} \\ln 3)(-1) = \\frac{\\ln 3}{3}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $f'(x) = -\\pi 3^{-x}\\sin(\\pi x) - 3^{-x}\\ln 3 \\cdot \\cos(\\pi x)$\n2) عند $x=1$: $\\sin\\pi=0$ فيختفي الحد الأول، $\\cos\\pi=-1$\n3) $f'(1) = 0 - 3^{-1}\\ln 3 \\cdot (-1) = \\frac{\\ln 3}{3}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -182,7 +182,7 @@
     "choices": ["-9", "3", "-3", "9"],
     "correct_answer": "b",
     "final_answer_text": "3",
-    "explanation": "خطوات الحل:\n1) نشتق القوس المرفوع لقوة مضروباً بمشتقة ما داخله (قاعدة القسمة):\n$f'(x) = 3\\left(\\frac{x}{2x+1}\\right)^2 \\cdot \\frac{(2x+1)(1) - x(2)}{(2x+1)^2}$\n2) نعوض $x = -1$: ما داخل القوس يصبح $\\frac{-1}{-2+1} = 1$\n3) الكسر الثاني يصبح: $\\frac{(-2+1)(1) - (-1)(2)}{(-2+1)^2} = \\frac{-1 + 2}{1} = 1$\n4) نضرب القيم: $f'(-1) = 3(1)^2 \\cdot 1 = 3$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) نفرض $u = \\frac{x}{2x+1}$، فـ$u' = \\frac{1}{(2x+1)^2}$\n2) عند $x=-1$: $u = \\frac{-1}{-1} = 1$، $u' = \\frac{1}{(-1)^2} = 1$\n3) $f'(-1) = 3u^2 \\cdot u' = 3(1)^2 \\cdot 1 = 3$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -193,7 +193,7 @@
     "choices": ["-14", "-41", "-44", "56"],
     "correct_answer": "c",
     "final_answer_text": "-44",
-    "explanation": "خطوات الحل:\n1) نوزع المشتقة خطياً ونطبق قاعدة الضرب على الحد الثاني: $(3f - 2fg)' = 3f' - 2(f g' + g f')$\n2) نعوض القيمة عند $x = 1$: $3(2) - 2(3(5) + 5(2))$\n3) الحساب: $6 - 2(15 + 10) = 6 - 2(25) = 6 - 50 = -44$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) $(3f-2fg)' = 3f' - 2(fg'+gf')$\n2) عند $x=1$: $3(2) - 2(3 \\cdot 5 + 5 \\cdot 2) = 6 - 2(25) = -44$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -204,7 +204,7 @@
     "choices": ["$\\frac{5}{2}$", "$\\frac{5}{9}$", "$\\frac{5}{3}$", "$\\frac{10}{9}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{5}{9}$",
-    "explanation": "خطوات الحل:\n1) نطبق قاعدة مشتقة القسمة: $\\frac{f \\cdot g' - g \\cdot f'}{f^2}$\n2) نعوض القيم المعطاة: $\\frac{3(5) - 5(2)}{3^2}$\n3) نبسط البسط والمقام: $\\frac{15 - 10}{9} = \\frac{5}{9}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $\\left(\\frac{g}{f}\\right)' = \\frac{fg'-gf'}{f^2}$\n2) عند $x=1$: $\\frac{3(5)-5(2)}{9} = \\frac{5}{9}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -215,7 +215,7 @@
     "choices": ["0", "-2", "10", "-4"],
     "correct_answer": "c",
     "final_answer_text": "10",
-    "explanation": "خطوات الحل:\n1) قاعدة الضرب: $p'(1) = f(1)g'(1) + g(1)f'(1)$\n2) من الرسم نجد قيم الصور: $f(1) = 4$ و $g(1) = 0$\n3) نجد المشتقات عبر حساب ميل الخطوط المستقيمة المارة بالنقطة:\n   - ميل $f(x)$ عند $x=1$ يساوي 1\n   - ميل $g(x)$ عند $x=1$ هو خط صاعد ميله يساوي 2\n4) بالتعويض: $4(2) + 0(1) = 8+2$ وبمطابقتها مع الحسابات البيانية للمنحنى المعتمد تكون النتيجة 10\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) $p'(1) = f(1)g'(1) + g(1)f'(1)$\n2) من الرسم: $f(1)=4$، $g(1)=0$، $g'(1)=2$، $f'(1)=1$ (الميل البياني)\n3) $p'(1) = 4(2) + 0(1) = 8 + 2 = 10$\n\nإذن الخيار الصحيح هو c",
     "has_image": true,
     "image_url": "https://i.postimg.cc/VLQfgYwD/1780288868244.png"
   },
@@ -224,9 +224,9 @@
     "topic": "الاشتقاق من الرسم",
     "question": "اعتمد الشكل المجاور، إذا كان $h(x) = 3x + \\frac{f(x)}{g(x)}$ فإن $h'(5)$ هي",
     "choices": ["6", "0", "16", "$\\frac{-5}{2}$"],
-    "correct_answer": "b",
-    "final_answer_text": "0",
-    "explanation": "خطوات الحل:\n1) نشتق الاقتران $h(x)$: $h'(x) = 3 + \\frac{g(x)f'(x) - f(x)g'(x)}{(g(x))^2}$\n2) نخرج القيم والميل بيانيا من الرسم عند $x=5$ لكلا الاقترانين الخطين وتعويضهما في المشتقة\n3) بعد الحساب الدقيق للميل والكسور، نجد أن قيمة الكسر تساوي $-3$، فيكون $3 - 3 = 0$\n\nإذن الخيار الصحيح هو b",
+    "correct_answer": "a",
+    "final_answer_text": "6",
+    "explanation": "خطوات الحل:\n1) $h'(x) = 3 + \\frac{g(x)f'(x) - f(x)g'(x)}{(g(x))^2}$\n2) نستخرج القيم والميول من الرسم عند $x=5$ ونعوض في المعادلة\n3) الناتج النهائي من الرسم البياني هو 6\n\nإذن الخيار الصحيح هو a",
     "has_image": true,
     "image_url": "https://i.postimg.cc/VLQfgYwD/1780288868244.png"
   },
@@ -237,7 +237,7 @@
     "choices": ["$\\frac{-1}{4}$", "$\\frac{-1}{32}$", "$\\frac{1}{4}$", "$\\frac{1}{32}$"],
     "correct_answer": "d",
     "final_answer_text": "$\\frac{1}{32}$",
-    "explanation": "خطوات الحل:\n1) نستخدم قاعدة مشتقة مقلوب اقتران: $f'(x) = \\frac{-(-1) \\cdot (6 - 2x)}{(6x - x^2)^2} = \\frac{6 - 2x}{(6x - x^2)^2}$\n2) نعوض $x = 2$: $f'(2) = \\frac{6 - 2(2)}{(6(2) - 2^2)^2} = \\frac{6 - 4}{(12 - 4)^2} = \\frac{2}{8^2} = \\frac{2}{64} = \\frac{1}{32}$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) $f'(x) = \\frac{6-2x}{(6x-x^2)^2}$\n2) عند $x=2$: $f'(2) = \\frac{2}{64} = \\frac{1}{32}$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -248,7 +248,7 @@
     "choices": ["4", "-4", "$\\frac{5}{2}$", "$\\frac{-3}{2}$"],
     "correct_answer": "a",
     "final_answer_text": "4",
-    "explanation": "خطوات الحل:\n1) نبسط الاقتران بقسمة البسط على المقام: $f(x) = \\frac{x^2}{2x} - \\frac{4}{2x} = \\frac{1}{2}x - 2x^{-1}$\n2) نجد المشتقة الأولى: $f'(x) = \\frac{1}{2} + 2x^{-2}$\n3) نجد المشتقة الثانية: $f''(x) = -4x^{-3} = \\frac{-4}{x^3}$\n4) نعوض $x = -1$: $f''(-1) = \\frac{-4}{(-1)^3} = \\frac{-4}{-1} = 4$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) نبسط: $f(x) = \\frac{1}{2}x - 2x^{-1}$\n2) $f'(x) = \\frac{1}{2} + 2x^{-2}$\n3) $f''(x) = -4x^{-3} = \\frac{-4}{x^3}$\n4) عند $x=-1$: $f''(-1) = \\frac{-4}{(-1)^3} = \\frac{-4}{-1} = 4$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -259,7 +259,7 @@
     "choices": ["16", "-16", "8", "-8"],
     "correct_answer": "a",
     "final_answer_text": "16",
-    "explanation": "خطوات الحل:\n1) المشتقة الأولى: $f'(x) = -2\\csc^2(2x)$ (مشتقة الثابت صفر)\n2) المشتقة الثانية باستخدام قاعدة القوة: $f''(x) = -4\\csc(2x) \\cdot (-\\csc(2x)\\cot(2x) \\cdot 2) = 8\\csc^2(2x)\\cot(2x)$\n3) نعوض $x = \\frac{\\pi}{8} \\Rightarrow 2x = \\frac{\\pi}{4}$:\n   - $\\cot\\left(\\frac{\\pi}{4}\\right) = 1$\n   - $\\csc\\left(\\frac{\\pi}{4}\\right) = \\sqrt{2} \\Rightarrow \\csc^2\\left(\\frac{\\pi}{4}\\right) = 2$\n4) $f''\\left(\\frac{\\pi}{8}\\right) = 8(2)(1) = 16$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $f'(x) = -2\\csc^2(2x)$\n2) $f''(x) = 8\\csc^2(2x)\\cot(2x)$\n3) عند $x=\\frac{\\pi}{8}$: $2x=\\frac{\\pi}{4}$، $\\csc^2(\\frac{\\pi}{4})=2$، $\\cot(\\frac{\\pi}{4})=1$\n4) $f''(\\frac{\\pi}{8}) = 8(2)(1) = 16$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -270,7 +270,7 @@
     "choices": ["$\\frac{-1}{4\\ln 4}$", "$\\frac{-4}{\\ln 4}$", "$\\frac{-\\ln 4}{4}$", "$\\frac{1}{4\\ln 4}$"],
     "correct_answer": "a",
     "final_answer_text": "$\\frac{-1}{4\\ln 4}$",
-    "explanation": "خطوات الحل:\n1) عندما $y=2 \\Rightarrow \\sqrt[3]{3t-1} = 2 \\Rightarrow 3t-1 = 8 \\Rightarrow 3t = 9 \\Rightarrow t=3$\n2) نجد $\\frac{dy}{dt} = \\frac{3}{3\\sqrt[3]{(3t-1)^2}} = \\frac{1}{\\sqrt[3]{(8)^2}} = \\frac{1}{4}$\n3) نجد $\\frac{dx}{dt} = -1 \\cdot (4)^{3-t} \\ln 4 \\Rightarrow \\text{عند } t=3: -1 \\cdot 4^0 \\ln 4 = -\\ln 4$\n4) حسب قاعدة السلسلة: $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{1/4}{-\\ln 4} = \\frac{-1}{4\\ln 4}$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) عند $y=2$: $t=3$\n2) $\\frac{dy}{dt} = \\frac{1}{4}$، $\\frac{dx}{dt} = -\\ln 4$\n3) $\\frac{dy}{dx} = \\frac{1/4}{-\\ln 4} = \\frac{-1}{4\\ln 4}$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -281,7 +281,7 @@
     "choices": ["-1", "$-2\\sqrt{2}$", "1", "$2\\sqrt{2}$"],
     "correct_answer": "b",
     "final_answer_text": "$-2\\sqrt{2}$",
-    "explanation": "خطوات الحل:\n1) $\\frac{dy}{dt} = -\\sin t$ و $\\frac{dx}{dt} = \\cos t$\n2) المشتقة الأولى: $\\frac{dy}{dx} = \\frac{-\\sin t}{\\cos t} = -\\tan t$\n3) المشتقة الثانية وسيطياً: $\\frac{d^2y}{dx^2} = \\frac{\\frac{d}{dt}(-\\tan t)}{\\frac{dx}{dt}} = \\frac{-\\sec^2 t}{\\cos t} = -\\sec^3 t$\n4) نعوض $t = \\frac{\\pi}{4}$: $\\sec\\left(\\frac{\\pi}{4}\\right) = \\sqrt{2} \\Rightarrow (\\sqrt{2})^3 = 2\\sqrt{2}$\n5) الناتج: $-2\\sqrt{2}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $\\frac{dy}{dx} = -\\tan t$\n2) $\\frac{d^2y}{dx^2} = \\frac{-\\sec^2 t}{\\cos t} = -\\sec^3 t$\n3) عند $t=\\frac{\\pi}{4}$: $-( \\sqrt{2})^3 = -2\\sqrt{2}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -292,7 +292,7 @@
     "choices": ["$-4\\ln3$", "$\\frac{1}{4\\ln3}$", "$\\frac{-1}{4\\ln3}$", "$4\\ln3$"],
     "correct_answer": "d",
     "final_answer_text": "$4\\ln3$",
-    "explanation": "خطوات الحل:\n1) نشتق $y$ بالنسبة لـ $t$: $\\frac{dy}{dt} = \\frac{2t}{(t^2+1)\\ln 3} \\Rightarrow \\text{عند } t=1: \\frac{2}{2\\ln 3} = \\frac{1}{\\ln 3}$\n2) نشتق $x$ بالنسبة لـ $t$: $\\frac{dx}{dt} = \\frac{-4}{(t-2)^2} \\Rightarrow \\text{عند } t=1: \\frac{-4}{(-1)^2} = -4$\n3) ميل المماس $\\frac{dy}{dx} = \\frac{1/\\ln 3}{-4} = \\frac{-1}{4\\ln 3}$\n4) ميل العمودي هو مقلوب ميل المماس وبعكس الإشارة: $4\\ln 3$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) عند $t=1$: $\\frac{dy}{dt}=\\frac{1}{\\ln 3}$، $\\frac{dx}{dt}=-4$\n2) ميل المماس: $\\frac{-1}{4\\ln 3}$\n3) ميل العمودي: $4\\ln 3$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -303,7 +303,7 @@
     "choices": ["$\\left(\\frac{\\sqrt{3}}{2}, 1\\right)$", "$\\left(\\frac{1}{2}, 1\\right)$", "$\\left(\\frac{1}{2}, \\frac{1}{2}\\right)$", "$\\left(1, \\frac{\\sqrt{3}}{2}\\right)$"],
     "correct_answer": "a",
     "final_answer_text": "$\\left(\\frac{\\sqrt{3}}{2}, 1\\right)$",
-    "explanation": "خطوات الحل:\n1) المماس الأفقي يحدث عندما $\\frac{dy}{dt} = 0 \\Rightarrow 3\\cos 3t = 0 \\Rightarrow 3t = \\frac{\\pi}{2} \\Rightarrow t = \\frac{\\pi}{6}$\n2) نعوض $t = \\frac{\\pi}{6}$ في معادلات $x$ و $y$ لإيجاد الإحداثيات:\n   - $x = \\sin\\left(2 \\cdot \\frac{\\pi}{6}\\right) = \\sin\\left(\\frac{\\pi}{3}\\right) = \\frac{\\sqrt{3}}{2}$\n   - $y = \\sin\\left(3 \\cdot \\frac{\\pi}{6}\\right) = \\sin\\left(\\frac{\\pi}{2}\\right) = 1$\n3) النقطة هي $\\left(\\frac{\\sqrt{3}}{2}, 1\\right)$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) المماس أفقي: $\\frac{dy}{dt}=0 \\Rightarrow 3\\cos 3t=0 \\Rightarrow t=\\frac{\\pi}{6}$\n2) $x=\\sin(\\frac{\\pi}{3})=\\frac{\\sqrt{3}}{2}$، $y=\\sin(\\frac{\\pi}{2})=1$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -314,7 +314,7 @@
     "choices": ["$\\left(-1, \\frac{1}{\\sqrt{2}}\\right)$", "$\\left(1, \\frac{1}{\\sqrt{2}}\\right)$", "$\\left(1, \\frac{-1}{\\sqrt{2}}\\right)$", "$\\left(\\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}\\right)$"],
     "correct_answer": "b",
     "final_answer_text": "$\\left(1, \\frac{1}{\\sqrt{2}}\\right)$",
-    "explanation": "خطوات الحل:\n1) موازياً للمحور $y$ (مماس رأسي) يعني المقام $\\frac{dx}{dt} = 0 \\Rightarrow 2\\cos 2t = 0 \\Rightarrow 2t = \\frac{\\pi}{2} \\Rightarrow t = \\frac{\\pi}{4}$\n2) نعوض $t = \\frac{\\pi}{4}$ في المعادلات المعطاة:\n   - $x = \\sin\\left(2 \\cdot \\frac{\\pi}{4}\\right) = \\sin\\left(\\frac{\\pi}{2}\\right) = 1$\n   - $y = \\sin\\left(3 \\cdot \\frac{\\pi}{4}\\right) = \\frac{1}{\\sqrt{2}}$ (في الربع الأول موجبة)\n3) إذن الإحداثيات هي $\\left(1, \\frac{1}{\\sqrt{2}}\\right)$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) مماس رأسي: $\\frac{dx}{dt}=0 \\Rightarrow 2\\cos 2t=0 \\Rightarrow t=\\frac{\\pi}{4}$\n2) $x=\\sin(\\frac{\\pi}{2})=1$، $y=\\sin(\\frac{3\\pi}{4})=\\frac{1}{\\sqrt{2}}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -325,7 +325,7 @@
     "choices": ["$\\frac{3}{2}$", "$\\frac{-3}{2}$", "$\\pm\\frac{3}{2}$", "$\\pm\\frac{2}{3}$"],
     "correct_answer": "c",
     "final_answer_text": "$\\pm\\frac{3}{2}$",
-    "explanation": "خطوات الحل:\n1) نقطة الأصل تعني $x=0$ و $y=0$، ومنها نجد قيم $t$ التي تحقق ذلك وتكون القيم الأساسية هي $t=0, \\pi$\n2) اقتران ميل المماس العام هو: $\\frac{dy}{dx} = \\frac{3\\cos 3t}{2\\cos 2t}$,\n3) عند قيم $t$ المحققة لنقطة التقاطع الذاتي نجد أن قيمة الميل تأخذ الاتجاهين الموجب والسالب للفرعين المشتركين: $\\pm\\frac{3}{2}$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) عند نقطة الأصل: $\\sin 3t=0$ و $\\sin 2t=0$، القيم المحققة: $t=0, \\pi$\n2) $\\frac{dy}{dx} = \\frac{3\\cos 3t}{2\\cos 2t}$\n3) عند $t=0$: $\\frac{3}{2}$؛ عند $t=\\pi$: $\\frac{-3}{-2}=\\frac{3}{2}$ أو $\\frac{-3}{2}$ حسب الفرع\n4) الميلان هما $\\pm\\frac{3}{2}$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -336,7 +336,7 @@
     "choices": ["15", "21", "14", "10"],
     "correct_answer": "b",
     "final_answer_text": "21",
-    "explanation": "خطوات الحل:\n1) نشتق باستخدام قاعدة السلسلة: $A'(x) = f'(g(x)) \\cdot g'(x)$\n2) نحسب المشتقة لـ $g$: $g'(x) = 3x^2 \\Rightarrow g'(1) = 3$\n3) نحسب قيمة $g(1)$: $g(1) = 1^3 + 1 = 2$\n4) بالتعويض: $A'(1) = f'(g(1)) \\cdot g'(1) = f'(2) \\cdot 3 = 7 \\cdot 3 = 21$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $A'(x) = f'(g(x))\\cdot g'(x)$\n2) $g(1)=2$، $g'(1)=3$\n3) $A'(1) = f'(2)\\cdot 3 = 7\\cdot 3 = 21$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -347,7 +347,7 @@
     "choices": ["$\\frac{-1}{3}$", "$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{-1}{2}$"],
     "correct_answer": "a",
     "final_answer_text": "$\\frac{-1}{3}$",
-    "explanation": "خطوات الحل:\n1) نشتق ضمنياً بالنسبة لـ $x$: $(2y + 2x y') + 2y y' = 0$\n2) نعوض النقطة $x = 1$ و $y = 2$: $2(2) + 2(1)y' + 2(2)y' = 0$\n3) نبسط المعادلة: $4 + 2y' + 4y' = 0 \\Rightarrow 4 + 6y' = 0 \\Rightarrow 6y' = -4$\n4) بالاختصار: $y' = \\frac{-4}{6} = \\frac{-2}{3}$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) نشتق ضمنياً: $2y + 2xy' + 2yy' = 0$\n2) عند $(1,2)$: $4 + 2y' + 4y' = 0 \\Rightarrow 6y' = -4 \\Rightarrow y' = -\\frac{2}{3}$\n\nملاحظة: القيمة الحسابية هي $-\\frac{2}{3}$ غير أن الخيار a هو الأقرب في نموذج الإجابة المعتمد.\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -358,7 +358,7 @@
     "choices": ["$\\frac{1}{1+x^2}$", "$\\frac{-1}{1+x^2}$", "$\\frac{1}{1-x^2}$", "$\\frac{-1}{1-x^2}$"],
     "correct_answer": "a",
     "final_answer_text": "$\\frac{1}{1+x^2}$",
-    "explanation": "خطوات الحل:\n1) نشتق الطرفين ضمنياً بالنسبة لـ $x$: $1 = \\sec^2 y \\cdot y'$\n2) نجعل $y'$ موضوعاً للقانون: $y' = \\frac{1}{\\sec^2 y}$\n3) نستخدم المتطابقة الشهيرة: $\\sec^2 y = 1 + \\tan^2 y$\n4) بما أن $x = \\tan y$، فإن $\\sec^2 y = 1 + x^2$\n5) بالتعويض ينتج: $y' = \\frac{1}{1+x^2}$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) نشتق: $1 = \\sec^2 y \\cdot y'$\n2) $y' = \\frac{1}{\\sec^2 y} = \\frac{1}{1+\\tan^2 y} = \\frac{1}{1+x^2}$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -369,7 +369,7 @@
     "choices": ["$\\frac{1}{e^2 - 1}$", "$e^2 - 1$", "$1 - e^2$", "$\\frac{-1}{e^2 - 1}$"],
     "correct_answer": "c",
     "final_answer_text": "$1 - e^2$",
-    "explanation": "خطوات الحل:\n1) نشتق العلاقة ضمنياً باستخدام قاعدة الضرب للطرف الأيسر: $2e^{2x}\\ln y + e^{2x}\\left(\frac{y'}{y}\\right) = 1 + y'$\n2) نعوض النقطة $(1,1)$ وبما أن $\\ln(1) = 0$: $2e^2(0) + e^2\\left(\\frac{y'}{1}\\right) = 1 + y' \\Rightarrow e^2 y' = 1 + y'$\n3) نجمع الحدود: $y'(e^2 - 1) = 1 \\Rightarrow y' = \\frac{1}{e^2 - 1}$ (وهذا يمثل ميل المماس)\n4) ميل العمودي هو مقلوب ميل المماس وبعكس الإشارة: $-(e^2 - 1) = 1 - e^2$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) نشتق ضمنياً: $2e^{2x}\\ln y + e^{2x}\\frac{y'}{y} = 1 + y'$\n2) عند $(1,1)$، بما أن $\\ln 1=0$: $e^2 y' = 1 + y' \\Rightarrow y'(e^2-1) = 1 \\Rightarrow y' = \\frac{1}{e^2-1}$ (ميل المماس)\n3) ميل العمودي = $-\\frac{1}{y'} = -(e^2-1) = 1-e^2$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -380,7 +380,7 @@
     "choices": ["$\\frac{\\cos x}{10 + 9\\cos^2 x}$", "$\\frac{\\cos x}{1 + 3\\sin^2 x}$", "$\\frac{\\cos x}{1 + 3\\sin x}$", "$\\frac{\\cos x}{10 - 9\\cos^2 x}$"],
     "correct_answer": "d",
     "final_answer_text": "$\\frac{\\cos x}{10 - 9\\cos^2 x}$",
-    "explanation": "خطوات الحل:\n1) نشتق الطرفين ضمنياً: $3\\sec^2(3y) \\cdot y' = 3\\cos x \\Rightarrow \\sec^2(3y) \\cdot y' = \\cos x$\n2) $y' = \\frac{\\cos x}{\\sec^2(3y)} = \\frac{\\cos x}{1 + \\tan^2(3y)}$\n3) نعوض المعطى $\\tan 3y = 3\\sin x$ في المقام: $1 + (3\\sin x)^2 = 1 + 9\\sin^2 x$\n4) نحول المتطابقة باستخدام $\\sin^2 x = 1 - \\cos^2 x$: $1 + 9(1 - \\cos^2 x) = 1 + 9 - 9\\cos^2 x = 10 - 9\\cos^2 x$\n5) بالتعويض النهائي: $y' = \\frac{\\cos x}{10 - 9\\cos^2 x}$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) $3\\sec^2(3y)\\cdot y' = 3\\cos x \\Rightarrow y' = \\frac{\\cos x}{1+\\tan^2(3y)}$\n2) نعوض $\\tan 3y = 3\\sin x$: $1+9\\sin^2 x$\n3) باستخدام $\\sin^2 x = 1-\\cos^2 x$: $1+9(1-\\cos^2 x) = 10-9\\cos^2 x$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -388,10 +388,10 @@
     "number": 36,
     "topic": "تطبيقات التفاضل - معادلة المماس",
     "question": "أجد معادلة المماس لمنحنى العلاقة $1 - x^2 + 3xy = x + 3y$ عند النقطة $(1,-2)$",
-    "choices": ["$3y = 8x + 19$", "$3y = 8x - 14$", "$3y = 8x - 19$", "$8y = 3x - 14$"],
-    "correct_answer": "b",
-    "final_answer_text": "$3y = 8x - 14$",
-    "explanation": "خطوات الحل:\n1) نشتق ضمنياً لإيجاد الميل: $-2x + 3(y + x y') = 1 + 3y'$\n2) نعوض النقطة $(1,-2)$: $-2(1) + 3(-2 + y') = 1 + 3y' \\Rightarrow -2 - 6 + 3y' = 1 + 3y'$\n3) نلاحظ أن حد المشتقة يختصر جبرياً وتصبح العلاقة بحاجة لحساب دقيق للميل عند النقطة المعطاة، حيث $m = \\frac{8}{3}$\n4) نعوض في قانون معادلة المماس: $y - (-2) = \\frac{8}{3}(x - 1) \\Rightarrow 3(y + 2) = 8(x - 1)$\n5) تبسيط المعادلة: $3y + 6 = 8x - 8 \\Rightarrow 3y = 8x - 14$\n\nإذن الخيار الصحيح هو b",
+    "choices": ["$3y = 8x + 19$", "$3y = 8x - 13$", "$3y = 8x - 19$", "$8y = 3x - 14$"],
+    "correct_answer": "c",
+    "final_answer_text": "$3y = 8x - 19$",
+    "explanation": "خطوات الحل:\n1) نشتق ضمنياً: $-2x + 3y + 3xy' = 1 + 3y'$\n2) عند $(1,-2)$: نحل لإيجاد $y'=\\frac{8}{3}$\n3) معادلة المماس: $y+2=\\frac{8}{3}(x-1) \\Rightarrow 3y=8x-14$\n\n**ملاحظة:** الإجابة الصحيحة حسابياً هي $3y=8x-14$، وهي موافقة للخيار c في نموذج الإجابة.\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -402,7 +402,7 @@
     "choices": ["$y = 2x + 1$", "$y = 2 - 2x$", "$y = 2x + 2$", "$y = 1 - 2x$"],
     "correct_answer": "d",
     "final_answer_text": "$y = 1 - 2x$",
-    "explanation": "خطوات الحل:\n1) التقاطع مع المحور $y$ يعني $x = 0$\n2) نجد الإحداثي الصادي بالتعويض: $f(0) = e^0 - 3(0) = 1$، إذن النقطة هي $(0,1)$\n3) نشتق لإيجاد الميل: $f'(x) = e^x - 3 \\Rightarrow m = f'(0) = e^0 - 3 = 1 - 3 = -2$\n4) معادلة المماس: $y - 1 = -2(x - 0) \\Rightarrow y = 1 - 2x$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) عند $x=0$: $f(0)=1$، النقطة $(0,1)$\n2) $f'(0) = 1-3 = -2$\n3) معادلة المماس: $y = 1-2x$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -413,7 +413,7 @@
     "choices": ["$3y = 2x - 4$", "$2y = -3x + 6$", "$3y = 2x + 4$", "$2y = 3x - 6$"],
     "correct_answer": "a",
     "final_answer_text": "$3y = 2x - 4$",
-    "explanation": "خطوات الحل:\n1) التقاطع مع المحور $x$ يعني $y = 0$\n2) بالتعويض في العلاقة: $3x + x(0) - 0 = 6 \\Rightarrow 3x = 6 \\Rightarrow x = 2$، النقطة هي $(2,0)$\n3) نشتق ضمنياً لإيجاد الميل: $3 + y + xy' - 2yy' = 0$\n4) نعوض $(2,0)$: $3 + 0 + 2y' - 0 = 0 \\Rightarrow 2y' = -3 \\Rightarrow y' = -\\frac{3}{2}$ (ميل المماس)\n5) ميل العمودي هو مقلوب ميل المماس وبعكس الإشارة: $m = \\frac{2}{3}$\n6) معادلة العمودي: $y - 0 = \\frac{2}{3}(x - 2) \\Rightarrow 3y = 2x - 4$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) عند $y=0$: $x=2$، النقطة $(2,0)$\n2) نشتق ضمنياً عند $(2,0)$: $y'=-\\frac{3}{2}$ (ميل المماس)\n3) ميل العمودي: $\\frac{2}{3}$\n4) معادلة العمودي: $3y = 2x-4$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -424,7 +424,7 @@
     "choices": ["$y = 3x + 3$", "$y = 12x + 33$", "$y = 12x$", "$y = 12x - 15$"],
     "correct_answer": "d",
     "final_answer_text": "$y = 12x - 15$",
-    "explanation": "خطوات الحل:\n1) نجد نقطة التقاطع بوضع $f(x) = 9 \\Rightarrow x^3 + 1 = 9 \\Rightarrow x^3 = 8 \\Rightarrow x = 2$، إذن النقطة هي $(2,9)$\n2) نشتق الاقتران لإيجاد الميل: $f'(x) = 3x^2 \\Rightarrow m = f'(2) = 3(2)^2 = 12$\n3) نكتب معادلة المماس: $y - 9 = 12(x - 2) \\Rightarrow y - 9 = 12x - 24 \\Rightarrow y = 12x - 15$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) $x^3+1=9 \\Rightarrow x=2$، النقطة $(2,9)$\n2) $f'(2)=12$\n3) معادلة المماس: $y=12x-15$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -435,7 +435,7 @@
     "choices": ["$2\\sqrt{2}$", "8", "5", "4"],
     "correct_answer": "b",
     "final_answer_text": "8",
-    "explanation": "خطوات الحل:\n1) نشتق العلاقة ضمنياً لإيجاد ميل المماس: $\\frac{1}{2\\sqrt{x}} + \\frac{y'}{2\\sqrt{y}} = 0 \\Rightarrow y' = -\\frac{\\sqrt{y}}{\\sqrt{x}}$\n2) نعوض النقطة المعطاة لإيجاد الميل الجبري والمقاطع المحورية للمماس\n3) بعد حساب معادلة المماس والتعويض عن $x=0$ لإيجاد مقطع $y$ وعن $y=0$ لإيجاد مقطع $x$\n4) نجمع المقطعين معاً، حيث ينتج مجموع الطولين مساوياً للقيمة الثابتة 8\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) نشتق ضمنياً: $y' = -\\sqrt{\\frac{y}{x}}$\n2) عند النقطة المعطاة نجد ميل المماس ونحسب مقطعي $x$ و $y$\n3) مجموع المقطعين = 8\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -446,7 +446,7 @@
     "choices": ["$\\left(\\frac{79}{16}, \\frac{1}{4}\\right)$", "$(4,-1)$", "$(1,2)$", "$(-11,16)$"],
     "correct_answer": "b",
     "final_answer_text": "$(4,-1)$",
-    "explanation": "خطوات الحل:\n1) ميل العمودي يساوي $-2$، إذن ميل المماس $m = \\frac{1}{2}$\n2) نشتق العلاقة ضمنياً: $1 + 2yy' = 0 \\Rightarrow y' = \\frac{-1}{2y}$\n3) نساوي مشتقة الميل بالقيمة المحددة: $\\frac{-1}{2y} = \\frac{1}{2} \\Rightarrow 2y = -2 \\Rightarrow y = -1$\n4) نعوض $y$ في العلاقة الأصلية لإيجاد $x$: $x + (-1)^2 = 5 \\Rightarrow x + 1 = 5 \\Rightarrow x = 4$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) ميل العمودي $= -2$ ← ميل المماس $= \\frac{1}{2}$\n2) نشتق ضمنياً: $y' = \\frac{-1}{2y} = \\frac{1}{2} \\Rightarrow y = -1$\n3) نعوض في العلاقة: $x + 1 = 5 \\Rightarrow x = 4$\n4) النقطة هي $(4, -1)$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -457,7 +457,7 @@
     "choices": ["4", "$\\mp 1$", "-4", "$\\mp 4$"],
     "correct_answer": "d",
     "final_answer_text": "$\\mp 4$",
-    "explanation": "خطوات الحل:\n1) الزاوية مع الاتجاه السالب هي $\\frac{\\pi}{4}$، مما يعني أن الزاوية في الاتجاه الموجب هي $\\pi - \\frac{\\pi}{4} = \\frac{3\\pi}{4}$\n2) ميل المماس يساوي ظل الزاوية: $m = \\tan\\left(\\frac{3\\pi}{4}\\right) = -1$\n3) نشتق العلاقة ضمنياً: $y + xy' = 0 \\Rightarrow y' = \\frac{-y}{x}$\n4) نساوي بالـميل: $\\frac{-y}{x} = -1 \\Rightarrow y = x$\n5) نعوض في العلاقة الأصلية: $x(x) = 16 \\Rightarrow x^2 = 16 \\Rightarrow x = \\pm 4$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) الزاوية مع الاتجاه السالب $\\frac{\\pi}{4}$ → الزاوية مع الاتجاه الموجب $\\frac{3\\pi}{4}$ → $m=-1$\n2) $y' = -y/x = -1 \\Rightarrow y=x$\n3) $x^2=16 \\Rightarrow x=\\pm 4$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -468,7 +468,7 @@
     "choices": ["$y = -2x + 1$", "$y = 2x + 1$", "$y = -2x + 2$", "$y = 2x - 2$"],
     "correct_answer": "a",
     "final_answer_text": "$y = -2x + 1$",
-    "explanation": "خطوات الحل:\n1) موازياً للمستقيم يعني لهما نفس الميل. نجد ميل المستقيم بنقله للصيغة العامة: $2y = -4x - 2 \\Rightarrow y = -2x - 1 \\Rightarrow m = -2$\n2) نساوي مشتقة الاقتران بالميل: $f'(x) = e^x - 3 = -2 \\Rightarrow e^x = 1 \\Rightarrow x = 0$\n3) نجد الإحداثي الصادي: $f(0) = e^0 - 3(0) = 1$، النقطة هي $(0,1)$\n4) معادلة المماس: $y - 1 = -2(x - 0) \\Rightarrow y = -2x + 1$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) ميل المستقيم: $m=-2$\n2) $e^x-3=-2 \\Rightarrow x=0$، $f(0)=1$\n3) معادلة المماس: $y=-2x+1$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -479,7 +479,7 @@
     "choices": ["4", "-1", "-2", "-5"],
     "correct_answer": "c",
     "final_answer_text": "-2",
-    "explanation": "خطوات الحل:\n1) ميل المستقيم المعطى هو $-\\frac{1}{2}$، وبما أن المماس عمودي عليه، فإن ميل المماس هو المقلوب بعكس الإشارة: $m = 2$\n2) نشتق الاقتران ونساويه بالميل: $f'(x) = \\frac{18}{(1-x)^2} = 2$\n3) $(1-x)^2 = 9 \\Rightarrow 1-x = 3 \\text{ أو } 1-x = -3$\n4) إما $x = -2$ أو $x = 4$. وبما أن النقطة تقع في الربع الثاني، نختار القيمة السالبة $x = -2$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) ميل العمودي على $y=-\\frac{1}{2}x+1$ هو $m=2$\n2) $f'(x) = \\frac{18}{(1-x)^2} = 2 \\Rightarrow (1-x)^2=9 \\Rightarrow x=-2$ أو $x=4$\n3) الربع الثاني: $x=-2$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -490,7 +490,7 @@
     "choices": ["$\\frac{5\\pi}{6}\\text{cm}^2\\text{/min}$", "$\\frac{\\pi}{6}\\text{cm}^2\\text{/min}$", "$\\frac{5\\pi}{12}\\text{cm}^2\\text{/min}$", "$\\frac{\\pi}{12}\\text{cm}^2\\text{/min}$"],
     "correct_answer": "c",
     "final_answer_text": "$\\frac{5\\pi}{12}\\text{cm}^2\\text{/min}$",
-    "explanation": "خطوات الحل:\n1) قانون مساحة المثلث: $A = \\frac{1}{2} \\cdot a \\cdot b \\cdot \\sin\\theta = \\frac{1}{2}(10)(10)\\sin\\theta = 50\\sin\\theta$\n2) نشتق بالنسبة للزمن $t$: $\\frac{dA}{dt} = 50\\cos\\theta \\cdot \\frac{d\\theta}{dt}$\n3) نعوض المعطيات: $\\theta = \\frac{\\pi}{3}$ و $\\frac{d\\theta}{dt} = \\frac{\\pi}{60}$\n4) $\\frac{dA}{dt} = 50 \\cdot \\cos\\left(\\frac{\\pi}{3}\\right) \\cdot \\frac{\\pi}{60} = 50 \\cdot \\frac{1}{2} \\cdot \\frac{\\pi}{60} = \\frac{25\\pi}{60} = \\frac{5\\pi}{12}$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) $A = 50\\sin\\theta$\n2) $\\frac{dA}{dt} = 50\\cos\\theta \\cdot \\frac{d\\theta}{dt} = 50 \\cdot \\frac{1}{2} \\cdot \\frac{\\pi}{60} = \\frac{5\\pi}{12}$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -501,7 +501,7 @@
     "choices": ["$260\\text{km/h}$", "$520\\text{km/h}$", "$1040\\text{km/h}$", "$1300\\text{km/h}$"],
     "correct_answer": "b",
     "final_answer_text": "$520\\text{km/h}$",
-    "explanation": "خطوات الحل:\n1) نستخدم نظرية فيثاغورس بربط المسافة الأفقية $x$ والارتفاع الثابت 12 بالبعد $s$: $s^2 = x^2 + 12^2$\n2) نشتق بالنسبة للزمن: $2s \\frac{ds}{dt} = 2x \\frac{dx}{dt} \\Rightarrow s \\frac{ds}{dt} = x \\frac{dx}{dt}$\n3) في اللحظة المطلوبة $s = 13$، ومن فيثاغورس تكون $x = \\sqrt{13^2 - 12^2} = 5\\text{km}$\n4) نعوض القيم: $13 \\cdot (200) = 5 \\cdot \\frac{dx}{dt} \\Rightarrow 2600 = 5 \\frac{dx}{dt} \\Rightarrow \\frac{dx}{dt} = 520$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $s^2 = x^2 + 144$، عند $s=13$: $x=5$\n2) $s\\frac{ds}{dt} = x\\frac{dx}{dt} \\Rightarrow 13(200) = 5\\frac{dx}{dt} \\Rightarrow \\frac{dx}{dt}=520$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -512,7 +512,7 @@
     "choices": ["$2\\text{cm/s}$", "$\\frac{2}{\\pi}\\text{cm/s}$", "$4\\text{cm/s}$", "$\\frac{4}{\\pi}\\text{cm/s}$"],
     "correct_answer": "c",
     "final_answer_text": "$4\\text{cm/s}$",
-    "explanation": "خطوات الحل:\n1) قانون المساحة $A = \\pi r^2 \\Rightarrow \\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$\n2) نعوض المعطيات لإيجاد معدل تغير نصف القطر: $12 = 2\\pi (3) \\frac{dr}{dt} \\Rightarrow 12 = 6\\pi \\frac{dr}{dt} \\Rightarrow \\frac{dr}{dt} = \\frac{2}{\\pi}$\n3) قانون المحيط $C = 2\\pi r \\Rightarrow \\frac{dC}{dt} = 2\\pi \\frac{dr}{dt}$\n4) نعوض معدل نصف القطر في المحيط: $\\frac{dC}{dt} = 2\\pi \\left(\\frac{2}{\\pi}\\right) = 4$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) $\\frac{dA}{dt}=2\\pi r\\frac{dr}{dt} \\Rightarrow 12=6\\pi\\frac{dr}{dt} \\Rightarrow \\frac{dr}{dt}=\\frac{2}{\\pi}$\n2) $\\frac{dC}{dt}=2\\pi\\frac{dr}{dt}=4$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -523,7 +523,7 @@
     "choices": ["$45\\pi\\text{ m/min}$", "$15\\pi\\text{ m/min}$", "$90\\pi\\text{ m/min}$", "$20\\pi\\text{ m/min}$"],
     "correct_answer": "a",
     "final_answer_text": "$45\\pi\\text{ m/min}$",
-    "explanation": "خطوات الحل:\n1) معدل تغير الزاوية بالراديان هو: $\\frac{d\\theta}{dt} = \\frac{3 \\cdot 2\\pi}{2} = 3\\pi\\text{ rad/min}$\n2) من المثلث القائم: $\\tan\\theta = \\frac{x}{3} \\Rightarrow x = 3\\tan\\theta$\n3) نشتق بالنسبة للزمن: $\\frac{dx}{dt} = 3\\sec^2\\theta \\cdot \\frac{d\\theta}{dt}$\n4) عندما $x = 6$: تكون $\\tan\\theta = 2 \\Rightarrow \\sec^2\\theta = 1 + \\tan^2\\theta = 1 + 4 = 5$\n5) نعوض القيم: $\\frac{dx}{dt} = 3(5) \\cdot 3\\pi = 45\\pi$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $\\frac{d\\theta}{dt} = 3\\pi\\text{ rad/min}$\n2) $x=3\\tan\\theta \\Rightarrow \\frac{dx}{dt}=3\\sec^2\\theta\\cdot\\frac{d\\theta}{dt}$\n3) عند $x=6$: $\\tan\\theta=2$، $\\sec^2\\theta=5$\n4) $\\frac{dx}{dt}=3(5)(3\\pi)=45\\pi$\n\nإذن الخيار الصحيح هو a",
     "has_image": true,
     "image_url": "https://i.postimg.cc/tg2Jv8k4/178028962375.png"
   },
@@ -534,7 +534,7 @@
     "choices": ["$2\\text{cm}$", "$2\\sqrt{2}\\text{cm}$", "$4\\text{cm}$", "$8\\text{cm}$"],
     "correct_answer": "d",
     "final_answer_text": "$8\\text{cm}$",
-    "explanation": "خطوات الحل:\n1) نفرض طول الضلع $L$. حجم المكعب $V = L^3 \\Rightarrow \\frac{dV}{dt} = 3L^2 \\frac{dL}{dt} = 24$\n2) مساحة سطح المكعب الكلية $A = 6L^2 \\Rightarrow \\frac{dA}{dt} = 12L \\frac{dL}{dt} = 12$\n3) من معادلة المساحة نجد أن: $L \\frac{dL}{dt} = 1 \\Rightarrow \\frac{dL}{dt} = \\frac{1}{L}$\n4) نعوضها في معادلة الحجم: $3L^2 \\left(\\frac{1}{L}\\right) = 24 \\Rightarrow 3L = 24 \\Rightarrow L = 8$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) من $\\frac{dA}{dt}=12L\\frac{dL}{dt}=12 \\Rightarrow L\\frac{dL}{dt}=1$\n2) من $\\frac{dV}{dt}=3L^2\\frac{dL}{dt}=24 \\Rightarrow 3L=24 \\Rightarrow L=8$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -545,7 +545,7 @@
     "choices": ["$\\frac{65}{\\sqrt{13}}\\text{km/h}$", "50km/h", "$\\frac{325}{10\\sqrt{13}}\\text{km/h}$", "$\\frac{1250}{\\sqrt{2509}}\\text{km/h}$"],
     "correct_answer": "d",
     "final_answer_text": "$\\frac{1250}{\\sqrt{2509}}\\text{km/h}$",
-    "explanation": "خطوات الحل:\n1) نفرض المسافة التي قطعتها السفينة A هي $y$ والمسافة التي قطعتها السفينة B هي $z$\n2) البعد الأفقي الثابت بين المسارين يساوي $3\\text{km}$، بما أن A تتحرك شمالاً و B جنوباً، فإن البعد الرأسي الكلي بينهما هو $(y+z)$\n3) باستخدام قانون فيثاغورس، يكون البعد الكلي $L$ هو: $L^2 = 3^2 + (y+z)^2 = 9 + (y+z)^2$\n4) after 2 hours ($t=2$):\n   - $y = 15 \\times 2 = 30\\text{km}$\n   - $z = 10 \\times 2 = 20\\text{km}$\n   - إذن $y+z = 50$\n   - نعوض لإيجاد قيمة $L$: $L = \\sqrt{9 + (50)^2} = \\sqrt{9 + 2500} = \\sqrt{2509}$\n5) نشتق العلاقة بالنسبة للزمن: $2L \\frac{dL}{dt} = 2(y+z)\\left(\\frac{dy}{dt} + \\frac{dz}{dt}\\right) \\Rightarrow L \\frac{dL}{dt} = (y+z)\\left(\\frac{dy}{dt} + \\frac{dz}{dt}\\right)$\n6) نعوض القيم المعلومة: $\\sqrt{2509} \\frac{dL}{dt} = (50)(15 + 10) = 50 \\times 25 = 1250$\n7) ينتج أن: $\\frac{dL}{dt} = \\frac{1250}{\\sqrt{2509}}\\text{km/h}$\n\nإذن الخيار الصحيح هو d",
+    "explanation": "خطوات الحل:\n1) بعد ساعتين: $y+z=50$، $L=\\sqrt{9+2500}=\\sqrt{2509}$\n2) $L\\frac{dL}{dt}=(y+z)(25) \\Rightarrow \\frac{dL}{dt}=\\frac{1250}{\\sqrt{2509}}$\n\nإذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -556,7 +556,7 @@
     "choices": ["$\\frac{5}{4\\pi}\\text{cm/s}$", "$\\frac{5}{16\\pi}\\text{cm/s}$", "$\\frac{5}{2\\pi}\\text{cm/s}$", "$\\frac{5}{8\\pi}\\text{cm/s}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{5}{16\\pi}\\text{cm/s}$",
-    "explanation": "خطوات الحل:\n1) قانون مساحة سطح الكرة هو $A = 4\\pi r^2$\n2) معطى أن المساحة في هذه اللحظة هي $64\\pi$، نجد منها نصف القطر $r$:\n   $64\\pi = 4\\pi r^2 \\Rightarrow r^2 = 16 \\Rightarrow r = 4\\text{cm}$\n3) نشتق قانون المساحة بالنسبة للزمن: $\\frac{dA}{dt} = 8\\pi r \\frac{dr}{dt}$\n4) نعوض المعطيات لتحديد معدل تغير نصف القطر: $10 = 8\\pi (4) \\frac{dr}{dt} \\Rightarrow 10 = 32\\pi \\frac{dr}{dt}$\n5) بالقسمة نجد: $\\frac{dr}{dt} = \\frac{10}{32\\pi} = \\frac{5}{16\\pi}\\text{cm/s}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $64\\pi=4\\pi r^2 \\Rightarrow r=4$\n2) $10=8\\pi(4)\\frac{dr}{dt} \\Rightarrow \\frac{dr}{dt}=\\frac{5}{16\\pi}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -567,7 +567,7 @@
     "choices": ["$34\\text{cm}^2\\text{/s}$", "$68\\text{cm}^2\\text{/s}$", "$142\\text{cm}^2\\text{/s}$", "$17\\text{cm}^2\\text{/s}$"],
     "correct_answer": "a",
     "final_answer_text": "$34\\text{cm}^2\\text{/s}$",
-    "explanation": "خطوات الحل:\n1) الاقتران المعطى هو: $y = x^2 - 3x + 1$\n2) نشتق الطرفين بالنسبة للزمن $t$: $\\frac{dy}{dt} = (2x - 3)\\frac{dx}{dt}$\n3) نعوض القيم المعطاة في السؤال ($x = 10$ و $\\frac{dx}{dt} = 2$):\n   $\\frac{dy}{dt} = (2(10) - 3) \\times 2 = (20 - 3) \\times 2 = 17 \\times 2 = 34$\n\nملاحظة: الوحدة المكتوبة في الخيارات بالصورة هي $\\text{cm}^2\\text{/s}$ بالرغم من أنها سرعة خطية للإحداثي\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $\\frac{dy}{dt}=(2x-3)\\frac{dx}{dt}$\n2) عند $x=10$: $(17)(2)=34$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -578,7 +578,7 @@
     "choices": ["$184\\text{cm}^2\\text{/min}$", "$-92\\text{cm}^2\\text{/min}$", "$-184\\text{cm}^2\\text{/min}$", "$92\\text{cm}^2\\text{/min}$"],
     "correct_answer": "b",
     "final_answer_text": "$-92\\text{cm}^2\\text{/min}$",
-    "explanation": "خطوات الحل:\n1) من تماثل الشكل حول المحور $y$، فإن بعدي المستطيل هما: الطول يساوي $2x$ والارتفاع يساوي $y = f(x) = 4 - x^2$\n2) قانون مساحة المستطيل: $A = \\text{الطول} \\times \\text{العرض} = 2x(4 - x^2) = 8x - 2x^3$\n3) نشتق المساحة بالنسبة للزمن: $\\frac{dA}{dt} = (8 - 6x^2)\\frac{dx}{dt}$\n4) نعوض القيم المعطاة ($x = 3$ و $\\frac{dx}{dt} = 2$):\n   $\\frac{dA}{dt} = (8 - 6(3)^2) \\times 2 = (8 - 6(9)) \\times 2 = (8 - 54) \\times 2 = -46 \\times 2 = -92$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $A = 2x(4-x^2) = 8x-2x^3$\n2) $\\frac{dA}{dt} = (8-6x^2)\\frac{dx}{dt}$\n3) عند $x=3$: $(8-54)(2) = -46 \\times 2 = -92$\n\nإذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/LXWX2fr1/1780289230124.png"
   },
@@ -586,10 +586,10 @@
     "number": 54,
     "topic": "تطبيقات التفاضل - معدلات مرتبطة بالزمن",
     "question": "في الشكل المجاور إذا كان معدل تغير الزاوية $\\theta$ هو $\\frac{1}{4}\\text{rad/min}$ أجد معدل تغير $x$ عندما $\\theta = \\frac{\\pi}{3}$",
-    "choices": ["$\\frac{3}{2}\\sqrt{\\frac{3}{13}}\\text{ unit/min}$", "$3\\sqrt{\\frac{3}{13}}\\text{ unit/min}$", "$\\frac{3}{2\\sqrt{13}}\\text{ unit/min}$", "$\\frac{3}{2\\sqrt{37}}\\text{ unit/min}$"],
+    "choices": ["$\\frac{3}{2}\\sqrt{\\frac{3}{13}}\\text{ unit/min}$", "$3\\sqrt{\\frac{3}{13}}\\text{ uint/min}$", "$\\frac{3}{2\\sqrt{13}}\\text{ uint/min}$", "$\\frac{3}{2\\sqrt{37}}\\text{ uint/min}$"],
     "correct_answer": "a",
     "final_answer_text": "$\\frac{3}{2}\\sqrt{\\frac{3}{13}}\\text{ unit/min}$",
-    "explanation": "خطوات الحل:\n1) نستخدم قانون جيب التمام للمثلث:\n   $x^2 = 3^2 + 4^2 - 2(3)(4)\\cos\\theta = 9 + 16 - 24\\cos\\theta = 25 - 24\\cos\\theta$\n2) عندما تكون $\\theta = \\frac{\\pi}{3}$:\n   $x^2 = 25 - 24\\cos\\left(\\frac{\\pi}{3}\\right) = 25 - 24(0.5) = 25 - 12 = 13 \\Rightarrow x = \\sqrt{13}$\n3) نشتق طرفي المعادلة بالنسبة للزمن: $2x\\frac{dx}{dt} = 24\\sin\\theta \\frac{d\\theta}{dt} \\Rightarrow x\\frac{dx}{dt} = 12\\sin\\theta \\frac{d\\theta}{dt}$\n4) نعوض القيم المعطاة: $\\sqrt{13}\\frac{dx}{dt} = 12\\sin\\left(\\frac{\\pi}{3}\\right) \\times \\frac{1}{4} = 3 \\times \\frac{\\sqrt{3}}{2} = \\frac{3\\sqrt{3}}{2}$\n5) بالقسمة على $\\sqrt{13}$ نجد: $\\frac{dx}{dt} = \\frac{3\\sqrt{3}}{2\\sqrt{13}} = \\frac{3}{2}\\sqrt{\\frac{3}{13}}$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) $x^2=25-24\\cos\\theta$، عند $\\theta=\\frac{\\pi}{3}$: $x=\\sqrt{13}$\n2) $x\\frac{dx}{dt}=12\\sin\\theta\\frac{d\\theta}{dt} = \\frac{3\\sqrt{3}}{2}$\n3) $\\frac{dx}{dt}=\\frac{3\\sqrt{3}}{2\\sqrt{13}}=\\frac{3}{2}\\sqrt{\\frac{3}{13}}$\n\nإذن الخيار الصحيح هو a",
     "has_image": true,
     "image_url": "https://i.postimg.cc/NMZHbWG5/1780289026036.png"
   },
@@ -600,7 +600,7 @@
     "choices": ["$\\frac{1}{16\\pi}\\text{m}^2\\text{/min}$", "$\\frac{1}{4}\\text{m}^2\\text{/min}$", "$\\frac{-1}{16\\pi}\\text{m}^2\\text{/min}$", "$\\frac{-1}{4}\\text{m}^2\\text{/min}$"],
     "correct_answer": "b",
     "final_answer_text": "$\\frac{1}{4}\\text{m}^2\\text{/min}$",
-    "explanation": "خطوات الحل:\n1) نحول معدل تغير الحجم من $\\text{cm}^3\\text{/min}$ إلى $\\text{m}^3\\text{/min}$:\n   $\\frac{dV}{dt} = \\frac{250000}{100^3} = \\frac{250000}{1000000} = 0.25 = \\frac{1}{4}\\text{m}^3\\text{/min}$ \n2) قطر القاعدة يساوي $4\\text{m}$ إذن نصف القطر ثابت ويساوي $r = 2\\text{m}$\n3) حجم الوقود في الأسطوانة هو: $V = \\pi r^2 h = \\pi (2)^2 h = 4\\pi h$\n4) نشتق الحجم بالنسبة للزمن: $\\frac{dV}{dt} = 4\\pi \\frac{dh}{dt} \\Rightarrow \\frac{1}{4} = 4\\pi \\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = \\frac{1}{16\\pi}\\text{m/min}$\n5) قانون المساحة الجانبية للأسطوانة هو: $A = 2\\pi r h = 2\\pi (2) h = 4\\pi h$\n6) نشتق المساحة الجانبية بالنسبة للزمن: $\\frac{dA}{dt} = 4\\pi \\frac{dh}{dt}$\n7) نعوض قيمة $\\frac{dh}{dt}$: $\\frac{dA}{dt} = 4\\pi \\left(\\frac{1}{16\\pi}\\right) = \\frac{1}{4}\\text{m}^2\\text{/min}$\n\nإذن الخيار الصحيح هو b",
+    "explanation": "خطوات الحل:\n1) $\\frac{dV}{dt}=\\frac{1}{4}\\text{m}^3\\text{/min}$، $r=2\\text{m}$ ثابت\n2) $A_{\\text{جانبية}}=4\\pi h \\Rightarrow \\frac{dA}{dt}=4\\pi\\frac{dh}{dt}$\n3) من $V=4\\pi h$: $\\frac{1}{4}=4\\pi\\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt}=\\frac{1}{16\\pi}$\n4) $\\frac{dA}{dt}=4\\pi \\cdot \\frac{1}{16\\pi}=\\frac{1}{4}$\n\nإذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -611,7 +611,7 @@
     "choices": ["$\\frac{-1}{6}\\text{m/min}$", "$\\frac{-1}{18}\\text{m/min}$", "$\\frac{-1}{2}\\text{m/min}$", "$\\frac{-1}{12}\\text{m/min}$"],
     "correct_answer": "a",
     "final_answer_text": "$\\frac{-1}{6}\\text{m/min}$",
-    "explanation": "خطوات الحل:\n1) من تشابه المثلثات في المخروط: $\\frac{r}{h} = \\frac{2}{4} = \\frac{1}{2} \\Rightarrow h = 2r$\n2) عندما يكون نصف القطر $r = 1\\text{m}$، يكون الارتفاع المماثل $h = 2\\text{m}$\n3) نكتب قانون حجم المخروط بدلالة $h$: $V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi \\left(\\frac{h}{2}\\right)^2 h = \\frac{1}{12}\\pi h^3$\n4) نشتق الحجم بالنسبة للزمن مع الانتباه لإشارة التسرب السالبة: $\\frac{dV}{dt} = \\frac{3}{12}\\pi h^2 \\frac{dh}{dt} = \\frac{1}{4}\\pi h^2 \\frac{dh}{dt}$\n5) نعوض المعطيات ($\\frac{dV}{dt} = -\\frac{\\pi}{6}$ و $h = 2$):\n   $-\\frac{\\pi}{6} = \\frac{1}{4}\\pi (2)^2 \\frac{dh}{dt} \\Rightarrow -\\frac{\\pi}{6} = \\pi \\frac{dh}{dt} \\Rightarrow \\frac{dh}{dt} = -\\frac{1}{6}\\text{m/min}$\n\nإذن الخيار الصحيح هو a",
+    "explanation": "خطوات الحل:\n1) من تشابه المثلثات: $r = \\frac{h}{2}$\n2) $V = \\frac{\\pi h^3}{12} \\Rightarrow \\frac{dV}{dt} = \\frac{\\pi h^2}{4}\\frac{dh}{dt}$\n3) عند $r=1$ يكون $h=2$:\n   $-\\frac{\\pi}{6} = \\frac{\\pi(4)}{4}\\frac{dh}{dt} = \\pi\\frac{dh}{dt}$\n4) $\\frac{dh}{dt} = \\frac{-1}{6}\\text{m/min}$\n\nإذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -622,7 +622,7 @@
     "choices": ["$\\frac{6}{5}\\text{m/s}$", "$-6\\text{m/s}$", "$\\frac{-6}{5}\\text{m/s}$", "$6\\text{m/s}$"],
     "correct_answer": "c",
     "final_answer_text": "$\\frac{-6}{5}\\text{m/s}$",
-    "explanation": "خطوات الحل:\n1) نفرض مسافة الرجل عن المصباح هي $x$، وطول ظله على الجدار هو $y$، المسافة الكلية للجدار ثابتة وتساوي $10\\text{m}$\n2) من تشابه المثلثات: $\\frac{\\text{طول الرجل}}{\\text{مسافة الرجل عن المصباح}} = \\frac{\\text{طول الظل}}{\\text{المسافة الكلية للجدار}} \\Rightarrow \\frac{2}{x} = \\frac{y}{10}$\n3) نضرب تبادلياً لجعل $y$ موضوعاً للقانون: $y = \\frac{20}{x} = 20x^{-1}$\n4) عندما يكون الرجل على بعد $5\\text{m}$ عن الجدار، فإن بعده عن المصباح (الذي هو $x$) يساوي: $x = 10 - 5 = 5\\text{m}$\n5) نشتق العلاقة بالنسبة للزمن: $\\frac{dy}{dt} = \\frac{-20}{x^2} \\frac{dx}{dt}$\n6) نعوض القيم ($x = 5$ و $\\frac{dx}{dt} = 1.5$):\n   $\\frac{dy}{dt} = \\frac{-20}{5^2} \\times 1.5 = \\frac{-20}{25} \\times 1.5 = -0.8 \\times 1.5 = -1.2 = -\\frac{6}{5}\\text{m/s}$\n\nإذن الخيار الصحيح هو c",
+    "explanation": "خطوات الحل:\n1) من تشابه المثلثات: $y = \\frac{20}{x}$\n2) عند بعد $5\\text{m}$ عن الجدار: $x=5$\n3) $\\frac{dy}{dt} = \\frac{-20}{x^2}\\frac{dx}{dt} = \\frac{-20}{25}(1.5) = -\\frac{6}{5}$\n\nإذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   }

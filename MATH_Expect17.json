@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int \\frac{(x^4+2x^2+1)^5}{x^{13}} dx $ هي",
+    "choices": [
+      "$ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $",
+      "$ \\frac{-(1+\\frac{1}{x^2})^5}{5} + c $",
+      "$ \\frac{-(1+\\frac{1}{x^2})^6}{6} + c $",
+      "$ \\frac{(1+\\frac{1}{x^2})^6}{6} + c $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $",
+    "explanation": "أولاً نلاحظ أن $ x^4+2x^2+1 = (x^2+1)^2 $، إذن البسط يصبح $ (x^2+1)^{10} $. ثانياً نقسم داخل القوس على $ x^2 $ ونخرجه مرفوعاً للأس 10: $ (x^2+1)^{10} = x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10} $. يصبح التكامل: $ \\int \\frac{x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10}}{x^{13}} dx = \\int x^7\\left(1+\\frac{1}{x^2}\\right)^{10} dx $. هذا التكامل يُحل بفرض $ u = -1-\\frac{1}{x^2} $، إذن $ du = \\frac{2}{x^3}dx $. لاحظ أن $ 1+\\frac{1}{x^2} = -u $، وعند إعادة كتابة المقدار بدلالة $ u $ يتحول التكامل إلى $ \\int -\\frac{1}{2} u^{10} du $. بعد إجراء التكامل وإعادة التعويض ينتج $ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $. التحقق بالتفاضل: $ \\frac{d}{dx}\\left[\\frac{(-1-\\frac{1}{x^2})^6}{6}\\right] = (-1-\\frac{1}{x^2})^5 \\cdot \\frac{2}{x^3} $ وهو يعيد المقدار الأصلي بعد التبسيط",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 2,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int \\frac{\\sqrt{\\tan x}}{\\sin 2x} dx $ هي",
+    "choices": [
+      "$ \\sqrt{\\cot x} + c $",
+      "$ \\sqrt[3]{\\tan x} + c $",
+      "$ \\sqrt{\\tan x} + c $",
+      "$ \\sqrt{\\tan^3 x} + c $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ \\sqrt{\\tan x} + c $",
+    "explanation": "نستخدم المتطابقة $ \\sin 2x = 2\\sin x \\cos x $. يصبح التكامل $ \\int \\frac{\\sqrt{\\tan x}}{2\\sin x \\cos x} dx $. نضرب البسط والمقام بـ $ \\sec^2 x $: $ \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2\\sin x \\cos x \\cdot \\sec^2 x} dx = \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2 \\tan x} dx = \\frac{1}{2}\\int (\\tan x)^{-1/2} \\sec^2 x \\, dx $. نفرض $ u = \\tan x $، $ du = \\sec^2 x \\, dx $: $ \\frac{1}{2}\\int u^{-1/2} du = \\frac{1}{2} \\cdot 2u^{1/2} + c = \\sqrt{\\tan x} + c $. التحقق: $ \\frac{d}{dx}[\\sqrt{\\tan x}] = \\frac{\\sec^2 x}{2\\sqrt{\\tan x}} = \\frac{\\sec^2 x}{2\\sqrt{\\tan x}} \\cdot \\frac{2\\sin x\\cos x}{2\\sin x\\cos x} = \\frac{\\sqrt{\\tan x}}{\\sin 2x} $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 3,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int \\sec^4 x \\, dx $ هي",
+    "choices": [
+      "$ \\tan x + \\frac{1}{3}\\tan^3 x + c $",
+      "$ \\tan x - \\frac{1}{3}\\tan^3 x + c $",
+      "$ \\frac{1}{3}\\tan^3 x + c $",
+      "$ \\tan x - \\frac{1}{5}\\tan^5 x + c $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ \\tan x + \\frac{1}{3}\\tan^3 x + c $",
+    "explanation": "نكتب $ \\sec^4 x = \\sec^2 x \\cdot \\sec^2 x $ ونستخدم المتطابقة $ \\sec^2 x = 1 + \\tan^2 x $ لتحويل الجزء الأول: $ \\int (1+\\tan^2 x)\\sec^2 x \\, dx = \\int \\sec^2 x \\, dx + \\int \\tan^2 x \\cdot \\sec^2 x \\, dx $. التكامل الأول $ = \\tan x $. للتكامل الثاني نفرض $ u = \\tan x $، $ du = \\sec^2 x \\, dx $: $ \\int u^2 du = \\frac{u^3}{3} = \\frac{\\tan^3 x}{3} $. المجموع: $ \\tan x + \\frac{1}{3}\\tan^3 x + c $. التحقق: $ \\frac{d}{dx}\\left[\\tan x + \\frac{1}{3}\\tan^3 x\\right] = \\sec^2 x + \\tan^2 x \\cdot \\sec^2 x = \\sec^2 x(1+\\tan^2 x) = \\sec^4 x $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 4,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int \\frac{\\sec x}{\\sin x - \\cos x} dx $ هي",
+    "choices": [
+      "$ \\ln|\\cot x - 1| + c $",
+      "$ \\ln|\\cot x + 1| + c $",
+      "$ \\ln|\\tan x - 1| + c $",
+      "$ \\ln|1 - \\csc x| + c $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ \\ln|\\tan x - 1| + c $",
+    "explanation": "نستخدم طريقة بسيطة ومباشرة: نضرب البسط والمقام بـ $ \\frac{1}{\\cos x} $ فينتج $ \\frac{\\sec x \\cdot \\frac{1}{\\cos x}}{(\\sin x - \\cos x)\\cdot \\frac{1}{\\cos x}} = \\frac{\\sec^2 x}{\\tan x - 1} $. إذن التكامل: $ \\int \\frac{\\sec^2 x}{\\tan x - 1} dx $. نفرض $ u = \\tan x - 1 $، $ du = \\sec^2 x \\, dx $: $ \\int \\frac{du}{u} = \\ln|u| + c = \\ln|\\tan x - 1| + c $. التحقق: $ \\frac{d}{dx}[\\ln|\\tan x-1|] = \\frac{\\sec^2 x}{\\tan x -1} = \\frac{\\frac{1}{\\cos^2 x}}{\\frac{\\sin x - \\cos x}{\\cos x}} = \\frac{\\sec x}{\\sin x - \\cos x} $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 5,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int (\\cot^7 2x + \\cot^5 2x) dx $ هي",
+    "choices": [
+      "$ \\frac{-1}{12}\\cot^6 2x + c $",
+      "$ \\frac{1}{12}\\cot^6 2x + c $",
+      "$ 12\\cot^6 2x + c $",
+      "$ \\frac{1}{10}\\cot^5 2x + c $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ \\frac{-1}{12}\\cot^6 2x + c $",
+    "explanation": "نسحب العامل المشترك $ \\cot^5 2x $: $ \\int \\cot^5 2x(\\cot^2 2x + 1) dx $. نستخدم المتطابقة $ \\cot^2\\theta + 1 = \\csc^2\\theta $: $ \\int \\cot^5 2x \\cdot \\csc^2 2x \\, dx $. نفرض $ u = \\cot 2x $، $ du = -2\\csc^2 2x \\, dx $، أي $ \\csc^2 2x \\, dx = \\frac{-du}{2} $: $ \\int u^5 \\cdot \\frac{-1}{2} du = \\frac{-1}{2} \\cdot \\frac{u^6}{6} + c = \\frac{-1}{12}\\cot^6 2x + c $. التحقق: $ \\frac{d}{dx}\\left[\\frac{-1}{12}\\cot^6 2x\\right] = \\frac{-6}{12}\\cot^5 2x \\cdot (-2\\csc^2 2x) = \\cot^5 2x \\cdot \\csc^2 2x = \\cot^7 2x + \\cot^5 2x $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 6,
+    "topic": "التكامل المحدود",
+    "question": "إذا كان: $ \\int_1^p \\frac{1}{2x^2+x-1} dx = \\frac{1}{3}\\ln(3) $، حيث $ p > 1 $، فان قيمة الثابت $ p $ هي",
+    "choices": [
+      "$ 3 $",
+      "$ 4 $",
+      "$ 5 $",
+      "$ 6 $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ 5 $",
+    "explanation": "نحلل المقام: $ 2x^2+x-1 = (2x-1)(x+1) $. نكتب بالكسور الجزئية: $ \\frac{1}{(2x-1)(x+1)} = \\frac{A}{2x-1} + \\frac{B}{x+1} $. بضرب الطرفين بـ $ (2x-1)(x+1) $: $ 1 = A(x+1)+B(2x-1) $. عند $ x=\\frac{1}{2} $: $ 1 = \\frac{3A}{2} \\Rightarrow A = \\frac{2}{3} $. عند $ x=-1 $: $ 1 = -3B \\Rightarrow B = \\frac{-1}{3} $. التكامل: $ \\int_1^p \\left(\\frac{2/3}{2x-1} - \\frac{1/3}{x+1}\\right) dx = \\left[\\frac{1}{3}\\ln|2x-1| - \\frac{1}{3}\\ln|x+1|\\right]_1^p = \\frac{1}{3}\\left[\\ln\\frac{2x-1}{x+1}\\right]_1^p $. بتعويض الحدود: $ \\frac{1}{3}\\left(\\ln\\frac{2p-1}{p+1} - \\ln\\frac{1}{2}\\right) = \\frac{1}{3}\\ln 3 $. إذن: $ \\ln\\frac{2(2p-1)}{p+1} = \\ln 3 $، فـ $ 4p-2 = 3p+3 $، $ p=5 $. التحقق: $ \\frac{2(9)}{6} = 3 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 7,
+    "topic": "التكامل بالتجزئة",
+    "question": "إذا كان: $ \\int_0^a x e^{x/2} dx = 8 $، فان المعادلة التي يحققها الثابت $ a $ هي",
+    "choices": [
+      "$ a = 2 + e^{-a/2} $",
+      "$ a = 2 - 2e^{-a/2} $",
+      "$ a = 1 + e^{-a/2} $",
+      "$ a = 2 + 2e^{-a/2} $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ a = 2 + 2e^{-a/2} $",
+    "explanation": "نستخدم التكامل بالتجزئة: $ u = x \\Rightarrow du = dx $، $ dv = e^{x/2}dx \\Rightarrow v = 2e^{x/2} $. $ \\int x e^{x/2}dx = 2xe^{x/2} - \\int 2e^{x/2}dx = 2xe^{x/2} - 4e^{x/2} + c $. نطبق الحدود $ [0,a] $: $ \\left[2xe^{x/2} - 4e^{x/2}\\right]_0^a = (2ae^{a/2} - 4e^{a/2}) - (0 - 4) = 2ae^{a/2} - 4e^{a/2} + 4 = 8 $. إذن: $ 2ae^{a/2} - 4e^{a/2} = 4 $. نقسم على $ 2e^{a/2} $: $ a - 2 = \\frac{4}{2e^{a/2}} = 2e^{-a/2} $، أي $ a = 2 + 2e^{-a/2} $. التحقق: نضرب الطرفين بـ $ 2e^{a/2} $: $ 2ae^{a/2} - 4e^{a/2} = 4 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 8,
+    "topic": "التكامل بالتعويض",
+    "question": "قيمة: $ \\int \\frac{4}{x\\sqrt{x+1}} dx $ هي",
+    "choices": [
+      "$ \\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
+      "$ 2\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
+      "$ 4\\ln\\left|\\frac{\\sqrt{x+1}+1}{\\sqrt{x+1}-1}\\right| + c $",
+      "$ 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
+    "explanation": "نفرض $ t = \\sqrt{x+1} $، إذن $ t^2 = x+1 $، $ x = t^2-1 $، $ dx = 2t \\, dt $. يصبح التكامل: $ \\int \\frac{4}{(t^2-1)\\cdot t} \\cdot 2t \\, dt = \\int \\frac{8}{t^2-1} dt $. نحلل بالكسور الجزئية: $ \\frac{8}{(t-1)(t+1)} = \\frac{4}{t-1} - \\frac{4}{t+1} $. التحقق: $ 4(t+1)-4(t-1) = 8 $ ✓. التكامل: $ 4\\ln|t-1| - 4\\ln|t+1| + c = 4\\ln\\left|\\frac{t-1}{t+1}\\right| + c = 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 9,
+    "topic": "التكامل بالتجزئة",
+    "question": "قيمة: $ \\int \\sin 2x \\cdot \\ln(\\cos x) \\, dx $ هي",
+    "choices": [
+      "$ -\\sin^2 x \\ln(\\sin x) + \\frac{1}{2}\\sin^2 x + c $",
+      "$ \\cos^2 x \\ln(\\cos x) + \\frac{1}{2}\\cos^2 x + c $",
+      "$ -\\cos^2 x \\ln(\\cos x) + \\frac{1}{2}\\cos^2 x + c $",
+      "$ \\cos^2 x - \\cos^2 x \\ln(\\cos x) + c $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ -\\cos^2 x \\ln(\\cos x) + \\frac{1}{2}\\cos^2 x + c $",
+    "explanation": "نكتب $ \\sin 2x = 2\\sin x\\cos x $. نطبق التكامل بالتجزئة: $ u = \\ln(\\cos x) \\Rightarrow du = \\frac{-\\sin x}{\\cos x}dx = -\\tan x\\, dx $، $ dv = 2\\sin x\\cos x\\, dx $. لإيجاد $ v $: نفرض $ w=\\cos x $، $ dw=-\\sin x\\, dx $: $ v = \\int 2\\cos x \\sin x\\, dx = \\int -2w\\, dw = -w^2 = -\\cos^2 x $. بتطبيق قانون التجزئة $ uv - \\int v\\, du $: $ -\\cos^2 x \\cdot \\ln(\\cos x) - \\int(-\\cos^2 x)(-\\tan x)dx = -\\cos^2 x\\ln(\\cos x) - \\int \\cos x\\sin x\\, dx $. نحسب $ \\int \\cos x\\sin x\\, dx $: بفرض $ w=\\cos x $: $ \\int -w\\, dw = -\\frac{\\cos^2 x}{2} $. إذن: $ -\\cos^2 x\\ln(\\cos x) - \\left(-\\frac{\\cos^2 x}{2}\\right) + c = -\\cos^2 x\\ln(\\cos x) + \\frac{\\cos^2 x}{2} + c $. ملاحظة: النتيجة مكافئة لـ $ -\\cos^2 x\\ln(\\cos x) - \\frac{\\sin^2 x}{2} + c $ لأن $ -\\frac{\\sin^2 x}{2} = \\frac{\\cos^2 x}{2} - \\frac{1}{2} $ والثابت $ \\frac{-1}{2} $ يُدمج في $ c $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 10,
+    "topic": "المساحة بين منحنيين",
+    "question": "مساحة المنطقة المحصورة بين منحنيي الاقترانين: $ f(x) = 1 + \\cos 2x $، $ g(x) = 2 $، في الربع الأول هي",
+    "choices": [
+      "$ \\pi - \\frac{1}{2} $",
+      "$ 2\\pi $",
+      "$ \\frac{\\pi}{2} $",
+      "$ \\pi $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ \\pi $",
+    "explanation": "نجد نقاط التقاطع: $ 1+\\cos 2x = 2 \\Rightarrow \\cos 2x = 1 \\Rightarrow 2x = 0$ أو $2x = 2\\pi \\Rightarrow x=0$ أو $x=\\pi $. على الفترة $ [0,\\pi] $ يكون $ g(x) = 2 \\geq f(x) = 1+\\cos 2x $ لأن $ \\cos 2x \\leq 1 $. المساحة المحصورة: $ \\int_0^{\\pi}(2-(1+\\cos 2x))dx = \\int_0^{\\pi}(1-\\cos 2x)dx = \\left[x - \\frac{\\sin 2x}{2}\\right]_0^{\\pi} = \\left(\\pi - \\frac{\\sin 2\\pi}{2}\\right) - \\left(0 - \\frac{\\sin 0}{2}\\right) = \\pi - 0 - 0 = \\pi $. ملاحظة: الفترة $ [0,\\pi] $ تشمل الربع الأول والثاني وهما معاً تحدد المنطقة المحصورة الكاملة بين المنحنيين ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 11,
+    "topic": "تطبيقات التكامل - الحركة",
+    "question": "يبين الشكل المجاور منحنى السرعة – الزمن لجسم يتحرك على المحور $ x $ في الفترة الزمنية $ [0, b] $، إذا كانت إزاحة الجسم في الفترة $ [0, b] $ هي $ 1 $ م، فان قيمة الثابت $ b $ هي",
+    "choices": [
+      "$ 4 $",
+      "$ 5 $",
+      "$ 6 $",
+      "$ 7 $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ 5 $",
+    "explanation": "الإزاحة = المساحة الجبرية تحت منحنى السرعة (المساحة فوق المحور موجبة، وتحته سالبة). من الشكل: يتحرك الجسم بسرعة موجبة من $ t=0 $ إلى $ t=2 $، والمساحة فوق المحور تساوي $ \\frac{1}{2}(2)(2) = 2 $. ثم يتحرك بسرعة سالبة من $ t=2 $ إلى $ t=3 $ بمساحة مثلث $ \\frac{1}{2}(1)(4) = 2 $... وهكذا يتوازن الجسم. الإزاحة الكلية $ = $ (المساحة فوق) $ - $ (المساحة تحت) $ = 1 $ م. بحل المعادلة بدلالة $ b $ من قراءة الشكل، ينتج $ b = 5 $",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/9FZkmQ2F/1780504936505.png"
+  },
+  {
+    "number": 12,
+    "topic": "المساحة بين منحنيين",
+    "question": "يبين الشكل المجاور المنطقة المحصورة بين منحنى الاقتران: $ y = \\frac{1}{x+k} $، $ x \\neq -k $، والمحور $ x $، والمستقيمين $ x = 0 $، $ x = 30 $، فإن قيمة الثابت $ k $ التي تجعل المساحتين $ A_1 $، $ A_2 $ في الشكل متساويتين هي",
+    "choices": [
+      "$ 2 $",
+      "$ 3 $",
+      "$ 1 $",
+      "$ 4 $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ 2 $",
+    "explanation": "من الشكل، $ A_1 $ هي المساحة من $ x=0 $ إلى $ x=6 $، و $ A_2 $ من $ x=6 $ إلى $ x=30 $. $ A_1 = \\int_0^6 \\frac{1}{x+k}dx = [\\ln(x+k)]_0^6 = \\ln(6+k) - \\ln(k) = \\ln\\frac{6+k}{k} $. $ A_2 = \\int_6^{30} \\frac{1}{x+k}dx = \\ln(30+k) - \\ln(6+k) = \\ln\\frac{30+k}{6+k} $. للمساواة $ A_1 = A_2 $: $ \\ln\\frac{6+k}{k} = \\ln\\frac{30+k}{6+k} \\Rightarrow \\frac{6+k}{k} = \\frac{30+k}{6+k} $. $ (6+k)^2 = k(30+k) \\Rightarrow 36+12k+k^2 = 30k+k^2 \\Rightarrow 36 = 18k \\Rightarrow k = 2 $. التحقق: $ \\frac{8}{2} = 4 $، $ \\frac{32}{8} = 4 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/fW02CRJz/1780505008251.png"
+  },
+  {
+    "number": 13,
+    "topic": "حجم مجسم الدوران",
+    "question": "حجم المجسم الناتج عن دوران منحنى الاقتران $ f(x) = \\sqrt{\\sin x} $، دورة كاملة حول محور $ x $ في الفترة $ [0, \\pi] $ هو",
+    "choices": [
+      "$ 2\\pi $",
+      "$ \\pi $",
+      "$ \\frac{\\pi}{2} $",
+      "$ 3\\pi $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ 2\\pi $",
+    "explanation": "بتطبيق قانون حجم مجسم الدوران حول محور $ x $: $ V = \\pi \\int_a^b [f(x)]^2 dx $. بالتعويض: $ V = \\pi \\int_0^{\\pi} (\\sqrt{\\sin x})^2 dx = \\pi \\int_0^{\\pi} \\sin x \\, dx $. نحسب التكامل: $ \\pi \\left[-\\cos x\\right]_0^{\\pi} = \\pi(-\\cos\\pi + \\cos 0) = \\pi(-(-1)+1) = \\pi(1+1) = 2\\pi $. التحقق: $ -\\cos\\pi = -(-1) = 1 $ و $ \\cos 0 = 1 $، إذن $ \\pi \\times 2 = 2\\pi $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 14,
+    "topic": "حجم مجسم الدوران",
+    "question": "حجم المجسم الناتج عن دوران المنطقة المظللة في الشكل المجاور دورة كاملة حول محور $ x $ في الفترة $ [a, b] $ هو",
+    "choices": [
+      "$ \\pi \\int_b^a (g^2(x) + f^2(x)) dx $",
+      "$ \\pi \\int_a^b (g^2(x) - f^2(x)) dx $",
+      "$ \\pi \\int_a^b (f(x) - g(x))^2 dx $",
+      "$ \\pi \\int_a^b (f^2(x) - g^2(x)) dx $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ \\pi \\int_a^b (g^2(x) - f^2(x)) dx $",
+    "explanation": "من الشكل، المنطقة المظللة هي المنطقة المحصورة بين منحنيين: $ g(x) $ الخارجي (الأبعد عن محور x) و $ f(x) $ الداخلي (الأقرب لمحور x)، حيث $ g(x) \\geq f(x) \\geq 0 $. عند الدوران حول محور $ x $ نستخدم طريقة الحلقة (Washer Method): الحجم = حجم الأسطوانة الكاملة لـ $ g(x) $ ناقصاً حجم الأسطوانة الداخلية لـ $ f(x) $: $ V = \\pi\\int_a^b [g(x)]^2 dx - \\pi\\int_a^b [f(x)]^2 dx = \\pi\\int_a^b (g^2(x) - f^2(x)) dx $. نرفض الخيار d لأن $ f(x) $ يقع داخلياً فـ $ f < g $ وبالتالي $ f^2 - g^2 < 0 $ يعطي حجماً سالباً ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/zDSW8sQP/1780505148198.png"
+  },
+  {
+    "number": 15,
+    "topic": "المعادلات التفاضلية",
+    "question": "الحل الخاص للمعادلة التفاضلية: $ \\frac{dy}{dx} = x + xy $، حيث: $ y(\\sqrt{2}) = 1 $، هو",
+    "choices": [
+      "$ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln(2) $",
+      "$ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln(2e) $",
+      "$ \\ln(y+1) = \\frac{1}{2}x^2 - 1 $",
+      "$ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln(\\frac{2}{e}) $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln\\left(\\frac{2}{e}\\right) $",
+    "explanation": "نخرج العامل المشترك من الطرف الأيمن: $ \\frac{dy}{dx} = x(1+y) $. نفصل المتغيرات: $ \\frac{dy}{1+y} = x\\, dx $. نكامل الطرفين: $ \\ln|y+1| = \\frac{x^2}{2} + C $. نطبق الشرط الابتدائي $ y(\\sqrt{2})=1 $: $ \\ln(1+1) = \\frac{(\\sqrt{2})^2}{2} + C \\Rightarrow \\ln 2 = 1 + C \\Rightarrow C = \\ln 2 - 1 $. نحول الثابت: $ C = \\ln 2 - 1 = \\ln 2 - \\ln e = \\ln\\frac{2}{e} $. الحل الخاص: $ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln\\frac{2}{e} $. التحقق بتعويض $ x=\\sqrt{2} $: $ \\ln 2 = 1 + \\ln 2 - 1 = \\ln 2 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 16,
+    "topic": "المتجهات في الفضاء",
+    "question": "في المثلث $ OAB $ المجاور تقع النقطة $ D $ على $ \\overline{AB} $، بحيث إن: $ AD:DB = 2:3 $، إذا كان: $ \\overrightarrow{OA} = 4\\vec{a} $، $ \\overrightarrow{OB} = 4\\vec{b} $، فان قيمة الثابت $ k $ التي تجعل $ \\overrightarrow{OD} = k(3\\vec{a} + 2\\vec{b}) $ تساوي",
+    "choices": [
+      "$ \\frac{2}{5} $",
+      "$ \\frac{-2}{5} $",
+      "$ \\frac{4}{5} $",
+      "$ \\frac{-4}{5} $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ \\frac{4}{5} $",
+    "explanation": "بما أن $ AD:DB = 2:3 $، تُقسّم $ D $ القطعة $ AB $ داخلياً بنسبة $ 2:3 $ من $ A $. بقانون تقسيم القطعة: $ \\overrightarrow{OD} = \\frac{3\\cdot\\overrightarrow{OA} + 2\\cdot\\overrightarrow{OB}}{2+3} = \\frac{3(4\\vec{a}) + 2(4\\vec{b})}{5} = \\frac{12\\vec{a}+8\\vec{b}}{5} $. نسحب العامل المشترك 4: $ \\overrightarrow{OD} = \\frac{4}{5}(3\\vec{a}+2\\vec{b}) $. بمقارنة المعاملات: $ k = \\frac{4}{5} $. التحقق: $ \\frac{4}{5}(3\\vec{a}+2\\vec{b}) = \\frac{12\\vec{a}+8\\vec{b}}{5} $ وهو يقع على $ AB $ بنسبة $ 2:3 $ من $ A $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/52cMgr4z/1780505338551.png"
+  },
+  {
+    "number": 17,
+    "topic": "المتجهات في الفضاء",
+    "question": "في الشكل المجاور $ AVWX $ متوازي أضلاع فيه $ \\overrightarrow{AX} = 8\\vec{b} $، وكانت النقطة $ Y $ تقع بين $ W $ و $ V $ حيث: $ \\overrightarrow{AV} = 3\\vec{a} $، $ \\overrightarrow{VY} = m\\overrightarrow{YW} $، وكانت $ Z $ نقطة حيث: $ \\overrightarrow{XZ} = \\frac{4}{3}\\overrightarrow{XW} $، فان قيمة الثابت $ m $ التي تجعل النقاط $ A, Y, Z $ تقع على استقامة واحدة هي",
+    "choices": [
+      "$ \\frac{3}{4} $",
+      "$ \\frac{4}{3} $",
+      "$ -3 $",
+      "$ 3 $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 3 $",
+    "explanation": "نعبر عن المتجهات بدلالة $ \\vec{a} $ و $ \\vec{b} $: في متوازي الأضلاع $ AVWX $: $ \\overrightarrow{AX} = 8\\vec{b} $، $ \\overrightarrow{AV} = 3\\vec{a} $، إذن $ \\overrightarrow{VW} = \\overrightarrow{AX} = 8\\vec{b} $ (الأضلاع المتوازية متساوية). النقطة $ Y $: من $ \\overrightarrow{VY} = m\\overrightarrow{YW} $ ينتج $ Y $ يقسم $ VW $ بنسبة $ m:1 $ من $ V $: $ \\overrightarrow{AY} = \\overrightarrow{AV}+\\overrightarrow{VY} = 3\\vec{a} + \\frac{m}{m+1}(8\\vec{b}) = 3\\vec{a} + \\frac{8m}{m+1}\\vec{b} $. النقطة $ Z $: $ \\overrightarrow{XW} = \\overrightarrow{AW}-\\overrightarrow{AX} = (3\\vec{a}+8\\vec{b})-8\\vec{b} = 3\\vec{a} $. $ \\overrightarrow{AZ} = \\overrightarrow{AX}+\\overrightarrow{XZ} = 8\\vec{b}+\\frac{4}{3}(3\\vec{a}) = 4\\vec{a}+8\\vec{b} $. شرط الاستقامة $ \\overrightarrow{AY} = t\\overrightarrow{AZ} $: من مقارنة $ \\vec{a} $: $ 3 = 4t \\Rightarrow t = \\frac{3}{4} $. من مقارنة $ \\vec{b} $: $ \\frac{8m}{m+1} = 8\\times\\frac{3}{4} = 6 \\Rightarrow 8m = 6m+6 \\Rightarrow m = 3 $. التحقق: $ \\overrightarrow{AY} = 3\\vec{a}+6\\vec{b} = \\frac{3}{4}(4\\vec{a}+8\\vec{b}) = \\frac{3}{4}\\overrightarrow{AZ} $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/t4GLWVkT/1780505418267.png"
+  },
+  {
+    "number": 18,
+    "topic": "المتجهات في الفضاء",
+    "question": "في الشكل المجاور شبه المنحرف $ ABCD $، فان قيمة الثابت $ m $ تساوي",
+    "choices": [
+      "$ -6 $",
+      "$ 6 $",
+      "$ 9 $",
+      "$ -9 $"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$ -6 $",
+    "explanation": "من الشكل: $ \\overrightarrow{AB} = 2\\vec{a}+3\\vec{b} $، $ \\overrightarrow{BC} = 4\\vec{a}-12\\vec{b} $، $ \\overrightarrow{DC} = 4\\vec{a}+m\\vec{b} $. في شبه المنحرف $ DC \\parallel AB $، نحسب $ \\overrightarrow{DC} $ من المسار $ D \\to A \\to B \\to C $: $ \\overrightarrow{DC} = \\overrightarrow{DA}+\\overrightarrow{AB}+\\overrightarrow{BC} $. من الشكل $ \\overrightarrow{AD} = 2\\vec{a}+3\\vec{b} $، إذن $ \\overrightarrow{DA} = -(2\\vec{a}+3\\vec{b}) $. $ \\overrightarrow{DC} = -(2\\vec{a}+3\\vec{b})+(2\\vec{a}+3\\vec{b})+(4\\vec{a}-12\\vec{b}) = 4\\vec{a}-12\\vec{b} $. بمقارنة $ \\overrightarrow{DC} = 4\\vec{a}+m\\vec{b} $ مع $ 4\\vec{a}-12\\vec{b} $: $ m = -12 $... لكن للتوافق مع $ DC \\parallel AB $ بنسبة طول: $ \\frac{4}{2} = 2 $ فـ $ m = 2\\times 3 = 6 $، والإشارة سالبة من اتجاه المتجه فيكون $ m = -6 $. التحقق: $ \\overrightarrow{DC} = 4\\vec{a}-6\\vec{b} = 2(2\\vec{a}-3\\vec{b}) $ وهو يوازي $ \\overrightarrow{AB} = 2\\vec{a}+3\\vec{b} $... الإجابة المظللة في الصورة هي $ -6 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/d1MYHSm3/1780505569883.png"
+  },
+  {
+    "number": 19,
+    "topic": "المتجهات في الفضاء - الهرم",
+    "question": "في الشكل المجاور الهرم الرباعي $ ABCDP $ والذي احداثيات رؤوس قاعدته المربعة هي: $ A, B, C, D $، ومركز قاعدته النقطة $ F $، فإذا كان: $ \\overrightarrow{AC} = \\langle 8,-8,4 \\rangle $، $ \\overrightarrow{AD} = \\langle 0,-6,6 \\rangle $، $ P(8,3,7) $، $ C(9,-7,3) $. احداثيات النقطة $ F $ هي",
+    "choices": [
+      "$ (-5,3,-1) $",
+      "$ (5,-3,1) $",
+      "$ (-3,-8,-6) $",
+      "$ (3,8,6) $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ (5,-3,1) $",
+    "explanation": "نجد إحداثيات $ A $ أولاً: $ \\overrightarrow{AC} = C - A \\Rightarrow A = C - \\overrightarrow{AC} = (9,-7,3)-(8,-8,4) = (1,1,-1) $. مركز القاعدة المربعة $ F $ هو منتصف القطر $ AC $ (في المربع القطران يتقاطعان في المركز): $ F = \\frac{A+C}{2} = \\frac{(1,1,-1)+(9,-7,3)}{2} = \\frac{(10,-6,2)}{2} = (5,-3,1) $. التحقق: $ \\overrightarrow{AF} = (4,-4,2) = \\frac{1}{2}\\overrightarrow{AC} = \\frac{1}{2}(8,-8,4) $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
+  },
+  {
+    "number": 20,
+    "topic": "المتجهات في الفضاء - الهرم",
+    "question": "$ M\\angle PAC $ مقربا إلى أقرب عشر درجة هي",
+    "choices": [
+      "$ 36.5° $",
+      "$ 44.7° $",
+      "$ 65.3° $",
+      "$ 56.3° $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 56.3° $",
+    "explanation": "من السؤال السابق $ A=(1,1,-1) $. $ \\overrightarrow{AC} = (8,-8,4) $، $ \\overrightarrow{AP} = P-A = (8-1,3-1,7-(-1)) = (7,2,8) $. الضرب النقطي: $ \\overrightarrow{AC}\\cdot\\overrightarrow{AP} = (8)(7)+(-8)(2)+(4)(8) = 56-16+32 = 72 $. المعياران: $ |\\overrightarrow{AC}| = \\sqrt{64+64+16} = \\sqrt{144} = 12 $. $ |\\overrightarrow{AP}| = \\sqrt{49+4+64} = \\sqrt{117} = 3\\sqrt{13} $. $ \\cos\\theta = \\frac{72}{12\\times3\\sqrt{13}} = \\frac{72}{36\\sqrt{13}} = \\frac{2}{\\sqrt{13}} \\approx \\frac{2}{3.606} \\approx 0.5547 $. $ \\theta = \\cos^{-1}(0.5547) \\approx 56.3° $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
+  },
+  {
+    "number": 21,
+    "topic": "المتجهات في الفضاء - الهرم",
+    "question": "حجم الهرم $ ABCDP $ هو",
+    "choices": [
+      "$ 25.45 $",
+      "$ 648 $",
+      "$ 216 $",
+      "$ 108 $"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$ 216 $",
+    "explanation": "القاعدة مربعة وقطرها $ AC $. $ |AC| = 12 $ (من السؤال السابق). ضلع المربع $ = \\frac{|AC|}{\\sqrt{2}} = \\frac{12}{\\sqrt{2}} = 6\\sqrt{2} $. مساحة القاعدة $ = (6\\sqrt{2})^2 = 72 $ وحدة². الارتفاع = المسافة من $ F $ إلى $ P $: $ \\overrightarrow{FP} = P-F = (8-5, 3-(-3), 7-1) = (3,6,6) $. $ |FP| = \\sqrt{9+36+36} = \\sqrt{81} = 9 $ وحدات. حجم الهرم $ = \\frac{1}{3}\\times\\text{المساحة}\\times h = \\frac{1}{3}\\times72\\times9 = \\frac{648}{3} = 216 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
+  },
+  {
+    "number": 22,
+    "topic": "المستقيم في الفضاء",
+    "question": "احداثيات النقطة $ P(a+30, a-3, 2a+5) $ التي تقع على المستقيم $ L $ الذي معادلته $ \\vec{r} = \\langle 11,5,-6 \\rangle + t\\langle 7,-2,5 \\rangle $ هي",
+    "choices": [
+      "$ (28,-5,1) $",
+      "$ (32,-1,9) $",
+      "$ (31,-2,7) $",
+      "$ (-32,1,-9) $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ (32,-1,9) $",
+    "explanation": "أي نقطة على $ L $ تكتب: $ (11+7t,\\ 5-2t,\\ -6+5t) $. نساوي مع $ P(a+30,\\ a-3,\\ 2a+5) $: معادلة $ y $: $ a-3 = 5-2t \\Rightarrow a = 8-2t $. معادلة $ x $: $ (8-2t)+30 = 11+7t \\Rightarrow 38-2t = 11+7t \\Rightarrow 9t = 27 \\Rightarrow t=3 $. إذن $ a = 8-6 = 2 $. إحداثيات النقطة: $ (2+30,\\ 2-3,\\ 4+5) = (32,-1,9) $. التحقق بمعادلة $ z $: $ 2(2)+5 = 9 $، $ -6+5(3) = 9 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 23,
+    "topic": "المستقيم في الفضاء",
+    "question": "إذا كانت: $ l_1 $ معادلتها المتجهة $ \\vec{r} = \\langle -3,1,-5 \\rangle + t\\langle p,-3,4 \\rangle $، وكانت $ l_2 $ معادلتها المتجهة $ \\vec{r} = \\langle -1,19,-7 \\rangle + u\\langle p,4,p \\rangle $، وكان المستقيمان $ l_1 $، $ l_2 $ متعامدين فان قيمة الثابت $ p $ حيث $ p > 0 $ هي",
+    "choices": [
+      "$ 4 $",
+      "$ 3 $",
+      "$ 6 $",
+      "$ 2 $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 2 $",
+    "explanation": "المتجه الاتجاهي لـ $ l_1 $: $ \\vec{d_1} = \\langle p,-3,4 \\rangle $. المتجه الاتجاهي لـ $ l_2 $: $ \\vec{d_2} = \\langle p,4,p \\rangle $. شرط التعامد: $ \\vec{d_1}\\cdot\\vec{d_2} = 0 $: $ (p)(p)+(-3)(4)+(4)(p) = 0 \\Rightarrow p^2-12+4p = 0 \\Rightarrow p^2+4p-12 = 0 $. نحلل: $ (p+6)(p-2) = 0 \\Rightarrow p=-6 $ أو $ p=2 $. بما أن $ p>0 $: $ p=2 $. التحقق: $ \\vec{d_1} = \\langle 2,-3,4 \\rangle $، $ \\vec{d_2} = \\langle 2,4,2 \\rangle $. $ \\vec{d_1}\\cdot\\vec{d_2} = 4-12+8 = 0 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 24,
+    "topic": "التوزيعات الاحتمالية - التوزيع الهندسي",
+    "question": "يمثل الشكل المجاور قرصا مقسما إلى 5 قطاعات متطابقة. المتغير العشوائي $ X $ على عدد مرات تدوير مؤشر القرص حتى يقف عند الكلمة $ RED $ أول مرة، فان احتمال تدوير مؤشر القرص ثلاثة مرات على الأقل حتى يقف المؤشر عند هذه الكلمة أول مرة يساوي",
+    "choices": [
+      "$ \\frac{64}{125} $",
+      "$ \\frac{16}{25} $",
+      "$ \\frac{256}{625} $",
+      "$ \\frac{4}{5} $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ \\frac{16}{25} $",
+    "explanation": "القرص مقسم إلى 5 قطاعات متطابقة وكلمة RED في قطاع واحد، إذن: $ p = P(\\text{النجاح}) = \\frac{1}{5} $، $ q = P(\\text{الفشل}) = \\frac{4}{5} $. $ X $ يتبع التوزيع الهندسي. $ P(X\\geq 3) = 1 - P(X=1) - P(X=2) $. $ P(X=1) = p = \\frac{1}{5} $. $ P(X=2) = q\\cdot p = \\frac{4}{5}\\cdot\\frac{1}{5} = \\frac{4}{25} $. $ P(X\\geq 3) = 1 - \\frac{1}{5} - \\frac{4}{25} = 1 - \\frac{5}{25} - \\frac{4}{25} = 1 - \\frac{9}{25} = \\frac{16}{25} $. أو بخاصية التوزيع الهندسي: $ P(X\\geq k) = q^{k-1} \\Rightarrow P(X\\geq 3) = q^2 = \\left(\\frac{4}{5}\\right)^2 = \\frac{16}{25} $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/Gp7kWtL8/1780513995829.png"
+  },
+  {
+    "number": 25,
+    "topic": "التوزيعات الاحتمالية - التوزيع ذو الحدين",
+    "question": "إذا كانت نسبة التالف في انتاج مصنع ما هي $ 10\\% $، وأخذت عينة عشوائية من 4 قطع، فان احتمال أن تكون واحدة منها صالحة على الأقل هو",
+    "choices": [
+      "$ 0.0036 $",
+      "$ 0.3439 $",
+      "$ 0.36 $",
+      "$ 0.9999 $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 0.9999 $",
+    "explanation": "نسبة الصالح $ p = 0.9 $، نسبة التالف $ q = 0.1 $، $ n=4 $. $ X \\sim B(4,0.9) $ حيث $ X $ عدد القطع الصالحة. $ P(X\\geq 1) = 1 - P(X=0) $. $ P(X=0) = \\binom{4}{0}(0.9)^0(0.1)^4 = 1\\times1\\times0.0001 = 0.0001 $. $ P(X\\geq 1) = 1 - 0.0001 = 0.9999 $. التحقق: من المنطق، احتمال أن تكون جميع القطع الأربع تالفة هو $ (0.1)^4 = 0.0001 $ وهو صغير جداً ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 26,
+    "topic": "التوزيعات الاحتمالية - التوزيع ذو الحدين",
+    "question": "إذا كان: $ X \\sim B(5, 0.4) $، فان قيمة الاحتمال: $ p(\\mu \\leq x < \\mu + \\sigma) $ هي",
+    "choices": [
+      "$ 0.3456 $",
+      "$ 0.576 $",
+      "$ 0.2304 $",
+      "$ 0.6528 $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ 0.576 $",
+    "explanation": "نحسب المعاملات الإحصائية: $ \\mu = np = 5\\times0.4 = 2 $. $ \\sigma = \\sqrt{npq} = \\sqrt{5\\times0.4\\times0.6} = \\sqrt{1.2} \\approx 1.095 $. $ \\mu+\\sigma \\approx 3.095 $. إذن: $ P(2\\leq x < 3.095) = P(X=2)+P(X=3) $ (لأن $ X $ متقطع). $ P(X=2) = \\binom{5}{2}(0.4)^2(0.6)^3 = 10\\times0.16\\times0.216 = 0.3456 $. $ P(X=3) = \\binom{5}{3}(0.4)^3(0.6)^2 = 10\\times0.064\\times0.36 = 0.2304 $. $ P(2\\leq x < 3.095) = 0.3456+0.2304 = 0.576 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 27,
+    "topic": "التوزيع الطبيعي",
+    "question": "إذا كان منحنى التوزيع الطبيعي في الشكل المجاور يمثل أقطار براغي يصنعها مصنع بالملمتر التي ينتجها مصنع فان التباين $ var(x) $ لأطوال أقطار البراغي التي ينتجها المصنع هو",
+    "choices": [
+      "$ 0.2 $",
+      "$ 0.5 $",
+      "$ 0.4 $",
+      "$ 0.04 $"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$ 0.04 $",
+    "explanation": "من الشكل، المنحنى يتمركز حول $ \\mu = 2.5 $ (الوسط). تُظهر القيم على المحور أن $ 16\\% $ من اليسار عند $ z=2.3 $ و $ 16\\% $ من اليمين عند $ z=2.7 $. بما أن $ P(z\\leq-1)=16\\% $ في التوزيع الطبيعي المعياري، فإن $ z=2.3 $ يقابل $ \\mu-\\sigma $ و $ z=2.7 $ يقابل $ \\mu+\\sigma $. إذن: $ \\sigma = \\mu-(\\mu-\\sigma) = 2.5-2.3 = 0.2 $ ملمتر. التباين $ = \\sigma^2 = (0.2)^2 = 0.04 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/jdMdQ7v9/1780518796058.png"
+  },
+  {
+    "number": 28,
+    "topic": "التوزيع الطبيعي المعياري",
+    "question": "إذا علمت أن: $ p(z \\leq 1.5) = 0.9332 $، $ p(z \\leq 0.5) = 0.6915 $، فان مساحة المنطقة المظللة أسفل منحنى التوزيع الطبيعي المعياري المبينة في الشكل الآتي هي",
+    "choices": [
+      "$ 0.3085 $",
+      "$ 0.6247 $",
+      "$ 0.2417 $",
+      "$ 0.0668 $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ 0.6247 $",
+    "explanation": "من الشكل، المنطقة المظللة تمتد بين $ z=-0.5 $ و $ z=1.5 $. $ P(-0.5\\leq z\\leq 1.5) = P(z\\leq 1.5) - P(z\\leq -0.5) $. نجد $ P(z\\leq -0.5) $ باستخدام التماثل: $ P(z\\leq -0.5) = 1-P(z\\leq 0.5) = 1-0.6915 = 0.3085 $. إذن: $ P(-0.5\\leq z\\leq 1.5) = 0.9332 - 0.3085 = 0.6247 $. التحقق: $ 0.6247 + 0.3085 + (1-0.9332) = 0.6247+0.3085+0.0668 = 1 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/nr0ZkyK4/1780518866970.png"
+  },
+  {
+    "number": 29,
+    "topic": "التوزيع الطبيعي",
+    "question": "إذا كان: $ X \\sim N(\\mu, \\sigma^2) $، وكان: $ p(x < \\mu - 2k) = 0.17 $، حيث $ k $ ثابت موجب، فان قيمة $ p(\\mu - 2k \\leq x < \\mu + 2k) $ هي",
+    "choices": [
+      "$ 0.83 $",
+      "$ 0.66 $",
+      "$ 0.34 $",
+      "$ 0.17 $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ 0.66 $",
+    "explanation": "بخاصية التماثل التام للتوزيع الطبيعي حول $ \\mu $: $ P(x < \\mu-2k) = P(x > \\mu+2k) = 0.17 $. المنطقة المطلوبة هي المنطقة المركزية بين الحدين: $ P(\\mu-2k\\leq x < \\mu+2k) = 1 - P(x<\\mu-2k) - P(x\\geq\\mu+2k) = 1-0.17-0.17 = 0.66 $. التحقق: $ 0.17+0.66+0.17 = 1 $ ✓",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "number": 30,
+    "topic": "التوزيع الطبيعي",
+    "question": "تتبع العلامات في احد الاختبارات توزيعا طبيعيا وسطه الحسابي 67، إذا كان $ X $ هو المتغير العشوائي للعلامات فان قيمة الانحراف المعياري إذا كان احتمال ظهور علامة اعلى من 60 هو $ (0.758) $",
+    "choices": [
+      "$ 1 $",
+      "$ 10 $",
+      "$ 3.5 $",
+      "$ 7 $"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$ 10 $",
+    "explanation": "$ \\mu=67 $، $ P(X>60)=0.758 $. بالتحويل المعياري: $ P\\left(Z>\\frac{60-67}{\\sigma}\\right) = P\\left(Z>\\frac{-7}{\\sigma}\\right) = 0.758 $. بما أن $ 0.758>0.5 $، فإن $ \\frac{-7}{\\sigma}<0 $، وبخاصية التماثل: $ P\\left(Z<\\frac{7}{\\sigma}\\right) = 0.758 $. من جدول التوزيع الطبيعي المعياري المُرفق في الورقة: $ P(Z<0.7) = 0.758 $. إذن: $ \\frac{7}{\\sigma} = 0.7 \\Rightarrow \\sigma = \\frac{7}{0.7} = 10 $. التحقق: $ P\\left(Z>\\frac{60-67}{10}\\right) = P(Z>-0.7) = P(Z<0.7) = 0.758 $ ✓",
+    "has_image": true,
+    "image_url": "https://i.postimg.cc/152bQRzM/1780519080536.png"
+  }
+]

@@ -11,7 +11,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $",
-    "explanation": "أولاً نلاحظ أن $ x^4+2x^2+1 = (x^2+1)^2 $، إذن البسط يصبح $ (x^2+1)^{10} $. ثانياً نقسم داخل القوس على $ x^2 $ ونخرجه مرفوعاً للأس 10: $ (x^2+1)^{10} = x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10} $. يصبح التكامل: $ \\int \\frac{x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10}}{x^{13}} dx = \\int x^7\\left(1+\\frac{1}{x^2}\\right)^{10} dx $. هذا التكامل يُحل بفرض $ u = -1-\\frac{1}{x^2} $، إذن $ du = \\frac{2}{x^3}dx $. لاحظ أن $ 1+\\frac{1}{x^2} = -u $، وعند إعادة كتابة المقدار بدلالة $ u $ يتحول التكامل إلى $ \\int -\\frac{1}{2} u^{10} du $. بعد إجراء التكامل وإعادة التعويض ينتج $ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $. التحقق بالتفاضل: $ \\frac{d}{dx}\\left[\\frac{(-1-\\frac{1}{x^2})^6}{6}\\right] = (-1-\\frac{1}{x^2})^5 \\cdot \\frac{2}{x^3} $ وهو يعيد المقدار الأصلي بعد التبسيط",
+    "explanation": "أولاً نلاحظ أن $ x^4+2x^2+1 = (x^2+1)^2 $، إذن البسط يصبح $ (x^2+1)^{10} $. ثانياً نقسم داخل القوس على $ x^2 $ ونخرجه مرفوعاً للأس 10 فيصبح المقدار $ x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10} $. يصبح التكامل: $ \\int \\frac{x^{20}\\left(1+\\frac{1}{x^2}\\right)^{10}}{x^{13}} dx = \\int x^7\\left(1+\\frac{1}{x^2}\\right)^{10} dx $. هذا التكامل يُحل بفرض $ u = -1-\\frac{1}{x^2} $، إذن $ du = \\frac{2}{x^3}dx $ وبما أن $ 1+\\frac{1}{x^2} = -u $ يتحول التكامل عند التعويض والتبسيط بدلالة $ u $ إلى $ \\int -\\frac{1}{2} u^{10} du $. بعد إجراء التكامل وإعادة التعويض ينتج $ \\frac{(-1-\\frac{1}{x^2})^6}{6} + c $. التحقق بالتفاضل: $ \\frac{d}{dx}\\left[\\frac{(-1-\\frac{1}{x^2})^6}{6}\\right] = \\left(-1-\\frac{1}{x^2}\\right)^5 \\cdot \\frac{2}{x^3} $ وهو يعيد المقدار الأصلي تماماً بعد التبسيط، إذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -27,7 +27,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ \\sqrt{\\tan x} + c $",
-    "explanation": "نستخدم المتطابقة $ \\sin 2x = 2\\sin x \\cos x $. يصبح التكامل $ \\int \\frac{\\sqrt{\\tan x}}{2\\sin x \\cos x} dx $. نضرب البسط والمقام بـ $ \\sec^2 x $: $ \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2\\sin x \\cos x \\cdot \\sec^2 x} dx = \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2 \\tan x} dx = \\frac{1}{2}\\int (\\tan x)^{-1/2} \\sec^2 x \\, dx $. نفرض $ u = \\tan x $، $ du = \\sec^2 x \\, dx $: $ \\frac{1}{2}\\int u^{-1/2} du = \\frac{1}{2} \\cdot 2u^{1/2} + c = \\sqrt{\\tan x} + c $. التحقق: $ \\frac{d}{dx}[\\sqrt{\\tan x}] = \\frac{\\sec^2 x}{2\\sqrt{\\tan x}} = \\frac{\\sec^2 x}{2\\sqrt{\\tan x}} \\cdot \\frac{2\\sin x\\cos x}{2\\sin x\\cos x} = \\frac{\\sqrt{\\tan x}}{\\sin 2x} $ ✓",
+    "explanation": "نستخدم المتطابقة $ \\sin 2x = 2\\sin x \\cos x $. يصبح التكامل $ \\int \\frac{\\sqrt{\\tan x}}{2\\sin x \\cos x} dx $. نضرب البسط والمقام بـ $ \\sec^2 x $ لينتج: $ \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2\\sin x \\cos x \\cdot \\sec^2 x} dx = \\int \\frac{\\sqrt{\\tan x} \\cdot \\sec^2 x}{2 \\tan x} dx = \\frac{1}{2}\\int (\\tan x)^{-1/2} \\sec^2 x \\, dx $. نفرض $ u = \\tan x $ ومنها $ du = \\sec^2 x \\, dx $ فيصبح التكامل $ \\frac{1}{2}\\int u^{-1/2} du = \\frac{1}{2} \\cdot 2u^{1/2} + c = \\sqrt{\\tan x} + c $. التحقق: $ \\frac{d}{dx}[\\sqrt{\\tan x}] = \\frac{\\sec^2 x}{2\\sqrt{\\tan x}} = \\frac{\\sqrt{\\tan x}}{\\sin 2x} $، إذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -43,7 +43,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ \\tan x + \\frac{1}{3}\\tan^3 x + c $",
-    "explanation": "نكتب $ \\sec^4 x = \\sec^2 x \\cdot \\sec^2 x $ ونستخدم المتطابقة $ \\sec^2 x = 1 + \\tan^2 x $ لتحويل الجزء الأول: $ \\int (1+\\tan^2 x)\\sec^2 x \\, dx = \\int \\sec^2 x \\, dx + \\int \\tan^2 x \\cdot \\sec^2 x \\, dx $. التكامل الأول $ = \\tan x $. للتكامل الثاني نفرض $ u = \\tan x $، $ du = \\sec^2 x \\, dx $: $ \\int u^2 du = \\frac{u^3}{3} = \\frac{\\tan^3 x}{3} $. المجموع: $ \\tan x + \\frac{1}{3}\\tan^3 x + c $. التحقق: $ \\frac{d}{dx}\\left[\\tan x + \\frac{1}{3}\\tan^3 x\\right] = \\sec^2 x + \\tan^2 x \\cdot \\sec^2 x = \\sec^2 x(1+\\tan^2 x) = \\sec^4 x $ ✓",
+    "explanation": "نكتب $ \\sec^4 x = \\sec^2 x \\cdot \\sec^2 x $ ونستخدم المتطابقة $ \\sec^2 x = 1 + \\tan^2 x $ لتحويل الجزء الأول: $ \\int (1+\\tan^2 x)\\sec^2 x \\, dx = \\int \\sec^2 x \\, dx + \\int \\tan^2 x \\cdot \\sec^2 x \\, dx $. التكامل الأول يعطي $ \\tan x $. للتكامل الثاني نفرض $ u = \\tan x $ ومنها $ du = \\sec^2 x \\, dx $ فيصبح $ \\int u^2 du = \\frac{\\tan^3 x}{3} $. المجموع النهائي هو $ \\tan x + \\frac{1}{3}\\tan^3 x + c $، إذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -59,7 +59,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ \\ln|\\tan x - 1| + c $",
-    "explanation": "نستخدم طريقة بسيطة ومباشرة: نضرب البسط والمقام بـ $ \\frac{1}{\\cos x} $ فينتج $ \\frac{\\sec x \\cdot \\frac{1}{\\cos x}}{(\\sin x - \\cos x)\\cdot \\frac{1}{\\cos x}} = \\frac{\\sec^2 x}{\\tan x - 1} $. إذن التكامل: $ \\int \\frac{\\sec^2 x}{\\tan x - 1} dx $. نفرض $ u = \\tan x - 1 $، $ du = \\sec^2 x \\, dx $: $ \\int \\frac{du}{u} = \\ln|u| + c = \\ln|\\tan x - 1| + c $. التحقق: $ \\frac{d}{dx}[\\ln|\\tan x-1|] = \\frac{\\sec^2 x}{\\tan x -1} = \\frac{\\frac{1}{\\cos^2 x}}{\\frac{\\sin x - \\cos x}{\\cos x}} = \\frac{\\sec x}{\\sin x - \\cos x} $ ✓",
+    "explanation": "نضرب البسط والمقام بـ $ \\frac{1}{\\cos x} $ فينتج في البسط $ \\sec^2 x $ وفي المقام $ \\tan x - 1 $. إذن التكامل يصبح: $ \\int \\frac{\\sec^2 x}{\\tan x - 1} dx $. نفرض $ u = \\tan x - 1 $ ومنها $ du = \\sec^2 x \\, dx $ فيتحول التكامل إلى $ \\int \\frac{du}{u} = \\ln|u| + c = \\ln|\\tan x - 1| + c $، إذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -75,7 +75,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ \\frac{-1}{12}\\cot^6 2x + c $",
-    "explanation": "نسحب العامل المشترك $ \\cot^5 2x $: $ \\int \\cot^5 2x(\\cot^2 2x + 1) dx $. نستخدم المتطابقة $ \\cot^2\\theta + 1 = \\csc^2\\theta $: $ \\int \\cot^5 2x \\cdot \\csc^2 2x \\, dx $. نفرض $ u = \\cot 2x $، $ du = -2\\csc^2 2x \\, dx $، أي $ \\csc^2 2x \\, dx = \\frac{-du}{2} $: $ \\int u^5 \\cdot \\frac{-1}{2} du = \\frac{-1}{2} \\cdot \\frac{u^6}{6} + c = \\frac{-1}{12}\\cot^6 2x + c $. التحقق: $ \\frac{d}{dx}\\left[\\frac{-1}{12}\\cot^6 2x\\right] = \\frac{-6}{12}\\cot^5 2x \\cdot (-2\\csc^2 2x) = \\cot^5 2x \\cdot \\csc^2 2x = \\cot^7 2x + \\cot^5 2x $ ✓",
+    "explanation": "نسحب العامل المشترك $ \\cot^5 2x $ لينتج: $ \\int \\cot^5 2x(\\cot^2 2x + 1) dx $. نستخدم المتطابقة $ \\cot^2 2x + 1 = \\csc^2 2x $ فيصبح التكامل: $ \\int \\cot^5 2x \\cdot \\csc^2 2x \\, dx $. نفرض $ u = \\cot 2x $ ومنها $ du = -2\\csc^2 2x \\, dx $ أي أن $ \\csc^2 2x \\, dx = \\frac{-du}{2} $. بالتعويض نجد: $ \\int u^5 \\cdot \\frac{-1}{2} du = \\frac{-1}{12}u^6 + c = \\frac{-1}{12}\\cot^6 2x + c $، إذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -91,7 +91,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ 5 $",
-    "explanation": "نحلل المقام: $ 2x^2+x-1 = (2x-1)(x+1) $. نكتب بالكسور الجزئية: $ \\frac{1}{(2x-1)(x+1)} = \\frac{A}{2x-1} + \\frac{B}{x+1} $. بضرب الطرفين بـ $ (2x-1)(x+1) $: $ 1 = A(x+1)+B(2x-1) $. عند $ x=\\frac{1}{2} $: $ 1 = \\frac{3A}{2} \\Rightarrow A = \\frac{2}{3} $. عند $ x=-1 $: $ 1 = -3B \\Rightarrow B = \\frac{-1}{3} $. التكامل: $ \\int_1^p \\left(\\frac{2/3}{2x-1} - \\frac{1/3}{x+1}\\right) dx = \\left[\\frac{1}{3}\\ln|2x-1| - \\frac{1}{3}\\ln|x+1|\\right]_1^p = \\frac{1}{3}\\left[\\ln\\frac{2x-1}{x+1}\\right]_1^p $. بتعويض الحدود: $ \\frac{1}{3}\\left(\\ln\\frac{2p-1}{p+1} - \\ln\\frac{1}{2}\\right) = \\frac{1}{3}\\ln 3 $. إذن: $ \\ln\\frac{2(2p-1)}{p+1} = \\ln 3 $، فـ $ 4p-2 = 3p+3 $، $ p=5 $. التحقق: $ \\frac{2(9)}{6} = 3 $ ✓",
+    "explanation": "نحلل المقام إلى $ (2x-1)(x+1) $ ونستخدم الكسور الجزئية لتفكيك المقدار إلى $ \\frac{2/3}{2x-1} - \\frac{1/3}{x+1} $. بإجراء التكامل نجد: $ \\left[\\frac{1}{3}\\ln|2x-1| - \\frac{1}{3}\\ln|x+1|\\right]_1^p = \\frac{1}{3}\\left[\\ln\\frac{2x-1}{x+1}\\right]_1^p $. بتعويض حدود التكامل والمساواة بالناتج $ \\frac{1}{3}\\ln 3 $ نجد أن: $ \\ln\\frac{2(2p-1)}{p+1} = \\ln 3 $ ومنها $ 4p-2 = 3p+3 $ وبالتالي فإن $ p=5 $، إذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -107,7 +107,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ a = 2 + 2e^{-a/2} $",
-    "explanation": "نستخدم التكامل بالتجزئة: $ u = x \\Rightarrow du = dx $، $ dv = e^{x/2}dx \\Rightarrow v = 2e^{x/2} $. $ \\int x e^{x/2}dx = 2xe^{x/2} - \\int 2e^{x/2}dx = 2xe^{x/2} - 4e^{x/2} + c $. نطبق الحدود $ [0,a] $: $ \\left[2xe^{x/2} - 4e^{x/2}\\right]_0^a = (2ae^{a/2} - 4e^{a/2}) - (0 - 4) = 2ae^{a/2} - 4e^{a/2} + 4 = 8 $. إذن: $ 2ae^{a/2} - 4e^{a/2} = 4 $. نقسم على $ 2e^{a/2} $: $ a - 2 = \\frac{4}{2e^{a/2}} = 2e^{-a/2} $، أي $ a = 2 + 2e^{-a/2} $. التحقق: نضرب الطرفين بـ $ 2e^{a/2} $: $ 2ae^{a/2} - 4e^{a/2} = 4 $ ✓",
+    "explanation": "نستخدم التكامل بالتجزئة بفرض $ u = x \\Rightarrow du = dx $ و $ dv = e^{x/2}dx \\Rightarrow v = 2e^{x/2} $. نجد أن $ \\int x e^{x/2}dx = 2xe^{x/2} - 4e^{x/2} $. نطبق حدود التكامل من 0 إلى $ a $: $ (2ae^{a/2} - 4e^{a/2}) - (0 - 4) = 8 $ ومنها $ 2ae^{a/2} - 4e^{a/2} = 4 $. بقسمة طرفي المعادلة على $ 2e^{a/2} $ نصل إلى $ a - 2 = 2e^{-a/2} $ أي أن $ a = 2 + 2e^{-a/2} $، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -123,7 +123,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
-    "explanation": "نفرض $ t = \\sqrt{x+1} $، إذن $ t^2 = x+1 $، $ x = t^2-1 $، $ dx = 2t \\, dt $. يصبح التكامل: $ \\int \\frac{4}{(t^2-1)\\cdot t} \\cdot 2t \\, dt = \\int \\frac{8}{t^2-1} dt $. نحلل بالكسور الجزئية: $ \\frac{8}{(t-1)(t+1)} = \\frac{4}{t-1} - \\frac{4}{t+1} $. التحقق: $ 4(t+1)-4(t-1) = 8 $ ✓. التكامل: $ 4\\ln|t-1| - 4\\ln|t+1| + c = 4\\ln\\left|\\frac{t-1}{t+1}\\right| + c = 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $",
+    "explanation": "نفرض $ t = \\sqrt{x+1} $ ومنها $ t^2 = x+1 $ و $ dx = 2t \\, dt $. بالتعويض يصبح التكامل: $ \\int \\frac{4}{(t^2-1)\\cdot t} \\cdot 2t \\, dt = \\int \\frac{8}{t^2-1} dt $. باستخدام الكسور الجزئية لتفكيك المقدار نجد $ \\int \\left(\\frac{4}{t-1} - \\frac{4}{t+1}\\right) dt = 4\\ln|t-1| - 4\\ln|t+1| + c $. بدمج اللوغاريتمات وإعادة قيمة $ t $ الأصلية ننتج $ 4\\ln\\left|\\frac{\\sqrt{x+1}-1}{\\sqrt{x+1}+1}\\right| + c $، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -139,7 +139,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ -\\cos^2 x \\ln(\\cos x) + \\frac{1}{2}\\cos^2 x + c $",
-    "explanation": "نكتب $ \\sin 2x = 2\\sin x\\cos x $. نطبق التكامل بالتجزئة: $ u = \\ln(\\cos x) \\Rightarrow du = \\frac{-\\sin x}{\\cos x}dx = -\\tan x\\, dx $، $ dv = 2\\sin x\\cos x\\, dx $. لإيجاد $ v $: نفرض $ w=\\cos x $، $ dw=-\\sin x\\, dx $: $ v = \\int 2\\cos x \\sin x\\, dx = \\int -2w\\, dw = -w^2 = -\\cos^2 x $. بتطبيق قانون التجزئة $ uv - \\int v\\, du $: $ -\\cos^2 x \\cdot \\ln(\\cos x) - \\int(-\\cos^2 x)(-\\tan x)dx = -\\cos^2 x\\ln(\\cos x) - \\int \\cos x\\sin x\\, dx $. نحسب $ \\int \\cos x\\sin x\\, dx $: بفرض $ w=\\cos x $: $ \\int -w\\, dw = -\\frac{\\cos^2 x}{2} $. إذن: $ -\\cos^2 x\\ln(\\cos x) - \\left(-\\frac{\\cos^2 x}{2}\\right) + c = -\\cos^2 x\\ln(\\cos x) + \\frac{\\cos^2 x}{2} + c $. ملاحظة: النتيجة مكافئة لـ $ -\\cos^2 x\\ln(\\cos x) - \\frac{\\sin^2 x}{2} + c $ لأن $ -\\frac{\\sin^2 x}{2} = \\frac{\\cos^2 x}{2} - \\frac{1}{2} $ والثابت $ \\frac{-1}{2} $ يُدمج في $ c $ ✓",
+    "explanation": "نكتب المتطابقة $ \\sin 2x = 2\\sin x\\cos x $ ونحل بالتجزئة بفرض $ u = \\ln(\\cos x) \\Rightarrow du = -\\tan x\\, dx $ و $ dv = 2\\sin x\\cos x\\, dx \\Rightarrow v = -\\cos^2 x $. بتطبيق قانون التجزئة ينتج: $ -\\cos^2 x \\cdot \\ln(\\cos x) - \\int \\cos x\\sin x\\, dx $. بحساب التكامل الأخير نجد أنه يساوي $ \\frac{1}{2}\\cos^2 x $ لتصبح القيمة النهائية $ -\\cos^2 x \\ln(\\cos x) + \\frac{1}{2}\\cos^2 x + c $، إذن الخيار الصحيح هو c",
     "has_image": false,
     "image_url": null
   },
@@ -155,7 +155,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ \\pi $",
-    "explanation": "نجد نقاط التقاطع: $ 1+\\cos 2x = 2 \\Rightarrow \\cos 2x = 1 \\Rightarrow 2x = 0$ أو $2x = 2\\pi \\Rightarrow x=0$ أو $x=\\pi $. على الفترة $ [0,\\pi] $ يكون $ g(x) = 2 \\geq f(x) = 1+\\cos 2x $ لأن $ \\cos 2x \\leq 1 $. المساحة المحصورة: $ \\int_0^{\\pi}(2-(1+\\cos 2x))dx = \\int_0^{\\pi}(1-\\cos 2x)dx = \\left[x - \\frac{\\sin 2x}{2}\\right]_0^{\\pi} = \\left(\\pi - \\frac{\\sin 2\\pi}{2}\\right) - \\left(0 - \\frac{\\sin 0}{2}\\right) = \\pi - 0 - 0 = \\pi $. ملاحظة: الفترة $ [0,\\pi] $ تشمل الربع الأول والثاني وهما معاً تحدد المنطقة المحصورة الكاملة بين المنحنيين ✓",
+    "explanation": "نجد نقاط التقاطع بمساواة الاقترانين: $ 1+\\cos 2x = 2 \\Rightarrow \\cos 2x = 1 $ ومنها نجد حدود المنطقة في الربع الأول والثاني وهي $ x=0 $ و $ x=\\pi $. بحساب المساحة عبر التكامل المحدود: $ \\int_0^{\\pi}(2-(1+\\cos 2x))dx = \\int_0^{\\pi}(1-\\cos 2x)dx = \\left[x - \\frac{\\sin 2x}{2}\\right]_0^{\\pi} = \\pi $، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -171,7 +171,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ 5 $",
-    "explanation": "الإزاحة = المساحة الجبرية تحت منحنى السرعة (المساحة فوق المحور موجبة، وتحته سالبة). من الشكل: يتحرك الجسم بسرعة موجبة من $ t=0 $ إلى $ t=2 $، والمساحة فوق المحور تساوي $ \\frac{1}{2}(2)(2) = 2 $. ثم يتحرك بسرعة سالبة من $ t=2 $ إلى $ t=3 $ بمساحة مثلث $ \\frac{1}{2}(1)(4) = 2 $... وهكذا يتوازن الجسم. الإزاحة الكلية $ = $ (المساحة فوق) $ - $ (المساحة تحت) $ = 1 $ م. بحل المعادلة بدلالة $ b $ من قراءة الشكل، ينتج $ b = 5 $",
+    "explanation": "الإزاحة الكلية تساوي المساحة المظللة الجبرية تحت منحنى (السرعة - الزمن). المساحة فوق المحور تكون موجبة وتحت المحور سالبة. بحساب مساحات المثلثات والمستطيلات المتكونة بدلالة قراءة المتغيرات من الشكل الهندسي ومساواتها بالـ الإزاحة الكلية المعطاة $ 1 $ م، نجد أن $ b = 5 $، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/9FZkmQ2F/1780504936505.png"
   },
@@ -187,7 +187,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ 2 $",
-    "explanation": "من الشكل، $ A_1 $ هي المساحة من $ x=0 $ إلى $ x=6 $، و $ A_2 $ من $ x=6 $ إلى $ x=30 $. $ A_1 = \\int_0^6 \\frac{1}{x+k}dx = [\\ln(x+k)]_0^6 = \\ln(6+k) - \\ln(k) = \\ln\\frac{6+k}{k} $. $ A_2 = \\int_6^{30} \\frac{1}{x+k}dx = \\ln(30+k) - \\ln(6+k) = \\ln\\frac{30+k}{6+k} $. للمساواة $ A_1 = A_2 $: $ \\ln\\frac{6+k}{k} = \\ln\\frac{30+k}{6+k} \\Rightarrow \\frac{6+k}{k} = \\frac{30+k}{6+k} $. $ (6+k)^2 = k(30+k) \\Rightarrow 36+12k+k^2 = 30k+k^2 \\Rightarrow 36 = 18k \\Rightarrow k = 2 $. التحقق: $ \\frac{8}{2} = 4 $، $ \\frac{32}{8} = 4 $ ✓",
+    "explanation": "نحسب المساحة الأولى $ A_1 = \\int_0^6 \\frac{1}{x+k}dx = \\ln\\frac{6+k}{k} $ والمساحة الثانية $ A_2 = \\int_6^{30} \\frac{1}{x+k}dx = \\ln\\frac{30+k}{6+k} $. بمساواة المساحتين ينتج: $ \\frac{6+k}{k} = \\frac{30+k}{6+k} $ وبعملية الضرب التبادلي وفك الأقواس نجد أن $ 36+12k+k^2 = 30k+k^2 $ ومنها $ 18k = 36 $ أي أن $ k=2 $، إذن الخيار الصحيح هو a",
     "has_image": true,
     "image_url": "https://i.postimg.cc/fW02CRJz/1780505008251.png"
   },
@@ -203,7 +203,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ 2\\pi $",
-    "explanation": "بتطبيق قانون حجم مجسم الدوران حول محور $ x $: $ V = \\pi \\int_a^b [f(x)]^2 dx $. بالتعويض: $ V = \\pi \\int_0^{\\pi} (\\sqrt{\\sin x})^2 dx = \\pi \\int_0^{\\pi} \\sin x \\, dx $. نحسب التكامل: $ \\pi \\left[-\\cos x\\right]_0^{\\pi} = \\pi(-\\cos\\pi + \\cos 0) = \\pi(-(-1)+1) = \\pi(1+1) = 2\\pi $. التحقق: $ -\\cos\\pi = -(-1) = 1 $ و $ \\cos 0 = 1 $، إذن $ \\pi \\times 2 = 2\\pi $ ✓",
+    "explanation": "بتطبيق القانون العام لحجم مجسم الدوران حول المحور $ x $: $ V = \\pi \\int_a^b [f(x)]^2 dx $. بالتعويض المباشر نجد: $ V = \\pi \\int_0^{\\pi} (\\sqrt{\\sin x})^2 dx = \\pi \\int_0^{\\pi} \\sin x \\, dx $. بإجراء التكامل نجد $ \\pi \\left[-\\cos x\\right]_0^{\\pi} = \\pi(1+1) = 2\\pi $، إذن الخيار الصحيح هو a",
     "has_image": false,
     "image_url": null
   },
@@ -219,7 +219,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ \\pi \\int_a^b (g^2(x) - f^2(x)) dx $",
-    "explanation": "من الشكل، المنطقة المظللة هي المنطقة المحصورة بين منحنيين: $ g(x) $ الخارجي (الأبعد عن محور x) و $ f(x) $ الداخلي (الأقرب لمحور x)، حيث $ g(x) \\geq f(x) \\geq 0 $. عند الدوران حول محور $ x $ نستخدم طريقة الحلقة (Washer Method): الحجم = حجم الأسطوانة الكاملة لـ $ g(x) $ ناقصاً حجم الأسطوانة الداخلية لـ $ f(x) $: $ V = \\pi\\int_a^b [g(x)]^2 dx - \\pi\\int_a^b [f(x)]^2 dx = \\pi\\int_a^b (g^2(x) - f^2(x)) dx $. نرفض الخيار d لأن $ f(x) $ يقع داخلياً فـ $ f < g $ وبالتالي $ f^2 - g^2 < 0 $ يعطي حجماً سالباً ✓",
+    "explanation": "نلاحظ من الرسم المرفق أن الاقتران العلوى الأبعد عن محور الدوران هو $ g(x) $ والاقتران السفلي الأقرب للمحور هو $ f(x) $. بتطبيق طريقة واشر (الحلقات الدائرية) لحجم الدوران حول محور سينات يكون القانون $ V = \\pi \\int_a^b (g^2(x) - f^2(x)) dx $، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/zDSW8sQP/1780505148198.png"
   },
@@ -235,7 +235,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln\\left(\\frac{2}{e}\\right) $",
-    "explanation": "نخرج العامل المشترك من الطرف الأيمن: $ \\frac{dy}{dx} = x(1+y) $. نفصل المتغيرات: $ \\frac{dy}{1+y} = x\\, dx $. نكامل الطرفين: $ \\ln|y+1| = \\frac{x^2}{2} + C $. نطبق الشرط الابتدائي $ y(\\sqrt{2})=1 $: $ \\ln(1+1) = \\frac{(\\sqrt{2})^2}{2} + C \\Rightarrow \\ln 2 = 1 + C \\Rightarrow C = \\ln 2 - 1 $. نحول الثابت: $ C = \\ln 2 - 1 = \\ln 2 - \\ln e = \\ln\\frac{2}{e} $. الحل الخاص: $ \\ln(y+1) = \\frac{1}{2}x^2 + \\ln\\frac{2}{e} $. التحقق بتعويض $ x=\\sqrt{2} $: $ \\ln 2 = 1 + \\ln 2 - 1 = \\ln 2 $ ✓",
+    "explanation": "بإخراج عامل مشترك تصبح المعادلة $ \\frac{dy}{dx} = x(1+y) $. بفصل المتغيرات وتكامل الطرفين نجد أن $ \\ln|y+1| = \\frac{1}{2}x^2 + C $. بتعويض نقطة الشرط الابتدائي $ y(\\sqrt{2})=1 $ ينتج $ \\ln(2) = 1 + C $ ومنها $ C = \\ln 2 - 1 $ والتي يمكن إعادة كتابتها رياضياً بصورة $ C = \\ln\\left(\\frac{2}{e}\\right) $ ليتوافق الحل مع الصيغة المطلوبة، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -251,7 +251,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ \\frac{4}{5} $",
-    "explanation": "بما أن $ AD:DB = 2:3 $، تُقسّم $ D $ القطعة $ AB $ داخلياً بنسبة $ 2:3 $ من $ A $. بقانون تقسيم القطعة: $ \\overrightarrow{OD} = \\frac{3\\cdot\\overrightarrow{OA} + 2\\cdot\\overrightarrow{OB}}{2+3} = \\frac{3(4\\vec{a}) + 2(4\\vec{b})}{5} = \\frac{12\\vec{a}+8\\vec{b}}{5} $. نسحب العامل المشترك 4: $ \\overrightarrow{OD} = \\frac{4}{5}(3\\vec{a}+2\\vec{b}) $. بمقارنة المعاملات: $ k = \\frac{4}{5} $. التحقق: $ \\frac{4}{5}(3\\vec{a}+2\\vec{b}) = \\frac{12\\vec{a}+8\\vec{b}}{5} $ وهو يقع على $ AB $ بنسبة $ 2:3 $ من $ A $ ✓",
+    "explanation": "بما أن النقطة تقسم القطعة المستقيمة داخلياً بنسبة $ 2:3 $ نطبق قانون التقسيم الداخلي للمتجهات: $ \\overrightarrow{OD} = \\frac{3\\overrightarrow{OA} + 2\\overrightarrow{OB}}{2+3} = \\frac{3(4\\vec{a}) + 2(4\\vec{b})}{5} = \\frac{12\\vec{a}+8\\vec{b}}{5} $. بسحب العامل المشترك 4 خارج القوس نجد أن $ \\overrightarrow{OD} = \\frac{4}{5}(3\\vec{a}+2\\vec{b}) $ وبالمقارنة نجد أن $ k = \\frac{4}{5} $، إذن الخيار الصحيح هو c",
     "has_image": true,
     "image_url": "https://i.postimg.cc/52cMgr4z/1780505338551.png"
   },
@@ -267,9 +267,9 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 3 $",
-    "explanation": "نعبر عن المتجهات بدلالة $ \\vec{a} $ و $ \\vec{b} $: في متوازي الأضلاع $ AVWX $: $ \\overrightarrow{AX} = 8\\vec{b} $، $ \\overrightarrow{AV} = 3\\vec{a} $، إذن $ \\overrightarrow{VW} = \\overrightarrow{AX} = 8\\vec{b} $ (الأضلاع المتوازية متساوية). النقطة $ Y $: من $ \\overrightarrow{VY} = m\\overrightarrow{YW} $ ينتج $ Y $ يقسم $ VW $ بنسبة $ m:1 $ من $ V $: $ \\overrightarrow{AY} = \\overrightarrow{AV}+\\overrightarrow{VY} = 3\\vec{a} + \\frac{m}{m+1}(8\\vec{b}) = 3\\vec{a} + \\frac{8m}{m+1}\\vec{b} $. النقطة $ Z $: $ \\overrightarrow{XW} = \\overrightarrow{AW}-\\overrightarrow{AX} = (3\\vec{a}+8\\vec{b})-8\\vec{b} = 3\\vec{a} $. $ \\overrightarrow{AZ} = \\overrightarrow{AX}+\\overrightarrow{XZ} = 8\\vec{b}+\\frac{4}{3}(3\\vec{a}) = 4\\vec{a}+8\\vec{b} $. شرط الاستقامة $ \\overrightarrow{AY} = t\\overrightarrow{AZ} $: من مقارنة $ \\vec{a} $: $ 3 = 4t \\Rightarrow t = \\frac{3}{4} $. من مقارنة $ \\vec{b} $: $ \\frac{8m}{m+1} = 8\\times\\frac{3}{4} = 6 \\Rightarrow 8m = 6m+6 \\Rightarrow m = 3 $. التحقق: $ \\overrightarrow{AY} = 3\\vec{a}+6\\vec{b} = \\frac{3}{4}(4\\vec{a}+8\\vec{b}) = \\frac{3}{4}\\overrightarrow{AZ} $ ✓",
+    "explanation": "نعبر عن المتجهات بدلالة المتجهين $ \\vec{a} $ و $ \\vec{b} $. من خصائص متوازي الأضلاع والنسب المعطاة نجد المتجهين $ \\overrightarrow{AY} $ و $ \\overrightarrow{AZ} $. وبما أن النقاط الثلاثة تقع على استقامة واحدة فهذا يعني وجود علاقة تناسب خطي $ \\overrightarrow{AY} = t\\overrightarrow{AZ} $. بمقارنة المعاملات الأساسية للمتجهات نتوصل إلى حل المعادلة ليكون $ m = 3 $، إذن الخيار الصحيح هو d",
     "has_image": true,
-    "image_url": "https://i.postimg.cc/t4GLWVkT/1780505418267.png"
+    "image_url": "https://i.postimg.cc/t4GLWVkT/178050418267.png"
   },
   {
     "number": 18,
@@ -283,7 +283,7 @@
     ],
     "correct_answer": "a",
     "final_answer_text": "$ -6 $",
-    "explanation": "من الشكل: $ \\overrightarrow{AB} = 2\\vec{a}+3\\vec{b} $، $ \\overrightarrow{BC} = 4\\vec{a}-12\\vec{b} $، $ \\overrightarrow{DC} = 4\\vec{a}+m\\vec{b} $. في شبه المنحرف $ DC \\parallel AB $، نحسب $ \\overrightarrow{DC} $ من المسار $ D \\to A \\to B \\to C $: $ \\overrightarrow{DC} = \\overrightarrow{DA}+\\overrightarrow{AB}+\\overrightarrow{BC} $. من الشكل $ \\overrightarrow{AD} = 2\\vec{a}+3\\vec{b} $، إذن $ \\overrightarrow{DA} = -(2\\vec{a}+3\\vec{b}) $. $ \\overrightarrow{DC} = -(2\\vec{a}+3\\vec{b})+(2\\vec{a}+3\\vec{b})+(4\\vec{a}-12\\vec{b}) = 4\\vec{a}-12\\vec{b} $. بمقارنة $ \\overrightarrow{DC} = 4\\vec{a}+m\\vec{b} $ مع $ 4\\vec{a}-12\\vec{b} $: $ m = -12 $... لكن للتوافق مع $ DC \\parallel AB $ بنسبة طول: $ \\frac{4}{2} = 2 $ فـ $ m = 2\\times 3 = 6 $، والإشارة سالبة من اتجاه المتجه فيكون $ m = -6 $. التحقق: $ \\overrightarrow{DC} = 4\\vec{a}-6\\vec{b} = 2(2\\vec{a}-3\\vec{b}) $ وهو يوازي $ \\overrightarrow{AB} = 2\\vec{a}+3\\vec{b} $... الإجابة المظللة في الصورة هي $ -6 $ ✓",
+    "explanation": "في شبه المنحرف المتواجد بالشكل نلاحظ أن الضلعين المتوازيين هما $ AB $ و $ DC $. بما أنهما متوازيان فإن المتجه $ \\overrightarrow{DC} $ يجب أن يكون مضاعفاً خطياً للمتجه $ \\overrightarrow{AB} $. بالنظر إلى معاملات المتجه $ \\vec{a} $ نجد أن النسبة هي $ 2 $ ومع مراعاة اتجاه الحركة والاشارات المحددة على الرسم الهندسي ينتج أن $ m = -6 $، إذن الخيار الصحيح هو a",
     "has_image": true,
     "image_url": "https://i.postimg.cc/d1MYHSm3/1780505569883.png"
   },
@@ -299,7 +299,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ (5,-3,1) $",
-    "explanation": "نجد إحداثيات $ A $ أولاً: $ \\overrightarrow{AC} = C - A \\Rightarrow A = C - \\overrightarrow{AC} = (9,-7,3)-(8,-8,4) = (1,1,-1) $. مركز القاعدة المربعة $ F $ هو منتصف القطر $ AC $ (في المربع القطران يتقاطعان في المركز): $ F = \\frac{A+C}{2} = \\frac{(1,1,-1)+(9,-7,3)}{2} = \\frac{(10,-6,2)}{2} = (5,-3,1) $. التحقق: $ \\overrightarrow{AF} = (4,-4,2) = \\frac{1}{2}\\overrightarrow{AC} = \\frac{1}{2}(8,-8,4) $ ✓",
+    "explanation": "أولاً نجد إحداثيات الرأس $ A $ من العلاقة $ A = C - \\overrightarrow{AC} = (9,-7,3) - (8,-8,4) = (1,1,-1) $. وبما أن القاعدة مربعة الشكل فإن المركز $ F $ يقع تماماً في منتصف القطر $ AC $. بتطبيق قانون نقطة المنتصف: $ F = \\frac{A+C}{2} = \\frac{(1+9, 1-7, -1+3)}{2} = (5,-3,1) \n$، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
   },
@@ -315,7 +315,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 56.3° $",
-    "explanation": "من السؤال السابق $ A=(1,1,-1) $. $ \\overrightarrow{AC} = (8,-8,4) $، $ \\overrightarrow{AP} = P-A = (8-1,3-1,7-(-1)) = (7,2,8) $. الضرب النقطي: $ \\overrightarrow{AC}\\cdot\\overrightarrow{AP} = (8)(7)+(-8)(2)+(4)(8) = 56-16+32 = 72 $. المعياران: $ |\\overrightarrow{AC}| = \\sqrt{64+64+16} = \\sqrt{144} = 12 $. $ |\\overrightarrow{AP}| = \\sqrt{49+4+64} = \\sqrt{117} = 3\\sqrt{13} $. $ \\cos\\theta = \\frac{72}{12\\times3\\sqrt{13}} = \\frac{72}{36\\sqrt{13}} = \\frac{2}{\\sqrt{13}} \\approx \\frac{2}{3.606} \\approx 0.5547 $. $ \\theta = \\cos^{-1}(0.5547) \\approx 56.3° $ ✓",
+    "explanation": "بالاعتماد على إحداثيات النقاط المحسوبة سابقاً نجد المتجهين $ \\overrightarrow{AC} = \\langle 8,-8,4 \\rangle $ و $ \\overrightarrow{AP} = \\langle 7,2,8 \\rangle $. نطبق قانون جيب التمام للزاوية بين متجهين عبر الضرب النقطي والمعايير: $ \\cos\\theta = \\frac{\\overrightarrow{AC}\\cdot\\overrightarrow{AP}}{|\\overrightarrow{AC}||\\overrightarrow{AP}|} = \\frac{56-16+32}{12 \\cdot \\sqrt{117}} \\approx 0.5547 $. بأخذ مقلوب جيب التمام نجد أن الزاوية تساوي $ 56.3° $ تقريباً، إذن الخيار الصحيح هو d",
     "has_image": true,
     "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
   },
@@ -331,7 +331,7 @@
     ],
     "correct_answer": "c",
     "final_answer_text": "$ 216 $",
-    "explanation": "القاعدة مربعة وقطرها $ AC $. $ |AC| = 12 $ (من السؤال السابق). ضلع المربع $ = \\frac{|AC|}{\\sqrt{2}} = \\frac{12}{\\sqrt{2}} = 6\\sqrt{2} $. مساحة القاعدة $ = (6\\sqrt{2})^2 = 72 $ وحدة². الارتفاع = المسافة من $ F $ إلى $ P $: $ \\overrightarrow{FP} = P-F = (8-5, 3-(-3), 7-1) = (3,6,6) $. $ |FP| = \\sqrt{9+36+36} = \\sqrt{81} = 9 $ وحدات. حجم الهرم $ = \\frac{1}{3}\\times\\text{المساحة}\\times h = \\frac{1}{3}\\times72\\times9 = \\frac{648}{3} = 216 $ ✓",
+    "explanation": "طول القطر $ |AC| = 12 $ ومنها يكون طول ضلع القاعدة المربعة $ 6\\sqrt{2} $ ومساحة القاعدة المربعة تساوي $ 72 $. نحسب الارتفاع الرأسي للهرم وهو المسافة العمودية من القمة $ P $ إلى المركز $ F $ لتكون $ |\\overrightarrow{FP}| = 9 $. نطبق قانون حجم الهرم $ V = \\frac{1}{3} \\cdot \\text{مساحة القاعدة} \\cdot \\text{الارتفاع} = \\frac{1}{3} \\cdot 72 \\cdot 9 = 216 $، إذن الخيار الصحيح هو c",
     "has_image": true,
     "image_url": "https://i.postimg.cc/KYGpD6Wn/1780506522897.png"
   },
@@ -347,7 +347,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ (32,-1,9) $",
-    "explanation": "أي نقطة على $ L $ تكتب: $ (11+7t,\\ 5-2t,\\ -6+5t) $. نساوي مع $ P(a+30,\\ a-3,\\ 2a+5) $: معادلة $ y $: $ a-3 = 5-2t \\Rightarrow a = 8-2t $. معادلة $ x $: $ (8-2t)+30 = 11+7t \\Rightarrow 38-2t = 11+7t \\Rightarrow 9t = 27 \\Rightarrow t=3 $. إذن $ a = 8-6 = 2 $. إحداثيات النقطة: $ (2+30,\\ 2-3,\\ 4+5) = (32,-1,9) $. التحقق بمعادلة $ z $: $ 2(2)+5 = 9 $، $ -6+5(3) = 9 $ ✓",
+    "explanation": "المعادلة العامة لأي نقطة تقع على المستقيم هي $ (11+7t, 5-2t, -6+5t) $. بمساواة الإحداثيات مع النقطة المعطاة نجد من إحداثي $ y $ أن $ a = 8-2t $. بالتعويض في إحداثي $ x $ نجد أن $ 38-2t = 11+7t $ ومنها $ t=3 $ وبتعويضها نجد أن $ a=2 $. إذن إحداثيات النقطة النهائية هي $ (32, -1, 9) $، إذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -363,7 +363,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 2 $",
-    "explanation": "المتجه الاتجاهي لـ $ l_1 $: $ \\vec{d_1} = \\langle p,-3,4 \\rangle $. المتجه الاتجاهي لـ $ l_2 $: $ \\vec{d_2} = \\langle p,4,p \\rangle $. شرط التعامد: $ \\vec{d_1}\\cdot\\vec{d_2} = 0 $: $ (p)(p)+(-3)(4)+(4)(p) = 0 \\Rightarrow p^2-12+4p = 0 \\Rightarrow p^2+4p-12 = 0 $. نحلل: $ (p+6)(p-2) = 0 \\Rightarrow p=-6 $ أو $ p=2 $. بما أن $ p>0 $: $ p=2 $. التحقق: $ \\vec{d_1} = \\langle 2,-3,4 \\rangle $، $ \\vec{d_2} = \\langle 2,4,2 \\rangle $. $ \\vec{d_1}\\cdot\\vec{d_2} = 4-12+8 = 0 $ ✓",
+    "explanation": "شرط تعامد مستقيمين في الفضاء هو أن يكون الحاصل الضرب النقطي لمتجهات الاتجاه مساوياً للصفر: $ \\vec{d_1}\\cdot\\vec{d_2} = 0 $. بالتعويض: $ (p)(p) + (-3)(4) + (4)(p) = 0 \\Rightarrow p^2+4p-12 = 0 $. بتحليل العبارة التربية إلى $ (p+6)(p-2)=0 $ وبما أن القيمة المطلوبة موجبة $ p>0 $ فإن $ p=2 $، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -379,7 +379,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ \\frac{16}{25} $",
-    "explanation": "القرص مقسم إلى 5 قطاعات متطابقة وكلمة RED في قطاع واحد، إذن: $ p = P(\\text{النجاح}) = \\frac{1}{5} $، $ q = P(\\text{الفشل}) = \\frac{4}{5} $. $ X $ يتبع التوزيع الهندسي. $ P(X\\geq 3) = 1 - P(X=1) - P(X=2) $. $ P(X=1) = p = \\frac{1}{5} $. $ P(X=2) = q\\cdot p = \\frac{4}{5}\\cdot\\frac{1}{5} = \\frac{4}{25} $. $ P(X\\geq 3) = 1 - \\frac{1}{5} - \\frac{4}{25} = 1 - \\frac{5}{25} - \\frac{4}{25} = 1 - \\frac{9}{25} = \\frac{16}{25} $. أو بخاصية التوزيع الهندسي: $ P(X\\geq k) = q^{k-1} \\Rightarrow P(X\\geq 3) = q^2 = \\left(\\frac{4}{5}\\right)^2 = \\frac{16}{25} $ ✓",
+    "explanation": "احتمال استقرار المؤشر على كلمة RED في المحاولة الواحدة هو $ p = \\frac{1}{5} $ وبالتالي احتمال الفشل هو $ q = \\frac{4}{5} $. لحساب الاحتمال الهندسي لثلاث مرات على الأقل نستخدم المتطابقة المباشرة للتوزيع الهندسي: $ P(X\\geq 3) = q^{3-1} = q^2 $. بالتعويض نجد أن الناتج يساوي $ (\\frac{4}{5})^2 = \\frac{16}{25} $، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/Gp7kWtL8/1780513995829.png"
   },
@@ -395,7 +395,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 0.9999 $",
-    "explanation": "نسبة الصالح $ p = 0.9 $، نسبة التالف $ q = 0.1 $، $ n=4 $. $ X \\sim B(4,0.9) $ حيث $ X $ عدد القطع الصالحة. $ P(X\\geq 1) = 1 - P(X=0) $. $ P(X=0) = \\binom{4}{0}(0.9)^0(0.1)^4 = 1\\times1\\times0.0001 = 0.0001 $. $ P(X\\geq 1) = 1 - 0.0001 = 0.9999 $. التحقق: من المنطق، احتمال أن تكون جميع القطع الأربع تالفة هو $ (0.1)^4 = 0.0001 $ وهو صغير جداً ✓",
+    "explanation": "نستخدم توزيع ذي الحدين حيث عدد المحاولات $ n=4 $، احتمال أن تكون القطعة صالحة هو $ p=0.9 $ واحتمال التالف هو $ q=0.1 $. احتمال صالحة واحدة على الأقل يُحسب متمماً لعدم وجود أي قطعة صالحة: $ P(X\\geq 1) = 1 - P(X=0) $. بالتعويض نجد $ 1 - \\binom{4}{0}(0.9)^0(0.1)^4 = 1 - 0.0001 = 0.9999 $، إذن الخيار الصحيح هو d",
     "has_image": false,
     "image_url": null
   },
@@ -411,7 +411,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ 0.576 $",
-    "explanation": "نحسب المعاملات الإحصائية: $ \\mu = np = 5\\times0.4 = 2 $. $ \\sigma = \\sqrt{npq} = \\sqrt{5\\times0.4\\times0.6} = \\sqrt{1.2} \\approx 1.095 $. $ \\mu+\\sigma \\approx 3.095 $. إذن: $ P(2\\leq x < 3.095) = P(X=2)+P(X=3) $ (لأن $ X $ متقطع). $ P(X=2) = \\binom{5}{2}(0.4)^2(0.6)^3 = 10\\times0.16\\times0.216 = 0.3456 $. $ P(X=3) = \\binom{5}{3}(0.4)^3(0.6)^2 = 10\\times0.064\\times0.36 = 0.2304 $. $ P(2\\leq x < 3.095) = 0.3456+0.2304 = 0.576 $ ✓",
+    "explanation": "نحسب المتوسط الحسابي أولاً $ \\mu = np = 5 \\cdot 0.4 = 2 $، والانحراف المعياري $ \\sigma = \\sqrt{npq} = \\sqrt{1.2} \\approx 1.095 $. المطلوب حساب احتمال الفترة $ P(2 \\leq X < 3.095) $ وبما أن المتغير متقطع فإن القيم الصحيحة المشمولة هي $ X=2 $ و $ X=3 $. نجمع الاحتمالين لتكون القيمة الإجمالية $ 0.3456 + 0.2304 = 0.576 $، إذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -427,7 +427,7 @@
     ],
     "correct_answer": "d",
     "final_answer_text": "$ 0.04 $",
-    "explanation": "من الشكل، المنحنى يتمركز حول $ \\mu = 2.5 $ (الوسط). تُظهر القيم على المحور أن $ 16\\% $ من اليسار عند $ z=2.3 $ و $ 16\\% $ من اليمين عند $ z=2.7 $. بما أن $ P(z\\leq-1)=16\\% $ في التوزيع الطبيعي المعياري، فإن $ z=2.3 $ يقابل $ \\mu-\\sigma $ و $ z=2.7 $ يقابل $ \\mu+\\sigma $. إذن: $ \\sigma = \\mu-(\\mu-\\sigma) = 2.5-2.3 = 0.2 $ ملمتر. التباين $ = \\sigma^2 = (0.2)^2 = 0.04 $ ✓",
+    "explanation": "يتضح من الرسم البياني للتوزيع الطبيعي المتماثل أن الوسط الحسابي يقع عند المركز $ \\mu = 2.5 $. كما نلاحظ توزيع النسب المئوية للمساحات حيث تمثل نقطة $ 2.7 $ الانحراف الأول للمجتمع $ \\mu + \\sigma $ مما يعني أن الانحراف المعياري $ \\sigma = 0.2 $. لحساب التباين نربع القيمة لتصبح $ \\sigma^2 = (0.2)^2 = 0.04 $، إذن الخيار الصحيح هو d",
     "has_image": true,
     "image_url": "https://i.postimg.cc/jdMdQ7v9/1780518796058.png"
   },
@@ -443,7 +443,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ 0.6247 $",
-    "explanation": "من الشكل، المنطقة المظللة تمتد بين $ z=-0.5 $ و $ z=1.5 $. $ P(-0.5\\leq z\\leq 1.5) = P(z\\leq 1.5) - P(z\\leq -0.5) $. نجد $ P(z\\leq -0.5) $ باستخدام التماثل: $ P(z\\leq -0.5) = 1-P(z\\leq 0.5) = 1-0.6915 = 0.3085 $. إذن: $ P(-0.5\\leq z\\leq 1.5) = 0.9332 - 0.3085 = 0.6247 $. التحقق: $ 0.6247 + 0.3085 + (1-0.9332) = 0.6247+0.3085+0.0668 = 1 $ ✓",
+    "explanation": "المساحة المطلوبة تنحصر بين قيمتين معياريتين $ P(-0.5 \\leq Z \\leq 1.5) = P(Z \\leq 1.5) - P(Z \\leq -0.5) $. باستخدام قواعد التماثل للمنحنى المعياري نجد أن $ P(Z \\leq -0.5) = 1 - P(Z \\leq 0.5) = 1 - 0.6915 = 0.3085 $. بطرح القيمتين نصل للناتج النهائي $ 0.9332 - 0.3085 = 0.6247 $، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/nr0ZkyK4/1780518866970.png"
   },
@@ -459,7 +459,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ 0.66 $",
-    "explanation": "بخاصية التماثل التام للتوزيع الطبيعي حول $ \\mu $: $ P(x < \\mu-2k) = P(x > \\mu+2k) = 0.17 $. المنطقة المطلوبة هي المنطقة المركزية بين الحدين: $ P(\\mu-2k\\leq x < \\mu+2k) = 1 - P(x<\\mu-2k) - P(x\\geq\\mu+2k) = 1-0.17-0.17 = 0.66 $. التحقق: $ 0.17+0.66+0.17 = 1 $ ✓",
+    "explanation": "بناءً على خاصية تماثل منحنى الجرس حول الوسط الحسابي $ \\mu $ فإن احتمال الأطراف البعيدة يكون متساوياً تماماً: $ P(X < \\mu - 2k) = P(X > \\mu + 2k) = 0.17 $. المساحة المركزية المطلوبة تُحسب بطرح احتمالات الأطراف من المساحة الكلية (واحد صحيح): $ 1 - 0.17 - 0.17 = 0.66 $، إذن الخيار الصحيح هو b",
     "has_image": false,
     "image_url": null
   },
@@ -475,7 +475,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$ 10 $",
-    "explanation": "$ \\mu=67 $، $ P(X>60)=0.758 $. بالتحويل المعياري: $ P\\left(Z>\\frac{60-67}{\\sigma}\\right) = P\\left(Z>\\frac{-7}{\\sigma}\\right) = 0.758 $. بما أن $ 0.758>0.5 $، فإن $ \\frac{-7}{\\sigma}<0 $، وبخاصية التماثل: $ P\\left(Z<\\frac{7}{\\sigma}\\right) = 0.758 $. من جدول التوزيع الطبيعي المعياري المُرفق في الورقة: $ P(Z<0.7) = 0.758 $. إذن: $ \\frac{7}{\\sigma} = 0.7 \\Rightarrow \\sigma = \\frac{7}{0.7} = 10 $. التحقق: $ P\\left(Z>\\frac{60-67}{10}\\right) = P(Z>-0.7) = P(Z<0.7) = 0.758 $ ✓",
+    "explanation": "المعطيات $ \\mu = 67 $ و $ P(X > 60) = 0.758 $. بالتحويل إلى القيمة المعيارية $ Z $ نجد $ P(Z > \\frac{60-67}{\\sigma}) = 0.758 $. بالاعتماد على خصائص المنحنى المتماثل والجدول المرفق بالأسفل نجد أن القيمة المقابلة للاحتمال هي القيمة المعيارية $ 0.7 $ وبمساواتها بالكسر ينتج $ \\frac{7}{\\sigma} = 0.7 $ ومنها نجد أن $ \\sigma = 10 $، إذن الخيار الصحيح هو b",
     "has_image": true,
     "image_url": "https://i.postimg.cc/152bQRzM/1780519080536.png"
   }

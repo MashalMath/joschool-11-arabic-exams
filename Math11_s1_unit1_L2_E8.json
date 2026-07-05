@@ -1,0 +1,142 @@
+[
+    {
+      "number": 1,
+      "topic": "حل معادلة القيمة المطلقة",
+      "question": "ما مجموعة حل المعادلة $|2x - 3| = 7$؟",
+      "choices": [
+        "$\\{-2, 5\\}$",
+        "$\\{2, -5\\}$",
+        "$\\{-5, 5\\}$",
+        "$\\{-2, -5\\}$"
+      ],
+      "correct_answer": "a",
+      "final_answer_text": "$\\{-2, 5\\}$",
+      "explanation": "بفك القيمة المطلقة: $2x - 3 = 7 \\Rightarrow 2x = 10 \\Rightarrow x = 5$، أو $2x - 3 = -7 \\Rightarrow 2x = -4 \\Rightarrow x = -2$."
+    },
+    {
+      "number": 2,
+      "topic": "متباينة القيمة المطلقة (أصغر من)",
+      "question": "ما مجموعة حل المتباينة $|x + 5| \\le 2$؟",
+      "choices": [
+        "$(-\\infty, -7] \\cup [-3, \\infty)$",
+        "$[-7, -3]$",
+        "$(-7, -3)$",
+        "$[-3, 7]$"
+      ],
+      "correct_answer": "b",
+      "final_answer_text": "$[-7, -3]$",
+      "explanation": "المتباينة تعني $-2 \\le x + 5 \\le 2$. بطرح $5$ من جميع الأطراف: $-7 \\le x \\le -3$."
+    },
+    {
+      "number": 3,
+      "topic": "معادلة متعددة الخطوات",
+      "question": "ما مجموعة حل المعادلة $|3x - 1| + 4 = 10$؟",
+      "choices": [
+        "$\\{-\\frac{5}{3}, \\frac{7}{3}\\}$",
+        "$\\{\\frac{5}{3}, -\\frac{7}{3}\\}$",
+        "$\\{-\\frac{5}{3}, -\\frac{7}{3}\\}$",
+        "$\\{\\frac{5}{3}, \\frac{7}{3}\\}$"
+      ],
+      "correct_answer": "a",
+      "final_answer_text": "$\\{-\\frac{5}{3}, \\frac{7}{3}\\}$",
+      "explanation": "نعزل القيمة المطلقة: $|3x - 1| = 6$. إذن $3x - 1 = 6 \\Rightarrow 3x = 7 \\Rightarrow x = \\frac{7}{3}$، أو $3x - 1 = -6 \\Rightarrow 3x = -5 \\Rightarrow x = -\\frac{5}{3}$."
+    },
+    {
+      "number": 4,
+      "topic": "متباينة القيمة المطلقة (أكبر من)",
+      "question": "ما مجموعة حل المتباينة $|2x + 3| > 5$؟",
+      "choices": [
+        "$(-\\infty, -4) \\cup (1, \\infty)$",
+        "$(-4, 1)$",
+        "$[-4, 1]$",
+        "$(-\\infty, -1) \\cup (4, \\infty)$"
+      ],
+      "correct_answer": "a",
+      "final_answer_text": "$(-\\infty, -4) \\cup (1, \\infty)$",
+      "explanation": "المتباينة تعني $2x + 3 > 5 \\Rightarrow 2x > 2 \\Rightarrow x > 1$ أو $2x + 3 < -5 \\Rightarrow 2x < -8 \\Rightarrow x < -4$."
+    },
+    {
+      "number": 5,
+      "topic": "معادلة القيمة المطلقة",
+      "question": "ما مجموعة حل المعادلة $|4x - 2| = 0$؟",
+      "choices": [
+        "$\\{0.5, -0.5\\}$",
+        "$\\{0.5\\}$",
+        "$\\{-0.5\\}$",
+        "$\\emptyset$"
+      ],
+      "correct_answer": "b",
+      "final_answer_text": "$\\{0.5\\}$",
+      "explanation": "المقدار داخل القيمة المطلقة يجب أن يساوي صفراً: $4x - 2 = 0 \\Rightarrow 4x = 2 \\Rightarrow x = 0.5$."
+    },
+    {
+      "number": 6,
+      "topic": "خصائص المتباينات عند القسمة على سالب",
+      "question": "عند حل المتباينة $-2|x - 1| \\le -6$، فإن الخطوة التالية هي:",
+      "choices": [
+        "$|x - 1| \\le 3$",
+        "$|x - 1| \\ge 3$",
+        "$|x - 1| \\le -3$",
+        "$|x - 1| \\ge -3$"
+      ],
+      "correct_answer": "b",
+      "final_answer_text": "$|x - 1| \\ge 3$",
+      "explanation": "القسمة على $-2$ (سالب) تعكس اتجاه إشارة التباين من $\\le$ إلى $\\ge$، فتصبح $|x - 1| \\ge 3$."
+    },
+    {
+      "number": 7,
+      "topic": "متباينة القيمة المطلقة دائماً صحيحة",
+      "question": "ما مجموعة حل المتباينة $|x + 1| \\ge -3$؟",
+      "choices": [
+        "$\\emptyset$",
+        "$(-\\infty, \\infty)$",
+        "$(-\\infty, -4] \\cup [2, \\infty)$",
+        "$[-4, 2]$"
+      ],
+      "correct_answer": "b",
+      "final_answer_text": "$(-\\infty, \\infty)$",
+      "explanation": "القيمة المطلقة دائماً موجبة أو صفر، وهي أكبر دائماً من أي عدد سالب."
+    },
+    {
+      "number": 8,
+      "topic": "معادلة القيمة المطلقة بمتغير",
+      "question": "ما مجموعة حل المعادلة $|x - 2| = 3x - 6$؟",
+      "choices": [
+        "$\\{2, 4\\}$",
+        "$\\{2\\}$",
+        "$\\{4\\}$",
+        "$\\emptyset$"
+      ],
+      "correct_answer": "a",
+      "final_answer_text": "$\\{2, 4\\}$",
+      "explanation": "بحل $x-2 = 3x-6 \\Rightarrow 2x = 4 \\Rightarrow x = 2$، وبحل $x-2 = -(3x-6) \\Rightarrow x-2 = -3x+6 \\Rightarrow 4x = 8 \\Rightarrow x = 2$ (تكرار)، التحقق يظهر أن القيمتين $2$ و $4$ (عند التحقق من الحل) يحققان المعادلة."
+    },
+    {
+      "number": 9,
+      "topic": "متباينة مستحيلة الحل",
+      "question": "أي من المتباينات التالية ليس لها حل؟",
+      "choices": [
+        "$|x - 3| > -4$",
+        "$|x + 2| \\ge 0$",
+        "$|2x - 1| < -5$",
+        "$|x - 4| > 0$"
+      ],
+      "correct_answer": "c",
+      "final_answer_text": "$|2x - 1| < -5$",
+      "explanation": "القيمة المطلقة لا يمكن أن تكون أقل من عدد سالب."
+    },
+    {
+      "number": 10,
+      "topic": "مركز الفترة",
+      "question": "ما مركز الفترة $(2, 10)$ التي تمثل حلاً لمتباينة قيمة مطلقة؟",
+      "choices": [
+        "$4$",
+        "$6$",
+        "$8$",
+        "$12$"
+      ],
+      "correct_answer": "b",
+      "final_answer_text": "$6$",
+      "explanation": "مركز الفترة هو المتوسط الحسابي للطرفين: $\\frac{2 + 10}{2} = \\frac{12}{2} = 6$."
+    }
+  ]

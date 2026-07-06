@@ -1,0 +1,177 @@
+[
+  {
+    "number": 1,
+    "topic": "سعة الاقتران الجيبي",
+    "question": "ما سعة الاقتران $g(x) = -\\frac{7}{2}\\sin x$؟",
+    "choices": [
+      "$-\\frac{7}{2}$",
+      "$\\frac{2}{7}$",
+      "$\\frac{7}{2}$",
+      "$\\frac{49}{4}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "السعة $= \\frac{7}{2}$",
+    "explanation": "سعة الاقتران الجيبي $g(x) = a\\sin(bx-c)+d$ تساوي $|a|$، وفي هذا الاقتران $a = -\\frac{7}{2}$، إذن السعة $= \\left|-\\frac{7}{2}\\right| = \\frac{7}{2}$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 2,
+    "topic": "طول دورة الاقتران الجيبي",
+    "question": "ما طول دورة الاقتران $g(x) = \\cos\\left(\\frac{5}{2}x\\right)$؟",
+    "choices": [
+      "$\\frac{4\\pi}{5}$",
+      "$\\frac{5\\pi}{2}$",
+      "$\\frac{2\\pi}{5}$",
+      "$5\\pi$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "طول الدورة $= \\frac{4\\pi}{5}$",
+    "explanation": "طول دورة الاقتران $g(x) = a\\cos(bx-c)+d$ يساوي $\\frac{2\\pi}{|b|}$، وفي هذا الاقتران $b=\\frac{5}{2}$، إذن طول الدورة $= \\frac{2\\pi}{\\frac{5}{2}} = 2\\pi \\times \\frac{2}{5} = \\frac{4\\pi}{5}$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 3,
+    "topic": "التمثيل البياني لقراءة معادلة الاقتران من خصائصه",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل اقتراناً سعته $2$، خط وسطه $y=0$، طول دورته $2\\pi$، ويصل لقيمته الصغرى عند $x=0$؟",
+    "options": [
+      { "label": "a", "graph": { "function": "cos", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
+      { "label": "b", "graph": { "function": "cos", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "c", "graph": { "function": "sin", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
+      { "label": "d", "graph": { "function": "sin", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": false } }
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x)=-2\\cos x$",
+    "explanation": "بما أن القيمة الصغرى يجب أن تكون عند $x=0$، ونعلم أن $\\cos(0)=1$ وهي القيمة العظمى لاقتران جيب التمام الأساسي، فإن الاقتران يجب أن يكون منعكساً ليصبح $\\cos(0)=1$ مقابلاً للقيمة الصغرى، أي $g(x)=-2\\cos x$، وبتعويض $x=0$: $g(0)=-2(1)=-2$ وهي القيمة الصغرى فعلاً بما أن السعة $2$، وهذا يطابق الرسم (a) الذي هو جيب تمام منعكس بسعة $2$ وخط وسط $y=0$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 4,
+    "topic": "قراءة الرسم البياني وتحديد المعادلة (تمدد وإزاحة أفقية)",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتران جيب. ما معادلة هذا الاقتران؟",
+    "questionGraph": {
+      "function": "sin",
+      "amplitude": 1,
+      "period": "π",
+      "phaseShift": 0,
+      "verticalShift": 0,
+      "reflection": false,
+      "domain": [-1.57, 4.71],
+      "labeledPoints": ["π/4", "π/2"]
+    },
+    "choices": [
+      "$y=\\sin(2x)$",
+      "$y=\\sin\\left(\\frac{1}{2}x\\right)$",
+      "$y=2\\sin x$",
+      "$y=\\sin x + 2$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "$y=\\sin(2x)$",
+    "explanation": "من الرسم نلاحظ أن طول الدورة يساوي $\\pi$ (المنحنى يكرر نفسه كل $\\pi$ وحدة)، وبتطبيق العلاقة $\\frac{2\\pi}{|b|}=\\pi$ نجد أن $|b|=2$، مع بقاء السعة $1$ وعدم وجود إزاحة رأسية، إذن المعادلة هي $y=\\sin(2x)$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 5,
+    "topic": "الانسحاب الأفقي للاقترانات الجيبية",
+    "question": "منحنى الاقتران $g(x)=\\sin\\left(x-\\frac{5\\pi}{6}\\right)$ هو منحنى $f(x)=\\sin x$ منسحباً؟",
+    "choices": [
+      "$\\frac{5\\pi}{6}$ وحدة إلى اليسار",
+      "$\\frac{5\\pi}{6}$ وحدة إلى الأسفل",
+      "$\\frac{5\\pi}{6}$ وحدة إلى اليمين",
+      "$\\frac{5\\pi}{6}$ وحدة إلى الأعلى"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "انسحاب إلى اليمين بمقدار $\\frac{5\\pi}{6}$ وحدة",
+    "explanation": "بما أن $g(x)=f(x-c)$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى اليمين بمقدار $c$ وحدة، وبمقارنة $g(x)=\\sin\\left(x-\\frac{5\\pi}{6}\\right)$ نجد أن $c=\\frac{5\\pi}{6}>0$، إذن الانسحاب يكون إلى اليمين بمقدار $\\frac{5\\pi}{6}$ وحدة، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 6,
+    "topic": "مهارات تفكير عليا - إيجاد قيمة عددية من معادلة الاقتران",
+    "question": "إذا كان $g(x)=5\\cos\\left(\\frac{\\pi}{2}x\\right)-3$، فما قيمة $g(1)$؟",
+    "choices": [
+      "$2$",
+      "$-3$",
+      "$-8$",
+      "$5$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$g(1)=-3$",
+    "explanation": "بتعويض $x=1$ في المعادلة: $g(1)=5\\cos\\left(\\frac{\\pi}{2}\\times 1\\right)-3=5\\cos\\left(\\frac{\\pi}{2}\\right)-3$، وبما أن $\\cos\\left(\\frac{\\pi}{2}\\right)=0$، فإن $g(1)=5(0)-3=-3$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 7,
+    "topic": "قراءة السعة وخط الوسط من الرسم البياني",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتراناً على الصورة $y=a\\cos x+d$. بالاعتماد على الرسم، ما مدى هذا الاقتران؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 4,
+      "period": "2π",
+      "phaseShift": 0,
+      "verticalShift": 2,
+      "reflection": false,
+      "domain": [-1.57, 8.28],
+      "labeledPoints": ["0", "π"]
+    },
+    "choices": [
+      "$[-2,6]$",
+      "$[-4,4]$",
+      "$[0,4]$",
+      "$[2,6]$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "المدى $=[-2,6]$",
+    "explanation": "من الرسم نلاحظ أن السعة $|a|=4$ وخط الوسط $d=2$، فالقيمة العظمى تساوي $d+|a|=2+4=6$ والقيمة الصغرى تساوي $d-|a|=2-4=-2$، إذن المدى هو $[-2,6]$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 8,
+    "topic": "التمثيل البياني لتحويلات مركبة (تمدد رأسي، انعكاس، انسحاب رأسي)",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x)=-3\\sin x+4$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "sin", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 4, "reflection": false } },
+      { "label": "b", "graph": { "function": "sin", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 4, "reflection": true } },
+      { "label": "c", "graph": { "function": "sin", "amplitude": 4, "period": "2π", "phaseShift": 0, "verticalShift": 3, "reflection": true } },
+      { "label": "d", "graph": { "function": "cos", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 4, "reflection": true } }
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "الرسم (b) يمثل الاقتران $g(x)=-3\\sin x+4$",
+    "explanation": "في هذا الاقتران $a=-3$، $d=4$، فالسعة تساوي $3$ مع انعكاس حول المحور $x$ لأن $a<0$، وخط الوسط $y=4$، ونوع الاقتران جيب، فمثلاً عند $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{\\pi}{2}\\right)=1$ إذن $g\\left(\\frac{\\pi}{2}\\right)=-3(1)+4=1$ بدلاً من $7$، وهذا يطابق الرسم (b) الذي يجمع بين الانعكاس وخط الوسط $y=4$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 9,
+    "topic": "مهارات تفكير عليا - إيجاد معادلة من خصائص معطاة (تحويل مركب)",
+    "question": "اقتران جيب تمام أساسي طُبِّقت عليه التحويلات الآتية بالترتيب: انعكاس حول المحور $x$، ثم تمدد رأسي بمعامل $5$، ثم انسحاب أفقي $\\frac{\\pi}{4}$ وحدة لليسار. ما معادلة الاقتران الناتج؟",
+    "choices": [
+      "$g(x)=5\\cos\\left(x-\\frac{\\pi}{4}\\right)$",
+      "$g(x)=-5\\cos\\left(x-\\frac{\\pi}{4}\\right)$",
+      "$g(x)=-5\\cos\\left(x+\\frac{\\pi}{4}\\right)$",
+      "$g(x)=5\\cos\\left(x+\\frac{\\pi}{4}\\right)$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$g(x)=-5\\cos\\left(x+\\frac{\\pi}{4}\\right)$",
+    "explanation": "نبدأ من $f(x)=\\cos x$، وبتطبيق انعكاس حول المحور $x$ نحصل على $-\\cos x$، ثم بتطبيق تمدد رأسي بمعامل $5$ نضرب في $5$ فنحصل على $-5\\cos x$، وأخيراً بتطبيق انسحاب أفقي $\\frac{\\pi}{4}$ وحدة لليسار نستبدل $x$ بـ $\\left(x+\\frac{\\pi}{4}\\right)$ فنحصل على $g(x)=-5\\cos\\left(x+\\frac{\\pi}{4}\\right)$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيق عملي - العجلة الدوارة وإيجاد زمن العودة لخط الوسط",
+    "type": "question_with_graph",
+    "question": "تُمثِّل المعادلة $h(t) = 25\\sin\\left(\\frac{\\pi}{15}(t-7.5)\\right)+30$ ارتفاع شخص عن سطح الأرض بالأقدام أثناء ركوبه عجلة دوّارة، حيث $t$ الزمن بالثواني. بالاعتماد على الرسم البياني الآتي، ما ارتفاع الشخص عند $t=22.5$ ثانية؟",
+    "questionGraph": {
+      "function": "sin",
+      "amplitude": 25,
+      "period": "30",
+      "phaseShift": "7.5",
+      "verticalShift": 30,
+      "reflection": false,
+      "domain": [0, 30],
+      "labeledPoints": ["7.5", "22.5"]
+    },
+    "choices": [
+      "$55$ قدماً",
+      "$30$ قدماً",
+      "$5$ أقدام",
+      "$15$ قدماً"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$h(22.5)=30$ قدماً",
+    "explanation": "بتعويض $t=22.5$ في المعادلة: $h(22.5)=25\\sin\\left(\\frac{\\pi}{15}(22.5-7.5)\\right)+30=25\\sin\\left(\\frac{\\pi}{15}\\times 15\\right)+30=25\\sin(\\pi)+30$، وبما أن $\\sin(\\pi)=0$، فإن $h(22.5)=25(0)+30=30$ قدماً، وهذا يطابق النقطة التي يعبر فيها المنحنى خط الوسط $y=30$ في الرسم البياني، إذن الجواب الصحيح هو b"
+  }
+]

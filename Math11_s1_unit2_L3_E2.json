@@ -1,0 +1,177 @@
+[
+  {
+    "number": 1,
+    "topic": "سعة الاقتران الجيبي",
+    "question": "ما سعة الاقتران $g(x) = \\frac{1}{4}\\cos x$؟",
+    "choices": [
+      "$4$",
+      "$\\frac{1}{4}$",
+      "$-\\frac{1}{4}$",
+      "$1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "السعة $= \\frac{1}{4}$",
+    "explanation": "سعة الاقتران الجيبي $g(x) = a\\cos(bx-c)+d$ تساوي $|a|$، وفي هذا الاقتران $a = \\frac{1}{4}$، إذن السعة $= \\left|\\frac{1}{4}\\right| = \\frac{1}{4}$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 2,
+    "topic": "التمثيل البياني لخط الوسط والانسحاب الرأسي",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = \\sin x - 3$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } },
+      { "label": "b", "graph": { "function": "sin", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "c", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": 3, "reflection": false } },
+      { "label": "d", "graph": { "function": "cos", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } }
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x) = \\sin x - 3$",
+    "explanation": "الاقتران $g(x) = \\sin x - 3$ هو منحنى $f(x) = \\sin x$ مزاحاً 3 وحدات إلى الأسفل، لذا يكون خط الوسط $y = -3$ مع بقاء السعة $1$ ونوع الاقتران جيب دون انعكاس أو إزاحة أفقية، وهذا يطابق الرسم (a) الذي يتذبذب بين $-4$ و$-2$ حول خط الوسط $y=-3$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 3,
+    "topic": "طول دورة الاقتران الجيبي",
+    "question": "ما طول دورة الاقتران $g(x) = \\sin\\frac{x}{4}$؟",
+    "choices": [
+      "$\\frac{\\pi}{4}$",
+      "$8\\pi$",
+      "$4\\pi$",
+      "$2\\pi$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "طول الدورة $= 8\\pi$",
+    "explanation": "طول دورة الاقتران $g(x) = a\\sin(bx-c)+d$ يساوي $\\frac{2\\pi}{|b|}$، وفي هذا الاقتران $b = \\frac{1}{4}$، إذن طول الدورة $= \\frac{2\\pi}{\\left|\\frac{1}{4}\\right|} = 2\\pi \\times 4 = 8\\pi$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 4,
+    "topic": "قراءة السعة وطول الدورة من الرسم البياني",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتراناً مثلثياً على الصورة $y = a\\cos(bx)$. ما قيمتا $a$ و $b$؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 3,
+      "period": "π",
+      "phaseShift": 0,
+      "verticalShift": 0,
+      "reflection": false,
+      "domain": [-3.14, 3.14],
+      "labeledPoints": ["-π/2", "π/2"]
+    },
+    "choices": [
+      "$a = 3, b = 1$",
+      "$a = 1, b = 2$",
+      "$a = 3, b = 2$",
+      "$a = 2, b = 3$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$a = 3, b = 2$",
+    "explanation": "من الرسم نلاحظ أن أعلى قيمة يصل إليها المنحنى هي $3$ وأدنى قيمة هي $-3$، إذن السعة $|a| = 3$ والمنحنى غير منعكس فيكون $a = 3$، كما نلاحظ أن طول الدورة هو $\\pi$، وبتطبيق العلاقة $\\frac{2\\pi}{|b|} = \\pi$ نجد أن $|b| = 2$، إذن $a=3$ و $b=2$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 5,
+    "topic": "الانسحاب الأفقي للاقترانات الجيبية",
+    "question": "منحنى الاقتران $g(x) = \\sin\\left(x - \\frac{\\pi}{6}\\right)$ هو منحنى $f(x) = \\sin x$ منسحباً كم وحدة وفي أي اتجاه؟",
+    "choices": [
+      "$\\frac{\\pi}{6}$ وحدة إلى اليسار",
+      "$\\frac{\\pi}{6}$ وحدة إلى اليمين",
+      "$\\frac{\\pi}{6}$ وحدة إلى الأعلى",
+      "$\\frac{\\pi}{6}$ وحدة إلى الأسفل"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "انسحاب إلى اليمين بمقدار $\\frac{\\pi}{6}$ وحدة",
+    "explanation": "بما أن $g(x) = f(x-c)$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى اليمين بمقدار $c$ وحدة، وبمقارنة $g(x)=\\sin\\left(x-\\frac{\\pi}{6}\\right)$ بالصورة $f(x-c)$ نجد أن $c = \\frac{\\pi}{6} > 0$، إذن الانسحاب يكون إلى اليمين بمقدار $\\frac{\\pi}{6}$ وحدة، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 6,
+    "topic": "مهارات تفكير عليا - إيجاد القيمة الصغرى لاقتران مركب",
+    "question": "إذا كان $g(x) = 2\\sin\\left(3x + \\frac{\\pi}{4}\\right) - 5$، فما القيمة الصغرى التي يصل إليها الاقتران $g(x)$؟",
+    "choices": [
+      "$-3$",
+      "$-7$",
+      "$-5$",
+      "$-2$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "القيمة الصغرى $= -7$",
+    "explanation": "في هذا الاقتران $a = 2$ و $d = -5$، وبما أن مدى اقتران $\\sin$ هو $[-1,1]$، فإن مدى $2\\sin(\\cdot)$ هو $[-2,2]$، وبإضافة الإزاحة الرأسية $d=-5$ يصبح مدى $g(x)$ هو $[-5-2,\\ -5+2] = [-7,-3]$، إذن القيمة الصغرى $= d - |a| = -5 - 2 = -7$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 7,
+    "topic": "التمثيل البياني للانعكاس مع الانسحاب الأفقي",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = -\\sin\\left(x + \\pi\\right)$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": true } },
+      { "label": "b", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": false } },
+      { "label": "c", "graph": { "function": "cos", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
+      { "label": "d", "graph": { "function": "sin", "amplitude": 1, "period": "π", "phaseShift": 0, "verticalShift": 0, "reflection": true } }
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x) = -\\sin(x+\\pi)$",
+    "explanation": "الاقتران $g(x) = -\\sin(x+\\pi)$ ناتج عن انسحاب منحنى $\\sin x$ مقدار $\\pi$ وحدة إلى اليسار، ثم انعكاسه حول المحور $x$؛ فمثلاً عند $x=0$: $\\sin(\\pi) = 0$ إذن $g(0) = 0$، وعند $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{3\\pi}{2}\\right) = -1$ إذن $g\\left(\\frac{\\pi}{2}\\right) = 1$، وهذا يطابق الرسم (a) الذي يجمع بين الإزاحة الأفقية $-\\pi$ والانعكاس معاً، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 8,
+    "topic": "قراءة الانعكاس وخط الوسط من الرسم البياني",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتراناً على الصورة $y = a\\cos x + d$. بالاعتماد على الرسم، ما قيمتا $a$ و $d$؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 2,
+      "period": "2π",
+      "phaseShift": 0,
+      "verticalShift": 1,
+      "reflection": true,
+      "domain": [-1.57, 8.28],
+      "labeledPoints": ["0", "π"]
+    },
+    "choices": [
+      "$a = 2, d = 1$",
+      "$a = -2, d = 1$",
+      "$a = -1, d = 2$",
+      "$a = 2, d = -1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$a = -2, d = 1$",
+    "explanation": "نلاحظ من الرسم أن خط الوسط هو $y=1$، إذن $d=1$، وأن القيمة العظمى للمنحنى هي $3$ والقيمة الصغرى هي $-1$، فتكون السعة $|a| = \\frac{3-(-1)}{2}=2$، ولأن المنحنى يبدأ من أدنى نقطة عند $x=0$ بدلاً من أعلى نقطة كما في $\\cos x$ الأصلي، فإن الاقتران منعكس، ما يعني أن $a$ سالبة، إذن $a=-2$ و $d=1$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 9,
+    "topic": "التمييز بين اقتران الجيب وجيب التمام من الرسم",
+    "question": "أي من الاقترانات الآتية يمر منحناه بالنقطة $(0,0)$، وتكون قيمته عند $x=\\frac{\\pi}{2}$ هي القيمة العظمى؟",
+    "choices": [
+      "$y = \\cos x$",
+      "$y = -\\sin x$",
+      "$y = \\sin x$",
+      "$y = -\\cos x$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y = \\sin x$",
+    "explanation": "بتعويض $x=0$ في كل خيار: $\\sin(0)=0$ فقط يحقق شرط المرور بالنقطة $(0,0)$ من بين $\\sin x$ و$-\\sin x$ (لأن $-\\sin(0)=0$ أيضاً، لذا نتحقق من الشرط الثاني)، وبتعويض $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{\\pi}{2}\\right)=1$ وهي القيمة العظمى لاقتران الجيب، بينما $-\\sin\\left(\\frac{\\pi}{2}\\right)=-1$ وهي القيمة الصغرى، إذن الاقتران الذي يحقق الشرطين معاً هو $y=\\sin x$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيق عملي - سطوع نجم متغير باستخدام الرسم البياني",
+    "type": "question_with_graph",
+    "question": "يُمكن حساب سطوع نجم متغير يُدعى آرلينوس بالاقتران: $b(t) = 7.9 - 2.1\\cos\\left(\\frac{\\pi}{156}t\\right)$، حيث $t$ الزمن بالأيام. بالاعتماد على الرسم البياني الآتي لهذا الاقتران، ما السطوع الأدنى لهذا النجم؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 2.1,
+      "period": "312",
+      "phaseShift": 0,
+      "verticalShift": 7.9,
+      "reflection": true,
+      "domain": [0, 312],
+      "labeledPoints": ["0", "156"]
+    },
+    "choices": [
+      "$10$",
+      "$5.8$",
+      "$7.9$",
+      "$2.1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "السطوع الأدنى $= 5.8$",
+    "explanation": "في هذا الاقتران السعة $|a| = 2.1$ وخط الوسط $d = 7.9$، وبما أن $a = -2.1$ (سالبة) فإن المنحنى منعكس، وبما أن القيمة الصغرى لاقتران $\\cos$ الأساسي هي $-1$ والقيمة الصغرى لـ $-2.1\\cos(\\cdot)$ تصبح عند القيمة العظمى للـ$\\cos$، أي عندما $\\cos(\\cdot)=1$: $b(t)_{min} = 7.9 - 2.1(1) = 5.8$، وهذا يطابق أدنى نقطة يصل إليها المنحنى في الرسم البياني، إذن الجواب الصحيح هو b"
+  }
+]

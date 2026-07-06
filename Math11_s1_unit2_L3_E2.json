@@ -21,8 +21,8 @@
     "options": [
       { "label": "a", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } },
       { "label": "b", "graph": { "function": "sin", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
-      { "label": "c", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": 3, "reflection": false } },
-      { "label": "d", "graph": { "function": "cos", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } }
+      { "label": "c", "graph": { "function": "cos", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } },
+      { "label": "d", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": 3, "reflection": false } }
     ],
     "correct_answer": "a",
     "final_answer_text": "الرسم (a) يمثل الاقتران $g(x) = \\sin x - 3$",
@@ -58,10 +58,10 @@
       "labeledPoints": ["-π/2", "π/2"]
     },
     "choices": [
-      "$a = 3, b = 1$",
       "$a = 1, b = 2$",
+      "$a = 2, b = 3$",
       "$a = 3, b = 2$",
-      "$a = 2, b = 3$"
+      "$a = 3, b = 1$"
     ],
     "correct_answer": "c",
     "final_answer_text": "$a = 3, b = 2$",
@@ -73,13 +73,13 @@
     "question": "منحنى الاقتران $g(x) = \\sin\\left(x - \\frac{\\pi}{6}\\right)$ هو منحنى $f(x) = \\sin x$ منسحباً كم وحدة وفي أي اتجاه؟",
     "choices": [
       "$\\frac{\\pi}{6}$ وحدة إلى اليسار",
-      "$\\frac{\\pi}{6}$ وحدة إلى اليمين",
       "$\\frac{\\pi}{6}$ وحدة إلى الأعلى",
-      "$\\frac{\\pi}{6}$ وحدة إلى الأسفل"
+      "$\\frac{\\pi}{6}$ وحدة إلى الأسفل",
+      "$\\frac{\\pi}{6}$ وحدة إلى اليمين"
     ],
-    "correct_answer": "b",
+    "correct_answer": "d",
     "final_answer_text": "انسحاب إلى اليمين بمقدار $\\frac{\\pi}{6}$ وحدة",
-    "explanation": "بما أن $g(x) = f(x-c)$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى اليمين بمقدار $c$ وحدة، وبمقارنة $g(x)=\\sin\\left(x-\\frac{\\pi}{6}\\right)$ بالصورة $f(x-c)$ نجد أن $c = \\frac{\\pi}{6} > 0$، إذن الانسحاب يكون إلى اليمين بمقدار $\\frac{\\pi}{6}$ وحدة، إذن الجواب الصحيح هو b"
+    "explanation": "بما أن $g(x) = f(x-c)$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى اليمين بمقدار $c$ وحدة، وبمقارنة $g(x)=\\sin\\left(x-\\frac{\\pi}{6}\\right)$ بالصورة $f(x-c)$ نجد أن $c = \\frac{\\pi}{6} > 0$، إذن الانسحاب يكون إلى اليمين بمقدار $\\frac{\\pi}{6}$ وحدة، إذن الجواب الصحيح هو d"
   },
   {
     "number": 6,
@@ -87,13 +87,13 @@
     "question": "إذا كان $g(x) = 2\\sin\\left(3x + \\frac{\\pi}{4}\\right) - 5$، فما القيمة الصغرى التي يصل إليها الاقتران $g(x)$؟",
     "choices": [
       "$-3$",
+      "$-2$",
       "$-7$",
-      "$-5$",
-      "$-2$"
+      "$-5$"
     ],
-    "correct_answer": "b",
+    "correct_answer": "c",
     "final_answer_text": "القيمة الصغرى $= -7$",
-    "explanation": "في هذا الاقتران $a = 2$ و $d = -5$، وبما أن مدى اقتران $\\sin$ هو $[-1,1]$، فإن مدى $2\\sin(\\cdot)$ هو $[-2,2]$، وبإضافة الإزاحة الرأسية $d=-5$ يصبح مدى $g(x)$ هو $[-5-2,\\ -5+2] = [-7,-3]$، إذن القيمة الصغرى $= d - |a| = -5 - 2 = -7$، إذن الجواب الصحيح هو b"
+    "explanation": "في هذا الاقتران $a = 2$ و $d = -5$، وبما أن مدى اقتران $\\sin$ هو $[-1,1]$، فإن مدى $2\\sin(\\cdot)$ هو $[-2,2]$، وبإضافة الإزاحة الرأسية $d=-5$ يصبح مدى $g(x)$ هو $[-5-2,\\ -5+2] = [-7,-3]$، إذن القيمة الصغرى $= d - |a| = -5 - 2 = -7$، إذن الجواب الصحيح هو c"
   },
   {
     "number": 7,
@@ -101,14 +101,14 @@
     "type": "multiple_choice_graph",
     "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = -\\sin\\left(x + \\pi\\right)$ ؟",
     "options": [
-      { "label": "a", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": true } },
-      { "label": "b", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": false } },
+      { "label": "a", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": false } },
+      { "label": "b", "graph": { "function": "sin", "amplitude": 1, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": true } },
       { "label": "c", "graph": { "function": "cos", "amplitude": 1, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
       { "label": "d", "graph": { "function": "sin", "amplitude": 1, "period": "π", "phaseShift": 0, "verticalShift": 0, "reflection": true } }
     ],
-    "correct_answer": "a",
-    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x) = -\\sin(x+\\pi)$",
-    "explanation": "الاقتران $g(x) = -\\sin(x+\\pi)$ ناتج عن انسحاب منحنى $\\sin x$ مقدار $\\pi$ وحدة إلى اليسار، ثم انعكاسه حول المحور $x$؛ فمثلاً عند $x=0$: $\\sin(\\pi) = 0$ إذن $g(0) = 0$، وعند $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{3\\pi}{2}\\right) = -1$ إذن $g\\left(\\frac{\\pi}{2}\\right) = 1$، وهذا يطابق الرسم (a) الذي يجمع بين الإزاحة الأفقية $-\\pi$ والانعكاس معاً، إذن الجواب الصحيح هو a"
+    "correct_answer": "b",
+    "final_answer_text": "الرسم (b) يمثل الاقتران $g(x) = -\\sin(x+\\pi)$",
+    "explanation": "الاقتران $g(x) = -\\sin(x+\\pi)$ ناتج عن انسحاب منحنى $\\sin x$ مقدار $\\pi$ وحدة إلى اليسار، ثم انعكاسه حول المحور $x$؛ فمثلاً عند $x=0$: $\\sin(\\pi) = 0$ إذن $g(0) = 0$، وعند $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{3\\pi}{2}\\right) = -1$ إذن $g\\left(\\frac{\\pi}{2}\\right) = 1$، وهذا يطابق الرسم (b) الذي يجمع بين الإزاحة الأفقية $-\\pi$ والانعكاس معاً، إذن الجواب الصحيح هو b"
   },
   {
     "number": 8,
@@ -127,27 +127,27 @@
     },
     "choices": [
       "$a = 2, d = 1$",
-      "$a = -2, d = 1$",
       "$a = -1, d = 2$",
-      "$a = 2, d = -1$"
+      "$a = 2, d = -1$",
+      "$a = -2, d = 1$"
     ],
-    "correct_answer": "b",
+    "correct_answer": "d",
     "final_answer_text": "$a = -2, d = 1$",
-    "explanation": "نلاحظ من الرسم أن خط الوسط هو $y=1$، إذن $d=1$، وأن القيمة العظمى للمنحنى هي $3$ والقيمة الصغرى هي $-1$، فتكون السعة $|a| = \\frac{3-(-1)}{2}=2$، ولأن المنحنى يبدأ من أدنى نقطة عند $x=0$ بدلاً من أعلى نقطة كما في $\\cos x$ الأصلي، فإن الاقتران منعكس، ما يعني أن $a$ سالبة، إذن $a=-2$ و $d=1$، إذن الجواب الصحيح هو b"
+    "explanation": "نلاحظ من الرسم أن خط الوسط هو $y=1$، إذن $d=1$، وأن القيمة العظمى للمنحنى هي $3$ والقيمة الصغرى هي $-1$، فتكون السعة $|a| = \\frac{3-(-1)}{2}=2$، ولأن المنحنى يبدأ من أدنى نقطة عند $x=0$ بدلاً من أعلى نقطة كما في $\\cos x$ الأصلي، فإن الاقتران منعكس، ما يعني أن $a$ سالبة، إذن $a=-2$ و $d=1$، إذن الجواب الصحيح هو d"
   },
   {
     "number": 9,
     "topic": "التمييز بين اقتران الجيب وجيب التمام من الرسم",
     "question": "أي من الاقترانات الآتية يمر منحناه بالنقطة $(0,0)$، وتكون قيمته عند $x=\\frac{\\pi}{2}$ هي القيمة العظمى؟",
     "choices": [
-      "$y = \\cos x$",
       "$y = -\\sin x$",
+      "$y = \\cos x$",
       "$y = \\sin x$",
       "$y = -\\cos x$"
     ],
     "correct_answer": "c",
     "final_answer_text": "$y = \\sin x$",
-    "explanation": "بتعويض $x=0$ في كل خيار: $\\sin(0)=0$ فقط يحقق شرط المرور بالنقطة $(0,0)$ من بين $\\sin x$ و$-\\sin x$ (لأن $-\\sin(0)=0$ أيضاً، لذا نتحقق من الشرط الثاني)، وبتعويض $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{\\pi}{2}\\right)=1$ وهي القيمة العظمى لاقتران الجيب، بينما $-\\sin\\left(\\frac{\\pi}{2}\\right)=-1$ وهي القيمة الصغرى، إذن الاقتران الذي يحقق الشرطين معاً هو $y=\\sin x$، إذن الجواب الصحيح هو c"
+    "explanation": "بتعويض $x=0$ في كل خيار: $\\sin(0)=0$ و$-\\sin(0)=0$ يحققان المرور بالنقطة $(0,0)$، لذا نتحقق من الشرط الثاني، وبتعويض $x=\\frac{\\pi}{2}$: $\\sin\\left(\\frac{\\pi}{2}\\right)=1$ وهي القيمة العظمى لاقتران الجيب، بينما $-\\sin\\left(\\frac{\\pi}{2}\\right)=-1$ وهي القيمة الصغرى، إذن الاقتران الذي يحقق الشرطين معاً هو $y=\\sin x$، إذن الجواب الصحيح هو c"
   },
   {
     "number": 10,
@@ -166,12 +166,12 @@
     },
     "choices": [
       "$10$",
-      "$5.8$",
       "$7.9$",
+      "$5.8$",
       "$2.1$"
     ],
-    "correct_answer": "b",
-    "final_answer_text": "السطوع الأدنى $= 5.8$",
-    "explanation": "في هذا الاقتران السعة $|a| = 2.1$ وخط الوسط $d = 7.9$، وبما أن $a = -2.1$ (سالبة) فإن المنحنى منعكس، وبما أن القيمة الصغرى لاقتران $\\cos$ الأساسي هي $-1$ والقيمة الصغرى لـ $-2.1\\cos(\\cdot)$ تصبح عند القيمة العظمى للـ$\\cos$، أي عندما $\\cos(\\cdot)=1$: $b(t)_{min} = 7.9 - 2.1(1) = 5.8$، وهذا يطابق أدنى نقطة يصل إليها المنحنى في الرسم البياني، إذن الجواب الصحيح هو b"
+    "correct_answer": "c",
+    "final_answer_text": "$5.8$",
+    "explanation": "في هذا الاقتران السعة $|a| = 2.1$ وخط الوسط $d = 7.9$، وبما أن $a = -2.1$ (سالبة) فإن المنحنى منعكس، وبما أن أدنى سطوع يحدث عندما $\\cos\\left(\\frac{\\pi}{156}t\\right)=1$: $b(t)_{min} = 7.9 - 2.1(1) = 5.8$، وهذا يطابق أدنى نقطة يصل إليها المنحنى في الرسم البياني، إذن الجواب الصحيح هو c"
   }
 ]

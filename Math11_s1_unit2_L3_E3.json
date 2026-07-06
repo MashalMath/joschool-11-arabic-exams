@@ -1,0 +1,177 @@
+[
+  {
+    "number": 1,
+    "topic": "التمييز بين معادلة السعة الصحيحة",
+    "question": "أي مما يأتي يمثل الصورة الصحيحة لحساب سعة الاقتران $g(x) = a\\sin(bx-c)+d$؟",
+    "choices": [
+      "$|b|$",
+      "$|d|$",
+      "$|a|$",
+      "$|c|$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "السعة $= |a|$",
+    "explanation": "بحسب التعريف، سعة الاقتران الجيبي هي نصف المسافة بين قيمتيه العظمى والصغرى، أو نصف ارتفاع الموجة، وهذه القيمة تساوي $|a|$ في الصورة العامة $g(x) = a\\sin(bx-c)+d$ أو $g(x) = a\\cos(bx-c)+d$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 2,
+    "topic": "طول دورة الاقتران الجيبي",
+    "question": "ما طول دورة الاقتران $g(x) = \\cos\\frac{x}{3}$؟",
+    "choices": [
+      "$6\\pi$",
+      "$\\frac{2\\pi}{3}$",
+      "$3\\pi$",
+      "$\\frac{\\pi}{3}$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "طول الدورة $= 6\\pi$",
+    "explanation": "طول دورة الاقتران $g(x) = a\\cos(bx-c)+d$ يساوي $\\frac{2\\pi}{|b|}$، وفي هذا الاقتران $b = \\frac{1}{3}$، إذن طول الدورة $= \\frac{2\\pi}{\\left|\\frac{1}{3}\\right|} = 2\\pi \\times 3 = 6\\pi$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 3,
+    "topic": "التمثيل البياني للتمدد الأفقي",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = \\sin(2x)$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "sin", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "b", "graph": { "function": "sin", "amplitude": 1, "period": "π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "c", "graph": { "function": "sin", "amplitude": 1, "period": "4π", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "d", "graph": { "function": "cos", "amplitude": 1, "period": "π", "phaseShift": 0, "verticalShift": 0, "reflection": false } }
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "الرسم (b) يمثل الاقتران $g(x) = \\sin(2x)$",
+    "explanation": "في هذا الاقتران $b=2$، وطول الدورة يساوي $\\frac{2\\pi}{|b|} = \\frac{2\\pi}{2} = \\pi$، أي أن المنحنى يكون مضيَّقاً أفقياً مقارنة بمنحنى $\\sin x$ الأساسي، مع بقاء السعة $1$ ونوع الاقتران جيباً، وهذا يطابق الرسم (b) الذي يكرر نفسه كل $\\pi$ وحدة، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 4,
+    "topic": "قراءة طول الدورة من الرسم البياني",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتراناً على الصورة $y = \\sin(bx)$. ما قيمة $b$؟",
+    "questionGraph": {
+      "function": "sin",
+      "amplitude": 1,
+      "period": "π",
+      "phaseShift": 0,
+      "verticalShift": 0,
+      "reflection": false,
+      "domain": [-1.57, 4.71],
+      "labeledPoints": ["π/2", "π"]
+    },
+    "choices": [
+      "$b = \\frac{1}{2}$",
+      "$b = 2$",
+      "$b = \\pi$",
+      "$b = 1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$b = 2$",
+    "explanation": "من الرسم نلاحظ أن طول الدورة يساوي $\\pi$ (المنحنى يكرر نفسه كل $\\pi$ وحدة)، وبتطبيق العلاقة $\\frac{2\\pi}{|b|} = \\pi$ نجد أن $|b| = \\frac{2\\pi}{\\pi} = 2$، وبما أن المنحنى غير منعكس أفقياً فإن $b = 2$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 5,
+    "topic": "الانسحاب الرأسي للاقترانات الجيبية",
+    "question": "منحنى الاقتران $g(x) = \\cos x - 4$ هو منحنى $f(x) = \\cos x$ منسحباً؟",
+    "choices": [
+      "$4$ وحدات إلى اليمين",
+      "$4$ وحدات إلى الأسفل",
+      "$4$ وحدات إلى اليسار",
+      "$4$ وحدات إلى الأعلى"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "انسحاب إلى الأسفل بمقدار $4$ وحدات",
+    "explanation": "بما أن $g(x) = f(x) - c$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى الأسفل بمقدار $c$ وحدة، وبمقارنة $g(x)=\\cos x - 4$ نجد أن $c=4$، إذن الانسحاب يكون إلى الأسفل بمقدار $4$ وحدات، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 6,
+    "topic": "التمثيل البياني للتضييق الأفقي والانعكاس معاً",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = -\\cos(3x)$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "cos", "amplitude": 1, "period": "2π/3", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
+      { "label": "b", "graph": { "function": "cos", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": 0, "reflection": true } },
+      { "label": "c", "graph": { "function": "cos", "amplitude": 1, "period": "2π/3", "phaseShift": 0, "verticalShift": 0, "reflection": false } },
+      { "label": "d", "graph": { "function": "sin", "amplitude": 1, "period": "2π/3", "phaseShift": 0, "verticalShift": 0, "reflection": true } }
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x) = -\\cos(3x)$",
+    "explanation": "في هذا الاقتران $a=-1$ و $b=3$، فطول الدورة يساوي $\\frac{2\\pi}{3}$ (تضييق أفقي)، وبما أن $a<0$ فالمنحنى منعكس حول المحور $x$ مع بقاء السعة $|a|=1$، وهذا يطابق الرسم (a) الذي يجمع بين الدورة القصيرة $\\frac{2\\pi}{3}$ والانعكاس معاً، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 7,
+    "topic": "مهارات تفكير عليا - إيجاد معادلة خط الوسط",
+    "question": "ما معادلة خط الوسط للاقتران $g(x) = -\\frac{1}{2}\\sin\\left(x-\\frac{\\pi}{3}\\right)+5$؟",
+    "choices": [
+      "$y = -\\frac{1}{2}$",
+      "$y = \\frac{\\pi}{3}$",
+      "$y = 5$",
+      "$y = 0$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "معادلة خط الوسط: $y = 5$",
+    "explanation": "خط الوسط لمنحنى الاقتران الجيبي $g(x) = a\\sin(bx-c)+d$ هو $y=d$، وفي هذا الاقتران $d=5$، إذن معادلة خط الوسط هي $y=5$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 8,
+    "topic": "قراءة الرسم البياني لتحديد نوع الاقتران والانسحاب الأفقي",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل انسحاباً أفقياً لمنحنى اقتران جيب التمام الأساسي. ما معادلة هذا الاقتران؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 1,
+      "period": "2π",
+      "phaseShift": "π/2",
+      "verticalShift": 0,
+      "reflection": false,
+      "domain": [-1.57, 8.28],
+      "labeledPoints": ["π/2", "3π/2"]
+    },
+    "choices": [
+      "$y = \\cos\\left(x+\\frac{\\pi}{2}\\right)$",
+      "$y = \\sin x$",
+      "$y = \\cos\\left(x-\\frac{\\pi}{2}\\right)$",
+      "$y = \\cos x + \\frac{\\pi}{2}$"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$y = \\cos\\left(x-\\frac{\\pi}{2}\\right)$",
+    "explanation": "نلاحظ من الرسم أن النقطة المفتاحية التي كانت عند $x=0$ في اقتران $\\cos x$ الأساسي (وهي أعلى نقطة) انتقلت لتصبح عند $x=\\frac{\\pi}{2}$، أي أن المنحنى انزاح $\\frac{\\pi}{2}$ وحدة نحو اليمين، وهذا يطابق الصورة $g(x)=f(x-c)$ حيث $c=\\frac{\\pi}{2}>0$، إذن المعادلة هي $y=\\cos\\left(x-\\frac{\\pi}{2}\\right)$، إذن الجواب الصحيح هو c"
+  },
+  {
+    "number": 9,
+    "topic": "مهارات تفكير عليا - تحويلات مركبة (تمدد، انسحاب، انعكاس)",
+    "question": "اقتران جيب تمام أساسي طُبِّقت عليه التحويلات الآتية بالترتيب: تضييق رأسي بمعامل $\\frac{1}{3}$، ثم انعكاس حول المحور $x$، ثم انسحاب رأسي وحدتين إلى الأعلى. ما معادلة الاقتران الناتج؟",
+    "choices": [
+      "$g(x) = \\frac{1}{3}\\cos x + 2$",
+      "$g(x) = -\\frac{1}{3}\\cos x + 2$",
+      "$g(x) = -3\\cos x + 2$",
+      "$g(x) = -\\frac{1}{3}\\cos x - 2$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$g(x) = -\\frac{1}{3}\\cos x + 2$",
+    "explanation": "نبدأ من $f(x)=\\cos x$، وبتطبيق تضييق رأسي بمعامل $\\frac{1}{3}$ نحصل على $\\frac{1}{3}\\cos x$، ثم بتطبيق انعكاس حول المحور $x$ نضرب في $-1$ فنحصل على $-\\frac{1}{3}\\cos x$، وأخيراً بإضافة انسحاب رأسي وحدتين إلى الأعلى نضيف $2$ فنحصل على $g(x) = -\\frac{1}{3}\\cos x + 2$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيق عملي - العجلة الدوارة وقراءة الرسم البياني",
+    "type": "question_with_graph",
+    "question": "تُمثِّل المعادلة $h(t) = 25\\sin\\left(\\frac{\\pi}{15}(t-7.5)\\right)+30$ ارتفاع شخص عن سطح الأرض بالأقدام أثناء ركوبه عجلة دوّارة، حيث $t$ الزمن بالثواني. بالاعتماد على الرسم البياني الآتي، كم ثانية يلزم لإتمام دورة كاملة واحدة؟",
+    "questionGraph": {
+      "function": "sin",
+      "amplitude": 25,
+      "period": "30",
+      "phaseShift": "7.5",
+      "verticalShift": 30,
+      "reflection": false,
+      "domain": [0, 30],
+      "labeledPoints": ["7.5", "22.5"]
+    },
+    "choices": [
+      "$15$ ثانية",
+      "$7.5$ ثانية",
+      "$30$ ثانية",
+      "$60$ ثانية"
+    ],
+    "correct_answer": "c",
+    "final_answer_text": "$30$ ثانية",
+    "explanation": "طول دورة الاقتران $h(t) = a\\sin(bt-c)+d$ يساوي $\\frac{2\\pi}{|b|}$، وفي هذا الاقتران $b=\\frac{\\pi}{15}$، إذن طول الدورة $= \\frac{2\\pi}{\\frac{\\pi}{15}} = 2\\pi \\times \\frac{15}{\\pi} = 30$، أي أن العجلة تُتم دورة كاملة كل $30$ ثانية، وهذا يطابق الرسم البياني الذي يكرر نفسه كل $30$ ثانية، إذن الجواب الصحيح هو c"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "number": 1,
+    "topic": "طول دورة الاقتران الجيبي",
+    "question": "ما طول دورة الاقتران $g(x) = \\sin\\left(\\frac{1}{6}x\\right)$؟",
+    "choices": [
+      "$\\frac{\\pi}{6}$",
+      "$12\\pi$",
+      "$6\\pi$",
+      "$\\frac{\\pi}{3}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "طول الدورة $= 12\\pi$",
+    "explanation": "طول دورة الاقتران $g(x) = a\\sin(bx-c)+d$ يساوي $\\frac{2\\pi}{|b|}$، وفي هذا الاقتران $b=\\frac{1}{6}$، إذن طول الدورة $= \\frac{2\\pi}{\\frac{1}{6}} = 2\\pi \\times 6 = 12\\pi$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 2,
+    "topic": "التمثيل البياني لخط الوسط والسعة",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x) = 2\\sin x - 3$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "sin", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": 3, "reflection": false } },
+      { "label": "b", "graph": { "function": "cos", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } },
+      { "label": "c", "graph": { "function": "sin", "amplitude": 3, "period": "2π", "phaseShift": 0, "verticalShift": -2, "reflection": false } },
+      { "label": "d", "graph": { "function": "sin", "amplitude": 2, "period": "2π", "phaseShift": 0, "verticalShift": -3, "reflection": false } }
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "الرسم (d) يمثل الاقتران $g(x) = 2\\sin x - 3$",
+    "explanation": "في هذا الاقتران $a=2$ و$d=-3$، فالسعة تساوي $2$ مع خط وسط $y=-3$ ونوع الاقتران جيباً بلا انعكاس، فيتذبذب المنحنى بين $-5$ و$-1$ حول خط الوسط $y=-3$، وهذا يطابق الرسم (d)، إذن الجواب الصحيح هو d"
+  },
+  {
+    "number": 3,
+    "topic": "سعة الاقتران الجيبي من القيمة العظمى والصغرى",
+    "question": "إذا كانت القيمة العظمى لاقتران جيبي تساوي $12$ وقيمته الصغرى تساوي $4$، فما سعة هذا الاقتران؟",
+    "choices": [
+      "$8$",
+      "$16$",
+      "$4$",
+      "$6$"
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "السعة $= 4$",
+    "explanation": "السعة تساوي نصف الفرق بين القيمة العظمى والصغرى: $\\frac{12-4}{2}=\\frac{8}{2}=4$، إذن السعة $=4$، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 4,
+    "topic": "قراءة الرسم البياني وتحديد المعادلة (تمدد أفقي)",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل اقتراناً على الصورة $y=\\cos(bx)$، حيث $b>0$. بالاعتماد على الرسم، ما قيمة $b$؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 1,
+      "period": "6π",
+      "phaseShift": 0,
+      "verticalShift": 0,
+      "reflection": false,
+      "domain": [-9.42, 9.42],
+      "labeledPoints": ["3π", "-3π"]
+    },
+    "choices": [
+      "$b=6$",
+      "$b=\\frac{1}{3}$",
+      "$b=3$",
+      "$b=\\frac{1}{6}$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$b=\\frac{1}{3}$",
+    "explanation": "من الرسم نلاحظ أن طول الدورة يساوي $6\\pi$ (المنحنى يكرر نفسه كل $6\\pi$ وحدة)، وبتطبيق العلاقة $\\frac{2\\pi}{|b|}=6\\pi$ نجد أن $|b|=\\frac{2\\pi}{6\\pi}=\\frac{1}{3}$، وبما أن $b>0$ معطاة في السؤال، فإن $b=\\frac{1}{3}$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 5,
+    "topic": "الانسحاب الرأسي للاقترانات الجيبية",
+    "question": "منحنى الاقتران $g(x)=\\cos x - 7$ هو منحنى $f(x)=\\cos x$ منسحباً؟",
+    "choices": [
+      "$7$ وحدات إلى الأعلى",
+      "$7$ وحدات إلى الأسفل",
+      "$7$ وحدات إلى اليمين",
+      "$7$ وحدات إلى اليسار"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "انسحاب إلى الأسفل بمقدار $7$ وحدات",
+    "explanation": "بما أن $g(x) = f(x) - c$ حيث $c>0$ يمثل انسحاباً لمنحنى $f(x)$ إلى الأسفل بمقدار $c$ وحدة، وبمقارنة $g(x)=\\cos x - 7$ نجد أن $c=7$، إذن الانسحاب يكون إلى الأسفل بمقدار $7$ وحدات، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 6,
+    "topic": "مهارات تفكير عليا - إيجاد قيمة عددية من معادلة الاقتران",
+    "question": "إذا كان $g(x)=-2\\sin\\left(\\pi x\\right)+3$، فما قيمة $g\\left(\\frac{1}{2}\\right)$؟",
+    "choices": [
+      "$5$",
+      "$1$",
+      "$3$",
+      "$-1$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "$g\\left(\\frac{1}{2}\\right)=1$",
+    "explanation": "بتعويض $x=\\frac{1}{2}$ في المعادلة: $g\\left(\\frac{1}{2}\\right)=-2\\sin\\left(\\pi\\times\\frac{1}{2}\\right)+3=-2\\sin\\left(\\frac{\\pi}{2}\\right)+3$، وبما أن $\\sin\\left(\\frac{\\pi}{2}\\right)=1$، فإن $g\\left(\\frac{1}{2}\\right)=-2(1)+3=-2+3=1$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 7,
+    "topic": "التمثيل البياني للتحويلات المركبة (تضييق رأسي، انعكاس، انسحاب أفقي)",
+    "type": "multiple_choice_graph",
+    "question": "أي من الرسوم البيانية الآتية يمثل الاقتران $g(x)=-\\frac{1}{2}\\cos\\left(x-\\pi\\right)$ ؟",
+    "options": [
+      { "label": "a", "graph": { "function": "cos", "amplitude": 0.5, "period": "2π", "phaseShift": "π", "verticalShift": 0, "reflection": true } },
+      { "label": "b", "graph": { "function": "cos", "amplitude": 2, "period": "2π", "phaseShift": "π", "verticalShift": 0, "reflection": true } },
+      { "label": "c", "graph": { "function": "cos", "amplitude": 0.5, "period": "2π", "phaseShift": "-π", "verticalShift": 0, "reflection": true } },
+      { "label": "d", "graph": { "function": "cos", "amplitude": 0.5, "period": "2π", "phaseShift": "π", "verticalShift": 0, "reflection": false } }
+    ],
+    "correct_answer": "a",
+    "final_answer_text": "الرسم (a) يمثل الاقتران $g(x)=-\\frac{1}{2}\\cos\\left(x-\\pi\\right)$",
+    "explanation": "في هذا الاقتران $a=-\\frac{1}{2}$ فالسعة $\\frac{1}{2}$ (تضييق رأسي) مع انعكاس حول المحور $x$ لأن $a<0$، و$c=\\pi>0$ يعني انسحاباً أفقياً بمقدار $\\pi$ إلى اليمين، مع بقاء نوع الاقتران جيب تمام، وهذا يطابق الرسم (a) الذي يجمع الخصائص الثلاث معاً، إذن الجواب الصحيح هو a"
+  },
+  {
+    "number": 8,
+    "topic": "قراءة القيمة الصغرى من الرسم البياني",
+    "type": "question_with_graph",
+    "question": "الرسم البياني الآتي يمثل الاقتران $g(x)=3\\sin x + 1$. بالاعتماد على الرسم، ما القيمة الصغرى التي يصل إليها الاقتران؟",
+    "questionGraph": {
+      "function": "sin",
+      "amplitude": 3,
+      "period": "2π",
+      "phaseShift": 0,
+      "verticalShift": 1,
+      "reflection": false,
+      "domain": [-1.57, 8.28],
+      "labeledPoints": ["3π/2", "π/2"]
+    },
+    "choices": [
+      "$4$",
+      "$1$",
+      "$-3$",
+      "$-2$"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "القيمة الصغرى $=-2$",
+    "explanation": "في هذا الاقتران السعة $|a|=3$ وخط الوسط $d=1$، والقيمة الصغرى لاقتران الجيب الأساسي هي $-1$، فتكون القيمة الصغرى لـ$g(x)$: $d-|a|=1-3=-2$، وهذا يطابق أدنى نقطة يصل إليها المنحنى في الرسم البياني، إذن الجواب الصحيح هو d"
+  },
+  {
+    "number": 9,
+    "topic": "مهارات تفكير عليا - تحديد صحة عبارة رياضية حول طول الدورة",
+    "question": "أي العبارات الآتية صحيحة بخصوص الاقترانين $f(x)=\\sin\\left(\\frac{1}{4}x\\right)$ و $g(x)=\\sin(4x)$؟",
+    "choices": [
+      "طول دورة $f$ يساوي طول دورة $g$",
+      "طول دورة $f$ يساوي $16$ ضعف طول دورة $g$",
+      "طول دورة $g$ يساوي $16$ ضعف طول دورة $f$",
+      "طول دورة $f$ يساوي نصف طول دورة $g$"
+    ],
+    "correct_answer": "b",
+    "final_answer_text": "طول دورة $f$ يساوي $16$ ضعف طول دورة $g$",
+    "explanation": "طول دورة $f(x)=\\sin\\left(\\frac{1}{4}x\\right)$ يساوي $\\frac{2\\pi}{\\frac{1}{4}}=8\\pi$، وطول دورة $g(x)=\\sin(4x)$ يساوي $\\frac{2\\pi}{4}=\\frac{\\pi}{2}$، وبالمقارنة: $\\frac{8\\pi}{\\frac{\\pi}{2}}=8\\pi\\times\\frac{2}{\\pi}=16$، إذن طول دورة $f$ يساوي $16$ ضعف طول دورة $g$، إذن الجواب الصحيح هو b"
+  },
+  {
+    "number": 10,
+    "topic": "تطبيق عملي - سطوع نجم متغير وإيجاد الزمن عند سطوع أدنى",
+    "type": "question_with_graph",
+    "question": "يُمكن حساب سطوع نجم متغير بالاقتران: $b(t)=7.9-2.1\\cos\\left(\\frac{\\pi}{156}t\\right)$، حيث $t$ الزمن بالأيام. بالاعتماد على الرسم البياني الآتي، عند أي يوم $t$ (ضمن أول دورة كاملة) يصل النجم إلى أدنى سطوع له؟",
+    "questionGraph": {
+      "function": "cos",
+      "amplitude": 2.1,
+      "period": "312",
+      "phaseShift": 0,
+      "verticalShift": 7.9,
+      "reflection": true,
+      "domain": [0, 312],
+      "labeledPoints": ["0", "156"]
+    },
+    "choices": [
+      "$t=156$ يوماً",
+      "$t=312$ يوماً",
+      "$t=78$ يوماً",
+      "$t=0$ يوماً"
+    ],
+    "correct_answer": "d",
+    "final_answer_text": "$t=0$ يوماً",
+    "explanation": "يصل $b(t)$ إلى أدنى قيمة عندما يكون $\\cos\\left(\\frac{\\pi}{156}t\\right)=1$ (لأن السعة سالبة، الأدنى يحدث عند أعلى قيمة لـ$\\cos$)، وهذا يتحقق عندما يكون الوسيط الزاوي يساوي $0$، أي $\\frac{\\pi}{156}t=0$، ومنه $t=0$؛ ونتحقق: $b(0)=7.9-2.1\\cos(0)=7.9-2.1(1)=5.8$ وهي القيمة الصغرى، وهذا يطابق الرسم البياني عند $t=0$، إذن الجواب الصحيح هو d"
+  }
+]

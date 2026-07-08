@@ -3,7 +3,7 @@
     "number": 1,
     "topic": "تحديد مجال الاقتران المتشعب",
     "type": "normal",
-    "question": "إذا كان $f(x)=3x+2$ عندما $-4 \\le x < 2$، و $f(x)=x^2-3$ عندما $x \\ge 2$، فما مجال $f(x)$؟",
+    "question": "إذا كان: $$f(x)=\\begin{cases}3x+2 & , -4\\le x<2\\\\ x^2-3 & , x\\ge 2\\end{cases}$$ فما مجال $f(x)$؟",
     "choices": ["$[-4, \\infty)$", "$(-\\infty, \\infty)$", "$[-4, 2)$", "$(2, \\infty)$"],
     "correct_answer": "a",
     "final_answer_text": "مجال $f(x)$ هو $[-4, \\infty)$",
@@ -13,7 +13,7 @@
     "number": 2,
     "topic": "إيجاد قيمة الاقتران المتشعب عند نقطة التشعب",
     "type": "normal",
-    "question": "إذا كان $g(x)=5x-1$ عندما $x<1$، و $g(x)=2$ عندما $x=1$، و $g(x)=-x+4$ عندما $x>1$، فأجد قيمة $g(1)$.",
+    "question": "إذا كان: $$g(x)=\\begin{cases}5x-1 & , x<1\\\\ 2 & , x=1\\\\ -x+4 & , x>1\\end{cases}$$ فأجد قيمة $g(1)$.",
     "choices": ["$-3$", "$2$", "$3$", "$4$"],
     "correct_answer": "b",
     "final_answer_text": "$g(1)=2$",
@@ -33,7 +33,7 @@
     "number": 4,
     "topic": "إيجاد قيم اقتران متشعب متعدد القواعد وجمعها",
     "type": "normal",
-    "question": "إذا كان $k(x)=-x^2$ عندما $x \\le -2$، و $k(x)=3x-1$ عندما $-2<x\\le 4$، و $k(x)=10$ عندما $x>4$، فأجد قيمة $k(-2)+k(4)$.",
+    "question": "إذا كان: $$k(x)=\\begin{cases}-x^2 & , x\\le -2\\\\ 3x-1 & , -2<x\\le 4\\\\ 10 & , x>4\\end{cases}$$ فأجد قيمة $k(-2)+k(4)$.",
     "choices": ["$15$", "$6$", "$-15$", "$7$"],
     "correct_answer": "d",
     "final_answer_text": "$k(-2)+k(4)=7$",
@@ -45,13 +45,13 @@
     "type": "normal",
     "question": "أعيد تعريف اقتران القيمة المطلقة $f(x)=|4x+8|$ على صورة اقتران متشعب.",
     "choices": [
-      "$f(x)=4x+8$ عندما $x<-2$، و $f(x)=-4x-8$ عندما $x\\ge -2$",
-      "$f(x)=-4x-8$ عندما $x<-2$، و $f(x)=4x+8$ عندما $x\\ge -2$",
-      "$f(x)=-4x-8$ عندما $x<2$، و $f(x)=4x+8$ عندما $x\\ge 2$",
-      "$f(x)=-4x+8$ عندما $x<-2$، و $f(x)=4x+8$ عندما $x\\ge -2$"
+      "$f(x)=\\begin{cases}4x+8 & , x<-2\\\\ -4x-8 & , x\\ge -2\\end{cases}$",
+      "$f(x)=\\begin{cases}-4x-8 & , x<-2\\\\ 4x+8 & , x\\ge -2\\end{cases}$",
+      "$f(x)=\\begin{cases}-4x-8 & , x<2\\\\ 4x+8 & , x\\ge 2\\end{cases}$",
+      "$f(x)=\\begin{cases}-4x+8 & , x<-2\\\\ 4x+8 & , x\\ge -2\\end{cases}$"
     ],
     "correct_answer": "b",
-    "final_answer_text": "$f(x)=-4x-8$ عندما $x<-2$، و $f(x)=4x+8$ عندما $x\\ge -2$",
+    "final_answer_text": "$f(x)=\\begin{cases}-4x-8 & , x<-2\\\\ 4x+8 & , x\\ge -2\\end{cases}$",
     "explanation": "بمساواة ما بداخل رمز القيمة المطلقة بالصفر: $4x+8=0$، وبطرح $8$ من الطرفين: $4x=-8$، وبالقسمة على $4$: $x=-2$. أختبر الإشارة يمين $-2$ ويساره: عند تعويض قيمة أكبر من $-2$ يكون الناتج داخل القيمة المطلقة موجباً، فتكون القاعدة $f(x)=4x+8$ عندما $x\\ge -2$. وعند تعويض قيمة أصغر من $-2$ يكون الناتج سالباً، فتكون القاعدة $f(x)=-(4x+8)=-4x-8$ عندما $x<-2$. إذن الجواب الصحيح هو b"
   },
   {
@@ -61,10 +61,27 @@
     "question": "يمثّل الرسم البياني الآتي الاقتران $f(x)$ المكوّن من قطعتين: الأولى قاعدة خطية عندما $x \\le -1$ تنتهي بدائرة مظللة عند $(-1,3)$، والثانية قاعدة خطية عندما $x>-1$ تبدأ بدائرة غير مظللة عند $(-1,0)$. بالاعتماد على الرسم البياني، ما مدى الاقتران $f(x)$؟",
     "graph": {
       "type": "piecewise",
-      "smooth": false,
-      "pieces": [
-        {"domain": "x \\le -1", "shape": "line", "point1": {"x": -1, "y": 3, "endpoint": "closed"}, "point2": {"x": -4, "y": 6, "endpoint": "arrow"}},
-        {"domain": "x > -1", "shape": "line", "point1": {"x": -1, "y": 0, "endpoint": "open"}, "point2": {"x": 3, "y": 4, "endpoint": "arrow"}}
+      "xMin": -8, "xMax": 8, "yMin": -4, "yMax": 8,
+      "xStep": 1, "yStep": 1,
+      "equalScale": true,
+      "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+      "objects": [
+        {
+          "type": "line",
+          "equation": "y=-x+2",
+          "domain": "x<=-1",
+          "startEndpoint": "closed",
+          "startPoint": {"x": -1, "y": 3},
+          "endArrow": true
+        },
+        {
+          "type": "line",
+          "equation": "y=x+1",
+          "domain": "x>-1",
+          "startEndpoint": "open",
+          "startPoint": {"x": -1, "y": 0},
+          "endArrow": true
+        }
       ]
     },
     "choices": ["$[3,\\infty)$", "$(-\\infty,\\infty)$", "$(0,\\infty)$", "$[0,\\infty)$"],
@@ -79,10 +96,27 @@
     "question": "يمثّل الرسم البياني الآتي الاقتران المتشعب $f(x)$؛ القطعة اليسرى اقتران ثابت قيمته $2$ عندما $x \\le 1$ (بدائرة مظللة عند $(1,2)$)، والقطعة اليمنى اقتران خطي معادلته $f(x)=2x-1$ عندما $x>1$ (بدائرة غير مظللة عند $(1,1)$). أجد قيمة $f(1)+f(2)$.",
     "graph": {
       "type": "piecewise",
-      "smooth": false,
-      "pieces": [
-        {"domain": "x \\le 1", "shape": "line", "point1": {"x": -3, "y": 2, "endpoint": "arrow"}, "point2": {"x": 1, "y": 2, "endpoint": "closed"}},
-        {"domain": "x > 1", "shape": "line", "point1": {"x": 1, "y": 1, "endpoint": "open"}, "point2": {"x": 3, "y": 5, "endpoint": "arrow"}}
+      "xMin": -6, "xMax": 6, "yMin": -4, "yMax": 8,
+      "xStep": 1, "yStep": 1,
+      "equalScale": true,
+      "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+      "objects": [
+        {
+          "type": "line",
+          "equation": "y=2",
+          "domain": "x<=1",
+          "startEndpoint": "closed",
+          "startPoint": {"x": 1, "y": 2},
+          "endArrow": true
+        },
+        {
+          "type": "line",
+          "equation": "y=2x-1",
+          "domain": "x>1",
+          "startEndpoint": "open",
+          "startPoint": {"x": 1, "y": 1},
+          "endArrow": true
+        }
       ]
     },
     "choices": ["$5$", "$3$", "$4$", "$7$"],
@@ -96,22 +130,54 @@
     "type": "multiple_choice_graph",
     "question": "أيّ من الرسوم البيانية الآتية يمثّل الاقتران $f(x)=2|x+1|-3$؟",
     "options": [
-      {"label": "a", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "closed"}, "point2": {"x": -3, "y": -1, "endpoint": "arrow"}},
-        {"domain": "x > -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "open"}, "point2": {"x": 1, "y": -1, "endpoint": "arrow"}}
-      ]}},
-      {"label": "b", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le -1", "shape": "line", "point1": {"x": -1, "y": 3, "endpoint": "closed"}, "point2": {"x": -3, "y": 7, "endpoint": "arrow"}},
-        {"domain": "x > -1", "shape": "line", "point1": {"x": -1, "y": 3, "endpoint": "open"}, "point2": {"x": 1, "y": 7, "endpoint": "arrow"}}
-      ]}},
-      {"label": "c", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "closed"}, "point2": {"x": -3, "y": -7, "endpoint": "arrow"}},
-        {"domain": "x > -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "open"}, "point2": {"x": 1, "y": -7, "endpoint": "arrow"}}
-      ]}},
-      {"label": "d", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "closed"}, "point2": {"x": -3, "y": 1, "endpoint": "arrow"}},
-        {"domain": "x > -1", "shape": "line", "point1": {"x": -1, "y": -3, "endpoint": "open"}, "point2": {"x": 1, "y": 1, "endpoint": "arrow"}}
-      ]}}
+      {
+        "label": "a",
+        "graph": {
+          "type": "absolute",
+          "xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=|x+1|-3", "vertex": {"x": -1, "y": -3}}
+          ]
+        }
+      },
+      {
+        "label": "b",
+        "graph": {
+          "type": "absolute",
+          "xMin": -6, "xMax": 6, "yMin": -2, "yMax": 9,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=2|x+1|+3", "vertex": {"x": -1, "y": 3}}
+          ]
+        }
+      },
+      {
+        "label": "c",
+        "graph": {
+          "type": "absolute",
+          "xMin": -6, "xMax": 6, "yMin": -9, "yMax": 2,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=-2|x+1|-3", "vertex": {"x": -1, "y": -3}}
+          ]
+        }
+      },
+      {
+        "label": "d",
+        "graph": {
+          "type": "absolute",
+          "xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=2|x+1|-3", "vertex": {"x": -1, "y": -3}}
+          ]
+        }
+      }
     ],
     "correct_answer": "d",
     "final_answer_text": "الرسم (d) يمثّل الاقتران $f(x)=2|x+1|-3$",
@@ -133,22 +199,54 @@
     "type": "multiple_choice_graph",
     "question": "أيّ من الرسوم البيانية الآتية يمثّل منحنى الاقتران $f(x)=|2x-6|-1$؟",
     "options": [
-      {"label": "a", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le 6", "shape": "line", "point1": {"x": 6, "y": -1, "endpoint": "closed"}, "point2": {"x": 4, "y": 3, "endpoint": "arrow"}},
-        {"domain": "x > 6", "shape": "line", "point1": {"x": 6, "y": -1, "endpoint": "open"}, "point2": {"x": 8, "y": 3, "endpoint": "arrow"}}
-      ]}},
-      {"label": "b", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le 3", "shape": "line", "point1": {"x": 3, "y": -1, "endpoint": "closed"}, "point2": {"x": 1, "y": 1, "endpoint": "arrow"}},
-        {"domain": "x > 3", "shape": "line", "point1": {"x": 3, "y": -1, "endpoint": "open"}, "point2": {"x": 5, "y": 1, "endpoint": "arrow"}}
-      ]}},
-      {"label": "c", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le 3", "shape": "line", "point1": {"x": 3, "y": -1, "endpoint": "closed"}, "point2": {"x": 1, "y": 3, "endpoint": "arrow"}},
-        {"domain": "x > 3", "shape": "line", "point1": {"x": 3, "y": -1, "endpoint": "open"}, "point2": {"x": 5, "y": 3, "endpoint": "arrow"}}
-      ]}},
-      {"label": "d", "graph": {"type": "absolute", "smooth": false, "pieces": [
-        {"domain": "x \\le 3", "shape": "line", "point1": {"x": 3, "y": 1, "endpoint": "closed"}, "point2": {"x": 1, "y": 5, "endpoint": "arrow"}},
-        {"domain": "x > 3", "shape": "line", "point1": {"x": 3, "y": 1, "endpoint": "open"}, "point2": {"x": 5, "y": 5, "endpoint": "arrow"}}
-      ]}}
+      {
+        "label": "a",
+        "graph": {
+          "type": "absolute",
+          "xMin": -2, "xMax": 12, "yMin": -3, "yMax": 6,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=2|x-6|-1", "vertex": {"x": 6, "y": -1}}
+          ]
+        }
+      },
+      {
+        "label": "b",
+        "graph": {
+          "type": "absolute",
+          "xMin": -2, "xMax": 8, "yMin": -3, "yMax": 4,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=|x-3|-1", "vertex": {"x": 3, "y": -1}}
+          ]
+        }
+      },
+      {
+        "label": "c",
+        "graph": {
+          "type": "absolute",
+          "xMin": -2, "xMax": 8, "yMin": -3, "yMax": 6,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=2|x-3|-1", "vertex": {"x": 3, "y": -1}}
+          ]
+        }
+      },
+      {
+        "label": "d",
+        "graph": {
+          "type": "absolute",
+          "xMin": -2, "xMax": 8, "yMin": -1, "yMax": 8,
+          "xStep": 1, "yStep": 1, "equalScale": true,
+          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "objects": [
+            {"type": "absolute", "equation": "y=2|x-3|+1", "vertex": {"x": 3, "y": 1}}
+          ]
+        }
+      }
     ],
     "correct_answer": "c",
     "final_answer_text": "الرسم (c) يمثّل الاقتران $f(x)=|2x-6|-1$",

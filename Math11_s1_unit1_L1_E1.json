@@ -79,10 +79,19 @@
     "topic": "إيجاد قاعدة اقتران القيمة المطلقة من تمثيله البياني",
     "type": "question_with_graph",
     "graph": {
-      "function": "absolute",
-      "vertex": { "x": 2, "y": -1 },
-      "reflection": false,
-      "passesThrough": { "x": 0, "y": 3 }
+      "type": "piecewise",
+      "pieces": [
+        {
+          "domain": "x ≤ 2",
+          "point1": { "x": 2, "y": -1, "endpoint": "closed" },
+          "point2": { "x": 0, "y": 3, "endpoint": "arrow" }
+        },
+        {
+          "domain": "x > 2",
+          "point1": { "x": 2, "y": -1, "endpoint": "open" },
+          "point2": { "x": 4, "y": 3, "endpoint": "arrow" }
+        }
+      ]
     },
     "question": "يمثّل الشكل المجاور اقتران قيمة مطلقة رأسه عند النقطة $(2,-1)$، ومنحناه يمر بالنقطة $(0,3)$. ما قاعدة هذا الاقتران؟",
     "choices": [
@@ -101,10 +110,46 @@
     "type": "multiple_choice_graph",
     "question": "أيّ التمثيلات البيانية الآتية يمثل الاقتران $f(x)=3|x-1|$؟",
     "options": [
-      { "label": "a", "graph": { "function": "absolute", "vertex": { "x": -1, "y": 0 }, "slope": 3, "reflection": false } },
-      { "label": "b", "graph": { "function": "absolute", "vertex": { "x": 1, "y": 0 }, "slope": 3, "reflection": true } },
-      { "label": "c", "graph": { "function": "absolute", "vertex": { "x": 1, "y": 0 }, "slope": 3, "reflection": false } },
-      { "label": "d", "graph": { "function": "absolute", "vertex": { "x": 0, "y": 1 }, "slope": 3, "reflection": false } }
+      {
+        "label": "a",
+        "graph": {
+          "type": "piecewise",
+          "pieces": [
+            { "domain": "x ≤ -1", "point1": { "x": -1, "y": 0, "endpoint": "closed" }, "point2": { "x": -3, "y": 6, "endpoint": "arrow" } },
+            { "domain": "x > -1", "point1": { "x": -1, "y": 0, "endpoint": "open" }, "point2": { "x": 1, "y": 6, "endpoint": "arrow" } }
+          ]
+        }
+      },
+      {
+        "label": "b",
+        "graph": {
+          "type": "piecewise",
+          "pieces": [
+            { "domain": "x ≤ 1", "point1": { "x": 1, "y": 0, "endpoint": "closed" }, "point2": { "x": -1, "y": -6, "endpoint": "arrow" } },
+            { "domain": "x > 1", "point1": { "x": 1, "y": 0, "endpoint": "open" }, "point2": { "x": 3, "y": -6, "endpoint": "arrow" } }
+          ]
+        }
+      },
+      {
+        "label": "c",
+        "graph": {
+          "type": "piecewise",
+          "pieces": [
+            { "domain": "x ≤ 1", "point1": { "x": 1, "y": 0, "endpoint": "closed" }, "point2": { "x": -1, "y": 6, "endpoint": "arrow" } },
+            { "domain": "x > 1", "point1": { "x": 1, "y": 0, "endpoint": "open" }, "point2": { "x": 3, "y": 6, "endpoint": "arrow" } }
+          ]
+        }
+      },
+      {
+        "label": "d",
+        "graph": {
+          "type": "piecewise",
+          "pieces": [
+            { "domain": "x ≤ 0", "point1": { "x": 0, "y": 1, "endpoint": "closed" }, "point2": { "x": -2, "y": 7, "endpoint": "arrow" } },
+            { "domain": "x > 0", "point1": { "x": 0, "y": 1, "endpoint": "open" }, "point2": { "x": 2, "y": 7, "endpoint": "arrow" } }
+          ]
+        }
+      }
     ],
     "correct_answer": "c",
     "final_answer_text": "الرسم (c) يمثل الاقتران $f(x)=3|x-1|$",
@@ -130,14 +175,26 @@
     "topic": "إيجاد قاعدة الاقتران المتشعب من تمثيله البياني",
     "type": "question_with_graph",
     "graph": {
-      "function": "piecewise",
+      "type": "piecewise",
       "pieces": [
-        { "rule": "-x-1", "domain": "x ≤ -2", "endpointClosed": { "x": -2, "y": 1 } },
-        { "rule": "1", "domain": "-2 < x ≤ 1", "endpointOpen": { "x": -2, "y": 1 }, "endpointClosed": { "x": 1, "y": 1 } },
-        { "rule": "x", "domain": "x > 1", "endpointOpen": { "x": 1, "y": 1 } }
+        {
+          "domain": "x ≤ -2",
+          "point1": { "x": -2, "y": 1, "endpoint": "closed" },
+          "point2": { "x": -4, "y": 3, "endpoint": "arrow" }
+        },
+        {
+          "domain": "-2 < x ≤ 1",
+          "point1": { "x": -2, "y": 1, "endpoint": "open" },
+          "point2": { "x": 1, "y": 1, "endpoint": "closed" }
+        },
+        {
+          "domain": "x > 1",
+          "point1": { "x": 1, "y": 1, "endpoint": "open" },
+          "point2": { "x": 2.5, "y": 2.5, "endpoint": "arrow" }
+        }
       ]
     },
-    "question": "يمثّل الشكل المجاور اقترانًا متشعبًا مكونًا من ثلاثة أجزاء. أيّ القواعد الآتية تطابق هذا التمثيل البياني؟",
+    "question": "يمثّل الشكل المجاور اقترانًا متشعبًا مكونًا من ثلاثة أجزاء، حيث القطعة اليسرى معرّفة عندما $x \\leq -2$، والقطعة الوسطى ثابتة عندما $-2 < x \\leq 1$، والقطعة اليمنى معرّفة عندما $x > 1$. أيّ القواعد الآتية تطابق هذا التمثيل البياني؟",
     "choices": [
       "$f(x) = \\begin{cases} x-1 & , x \\leq -2 \\\\ 1 & , -2 < x \\leq 1 \\\\ x & , x > 1 \\end{cases}$",
       "$f(x) = \\begin{cases} -x-1 & , x \\leq -2 \\\\ 1 & , -2 < x \\leq 1 \\\\ x & , x > 1 \\end{cases}$",
@@ -146,7 +203,7 @@
     ],
     "correct_answer": "b",
     "final_answer_text": "$f(x) = \\begin{cases} -x-1 & , x \\leq -2 \\\\ 1 & , -2 < x \\leq 1 \\\\ x & , x > 1 \\end{cases}$",
-    "explanation": "الجزء الأيسر خط مستقيم ينتهي بدائرة مظللة عند $(-2,1)$ وميله سالب، وباستعمال صيغة الميل والمقطع نجد قاعدته $f(x)=-x-1$؛ إذ بتعويض $x=-2$: $-(-2)-1=1$ وهذا يطابق النقطة. الجزء الأوسط اقتران ثابت قيمته $1$ على الفترة $(-2,1]$. الجزء الأيمن خط مستقيم يبدأ بدائرة غير مظللة عند $(1,1)$ وميله $1$ فقاعدته $f(x)=x$. إذن الجواب الصحيح هو b"
+    "explanation": "الجزء الأيسر خط مستقيم ينتهي بدائرة مظللة عند $(-2,1)$ وميله سالب؛ بالتعويض عن $x=-2$ في $f(x)=-x-1$: $-(-2)-1=1$ وهذا يطابق النقطة. الجزء الأوسط اقتران ثابت قيمته $1$ على الفترة $(-2,1]$. الجزء الأيمن خط مستقيم يبدأ بدائرة غير مظللة عند $(1,1)$ وميله $1$، فقاعدته $f(x)=x$؛ بالتعويض عن $x=1$: $1$ وهذا يطابق. إذن الجواب الصحيح هو b"
   },
   {
     "number": 10,

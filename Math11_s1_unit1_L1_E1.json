@@ -60,29 +60,34 @@
     "type": "question_with_graph",
     "question": "يمثّل الرسم البياني الآتي الاقتران $f(x)$ المكوّن من قطعتين: الأولى قاعدة خطية عندما $x \\le -1$ تنتهي بدائرة مظللة عند $(-1,3)$، والثانية قاعدة خطية عندما $x>-1$ تبدأ بدائرة غير مظللة عند $(-1,0)$. بالاعتماد على الرسم البياني، ما مدى الاقتران $f(x)$؟",
     "graph": {
-      "type": "piecewise",
-      "xMin": -8, "xMax": 8, "yMin": -4, "yMax": 8,
-      "xStep": 1, "yStep": 1,
-      "equalScale": true,
-      "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+      "schemaVersion": 2,
+      "coordinateSystem": "cartesian",
+      "viewport": {"xMin": -8, "xMax": 8, "yMin": -4, "yMax": 8, "equalScale": true, "padding": 0.5},
+      "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+      "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+      "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+      "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+      "layers": ["grid", "axes", "objects", "annotations"],
       "objects": [
         {
+          "id": "piece1",
           "type": "line",
-          "equation": "y=-x+2",
+          "visible": true,
           "domain": "x<=-1",
-          "startEndpoint": "closed",
-          "startPoint": {"x": -1, "y": 3},
-          "endArrow": true
+          "style": {},
+          "data": {"equation": "y=-x+2", "startEndpoint": "closed", "endArrow": true}
         },
         {
+          "id": "piece2",
           "type": "line",
-          "equation": "y=x+1",
+          "visible": true,
           "domain": "x>-1",
-          "startEndpoint": "open",
-          "startPoint": {"x": -1, "y": 0},
-          "endArrow": true
+          "style": {},
+          "data": {"equation": "y=x+1", "startEndpoint": "open", "endArrow": true}
         }
-      ]
+      ],
+      "annotations": [],
+      "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
     },
     "choices": ["$[3,\\infty)$", "$(-\\infty,\\infty)$", "$(0,\\infty)$", "$[0,\\infty)$"],
     "correct_answer": "c",
@@ -95,29 +100,34 @@
     "type": "question_with_graph",
     "question": "يمثّل الرسم البياني الآتي الاقتران المتشعب $f(x)$؛ القطعة اليسرى اقتران ثابت قيمته $2$ عندما $x \\le 1$ (بدائرة مظللة عند $(1,2)$)، والقطعة اليمنى اقتران خطي معادلته $f(x)=2x-1$ عندما $x>1$ (بدائرة غير مظللة عند $(1,1)$). أجد قيمة $f(1)+f(2)$.",
     "graph": {
-      "type": "piecewise",
-      "xMin": -6, "xMax": 6, "yMin": -4, "yMax": 8,
-      "xStep": 1, "yStep": 1,
-      "equalScale": true,
-      "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+      "schemaVersion": 2,
+      "coordinateSystem": "cartesian",
+      "viewport": {"xMin": -6, "xMax": 6, "yMin": -4, "yMax": 8, "equalScale": true, "padding": 0.5},
+      "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+      "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+      "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+      "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+      "layers": ["grid", "axes", "objects", "annotations"],
       "objects": [
         {
-          "type": "line",
-          "equation": "y=2",
+          "id": "piece1",
+          "type": "horizontalLine",
+          "visible": true,
           "domain": "x<=1",
-          "startEndpoint": "closed",
-          "startPoint": {"x": 1, "y": 2},
-          "endArrow": true
+          "style": {},
+          "data": {"equation": "y=2", "startEndpoint": "closed", "endArrow": true}
         },
         {
+          "id": "piece2",
           "type": "line",
-          "equation": "y=2x-1",
+          "visible": true,
           "domain": "x>1",
-          "startEndpoint": "open",
-          "startPoint": {"x": 1, "y": 1},
-          "endArrow": true
+          "style": {},
+          "data": {"equation": "y=2x-1", "startEndpoint": "open", "endArrow": true}
         }
-      ]
+      ],
+      "annotations": [],
+      "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
     },
     "choices": ["$5$", "$3$", "$4$", "$7$"],
     "correct_answer": "a",
@@ -133,49 +143,73 @@
       {
         "label": "a",
         "graph": {
-          "type": "absolute",
-          "xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=|x+1|-3", "vertex": {"x": -1, "y": -3}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=|x+1|-3", "vertex": {"x": -1, "y": -3}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "b",
         "graph": {
-          "type": "absolute",
-          "xMin": -6, "xMax": 6, "yMin": -2, "yMax": 9,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -6, "xMax": 6, "yMin": -2, "yMax": 9, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=2|x+1|+3", "vertex": {"x": -1, "y": 3}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=2|x+1|+3", "vertex": {"x": -1, "y": 3}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "c",
         "graph": {
-          "type": "absolute",
-          "xMin": -6, "xMax": 6, "yMin": -9, "yMax": 2,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -6, "xMax": 6, "yMin": -9, "yMax": 2, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=-2|x+1|-3", "vertex": {"x": -1, "y": -3}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=-2|x+1|-3", "vertex": {"x": -1, "y": -3}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "d",
         "graph": {
-          "type": "absolute",
-          "xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -6, "xMax": 6, "yMin": -5, "yMax": 6, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=2|x+1|-3", "vertex": {"x": -1, "y": -3}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=2|x+1|-3", "vertex": {"x": -1, "y": -3}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       }
     ],
@@ -202,49 +236,73 @@
       {
         "label": "a",
         "graph": {
-          "type": "absolute",
-          "xMin": -2, "xMax": 12, "yMin": -3, "yMax": 6,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -2, "xMax": 12, "yMin": -3, "yMax": 6, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=2|x-6|-1", "vertex": {"x": 6, "y": -1}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=2|x-6|-1", "vertex": {"x": 6, "y": -1}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "b",
         "graph": {
-          "type": "absolute",
-          "xMin": -2, "xMax": 8, "yMin": -3, "yMax": 4,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -2, "xMax": 8, "yMin": -3, "yMax": 4, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=|x-3|-1", "vertex": {"x": 3, "y": -1}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=|x-3|-1", "vertex": {"x": 3, "y": -1}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "c",
         "graph": {
-          "type": "absolute",
-          "xMin": -2, "xMax": 8, "yMin": -3, "yMax": 6,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -2, "xMax": 8, "yMin": -3, "yMax": 6, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=2|x-3|-1", "vertex": {"x": 3, "y": -1}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=2|x-3|-1", "vertex": {"x": 3, "y": -1}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       },
       {
         "label": "d",
         "graph": {
-          "type": "absolute",
-          "xMin": -2, "xMax": 8, "yMin": -1, "yMax": 8,
-          "xStep": 1, "yStep": 1, "equalScale": true,
-          "showAxes": true, "showGrid": true, "showTicks": true, "showLabels": true,
+          "schemaVersion": 2,
+          "coordinateSystem": "cartesian",
+          "viewport": {"xMin": -2, "xMax": 8, "yMin": -1, "yMax": 8, "equalScale": true, "padding": 0.5},
+          "grid": {"show": true, "majorStepX": 1, "majorStepY": 1, "minorGrid": false, "minorStepX": null, "minorStepY": null},
+          "axes": {"show": true, "showTicks": true, "showLabels": true, "xLabel": "x", "yLabel": "y"},
+          "style": {"lineWidth": 2, "pointRadius": 4, "fontSize": 14, "arrowSize": 8, "theme": "textbook"},
+          "renderer": {"engine": "canvas", "sampling": 300, "clipOutsideViewport": true},
+          "layers": ["grid", "axes", "objects", "annotations"],
           "objects": [
-            {"type": "absolute", "equation": "y=2|x-3|+1", "vertex": {"x": 3, "y": 1}}
-          ]
+            {"id": "abs1", "type": "absolute", "visible": true, "domain": "all", "style": {}, "data": {"equation": "y=2|x-3|+1", "vertex": {"x": 3, "y": 1}}}
+          ],
+          "annotations": [],
+          "metadata": {"createdBy": "JoSchool11-AI", "createdAt": "", "curriculum": "Jordan Tawjihi", "subject": "Mathematics"}
         }
       }
     ],

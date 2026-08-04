@@ -1,297 +1,297 @@
 [
-{
-  "units": [
-    {
-      "unitId": "unit1",
-      "unitTitle": "الأردن في العصور القديمة",
-      "lessons": [
-        {
-          "lessonId": "L1",
-          "lessonTitle": "الأردن في العصور الحجرية",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L2",
-          "lessonTitle": "الأردن في العصر الحديدي",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "تلخيص الدرس",
-              "type": "pdf",
-              "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L2_Sum.pdf"
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L3",
-          "lessonTitle": "مملكة الأنباط",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "تلخيص الدرس",
-              "type": "pdf",
-              "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L3_Sum.pdf"
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L4",
-          "lessonTitle": "مظاهر الحضارتين اليونانية والرومانية–البيزنطية في الأردن",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "تلخيص الدرس",
-              "type": "pdf",
-              "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L4_Sum.pdf"
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "unitId": "unit2",
-      "unitTitle": "الأردن في العصور الإسلامية",
-      "lessons": [
-        {
-          "lessonId": "L1",
-          "lessonTitle": "الأردن في صدر الإسلام",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L2",
-          "lessonTitle": "الأردن في العصرين الأموي والعباسي",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L3",
-          "lessonTitle": "الأردن خلال حملات الفرنجة",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L4",
-          "lessonTitle": "الأردن في العصر الأيوبي",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L5",
-          "lessonTitle": "الأردن في العصر المملوكي",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "unitId": "unit3",
-      "unitTitle": "الأردن في العصر الحديث",
-      "lessons": [
-        {
-          "lessonId": "L1",
-          "lessonTitle": "الأوضاع السياسية والإدارية في الأردن في العهد العثماني",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L2",
-          "lessonTitle": "الأوضاع الاجتماعية والاقتصادية في الأردن في العهد العثماني",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L3",
-          "lessonTitle": "الثورة العربية الكبرى (النهضة العربية)",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        },
-        {
-          "lessonId": "L4",
-          "lessonTitle": "الأردن في عهد المملكة العربية السورية والحكومات المحلية",
-          "resources": [
-            {
-              "resourceTitle": "",
-              "type": "video",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "pdf",
-              "url": ""
-            },
-            {
-              "resourceTitle": "",
-              "type": "image",
-              "url": ""
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+  {
+    "units": [
+      {
+        "unitId": "unit1",
+        "unitTitle": "الأردن في العصور القديمة",
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "الأردن في العصور الحجرية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الأردن في العصر الحديدي",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L2_Sum.pdf"
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "مملكة الأنباط",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L3_Sum.pdf"
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "مظاهر الحضارتين اليونانية والرومانية–البيزنطية في الأردن",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_s1_unit1_L4_Sum.pdf"
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit2",
+        "unitTitle": "الأردن في العصور الإسلامية",
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "الأردن في صدر الإسلام",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الأردن في العصرين الأموي والعباسي",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "الأردن خلال حملات الفرنجة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "الأردن في العصر الأيوبي",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L5",
+            "lessonTitle": "الأردن في العصر المملوكي",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit3",
+        "unitTitle": "الأردن في العصر الحديث",
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "الأوضاع السياسية والإدارية في الأردن في العهد العثماني",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الأوضاع الاجتماعية والاقتصادية في الأردن في العهد العثماني",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "الثورة العربية الكبرى (النهضة العربية)",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "الأردن في عهد المملكة العربية السورية والحكومات المحلية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]

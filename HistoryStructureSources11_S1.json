@@ -4,6 +4,23 @@
       {
         "unitId": "unit1",
         "unitTitle": "الأردن في العصور القديمة",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
         "lessons": [
           {
             "lessonId": "L1",
@@ -94,6 +111,23 @@
       {
         "unitId": "unit2",
         "unitTitle": "الأردن في العصور الإسلامية",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
         "lessons": [
           {
             "lessonId": "L1",
@@ -205,6 +239,23 @@
       {
         "unitId": "unit3",
         "unitTitle": "الأردن في العصر الحديث",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
         "lessons": [
           {
             "lessonId": "L1",

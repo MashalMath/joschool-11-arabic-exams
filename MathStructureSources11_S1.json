@@ -1,0 +1,348 @@
+[
+  {
+    "units": [
+      {
+        "unitId": "unit1",
+        "unitTitle": "الاقترانات والمقادير الجبرية",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "الاقترانات المتشعبة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "حل معادلات القيمة المطلقة ومتبايناتها",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "نظريتا الباقي والعوامل",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "الكسور الجزئية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit2",
+        "unitTitle": "الاقترانات المثلثية",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "قياس الزاوية بالراديان",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الاقترانات المثلثية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "تمثيل الاقترانات الجيبية بيانياً",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit3",
+        "unitTitle": "النهايات والمشتقات",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "النهايات والاتصال",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الاشتقاق",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "القيم العظمى والصغرى",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "المشتقة الثانية وتطبيقاتها",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L5",
+            "lessonTitle": "تطبيقات القيم القصوى",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L6",
+            "lessonTitle": "قاعدة السلسلة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

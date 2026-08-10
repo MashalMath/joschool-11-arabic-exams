@@ -103,9 +103,14 @@
             "lessonTitle": "حل معادلات القيمة المطلقة ومتبايناتها",
             "resources": [
               {
-                "resourceTitle": "",
+                "resourceTitle": "شرح الدرس ج1",
                 "type": "video",
-                "url": ""
+                "url": "https://youtu.be/Y50B4zpo47U?si=T-TbiSkTOpHdcfhd"
+              },
+              {
+                "resourceTitle": "شرح الدرس ج2",
+                "type": "video",
+                "url": "https://youtu.be/lz1sMBiyzDo?si=NDjEBqxfE5RJXSDm"
               },
               {
                 "resourceTitle": "تلخيص الدرس",

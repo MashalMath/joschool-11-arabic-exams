@@ -1,0 +1,72 @@
+[
+  {
+    "foundation": [
+      {
+        "videoId": "foundation1",
+        "videoTitle": "حصة التأسيس 1",
+        "type": "video",
+        "url": "https://youtu.be/TINRELdppRk?si=MTQ1ClflDuBz3qkj"
+      },
+      {
+        "videoId": "foundation2",
+        "videoTitle": "حصة التأسيس 2",
+        "type": "video",
+        "url": "https://youtu.be/W7PrTq4xvqg?si=JkICZ_7kGJxtkCtf"
+      },
+      {
+        "videoId": "foundation3_part1",
+        "videoTitle": "حصة التأسيس 3 - ج1",
+        "type": "video",
+        "url": "https://youtu.be/WzeC_iUuL_w?si=X0R2q9_uHJWR1Eu0"
+      },
+      {
+        "videoId": "foundation3_part2",
+        "videoTitle": "حصة التأسيس 3 - ج2",
+        "type": "video",
+        "url": "https://youtu.be/1ViGTnHjOz8?si=skI214ibu1tnn-4B"
+      },
+      {
+        "videoId": "foundation4",
+        "videoTitle": "حصة التأسيس 4",
+        "type": "video",
+        "url": "https://youtu.be/KUogAXDYjP0?si=PKqfWD0o_ahv4MkD"
+      },
+      {
+        "videoId": "foundation5",
+        "videoTitle": "حصة التأسيس 5",
+        "type": "video",
+        "url": "https://youtu.be/yEpCKnRZZ44?si=stz-Pc-nBZdygHAd"
+      },
+      {
+        "videoId": "foundation6",
+        "videoTitle": "حصة التأسيس 6",
+        "type": "video",
+        "url": "https://youtu.be/SUda2-nd1Is?si=fhdCroOMf38yXDe1"
+      },
+      {
+        "videoId": "foundation7",
+        "videoTitle": "حصة التأسيس 7",
+        "type": "video",
+        "url": "https://youtu.be/fOx9VL51pLc?si=8A_fnHUjuntw5F6X"
+      },
+      {
+        "videoId": "foundation8",
+        "videoTitle": "حصة التأسيس 8",
+        "type": "video",
+        "url": "https://youtu.be/cvOOBDmSn0k?si=DIxfmjU484UJfA6c"
+      },
+      {
+        "videoId": "foundation9",
+        "videoTitle": "حصة التأسيس 9",
+        "type": "video",
+        "url": "https://youtu.be/hNg2EXEUzuE?si=LhxZvKSUq-RLS8W5"
+      },
+      {
+        "videoId": "foundation10",
+        "videoTitle": "حصة التأسيس 10",
+        "type": "video",
+        "url": "https://youtu.be/GX24wWuZnXg?si=dBnkcNbQcAwSTeb5"
+      }
+    ]
+  }
+]

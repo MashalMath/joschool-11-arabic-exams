@@ -27,7 +27,7 @@
     "semester": "الفصل الثاني",
     "title": "امتحان وزاري متوقع (نموذج3)",
     "thumbnail": null,
-    "pdfUrl": ""
+    "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S2_Exam3.pdf"
   },
   {
     "semester": "الفصل الثاني",
@@ -43,9 +43,9 @@
   },
   {
     "semester": "الفصلين",
-    "title": "امتحان وزاري تجريبي (مدرسي)",
+    "title": "امتحان وزاري تجريبي (مدرسي) - امتحان جيل2008",
     "thumbnail": null,
-    "pdfUrl": ""
+    "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1S2_Exam5.pdf"
   },
   {
     "semester": "الفصلين",
@@ -64,6 +64,18 @@
     "title": "امتحان وزاري متوقع (نموذج 3)",
     "thumbnail": null,
     "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1S2_Exam3.pdf"
+  },
+ {
+    "semester": "الفصلين",
+    "title": "امتحان وزاري متوقع (نموذج 4)",
+    "thumbnail": null,
+    "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1S2_Exam4.pdf"
+  },
+ {
+    "semester": "الفصلين",
+    "title": "امتحان وزاري متوقع (نموذج 5)",
+    "thumbnail": null,
+    "pdfUrl": ""
   }
 ]
 

@@ -1,0 +1,371 @@
+[
+  {
+    "units": [
+      {
+        "unitId": "unit1",
+        "unitTitle": "الاقترانات والمقادير الجبرية",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "امتحان في الوحدة",
+            "type": "pdf",
+            "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1_U1_Exam1.pdf"
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "نظريتا الباقي والعوامل",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "الكسور الجزئية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit2",
+        "unitTitle": "المتطابقات والمعادلات المثلثية",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "المتطابقات المثلثية 1",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "المتطابقات المثلثية 2",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "حلّ المعادلات المثلثية",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit3",
+        "unitTitle": "التفاضل وتطبيقاته",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "مشتقة اقترانات خاصة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "مشتقتا الضرب والقسمة والمشتقات العليا",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "قاعدة السلسلة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L4",
+            "lessonTitle": "الاشتقاق الضمني",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L5",
+            "lessonTitle": "المُعدّلات المرتبطة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitId": "unit4",
+        "unitTitle": "الأعداد المُرَكَّبة",
+        "resources": [
+          {
+            "resourceTitle": "",
+            "type": "video",
+            "url": ""
+          },
+          {
+            "resourceTitle": "ملخص الوحدة",
+            "type": "pdf",
+            "url": ""
+          },
+          {
+            "resourceTitle": "",
+            "type": "image",
+            "url": ""
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": "L1",
+            "lessonTitle": "الأعداد المُرَكَّبة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L2",
+            "lessonTitle": "العمليات على الأعداد المُرَكَّبة",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "lessonId": "L3",
+            "lessonTitle": "المحل الهندسي في المستوى المُرَكَّب",
+            "resources": [
+              {
+                "resourceTitle": "",
+                "type": "video",
+                "url": ""
+              },
+              {
+                "resourceTitle": "تلخيص الدرس",
+                "type": "pdf",
+                "url": ""
+              },
+              {
+                "resourceTitle": "",
+                "type": "image",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

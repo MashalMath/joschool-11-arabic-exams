@@ -103,8 +103,8 @@
     "question": "المقدار $\\cos 9x - \\cos 2x$ بصورة ضرب يساوي:",
     "choices": [
       "$-2\\sin\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$",
-      "2\\cos\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
-      "2\\sin\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "$2\\cos\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
+      "$2\\sin\\dfrac{11x}{2}\\cos\\dfrac{7x}{2}$",
       "$-2\\cos\\dfrac{11x}{2}\\sin\\dfrac{7x}{2}$"
     ],
     "correct_answer": "a",

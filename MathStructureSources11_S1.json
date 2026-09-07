@@ -92,14 +92,19 @@
                 "url": "https://youtu.be/jallt-ZBsO0?si=12zDIDq1wM0GOvrO"
               },
               {
-                "resourceTitle": "أسئلة على الدرس",
+                "resourceTitle": "أسئلة على الدرس1",
                 "type": "pdf",
                 "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_U1_L1_Questions.pdf"
               },
               {
-                "resourceTitle": "",
-                "type": "image",
-                "url": ""
+                "resourceTitle": "أسئلة على الدرس2",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_U1_L1_Questions1.pdf"
+              },
+              {
+                "resourceTitle": "امتحان الكتروني",
+                "type": "link",
+                "url": "https://forms.gle/c9NwktkqA1yRT76m8"
               }
             ]
           },

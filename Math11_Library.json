@@ -1,0 +1,135 @@
+[
+  {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "الكتب المدرسية",
+    "items": [
+      {
+        "id": 1,
+        "title": "كتاب الطالب (رياضيات) - (2026/2027) ف1",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_StudentBook.pdf",
+        "thumbnail": ""
+      },
+      {
+        "id": 2,
+        "title": "امتحان الوحدة الثانية",
+        "type": "image",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "تاريخ الأردن",
+    "semester": "الفصل الأول",
+    "category": "ملازم",
+    "items": [
+      {
+        "id": 1,
+        "title": "ملزمة تاريخ الأردن - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "تاريخ الأردن",
+    "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "id": 1,
+        "title": "ملخص تاريخ الأردن - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "id": 1,
+        "title": "امتحان مقترح وزارة - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "ملازم",
+    "items": [
+      {
+        "id": 1,
+        "title": "ملزمة رياضيات - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "id": 1,
+        "title": "ملخص رياضيات - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "id": 1,
+        "title": "امتحان مقترح وزارة - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة الإنجليزية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "id": 1,
+        "title": "امتحان مقترح وزارة - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "التربية الإسلامية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "id": 1,
+        "title": "امتحان مقترح وزارة - فصل أول",
+        "type": "pdf",
+        "fileUrl": "",
+        "thumbnail": ""
+      }
+    ]
+  }
+]

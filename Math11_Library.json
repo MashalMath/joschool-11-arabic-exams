@@ -12,22 +12,10 @@
         "thumbnail": ""
       },
       {
-    "subject": "الرياضيات",
-    "semester": "الفصل الأول",
-    "category": "الكتب المدرسية",
-    "items": [
-      {
         "id": 2,
         "title": "كتاب التمارين (رياضيات) - (2026/2027) ف1",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_WorkBook.pdf",
-        "thumbnail": ""
-      },
-      {
-        "id": 3,
-        "title": "امتحان الوحدة الثانية",
-        "type": "image",
-        "fileUrl": "",
         "thumbnail": ""
       }
     ]

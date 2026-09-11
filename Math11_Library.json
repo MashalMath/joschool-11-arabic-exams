@@ -25,7 +25,7 @@
       }
     ]
   },
-{
+  {
     "subject": "الرياضيات",
     "semester": "الفصل الأول",
     "category": "الكتب المدرسية",
@@ -34,6 +34,19 @@
         "title": "حلول كتاب الطالب (رياضيات) - (2026/2027) ف1",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_StudentSolutions.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "الكتب المدرسية",
+    "items": [
+      {
+        "title": "حلول كتاب التمارين (رياضيات) - (2026/2027) ف1",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_WorkbookSolutions.pdf",
         "thumbnail": ""
       }
     ]

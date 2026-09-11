@@ -65,6 +65,19 @@
     ]
   },
   {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية التأسيس (رياضيات) ـ الصف الحادي عشر الأكاديمي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_Basics1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",
     "category": "ملخصات",

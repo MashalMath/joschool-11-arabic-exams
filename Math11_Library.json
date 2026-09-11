@@ -51,6 +51,19 @@
       }
     ]
   },
+ {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية الوحدة الأولى (الاقترانات والمقادير الجبرية",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_Unit1_Dosya.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",

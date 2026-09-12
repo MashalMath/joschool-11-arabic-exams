@@ -109,44 +109,42 @@
             ]
           },
           {
-            "lessonId": "L2",
-            "lessonTitle": "حل معادلات القيمة المطلقة ومتبايناتها",
-            "resources": [
-              {
-                "resourceTitle": "شرح الدرس ج1",
-                "type": "video",
-                "url": "https://youtu.be/Y50B4zpo47U?si=T-TbiSkTOpHdcfhd"
-              },
-              {
-                "resourceTitle": "شرح الدرس ج2",
-                "type": "video",
-                "url": "https://youtu.be/lz1sMBiyzDo?si=NDjEBqxfE5RJXSDm"
-              },
-              {
-                "resourceTitle": "شرح الدرس ج3",
-                "type": "video",
-                "url": "https://youtu.be/JbK41eaEMt4?si=DpbLlJlVjwzOjJER"
-              },
-              {
-                "resourceTitle": "امتحان الكتروني",
-                "type": "link",
-                "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__7gm-NdURDZBSUdYRkNGNkJMN1pVWkpXVEdFVVpEUy4u"
-              }
-            ]
-          },
-          {
-                "resourceTitle": "تلخيص الدرس",
-                "type": "pdf",
-                "url": ""
-              },
-              {
-                "resourceTitle": "",
-                "type": "image",
-                "url": ""
-              }
-            ]
-          },
-          {
+  "lessonId": "L2",
+  "lessonTitle": "حل معادلات القيمة المطلقة ومتبايناتها",
+  "resources": [
+    {
+      "resourceTitle": "شرح الدرس ج1",
+      "type": "video",
+      "url": "https://youtu.be/Y50B4zpo47U?si=T-TbiSkTOpHdcfhd"
+    },
+    {
+      "resourceTitle": "شرح الدرس ج2",
+      "type": "video",
+      "url": "https://youtu.be/lz1sMBiyzDo?si=NDjEBqxfE5RJXSDm"
+    },
+    {
+      "resourceTitle": "شرح الدرس ج3",
+      "type": "video",
+      "url": "https://youtu.be/JbK41eaEMt4?si=DpbLlJlVjwzOjJER"
+    },
+    {
+      "resourceTitle": "امتحان الكتروني",
+      "type": "link",
+      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__7gm-NdURDZBSUdYRkNGNkJMN1pVWkpXVEdFVVpEUy4u"
+    },
+    {
+      "resourceTitle": "تلخيص الدرس",
+      "type": "pdf",
+      "url": ""
+    },
+    {
+      "resourceTitle": "",
+      "type": "image",
+      "url": ""
+    }
+  ]
+         },
+         {
             "lessonId": "L3",
             "lessonTitle": "نظريتا الباقي والعوامل",
             "resources": [

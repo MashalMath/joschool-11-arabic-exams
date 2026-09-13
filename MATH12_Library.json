@@ -25,6 +25,12 @@
   },
   {
     "semester": "الفصل الأول",
+    "title": "مكثف الفصل الأول",
+    "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1_MokathafCover.jpg" ,
+    "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1_Mokathaf.pdf"
+  },
+  {
+    "semester": "الفصل الأول",
     "title": "وزاري متوقع (الوحدة1) - (نموذج1)",
     "thumbnail": null,
     "pdfUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math12_S1_U1_Exam1.pdf"

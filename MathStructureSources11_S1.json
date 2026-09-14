@@ -149,9 +149,14 @@
             "lessonTitle": "نظريتا الباقي والعوامل",
             "resources": [
               {
-                "resourceTitle": "",
+                "resourceTitle": "شرح الدرس ج1",
                 "type": "video",
-                "url": ""
+                "url": "https://youtu.be/aU-Ni_LYjtU?si=NOuMtrI_by4T3_te"
+              },
+              {
+                "resourceTitle": "شرح الدرس ج2",
+                "type": "video",
+                "url": "https://youtu.be/Cr-re9Z_b2o?si=qWKJyBtbZZORkeaR"
               },
               {
                 "resourceTitle": "تلخيص الدرس",

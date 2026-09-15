@@ -78,6 +78,19 @@
     ]
   },
   {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية أساسيات الرياضيات (أ. محمد دحبور) - جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_Basics_Dosya1.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_Basics_Dosya1(Cover).jpg"
+      }
+    ]
+  },
+  {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",
     "category": "ملخصات",
@@ -96,7 +109,7 @@
     "category": "الدوسيات",
     "items": [
       {
-        "title": "دوسية العلي في العربية لغتي (2026/2027)- فصل أول جيل2010",
+        "title": "دوسية العلي في العربية لغتي (أ. علي علقم)- فصل أول (2026/2027)جيل2010",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1.pdf",
         "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1(Cover).jpg"
@@ -106,10 +119,10 @@
   {
     "subject": "الرياضيات",
     "semester": "الفصل الأول",
-    "category": "ملازم",
+    "category": "الدوسيات",
     "items": [
       {
-        "title": "ملزمة رياضيات - فصل أول",
+        "title": "م",
         "type": "pdf",
         "fileUrl": "",
         "thumbnail": ""

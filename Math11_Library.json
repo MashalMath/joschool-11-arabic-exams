@@ -91,15 +91,15 @@
     ]
   },
   {
-    "subject": "الرياضيات",
+    "subject": "اللغة العربية",
     "semester": "الفصل الأول",
-    "category": "امتحانات",
+    "category": "الدوسيات",
     "items": [
       {
-        "title": "امتحان مقترح وزارة - فصل أول",
+        "title": "دوسية العلي في العربية لغتي (2026/2027)- فصل أول جيل2010",
         "type": "pdf",
-        "fileUrl": "",
-        "thumbnail": ""
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1(Cover).jpg"
       }
     ]
   },

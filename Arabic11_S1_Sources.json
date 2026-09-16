@@ -1,0 +1,111 @@
+[
+ {
+  "units": [
+    {
+      "unitId": "unit1",
+      "unitTitle": "مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ",
+      "resources": [
+        {
+          "resourceTitle": "",
+          "type": "video",
+          "url": ""
+        },
+        {
+          "resourceTitle": "ملخص الوحدة",
+          "type": "pdf",
+          "url": ""
+        },
+        {
+          "resourceTitle": "",
+          "type": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "unitId": "unit2",
+      "unitTitle": "فِي حُبِّ الوَطَنِ",
+      "resources": [
+        {
+          "resourceTitle": "",
+          "type": "video",
+          "url": ""
+        },
+        {
+          "resourceTitle": "ملخص الوحدة",
+          "type": "pdf",
+          "url": ""
+        },
+        {
+          "resourceTitle": "",
+          "type": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "unitId": "unit3",
+      "unitTitle": "أَمْرَاضُ العَصْرِ",
+      "resources": [
+        {
+          "resourceTitle": "",
+          "type": "video",
+          "url": ""
+        },
+        {
+          "resourceTitle": "ملخص الوحدة",
+          "type": "pdf",
+          "url": ""
+        },
+        {
+          "resourceTitle": "",
+          "type": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "unitId": "unit4",
+      "unitTitle": "الإِعْلَامُ الرَّقْمِيُّ",
+      "resources": [
+        {
+          "resourceTitle": "",
+          "type": "video",
+          "url": ""
+        },
+        {
+          "resourceTitle": "ملخص الوحدة",
+          "type": "pdf",
+          "url": ""
+        },
+        {
+          "resourceTitle": "",
+          "type": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "unitId": "unit5",
+      "unitTitle": "مِنَ الأَدَبِ الوَاقِعِيِّ",
+      "resources": [
+        {
+          "resourceTitle": "",
+          "type": "video",
+          "url": ""
+        },
+        {
+          "resourceTitle": "ملخص الوحدة",
+          "type": "pdf",
+          "url": ""
+        },
+        {
+          "resourceTitle": "",
+          "type": "image",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
+]

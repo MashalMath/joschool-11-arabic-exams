@@ -116,6 +116,19 @@
       }
     ]
   },
+ {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية التأسيس في العربية لغتي (أ. علي علقم)- فصل أول (2026/2027)جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_Basics.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_Basics(Cover).jpg"
+      }
+    ]
+  },
   {
     "subject": "الرياضيات",
     "semester": "الفصل الأول",

@@ -143,6 +143,19 @@
     ]
   },
   {
+    "subject": "التربية الإسلامية",
+    "semester": "الفصل الأول",
+    "category": "الكتب المدرسية",
+    "items": [
+      {
+        "title": "كتاب الطالب (التربية الإسلامية)- فصل أول (2026/2027)جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Islamic11_S1_BOOK.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Islamic11_S1_BOOK(Cover).png"
+      }
+    ]
+  },
+  {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
     "category": "الكتب المدرسية",

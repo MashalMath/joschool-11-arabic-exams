@@ -106,6 +106,19 @@
   {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",
+    "category": "الكتب المدرسية",
+    "items": [
+      {
+        "title": "كتاب الطالب (تاريخ الأردن)- فصل أول (2026/2027)جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_BOOK.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_BOOK(Cover).jpg"
+      }
+    ]
+  },
+  {
+    "subject": "تاريخ الأردن",
+    "semester": "الفصل الأول",
     "category": "ملخصات",
     "items": [
       {

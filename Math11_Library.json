@@ -135,6 +135,19 @@
     "category": "الدوسيات",
     "items": [
       {
+        "title": "كتاب الطالب (العربية لغتي)- فصل أول (2026/2027)جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_BOOK.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_BOOK(Cover).png"
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
         "title": "دوسية العلي في العربية لغتي (أ. علي علقم)- فصل أول (2026/2027)جيل2010",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1.pdf",

@@ -104,6 +104,19 @@
     ]
   },
   {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "مراجعة الاقترانات المتشعبة والمطلقة",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_U1_L1L2_Questions.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Cover1.jpg"
+      }
+    ]
+  },
+  {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",
     "category": "الكتب المدرسية",

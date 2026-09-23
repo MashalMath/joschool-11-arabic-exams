@@ -45,7 +45,6 @@
           "type": "video",
           "url": "https://youtu.be/ml6YgxP45-c?si=QcGPu_rUYhXF9OED"
         },
-        
         {
           "resourceTitle": "دوسية الوحدة الأولى",
           "type": "pdf",
@@ -55,6 +54,11 @@
           "resourceTitle": "امتحان شامل(1)",
           "type": "pdf",
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_U1_E1.pdf"
+        },
+        {
+          "resourceTitle": "دوسية الفصل الأول",
+          "type": "pdf",
+          "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic_S1_Dosya1.pdf"
         },
         {
           "resourceTitle": "",

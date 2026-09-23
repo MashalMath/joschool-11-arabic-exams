@@ -260,14 +260,14 @@
     ]
   },
   {
-    "subject": "الرياضيات",
+    "subject": "اللغة العربية",
     "semester": "الفصل الأول",
-    "category": "ملخصات",
+    "category": "امتحانات",
     "items": [
       {
-        "title": "ملخص رياضيات - فصل أول",
+        "title": "امتحان الكتروني (أسلوب الطلب وجوابه المجزوم – الجذر اللغوي) - جيل2010",
         "type": "pdf",
-        "fileUrl": "",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe1ywE0DMgDC8mz-LxOzO5cZoB15eJ8ROJWxN6_EhATPG9iMg/viewform?usp=preview",
         "thumbnail": ""
       }
     ]
@@ -286,20 +286,7 @@
     ]
   },
   {
-    "subject": "اللغة الإنجليزية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان مقترح وزارة - فصل أول",
-        "type": "pdf",
-        "fileUrl": "",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "التربية الإسلامية",
+    "subject": "اللغة العربية",
     "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [

@@ -301,6 +301,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "title": "تخطيط قصيدة الكرامة (عبدالهادي الخطيب) - اللغة العربية ف1 جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Review1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {

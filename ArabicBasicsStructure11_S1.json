@@ -3,6 +3,12 @@
     "foundation": [
       {
         "videoId": "foundation1",
+        "videoTitle": "تعريف بمادة اللغة العربية 2010",
+        "type": "video",
+        "url": "https://youtu.be/K25I87gttkQ?si=nSiZn5PCCPf7s2XL"
+      },
+      {
+        "videoId": "foundation1",
         "videoTitle": "حصة التأسيس 1",
         "type": "video",
         "url": "https://youtu.be/_6ohnRBvsyo?si=PyzYyphdbeXGJ_Li"

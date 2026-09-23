@@ -51,7 +51,7 @@
           "url": "https://youtu.be/jX0V2ZEO1Zo?si=fZG9htezC57cxMCq"
         },
         {
-          "resourceTitle": "دوسية أ.عبدالهادي الخطيب",
+          "resourceTitle": "دوسية عبدالهادي الخطيب",
           "type": "pdf",
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Dosya3.pdf"
         },
@@ -61,19 +61,19 @@
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_U1_E1.pdf"
         },
         {
-          "resourceTitle": "دوسية الفصل الأول",
-          "type": "pdf",
-          "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Dosya2.pdf"
-        },
-        {
           "resourceTitle": "امتحان الكتروني",
           "type": "link",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSe1ywE0DMgDC8mz-LxOzO5cZoB15eJ8ROJWxN6_EhATPG9iMg/viewform?usp=preview"
         },
         {
-          "resourceTitle": "دوسية الوحدة الأولى",
+          "resourceTitle": "دوسية علي العقرباوي",
           "type": "pdf",
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Dosya2.pdf"
+        },
+        {
+          "resourceTitle": "دوسية الفصل الأول",
+          "type": "pdf",
+          "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Dosya2.pdf"
         }
       ]
     },

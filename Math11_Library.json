@@ -288,6 +288,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "title": "ورقة عمل (الجذر اللغوي) ـ اللغة العربية ف1 جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Homework1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {

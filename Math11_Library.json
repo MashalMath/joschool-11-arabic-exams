@@ -249,6 +249,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية التأسيس في اللغة العربية (أ. عبدالهادي الخطيب)-(2026/2027)جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Basics1.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Basics1(Cover).jpg"
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {
@@ -266,7 +279,7 @@
     "items": [
       {
         "title": "امتحان الكتروني (أسلوب الطلب وجوابه المجزوم – الجذر اللغوي) - جيل2010",
-        "type": "pdf",
+        "type": "link",
         "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe1ywE0DMgDC8mz-LxOzO5cZoB15eJ8ROJWxN6_EhATPG9iMg/viewform?usp=preview",
         "thumbnail": ""
       }

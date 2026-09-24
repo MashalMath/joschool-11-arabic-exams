@@ -330,6 +330,19 @@
     "category": "امتحانات",
     "items": [
       {
+        "title": "امتحان على  (صور الفاعل) - اللغة العربية جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1(Cover).jpg"
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
         "title": "امتحان مقترح وزارة - فصل أول",
         "type": "pdf",
         "fileUrl": "",

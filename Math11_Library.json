@@ -169,6 +169,19 @@
     ]
   },
   {
+    "subject": "تاريخ الأردن",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان في الوحدة الأولى (أ. شادي النجار) - جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U1_Exam2.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
     "subject": "التربية الإسلامية",
     "semester": "الفصل الأول",
     "category": "الكتب المدرسية",

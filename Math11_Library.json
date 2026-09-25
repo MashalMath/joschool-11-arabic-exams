@@ -337,6 +337,19 @@
       }
     ]
   },
+{
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الوزارة (دورة جيل 2009) سنوات سابقة - ",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1S2_MinistryExam2009.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",

@@ -483,6 +483,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. محمد الحسن جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Bank1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "ملخصات",
     "items": [
       {

@@ -56,14 +56,19 @@
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Dosya3.pdf"
         },
         {
-          "resourceTitle": "امتحان شامل(1)",
+          "resourceTitle": "بنك أسئلة (1)",
           "type": "pdf",
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_U1_E1.pdf"
         },
         {
-          "resourceTitle": "امتحان شامل(2)",
+          "resourceTitle": "بنك أسئلة (2)",
           "type": "pdf",
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_E2.pdf"
+        },
+        {
+          "resourceTitle": "بنك أسئلة (3)",
+          "type": "pdf",
+          "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Bank1.pdf"
         },
         {
           "resourceTitle": "دوسية علي العقرباوي",

@@ -155,6 +155,19 @@
       }
     ]
   },
+ {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "ورقة عمل الدرس الثالث (نظريتا الباقي والعوامل) - أ. عبدالرحمن قنبر",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_L3_E1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "الرياضيات",
     "semester": "الفصل الأول",

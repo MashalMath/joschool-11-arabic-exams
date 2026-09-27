@@ -214,7 +214,7 @@
           },
           {
             "resourceTitle": "",
-            "type": "image",
+            "type": "",
             "url": ""
           }
         ],
@@ -234,9 +234,9 @@
                 "url": ""
               },
               {
-                "resourceTitle": "",
-                "type": "image",
-                "url": ""
+                "resourceTitle": "امتحان الكتروني1",
+                "type": "link",
+                "url": "https://forms.gle/o2bzY3veSkAh545V8"
               }
             ]
           },
@@ -253,6 +253,11 @@
                 "resourceTitle": "",
                 "type": "pdf",
                 "url": ""
+              },
+              {
+                "resourceTitle": "امتحان الكتروني1",
+                "type": "link",
+                "url": "https://forms.gle/mByCNuzSVQq2NuK69"
               },
               {
                 "resourceTitle": "",
@@ -274,6 +279,11 @@
                 "resourceTitle": "",
                 "type": "pdf",
                 "url": ""
+              },
+              {
+                "resourceTitle": "امتحان الكتروني1",
+                "type": "link",
+                "url": "https://forms.gle/xhgX14oak5GXcSZ26"
               },
               {
                 "resourceTitle": "",

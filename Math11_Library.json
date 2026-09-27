@@ -174,19 +174,6 @@
     "category": "امتحانات",
     "items": [
       {
-        "title": بنك أسئلة على الدرس الثالث (نظريتا الباقي والعوامل) - أ. محمد سحوم",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_L3_E3.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "الرياضيات",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
         "title": "بنك أسئلة الوحدة الأولى (الاقترانات والمقادير الجبرية) - أ. خالد العزامه جيل2010",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_Exam1.pdf",

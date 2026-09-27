@@ -174,9 +174,22 @@
     "category": "امتحانات",
     "items": [
       {
-        "title": "بنك أسئلة الوحدة الأولى (الاقترانات والمقادير الجبرية) - أ. خالد العوامه جيل2010",
+        "title": "بنك أسئلة الوحدة الأولى (الاقترانات والمقادير الجبرية) - أ. خالد العزامه جيل2010",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_Exam1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+{
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": " أسئلة مراجعة الوحدة الأولى (الاقترانات والمقادير الجبرية) - أ. منذر أبو عواد جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_Review1.pdf",
         "thumbnail": ""
       }
     ]

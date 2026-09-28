@@ -441,6 +441,19 @@
       }
     ]
   },
+{
+    "subject": "التربية الإسلامية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الدرس الأول (جهود علماء المسلمين في خدمة القرآن الكريم) - أ. محمد القطني",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Islamic11_S1_U2_L1_E1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "التربية الإسلامية",
     "semester": "الفصل الأول",

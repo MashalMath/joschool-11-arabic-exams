@@ -162,6 +162,19 @@
           "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1.pdf"
         },
         {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ) - أ. علي العقرباوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
           "resourceTitle": "",
           "type": "image",
           "url": ""

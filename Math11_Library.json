@@ -730,6 +730,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "title":" الجذور اللغوية (ضبط وجموع وجذور) الفصل الأول- أ. علي العقرباوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_AliRoots.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {

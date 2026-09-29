@@ -652,6 +652,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. عبدالهادي الخطيب جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_E3.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "ملخصات",
     "items": [
       {
@@ -707,7 +720,7 @@
     "category": "ملخصات",
     "items": [
       {
-        "title": مراجعة الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. فارس التلاوي",
+        "title":" مراجعة الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. فارس التلاوي",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Summary2.pdf",
         "thumbnail": ""

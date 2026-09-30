@@ -249,9 +249,14 @@
                 "url": ""
               },
               {
-                "resourceTitle": "ورقة عمل (1)",
+                "resourceTitle": "بنك أسئلة (1)",
                 "type": "pdf",
                 "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_L1_Work1.pdf"
+              },
+              {
+                "resourceTitle": "بنك أسئلة (2)",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History%2011_S1_U2_L1_Bank1.pdf"
               },
               {
                 "resourceTitle": "امتحان الكتروني1",

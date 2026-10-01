@@ -837,6 +837,19 @@
     "category": "امتحانات",
     "items": [
       {
+        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ/ذكرى معركة الكرامة) - أ. ماجد العنزي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Bank2.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
         "title": "امتحان مقترح وزارة - فصل أول",
         "type": "pdf",
         "fileUrl": "",

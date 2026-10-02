@@ -174,9 +174,22 @@
     "category": "امتحانات",
     "items": [
       {
-        "title": "ورقة عمل الدرس الثالث (نظريتا الباقي والعوامل) - أ. عبدالرحمن قنبر",
+        "title": "ورقة عمل وحدة(1) الدرس الثالث (نظريتا الباقي والعوامل) - أ. عبدالرحمن قنبر",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U1_L3_E1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+{
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "ورقة عمل وحدة(2) الدرس الأول (قياس الزاوية بالراديان) - أ. محمد العكور",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Math11_S1_U2_L1_Work1.pdf",
         "thumbnail": ""
       }
     ]

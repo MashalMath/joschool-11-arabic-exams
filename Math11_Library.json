@@ -889,6 +889,19 @@
     "category": "امتحانات",
     "items": [
       {
+        "title": "امتحان الكتروني على الوحدة الثانية (فِي حُبِّ الوَطَنِ) - أ. علي العقرباوي",
+        "type": "link",
+        "fileUrl": "https://forms.cloud.microsoft/r/ZVzaLs8zQH",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
         "title": "امتحان مقترح وزارة - فصل أول",
         "type": "pdf",
         "fileUrl": "",

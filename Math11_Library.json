@@ -772,7 +772,7 @@
     "category": "ملخصات",
     "items": [
       {
-        "title": "ملخص الوحده الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. فيصل أبو هنية",
+        "title": "ملخص الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. فيصل أبو هنية",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Summary2.pdf",
         "thumbnail": ""
@@ -892,6 +892,19 @@
         "title": "امتحان الكتروني على الوحدة الثانية (فِي حُبِّ الوَطَنِ) (111 سؤال) - أ. علي العقرباوي",
         "type": "link",
         "fileUrl": "https://forms.cloud.microsoft/r/ZVzaLs8zQH",
+        "thumbnail": ""
+      }
+    ]
+  },
+{
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "title": "امتحان الكتروني على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. أحمد الشحروري",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLScBM4187dOngvdKuOmYDYKdtdbyQm4XfwaUjzCPWYoUag2yEg/viewform?usp=header",
         "thumbnail": ""
       }
     ]

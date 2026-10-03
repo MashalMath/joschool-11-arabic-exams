@@ -902,6 +902,19 @@
     "category": "امتحانات",
     "items": [
       {
+        "title": "امتحان على  (الطلب وجوابه المجزوم صور الفاعل) - جيل2010 أ.حمزة حمو",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2U2_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
         "title": "امتحان مقترح وزارة - فصل أول",
         "type": "pdf",
         "fileUrl": "",

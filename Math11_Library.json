@@ -902,6 +902,19 @@
     "category": "امتحانات",
     "items": [
       {
+        "title": "امتحان الكتروني على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. أحمد الشحروري",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLScBM4187dOngvdKuOmYDYKdtdbyQm4XfwaUjzCPWYoUag2yEg/viewform?usp=header",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
         "title": "امتحان على  (الطلب وجوابه المجزوم صور الفاعل) - جيل2010 أ.حمزة حمو",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2U2_Work1.pdf",

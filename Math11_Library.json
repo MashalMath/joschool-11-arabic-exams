@@ -922,6 +922,19 @@
       }
     ]
   },
+{
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة (أُسْلُوبُ الطَّلَبِ، وَجَوَابُهُ المَجْزُومُ / وصُوَرُ الفَاعِل) - أ. فارس التلاوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1U2_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",

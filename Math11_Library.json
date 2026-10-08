@@ -493,6 +493,19 @@
       }
     ]
   },
+  {
+    "subject": "التربية الإسلامية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان متوقع على الوحدة الأولى (وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا) - أ. عبدالقادر يونس",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Islamic11_S1_U1_Bank3.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
 {
     "subject": "التربية الإسلامية",
     "semester": "الفصل الأول",

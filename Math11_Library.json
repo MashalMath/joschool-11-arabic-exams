@@ -234,6 +234,19 @@
     ]
   },
   {
+    "subject": "الرياضيات",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني في الاستعداد للوحدة الثانية (الاقترانات المثلثية) - أ. سامر عكور جيل2010",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZY-kAgzvo1Dm_STWt3Nm0G1hsa4k6eoludpc6nLZfsZD86Q/viewform",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
     "subject": "تاريخ الأردن",
     "semester": "الفصل الأول",
     "category": "الكتب المدرسية",

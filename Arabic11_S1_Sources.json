@@ -182,6 +182,16 @@
           "url": "https://youtu.be/hsLoVhsRalU?si=xXsmDUCecqEbKpJE"
         },
         {
+          "resourceTitle": "حصة (7)",
+          "type": "video",
+          "url": "https://youtu.be/g2Ep1dGI_M8?si=WNDqWH6Tmj7aJ3CE"
+        },
+        {
+          "resourceTitle": "حصة (8)",
+          "type": "video",
+          "url": "https://youtu.be/bFN_0lQbfUU?si=VgkaS5z0Q-2fubD2"
+        },
+        {
           "resourceTitle": "مفاتيح استخراج أسلوب الطلب وصور الفاعل",
           "type": "video",
           "url": "https://youtu.be/JojK9BpFPy8?si=2b89rgoLNLnpRMGx"
@@ -242,10 +252,20 @@
       "unitId": "unit3",
       "unitTitle": "أَمْرَاضُ العَصْرِ",
       "resources": [
-        {
-          "resourceTitle": "",
+         {
+          "resourceTitle": "حصة (1)",
           "type": "video",
-          "url": ""
+          "url": "https://youtu.be/ouMFeYsfgQE?si=lJekHe8zYyFjjRT1"
+        },
+        {
+          "resourceTitle": "حصة (2)",
+          "type": "video",
+          "url": "https://youtu.be/gd1pMEw13BA?si=VsWrEIjL3C-_I-LA"
+        },
+        {
+          "resourceTitle": "حصة (3)",
+          "type": "video",
+          "url": "https://youtu.be/4j8QdhVnyXc?si=QFezx7ph61VyzRl8"
         },
         {
           "resourceTitle": "كتابة التعبير(شامل)",

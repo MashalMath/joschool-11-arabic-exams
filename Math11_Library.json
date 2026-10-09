@@ -769,6 +769,45 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية التأسيس) اللغة العربية الفصل الأول (أ. محمد أبو جاد)- جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Basics_Dosya1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية (القواعد) اللغة العربية الفصل الأول (أ. محمد أبو جاد)- جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Grammer_Dosya.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "الدوسيات",
+    "items": [
+      {
+        "title": "دوسية (النصوص) اللغة العربية الفصل الأول (أ. محمد أبو جاد)- جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Texts_Dosya.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {

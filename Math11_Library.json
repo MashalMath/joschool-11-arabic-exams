@@ -899,6 +899,19 @@
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
+        "title": "كتابة التعبير (ملخص شامل) - أ. فارس التلاوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Writing.pdf.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
     "category": "امتحانات",
     "items": [
       {

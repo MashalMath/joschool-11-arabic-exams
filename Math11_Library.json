@@ -935,6 +935,163 @@
       }
     ]
   },
+  
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني (أسلوب الطلب وجوابه المجزوم – الجذر اللغوي) - جيل2010",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe1ywE0DMgDC8mz-LxOzO5cZoB15eJ8ROJWxN6_EhATPG9iMg/viewform?usp=preview",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان على  (صور الفاعل) - اللغة العربية جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1(Cover).jpg"
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ) - أ. علي العقرباوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_AliBank2.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ/ذكرى معركة الكرامة) - أ. عبدالعزيز القيسي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ/ذكرى معركة الكرامة) - أ. ماجد العنزي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Bank2.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+{
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "بنك أسئلة (أُسْلُوبُ الطَّلَبِ، وَجَوَابُهُ المَجْزُومُ / وصُوَرُ الفَاعِل) - أ. فارس التلاوي",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1U2_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) (100 سؤال) - أ. علي العقرباوي",
+        "type": "link",
+        "fileUrl": "https://forms.cloud.microsoft/r/SWYyjPsfgw",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني على الوحدة الثانية (فِي حُبِّ الوَطَنِ) (111 سؤال) - أ. علي العقرباوي",
+        "type": "link",
+        "fileUrl": "https://forms.cloud.microsoft/r/ZVzaLs8zQH",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. أحمد الشحروري",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLScBM4187dOngvdKuOmYDYKdtdbyQm4XfwaUjzCPWYoUag2yEg/viewform?usp=header",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الكتروني على الوحدة الأولى والثانية - أ. فارس التلاوي",
+        "type": "link",
+        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc6iNM8FBDabA5dUq7rVrESj6opPNqk5uulepEaMs-ait7tKw/viewform?usp=header",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان على  (الطلب وجوابه المجزوم صور الفاعل) - جيل2010 أ.حمزة حمو",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2U2_Work1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+{
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان الميد على  (الوحدة الأولى والثانية) - جيل2010 أ. أحمد الشحروري",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1U2_Exam1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
   {
     "subject": "اللغة العربية",
     "semester": "الفصل الأول",
@@ -1022,149 +1179,6 @@
         "title": "كتابة التعبير (ملخص شامل) - أ. فارس التلاوي",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_Writing.pdf.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان الكتروني (أسلوب الطلب وجوابه المجزوم – الجذر اللغوي) - جيل2010",
-        "type": "link",
-        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe1ywE0DMgDC8mz-LxOzO5cZoB15eJ8ROJWxN6_EhATPG9iMg/viewform?usp=preview",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان على  (صور الفاعل) - اللغة العربية جيل2010",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1.pdf",
-        "thumbnail": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Homework1(Cover).jpg"
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ) - أ. علي العقرباوي",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_AliBank2.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ/ذكرى معركة الكرامة) - أ. عبدالعزيز القيسي",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Work1.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "بنك أسئلة على الوحدة الثانية (فِي حُبِّ الوَطَنِ/ذكرى معركة الكرامة) - أ. ماجد العنزي",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2_Bank2.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-{
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "بنك أسئلة (أُسْلُوبُ الطَّلَبِ، وَجَوَابُهُ المَجْزُومُ / وصُوَرُ الفَاعِل) - أ. فارس التلاوي",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1U2_Work1.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان الكتروني على الوحدة الثانية (فِي حُبِّ الوَطَنِ) (111 سؤال) - أ. علي العقرباوي",
-        "type": "link",
-        "fileUrl": "https://forms.cloud.microsoft/r/ZVzaLs8zQH",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان الكتروني على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. أحمد الشحروري",
-        "type": "link",
-        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLScBM4187dOngvdKuOmYDYKdtdbyQm4XfwaUjzCPWYoUag2yEg/viewform?usp=header",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان الكتروني على الوحدة الأولى والثانية - أ. فارس التلاوي",
-        "type": "link",
-        "fileUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc6iNM8FBDabA5dUq7rVrESj6opPNqk5uulepEaMs-ait7tKw/viewform?usp=header",
-        "thumbnail": ""
-      }
-    ]
-  },
-  {
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان على  (الطلب وجوابه المجزوم صور الفاعل) - جيل2010 أ.حمزة حمو",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U2U2_Work1.pdf",
-        "thumbnail": ""
-      }
-    ]
-  },
-{
-    "subject": "اللغة العربية",
-    "semester": "الفصل الأول",
-    "category": "امتحانات",
-    "items": [
-      {
-        "title": "امتحان الميد على  (الوحدة الأولى والثانية) - جيل2010 أ. أحمد الشحروري",
-        "type": "pdf",
-        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1U2_Exam1.pdf",
         "thumbnail": ""
       }
     ]

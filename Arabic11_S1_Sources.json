@@ -123,7 +123,7 @@
         {
           "resourceTitle": "امتحان الكتروني (2)",
           "type": "link",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSd3RseMrekflaxwUQk8f7lDCGmHPmaHbQXorkitaePDaGIhAg/viewform"
+          "url": "https://forms.cloud.microsoft/r/SWYyjPsfgw"
         },
         {
           "resourceTitle": "امتحان الكتروني (3)",
@@ -240,6 +240,11 @@
           "resourceTitle": "امتحان الكتروني (1)",
           "type": "link",
           "url": "https://forms.cloud.microsoft/r/ZVzaLs8zQH"
+        },
+        {
+          "resourceTitle": "امتحان الكتروني (2)",
+          "type": "link",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSd3RseMrekflaxwUQk8f7lDCGmHPmaHbQXorkitaePDaGIhAg/viewform"
         },
         {
           "resourceTitle": "",

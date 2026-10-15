@@ -902,9 +902,22 @@
     "category": "امتحانات",
     "items": [
       {
-        "title": "امتحان متوقع على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. عمار الكسجي جيل2010",
+        "title": "امتحان (1) متوقع على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. عمار الكسجي جيل2010",
         "type": "pdf",
         "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_E2.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+ {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "امتحانات",
+    "items": [
+      {
+        "title": "امتحان (2) متوقع على الوحدة الأولى (مِنَ القِيَمِ الإِنْسَانِيَّةِ فِي القُرْآنِ الكَرِيمِ) - أ. عمار الكسجي جيل2010",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U1_Bank7.pdf",
         "thumbnail": ""
       }
     ]

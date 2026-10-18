@@ -1241,6 +1241,19 @@
     "category": "ملخصات",
     "items": [
       {
+        "title": "ملخص كيفية كتابة المقال- أ. ضياء أبو الرز",
+        "type": "pdf",
+        "fileUrl": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/Arabic11_S1_U3_Article1.pdf",
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "subject": "اللغة العربية",
+    "semester": "الفصل الأول",
+    "category": "ملخصات",
+    "items": [
+      {
         "title": "امتحان مقترح وزارة - فصل أول",
         "type": "pdf",
         "fileUrl": "",

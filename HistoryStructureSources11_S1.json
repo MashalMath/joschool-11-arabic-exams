@@ -352,12 +352,10 @@
                 "url": ""
               },
               {
-                "resourceTitle": "",
-                "type": "image",
-                "url": ""
-              }
-            ]
-          },
+                "resourceTitle": "امتحان الكتروني1",
+                "type": "link",
+                "url": "https://forms.gle/TeY42BCEzmD3t1Bk8"
+              },
           {
             "lessonId": "L5",
             "lessonTitle": "الأردن في العصر المملوكي",
@@ -373,10 +371,10 @@
                 "url": ""
               },
               {
-                "resourceTitle": "",
-                "type": "image",
-                "url": ""
-              }
+                "resourceTitle": "امتحان الكتروني1",
+                "type": "link",
+                "url": "https://forms.gle/rPq8vX8Mr6ocDpyRA"
+              },
             ]
           }
         ]

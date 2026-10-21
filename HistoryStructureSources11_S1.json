@@ -238,14 +238,24 @@
             "url": "https://www.facebook.com/share/v/19LgGPaCWX/?mibextid=wwXIfr"
           },
           {
+                "resourceTitle": "بنك أسئلة (1)",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_Bank2.pdf"
+              },
+              {
+                "resourceTitle": "بنك أسئلة (2)",
+                "type": "pdf",
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_Bank1.pdf"
+              },
+              {
                 "resourceTitle": "ملخصات الوحدة(2)",
                 "type": "pdf",
                 "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_Simmary.pdf"
               },
 {
-                "resourceTitle": "بنك أسئلة (1)",
+                "resourceTitle": "ملخصات الوحدة",
                 "type": "pdf",
-                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_Bank1.pdf"
+                "url": "https://raw.githubusercontent.com/MashalMath/Pdf_Library/main/History11_S1_U2_Summary2.pdf"
               },
               {
             "resourceTitle": "",

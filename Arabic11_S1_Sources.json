@@ -394,9 +394,29 @@
       "unitTitle": "الإِعْلَامُ الرَّقْمِيُّ",
       "resources": [
         {
-          "resourceTitle": "",
+          "resourceTitle": "حصة (1)",
           "type": "video",
-          "url": ""
+          "url": "https://youtu.be/BOpg0HULZ28?si=peYsi7H6F-5eW9Mo"
+        },
+        {
+          "resourceTitle": "حصة (2)",
+          "type": "video",
+          "url": "https://youtu.be/-Npy28LmmLg?si=2R1mdNvE-z-h9R_0"
+        },
+        {
+          "resourceTitle": "حصة (3)",
+          "type": "video",
+          "url": "https://youtu.be/RrULTp16cvk?si=LtmOrmv2LUuOGzvP"
+        },
+        {
+          "resourceTitle": "حصة (4)",
+          "type": "video",
+          "url": "https://youtu.be/gmIcf-OokNk?si=qyWNkyGDEGhT8kWL"
+        },
+        {
+          "resourceTitle": "حصة (5)",
+          "type": "video",
+          "url": "https://youtu.be/3GcMJ4cpBIA?si=Zt5eAY4vAHg4wzAD"
         },
         {
           "resourceTitle": "ملخص الوحدة",
